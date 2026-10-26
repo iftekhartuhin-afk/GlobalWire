@@ -1,1 +1,27 @@
-{"last_run":null,"sources":{},"added":0}
+{
+ "last_run": "2026-10-26T14:47:55.448330+00:00",
+ "sources": {
+  "UN News": {
+   "ok": true,
+   "items": 30
+  },
+  "DW": {
+   "ok": true,
+   "items": 129
+  },
+  "France 24": {
+   "ok": true,
+   "items": 24
+  },
+  "Al Jazeera English": {
+   "ok": true,
+   "items": 25
+  },
+  "NPR World": {
+   "ok": true,
+   "items": 10
+  }
+ },
+ "added": 0,
+ "paused": false
+}
