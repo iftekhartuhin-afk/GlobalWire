@@ -10,7 +10,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CFG, OUT, STATUS = (os.path.join(ROOT, p) for p in ("config/sources.json", "data/articles.json", "data/status.json"))
 CATS = ["World", "Politics", "Business", "Technology", "Science", "Health", "Environment", "Sports", "Culture"]
 KEY = os.environ.get("GEMINI_API_KEY", "")
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
 UA = "NewsAggregatorBot/1.0 (headline+link aggregator)"
 
 def get(url, timeout=25, data=None, headers=None):
