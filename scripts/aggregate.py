@@ -90,7 +90,7 @@ def main():
     cands = [c for c in cands if c["link"] not in seen and c["title"] and len(c["desc"]) >= 40
              and datetime.fromisoformat(c["published"]) > cutoff]
     cands.sort(key=lambda c: c["published"], reverse=True)
-    added = []
+    added = []; errors = 0
     for c in cands:
         if len(added) >= st.get("max_new_per_run", 8): break
         if any(similar(c["title"], t) for t in titles): continue
