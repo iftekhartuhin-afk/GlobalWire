@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Admin – Global Wire</title><meta name="robots" content="noindex">
+<style>
+body{font:15px/1.5 system-ui,sans-serif;margin:0;padding:16px;max-width:900px;margin:auto;background:#f6f6f3;color:#16181d}
+@media(prefers-color-scheme:dark){body{background:#101215;color:#eceef2}input,button{background:#1d2128;color:#eceef2}.b{background:#181b20;border-color:#2a2e36}}
+.b{background:#fff;border:1px solid #ddd;border-radius:10px;padding:14px;margin:12px 0}
+input,button{padding:8px 10px;border:1px solid #bbb;border-radius:6px;font-size:14px;max-width:100%}
+button{cursor:pointer}button.p{background:#b3261e;color:#fff;border-color:#b3261e}
+.r{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:6px 0;border-top:1px solid #8883}
+.r input[type=text]{flex:1;min-width:140px}.ok{color:#2a7}.er{color:#c33}small{opacity:.7}
+</style></head><body>
+<h1>Admin</h1><p><a href="index.html">← Site</a></p>
+<div class="b"><b>Connect to GitHub</b><p><small>Create a fine-grained token limited to this one repo: Contents (read/write) + Actions (read/write). It is stored only in this browser.</small></p>
+<input id="repo" placeholder="username/repo"> <input id="tok" type="password" placeholder="GitHub token"> <button class="p" onclick="connect()">Connect</button> <span id="msg"></span></div>
+<div id="main" style="display:none">
+<div class="b"><b>Status</b> <button onclick="run()">Run update now</button> <label><input type="checkbox" id="paused" onchange="dirty()"> Pause automation</label><div id="status"></div></div>
+<div class="b"><b>Sources</b> <small>(only enable sources whose terms permit this use)</small><div id="src"></div>
+<div class="r"><input type="text" id="nn" placeholder="Name"><input type="text" id="nu" placeholder="RSS feed URL"><button onclick="addSrc()">Add</button></div>
+<button class="p" onclick="saveCfg()">Save sources</button></div>
+<div class="b"><b>Recent articles</b> <small>(hide a story that is wrong or problematic)</small><div id="arts"></div></div></div>
+<script>
+const $=s=>document.getElementById(s),esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let cfg,cfgSha,arts,artSha;$("repo").value=localStorage.repo||"";$("tok").value=localStorage.tok||"";
+const gh=(p,o={})=>fetch("https://api.github.com/repos/"+localStorage.repo+p,{...o,headers:{Authorization:"Bearer "+localStorage.tok,Accept:"application/vnd.github+json"}}).then(async r=>{if(!r.ok)throw new Error(r.status+" "+(await r.text()).slice(0,120));return r.status==204?null:r.json()});
+const dec=b=>JSON.parse(decodeURIComponent(escape(atob(b.replace(/\n/g,"")))));
+const enc=o=>btoa(unescape(encodeURIComponent(JSON.stringify(o,null,2))));
+const put=(path,obj,sha,msg)=>gh("/contents/"+path,{method:"PUT",body:JSON.stringify({message:msg,content:enc(obj),sha})});
+async function connect(){localStorage.repo=$("repo").value.trim();localStorage.tok=$("tok").value.trim();$("msg").textContent="Loading…";
+ try{const c=await gh("/contents/config/sources.json");cfg=dec(c.content);cfgSha=c.sha;await loadArts();$("main").style.display="";$("msg").textContent="Connected ✓";draw();status()}catch(e){$("msg").textContent="Error: "+e.message}}
+async function loadArts(){const a=await gh("/contents/data/articles.json");arts=dec(a.content);artSha=a.sha}
+function draw(){$("paused").checked=!!cfg.settings.paused;
+ $("src").innerHTML=cfg.sources.map((s,i)=>`<div class="r"><input type="checkbox" ${s.enabled?"checked":""} onchange="cfg.sources[${i}].enabled=this.checked"><b>${esc(s.name)}</b><small style="flex:1;word-break:break-all">${esc(s.url)}</small><button onclick="cfg.sources.splice(${i},1);draw()">Remove</button></div>${s.notes?`<small>${esc(s.notes)}</small>`:""}`).join("");
+ $("arts").innerHTML=arts.slice(0,40).map((a,i)=>`<div class="r"><span style="flex:1;${a.hidden?"opacity:.4":""}">${esc(a.headline)} <small>· ${esc(a.source)}</small></span><button onclick="hide(${i})">${a.hidden?"Unhide":"Hide"}</button></div>`).join("")}
+const dirty=()=>cfg.settings.paused=$("paused").checked;
+function addSrc(){const n=$("nn").value.trim(),u=$("nu").value.trim();if(!n||!/^https?:/.test(u))return alert("Enter a name and a valid URL");cfg.sources.push({name:n,url:u,enabled:false,terms_url:"",notes:"Check this source's terms, then enable."});$("nn").value=$("nu").value="";draw()}
+async function saveCfg(){try{dirty();const r=await put("config/sources.json",cfg,cfgSha,"Admin: update sources");cfgSha=r.content.sha;alert("Saved")}catch(e){alert(e.message)}}
+async function hide(i){try{await loadArts();arts[i].hidden=!arts[i].hidden;const r=await put("data/articles.json",arts,artSha,"Admin: toggle article");artSha=r.content.sha;draw()}catch(e){alert("Retry (bot may have just updated): "+e.message)}}
+async function run(){try{await gh("/actions/workflows/update.yml/dispatches",{method:"POST",body:JSON.stringify({ref:"main"})});alert("Started. Refresh status in about 2 minutes.")}catch(e){alert(e.message)}}
+async function status(){try{const s=await gh("/contents/data/status.json").then(x=>dec(x.content));
+ $("status").innerHTML=`<p>Last run: ${s.last_run?new Date(s.last_run).toLocaleString():"never"} · added ${s.added} ${s.note?`· <b>${esc(s.note)}</b>`:""}</p>`+Object.entries(s.sources||{}).map(([k,v])=>`<div>${v.ok?'<span class=ok>●</span>':'<span class=er>●</span>'} ${esc(k)} <small>${v.ok?v.items+" items":esc(v.error)}</small></div>`).join("")}catch(e){}}
+if(localStorage.repo&&localStorage.tok)connect();
+</script></body></html>
