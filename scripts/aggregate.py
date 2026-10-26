@@ -96,8 +96,12 @@ def main():
         if any(similar(c["title"], t) for t in titles): continue
         try:
             r = ai(c["source"], c["title"], c["desc"])
+            errors = 0
         except Exception as e:
-            print("AI error:", e); time.sleep(8); continue
+            print("AI error:", e); errors += 1
+            if errors >= 3:
+                status["note"] = "AI error: " + str(e)[:150]; break
+            time.sleep(8); continue
         time.sleep(7)
         if r.get("skip") or not r.get("headline") or not r.get("summary"): continue
         if any(similar(r["headline"], t) for t in titles): continue
