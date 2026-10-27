@@ -1,1 +1,98 @@
-[]
+[
+ {
+  "id": "1c505228c4ea",
+  "headline": "Flavio Bolsonaro vows opposition after travel ban",
+  "summary": "Brazilian presidential candidate Flavio Bolsonaro announced that a Supreme Court justice restricted him from leaving the nation following his narrow defeat to incumbent Luiz Inacio Lula da Silva. Bolsonaro, who declined to concede, criticized the restriction as intimidation and promised to contest the electoral outcome.",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
+  "source_title": "Flavio Bolsonaro vows to lead opposition after Brazil court imposes travel ban",
+  "published": "2026-10-26T23:56:24+00:00",
+  "added": "2026-10-27T01:03:23.376334+00:00",
+  "hidden": false
+ },
+ {
+  "id": "88016e2dab13",
+  "headline": "Jordanian airstrikes hit southern Syria following church attack",
+  "summary": "Jordan's air force launched multiple strikes in southern Syria. The military action came as a direct response to a church attack that occurred on Friday.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+  "source_title": "Jordan attacks Syria in response to Karak church attack",
+  "published": "2026-10-26T23:48:51+00:00",
+  "added": "2026-10-27T01:05:12.956125+00:00",
+  "hidden": false
+ },
+ {
+  "id": "7794675dac04",
+  "headline": "Harry Kane and Alexia Putellas claim Ballon d'Or honors",
+  "summary": "Harry Kane has won the Ballon d'Or following a 73-goal season, becoming the first English victor in 25 years. Meanwhile, Alexia Putellas secured her third women's award after leading Barcelona to Champions League victory.",
+  "category": "Sports",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas",
+  "source_title": "Harry Kane ends England's 25-year Ballon d'Or drought, Putellas wins third crown",
+  "published": "2026-10-26T23:45:07+00:00",
+  "added": "2026-10-27T01:05:46.368605+00:00",
+  "hidden": false
+ },
+ {
+  "id": "e8d380bb4d54",
+  "headline": "Major European NATO nations commit to enhanced security role",
+  "summary": "Five leading European NATO states announced plans in Paris to assume greater responsibility for regional defense. Defense ministers from Britain, France, Germany, Italy, and Poland also confirmed their commitment to maintaining a strong partnership with the United States.",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/europe/20261026-europe-nato-defence-responsibility-us-alliance",
+  "source_title": "Europe's top NATO powers pledge greater defence role, reaffirm US alliance",
+  "published": "2026-10-26T23:33:06+00:00",
+  "added": "2026-10-27T01:06:19.724862+00:00",
+  "hidden": false
+ },
+ {
+  "id": "8f76b61143d9",
+  "headline": "Mecca pact nations hold diplomatic talks with Iran",
+  "summary": "Senior officials from Saudi Arabia, Turkey, and Pakistan met in Iran on Monday. The diplomatic effort aims to prevent a new war in the Middle East following warnings of renewed hostilities.",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
+  "source_title": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
+  "published": "2026-10-26T23:24:17+00:00",
+  "added": "2026-10-27T01:07:26.001429+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4a01c051dc06",
+  "headline": "Players clash following Istanbul football derby",
+  "summary": "A large fight broke out involving members of the Turkish football clubs Galatasaray and Fenerbahce. The violent incident followed the conclusion of the Istanbul derby match.",
+  "category": "Sports",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
+  "source_title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+  "published": "2026-10-26T23:18:31+00:00",
+  "added": "2026-10-27T01:07:59.710089+00:00",
+  "hidden": false
+ },
+ {
+  "id": "d609dc92324a",
+  "headline": "Harry Kane Claims Ballon d'Or After Record-Breaking Season",
+  "summary": "England captain Harry Kane has won the Ballon d'Or, ending a 25-year drought for English players. He secured the prestigious honor by scoring 73 goals for his club and country, overcoming competition from finalists Lamine Yamal and Kylian Mbappe.",
+  "category": "Sports",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf",
+  "source_title": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
+  "published": "2026-10-26T23:06:00+00:00",
+  "added": "2026-10-27T01:08:32.944320+00:00",
+  "hidden": false
+ },
+ {
+  "id": "62d1259e06d4",
+  "headline": "Viral videos misrepresent youth protests across Europe",
+  "summary": "Old footage from Poland, Portugal, and Argentina is circulating online as recent evidence of unrest regarding European school conditions and living costs. Fact-checkers reveal how recycled videos are used to spread false claims and generate clicks.",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
+  "source_title": "Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
+  "published": "2026-10-26T22:18:34+00:00",
+  "added": "2026-10-27T01:09:06.256900+00:00",
+  "hidden": false
+ }
+]
