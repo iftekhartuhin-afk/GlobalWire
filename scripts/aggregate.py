@@ -10,6 +10,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CFG, OUT, STATUS = (os.path.join(ROOT, p) for p in ("config/sources.json", "data/articles.json", "data/status.json"))
 CATS = ["World", "Politics", "Business", "Technology", "Science", "Health", "Environment", "Sports", "Culture"]
 KEY = os.environ.get("GEMINI_API_KEY", "")
+GROQ = os.environ.get("GROQ_API_KEY", "")
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 UA = "NewsAggregatorBot/1.0 (headline+link aggregator)"
 
@@ -46,6 +47,14 @@ def parse_feed(raw):
             out.append({"title": clean(f("title")), "link": link, "desc": clean(f("description", "summary", "content")), "date": f("pubDate", "published", "updated", "date")})
     return out
 
+def ai_groq(prompt):
+    body = json.dumps({"model": os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile"),
+                       "messages": [{"role": "user", "content": prompt}],
+                       "response_format": {"type": "json_object"}, "temperature": 0.3}).encode()
+    r = json.loads(get("https://api.groq.com/openai/v1/chat/completions", 40, body,
+                       {"Content-Type": "application/json", "Authorization": "Bearer " + GROQ}))
+    return json.loads(r["choices"][0]["message"]["content"])
+
 def ai(source, title, desc):
     prompt = (
         "You are a news editor. Using ONLY facts in the notes, write an original English news brief. "
@@ -53,16 +62,25 @@ def ai(source, title, desc):
         'Return JSON: {"headline": "max 90 chars, neutral", "summary": "2-3 sentences, max 60 words", '
         f'"category": one of {CATS}, "skip": true if this is not a real news item (ad, quiz, podcast promo, no facts)}}\n'
         f"Notes from {source}:\nTitle: {title}\nDescription: {desc[:1200]}")
+    if GROQ:
+        try: return ai_groq(prompt)
+        except Exception as e: print("Groq error:", e)
+    if not KEY: raise RuntimeError("Groq failed and no Gemini key")
     body = json.dumps({"contents": [{"parts": [{"text": prompt}]}],
                        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3}}).encode()
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
-    for attempt in range(2):
-        try:
-            r = json.loads(get(url, 60, body, {"Content-Type": "application/json", "x-goog-api-key": KEY}))
-            return json.loads(r["candidates"][0]["content"]["parts"][0]["text"])
-        except urllib.error.HTTPError as e:
-            if e.code == 429 and attempt == 0: time.sleep(35); continue
-            raise
+    last = None
+    for m in dict.fromkeys([MODEL, "gemini-2.5-flash", "gemini-flash-lite-latest"]):
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent"
+        for attempt in range(2):
+            try:
+                r = json.loads(get(url, 30, body, {"Content-Type": "application/json", "x-goog-api-key": KEY}))
+                return json.loads(r["candidates"][0]["content"]["parts"][0]["text"])
+            except urllib.error.HTTPError as e:
+                last = e
+                if e.code in (429, 500, 502, 503, 504):
+                    time.sleep(20 if attempt == 0 else 5); continue
+                break
+    raise last
 
 def pick_model():
     try:
@@ -82,11 +100,12 @@ def main():
     cfg = json.load(open(CFG)); st = cfg.get("settings", {})
     arts = json.load(open(OUT))
     status = {"last_run": datetime.now(timezone.utc).isoformat(), "sources": {}, "added": 0, "paused": bool(st.get("paused"))}
-    if st.get("paused") or not KEY:
-        status["note"] = "paused" if st.get("paused") else "GEMINI_API_KEY missing"
+    if st.get("paused") or not (KEY or GROQ):
+        status["note"] = "paused" if st.get("paused") else "No AI key set (GROQ_API_KEY or GEMINI_API_KEY)"
         json.dump(status, open(STATUS, "w"), indent=1); print(status["note"]); return
     global MODEL
-    MODEL = pick_model(); print("Using model:", MODEL)
+    if KEY: MODEL = pick_model()
+    print("Gemini model:", MODEL, "| Groq enabled:", bool(GROQ))
     seen = {a["source_url"] for a in arts}
     titles = [a["source_title"] for a in arts[:300]] + [a["headline"] for a in arts[:300]]
     cutoff = datetime.now(timezone.utc) - timedelta(days=st.get("max_age_days", 3))
