@@ -10,7 +10,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CFG, OUT, STATUS = (os.path.join(ROOT, p) for p in ("config/sources.json", "data/articles.json", "data/status.json"))
 CATS = ["World", "Politics", "Business", "Technology", "Science", "Health", "Environment", "Sports", "Culture"]
 KEY = os.environ.get("GEMINI_API_KEY", "")
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 UA = "NewsAggregatorBot/1.0 (headline+link aggregator)"
 
 def get(url, timeout=25, data=None, headers=None):
@@ -64,6 +64,17 @@ def ai(source, title, desc):
             if e.code == 429 and attempt == 0: time.sleep(35); continue
             raise
 
+def pick_model():
+    try:
+        r = json.loads(get("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", 30, None, {"x-goog-api-key": KEY}))
+        names = [m["name"].split("/")[-1] for m in r.get("models", []) if "generateContent" in m.get("supportedGenerationMethods", [])]
+    except Exception as e:
+        print("ListModels error:", e); return MODEL
+    print("Available:", names)
+    if "gemini-flash-latest" in names: return "gemini-flash-latest"
+    ok = [n for n in names if n.startswith("gemini") and "flash" in n and not any(x in n for x in ("image", "tts", "live", "preview", "exp", "thinking", "audio"))]
+    return sorted(ok)[-1] if ok else MODEL
+
 def similar(a, b):
     return difflib.SequenceMatcher(None, a.lower(), b.lower()).ratio() > 0.82
 
@@ -74,6 +85,8 @@ def main():
     if st.get("paused") or not KEY:
         status["note"] = "paused" if st.get("paused") else "GEMINI_API_KEY missing"
         json.dump(status, open(STATUS, "w"), indent=1); print(status["note"]); return
+    global MODEL
+    MODEL = pick_model(); print("Using model:", MODEL)
     seen = {a["source_url"] for a in arts}
     titles = [a["source_title"] for a in arts[:300]] + [a["headline"] for a in arts[:300]]
     cutoff = datetime.now(timezone.utc) - timedelta(days=st.get("max_age_days", 3))
