@@ -1,5 +1,17 @@
 [
  {
+  "id": "bf6ef63acf66",
+  "headline": "Russia pauses Kherson strikes following local ceasefire agreement",
+  "summary": "Military attacks near Kherson have stopped as a localized ceasefire takes effect in Oleshky. Secured by US First Lady Melania Trump, the pause enables humanitarian aid deliveries and civilian evacuations.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+  "source_title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+  "published": "2026-10-27T02:29:00+00:00",
+  "added": "2026-10-27T03:28:48.112361+00:00",
+  "hidden": false
+ },
+ {
   "id": "28b7c31febcc",
   "headline": "US warns EU that Airbus loan threatens trade truce",
   "summary": "A US trade official stated that a multibillion-dollar European loan to Airbus could endanger the existing tariff truce between Washington and Brussels. The trade office urged the European Union to resolve the financing issue swiftly after receiving no details regarding the June announcement.",
@@ -96,6 +108,18 @@
   "hidden": false
  },
  {
+  "id": "040fb06b22bb",
+  "headline": "Iran Criticizes US Dialogue Sincerity Amid Maritime Fire Near Iraq",
+  "summary": "Iranian officials stated the United States lacks seriousness regarding ongoing talks. Meanwhile, maritime authorities reported a vessel burning off the Iraqi coast.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+  "source_title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+  "published": "2026-10-27T00:00:00+00:00",
+  "added": "2026-10-27T03:29:34.244991+00:00",
+  "hidden": false
+ },
+ {
   "id": "1c505228c4ea",
   "headline": "Flavio Bolsonaro vows opposition after travel ban",
   "summary": "Brazilian presidential candidate Flavio Bolsonaro announced that a Supreme Court justice restricted him from leaving the nation following his narrow defeat to incumbent Luiz Inacio Lula da Silva. Bolsonaro, who declined to concede, criticized the restriction as intimidation and promised to contest the electoral outcome.",
@@ -105,6 +129,18 @@
   "source_title": "Flavio Bolsonaro vows to lead opposition after Brazil court imposes travel ban",
   "published": "2026-10-26T23:56:24+00:00",
   "added": "2026-10-27T01:03:23.376334+00:00",
+  "hidden": false
+ },
+ {
+  "id": "efb0551b57b5",
+  "headline": "Bolsonaro reports police demand passports following Brazil election",
+  "summary": "Flavio Bolsonaro shared a video on social media stating that law enforcement instructed him to surrender his passports. The development follows Brazil's recent election defeat.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
+  "source_title": "Bolsonaro says police demand passports after Brazil election defeat",
+  "published": "2026-10-26T23:53:45+00:00",
+  "added": "2026-10-27T03:30:07.381834+00:00",
   "hidden": false
  },
  {
@@ -189,6 +225,66 @@
   "source_title": "Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
   "published": "2026-10-26T22:18:34+00:00",
   "added": "2026-10-27T01:09:06.256900+00:00",
+  "hidden": false
+ },
+ {
+  "id": "23d2793d96c1",
+  "headline": "Jordanian military launches strikes in Syria following church attack",
+  "summary": "Jordanian forces targeted militant hideouts in Syria connected to a recent fatal church attack within the kingdom. Meanwhile, Syrian authorities presented a differing version of the events.",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
+  "published": "2026-10-26T22:15:00+00:00",
+  "added": "2026-10-27T03:31:51.119142+00:00",
+  "hidden": false
+ },
+ {
+  "id": "60348af62200",
+  "headline": "Former FBI Director James Comey Faces New Charges",
+  "summary": "Former FBI director James Comey has been accused of unlawfully sharing national security information. This marks the third set of charges brought against him under President Trump.",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
+  "source_title": "Former FBI director James Comey hit with third set of charges under Trump",
+  "published": "2026-10-26T22:03:26+00:00",
+  "added": "2026-10-27T03:32:24.329389+00:00",
+  "hidden": false
+ },
+ {
+  "id": "8a6a1da62f8e",
+  "headline": "Anthropic files for US IPO revealing revenue surge and heavy losses",
+  "summary": "Artificial intelligence firm Anthropic has filed for a US initial public offering, disclosing $16.3 billion in revenue alongside net losses exceeding $80 billion for the first half of 2026. The regulatory filing also detailed numerous investment risks.",
+  "category": "Technology",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/tv-shows/business/20261026-anthropic-s-ipo-filing-shows-soaring-sales-and-steep-losses",
+  "source_title": "Anthropic's IPO filing shows soaring sales and steep losses",
+  "published": "2026-10-26T22:01:25+00:00",
+  "added": "2026-10-27T03:32:57.518972+00:00",
+  "hidden": false
+ },
+ {
+  "id": "17d80dcd0084",
+  "headline": "Serbia student movement wins parliamentary elections",
+  "summary": "Serbia's student-led protest movement achieved a historic parliamentary victory, defeating the party of outgoing President Aleksandar Vucic on October 25. Supporters successfully organized massive mobilization efforts to monitor polling stations and combat electoral fraud.",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/europe/20261026-serbia-elections-tracking-fraud-had-an-impact-on-results-vote-fraud",
+  "source_title": "Serbia’s elections: 'Tracking fraud for sure had an impact on the results'",
+  "published": "2026-10-26T21:49:17+00:00",
+  "added": "2026-10-27T03:33:30.656237+00:00",
+  "hidden": false
+ },
+ {
+  "id": "56e164ae8df4",
+  "headline": "Africa food security threatened by Iran conflict, officials warn",
+  "summary": "Trade officials report that the conflict involving Iran is increasing fuel and fertilizer expenses throughout Africa. This rise in costs places significant pressure on the continent's food security.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+  "source_title": "Africa food security under threat due to Iran war, trade officials warn",
+  "published": "2026-10-26T21:42:18+00:00",
+  "added": "2026-10-27T03:34:03.767760+00:00",
   "hidden": false
  }
 ]
