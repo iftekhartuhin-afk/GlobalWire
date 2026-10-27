@@ -1,9 +1,9 @@
 {
- "last_run": "2026-10-27T15:27:35.885165+00:00",
+ "last_run": "2026-10-27T20:10:02.007105+00:00",
  "sources": {
   "UN News": {
-   "ok": true,
-   "items": 30
+   "ok": false,
+   "error": "not well-formed (invalid token): line 1, column 0"
   },
   "DW": {
    "ok": true,
@@ -22,6 +22,7 @@
    "items": 10
   }
  },
- "added": 8,
- "paused": false
+ "added": 0,
+ "paused": false,
+ "note": "AI error: The read operation timed out"
 }
