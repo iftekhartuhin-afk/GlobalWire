@@ -1,9 +1,9 @@
 {
- "last_run": "2026-10-28T16:11:00.993341+00:00",
+ "last_run": "2026-10-28T21:12:17.271516+00:00",
  "sources": {
   "UN News": {
-   "ok": false,
-   "error": "not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "items": 30
   },
   "DW": {
    "ok": true,
