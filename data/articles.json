@@ -1,5 +1,89 @@
 [
  {
+  "id": "4b2a4f309abd",
+  "headline": "Netanyahu Rejects Coalition With Arab Parties",
+  "summary": "Israeli Prime Minister Benjamin Netanyahu has described the possibility of partnering with Arab factions to establish a government as disgraceful and shameful. His comments address potential coalition formations.",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
+  "source_title": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
+  "published": "2026-10-28T02:26:27+00:00",
+  "added": "2026-10-28T02:56:57.228927+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2b0a18923e9c",
+  "headline": "U.S. to Issue Visas to Flávio Bolsonaro Amid Brazil Probe",
+  "summary": "Washington has agreed to grant visas to Flávio Bolsonaro and his family. The departure from Brazil comes while he faces an ongoing money-laundering investigation.",
+  "category": "World",
+  "source": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+  "source_title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
+  "published": "2026-10-28T01:58:08+00:00",
+  "added": "2026-10-28T02:57:31.460584+00:00",
+  "hidden": false
+ },
+ {
+  "id": "62f7c8ee285c",
+  "headline": "Arab Parties Projected to Secure 18 Seats in Israel Election",
+  "summary": "Early exit polls indicate that Arab parties in Israel are on track to win a record-breaking 18 seats. This projection follows exceptionally high voter turnout among Palestinian citizens, which reached approximately 80 percent according to initial indications.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+  "source_title": "Arab parties could win record 18 seats in Israel election, exit polls show",
+  "published": "2026-10-28T00:43:56+00:00",
+  "added": "2026-10-28T02:58:06.337627+00:00",
+  "hidden": false
+ },
+ {
+  "id": "dd96394efbe7",
+  "headline": "Israeli Opposition and Government Camps Clash Over Election Results",
+  "summary": "Opposition leaders maintained that recent election outcomes represented a defeat for the current administration, even though exit polls showed closer margins. Leaders from both the Netanyahu and Eisenkot factions strongly disagreed on the interpretation of the projected figures.",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+  "source_title": "Netanyahu, Eisenkot camps clash over Israel election projections",
+  "published": "2026-10-28T00:43:02+00:00",
+  "added": "2026-10-28T02:58:39.745979+00:00",
+  "hidden": false
+ },
+ {
+  "id": "851c0fa45f38",
+  "headline": "Israeli opposition leader says public voted for change",
+  "summary": "Opposition figure Gadi Eisenkot stated that millions of Israelis cast ballots seeking change. He criticized Prime Minister Benjamin Netanyahu during his remarks.",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
+  "source_title": "Israel’s Eisenkot says country voted for change",
+  "published": "2026-10-28T00:30:22+00:00",
+  "added": "2026-10-28T02:59:13.121914+00:00",
+  "hidden": false
+ },
+ {
+  "id": "37dfe89c648c",
+  "headline": "US envoy Mike Waltz clashes with Cuban diplomats at United Nations",
+  "summary": "During a tense encounter at UN headquarters, US envoy Mike Waltz repeatedly told members of Cuba's delegation, \"This is America.\" The heated verbal exchange occurred between the two diplomatic teams.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
+  "source_title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
+  "published": "2026-10-28T00:25:08+00:00",
+  "added": "2026-10-28T02:59:46.641563+00:00",
+  "hidden": false
+ },
+ {
+  "id": "c1a7f5e6e069",
+  "headline": "Experts urge global health emergency over climate harms",
+  "summary": "Researchers are calling for a worldwide health emergency declaration due to accelerating climate impacts. Severe storms, heatwaves, and droughts driven by global warming are resulting in millions of deaths globally as health risks worsen rapidly.",
+  "category": "Health",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Experts urge 'global health emergency' as climate harms accelerate",
+  "published": "2026-10-28T00:05:00+00:00",
+  "added": "2026-10-28T03:00:20.109800+00:00",
+  "hidden": false
+ },
+ {
   "id": "355e5ee87207",
   "headline": "Gaza film festival and new academy highlight women filmmakers",
   "summary": "A Gaza film festival is showcasing stories of survival, war, and loss directed by women. Additionally, a new academy has been launched to support female filmmakers in the region.",
@@ -9,6 +93,18 @@
   "source_title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
   "published": "2026-10-27T23:35:51+00:00",
   "added": "2026-10-27T23:53:04.365580+00:00",
+  "hidden": false
+ },
+ {
+  "id": "39f44f4fd443",
+  "headline": "Lula criticizes Flavio Bolsonaro over Brazil exit",
+  "summary": "Brazilian President Lula da Silva has labeled Flavio Bolsonaro's departure from the nation as shameful. The criticism follows media reports indicating that Bolsonaro was traveling to the United States.",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
+  "source_title": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
+  "published": "2026-10-27T23:23:42+00:00",
+  "added": "2026-10-28T03:00:54.000321+00:00",
   "hidden": false
  },
  {
