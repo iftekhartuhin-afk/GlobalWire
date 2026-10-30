@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-29T23:43:36.478603+00:00",
+ "last_run": "2026-10-30T03:23:25.850673+00:00",
  "sources": {
   "UN News": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "DW": {
    "ok": true,
-   "items": 126
+   "items": 122
   },
   "France 24": {
    "ok": true,
@@ -22,6 +22,7 @@
    "items": 10
   }
  },
- "added": 8,
- "paused": false
+ "added": 0,
+ "paused": false,
+ "note": "AI error: The read operation timed out"
 }
