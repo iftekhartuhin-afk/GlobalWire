@@ -1,5 +1,65 @@
 [
  {
+  "id": "9ebb7dd86eb1",
+  "headline": "Russian Foreign Minister Lavrov Avoids G20 Talks Query",
+  "summary": "Russian Foreign Minister Sergey Lavrov declined to address Russia's upcoming involvement in the December G20 summit. He also stated that Ukrainian leader Volodymyr Zelenskyy must travel to Russia for any discussions with Vladimir Putin.",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf",
+  "source_title": "European diplomats shun Russia at G20 gathering in the US",
+  "published": "2026-10-31T01:56:00+00:00",
+  "added": "2026-10-31T02:03:04.080644+00:00",
+  "hidden": false
+ },
+ {
+  "id": "3678a59d709f",
+  "headline": "Pope Leo Becomes First Pontiff to Vote in US General Election",
+  "summary": "The Vatican confirmed that Pope Leo has taken part in the US general election, marking the first time a pontiff has done so. He cast a mail-in ballot in Chicago, his native city, ahead of the November 3 midterms.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+  "source_title": "Pope Leo becomes first pontiff to vote in US general election",
+  "published": "2026-10-31T01:31:44+00:00",
+  "added": "2026-10-31T02:03:24.328145+00:00",
+  "hidden": false
+ },
+ {
+  "id": "159ce70041e1",
+  "headline": "Fake polls highlight US election vulnerabilities",
+  "summary": "Fabricated surveys are intensifying tensions within the political landscape of the United States. These deceptive polls reveal existing vulnerabilities ahead of the upcoming midterm elections.",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
+  "source_title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
+  "published": "2026-10-31T01:26:34+00:00",
+  "added": "2026-10-31T02:03:57.559773+00:00",
+  "hidden": false
+ },
+ {
+  "id": "be122df54ae4",
+  "headline": "ICE Agents Threaten Dog Walker with Firearm During Arrest",
+  "summary": "Video footage captures masked immigration enforcement officers pointing a handgun at a bystander walking dogs while taking a man into custody in North Hollywood. The incident occurred during an operational arrest conducted by federal agents in the United States.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss",
+  "source_title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
+  "published": "2026-10-31T01:23:59+00:00",
+  "added": "2026-10-31T02:04:30.844493+00:00",
+  "hidden": false
+ },
+ {
+  "id": "fc5e15d5984c",
+  "headline": "Germany and France prepare for youth-led protests",
+  "summary": "Germany and France are anticipating demonstrations organized by young people over the Halloween weekend. Participants are protesting against increasing costs and limited future opportunities as similar actions spread across Europe.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
+  "source_title": "Germany and France brace for protests on Halloween weekend",
+  "published": "2026-10-31T00:17:35+00:00",
+  "added": "2026-10-31T02:05:04.086361+00:00",
+  "hidden": false
+ },
+ {
   "id": "9a514c090ff0",
   "headline": "Brazil Summons Argentinian Diplomat Over Bolsonaro Flight",
   "summary": "Brazil has summoned an Argentinian diplomat following former leader Jair Bolsonaro's flight to the United States. This diplomatic action risks increasing tensions between Brazilian President Luiz Inacio Lula da Silva and Argentinian counterpart Javier Milei.",
@@ -12,6 +72,18 @@
   "hidden": false
  },
  {
+  "id": "7116fb04b341",
+  "headline": "Four Tankers Hit in Hormuz as Trump Predicts Swift End to Conflict",
+  "summary": "Four oil tankers were reportedly struck in the Strait of Hormuz, according to statements from the Islamic Revolutionary Guard Corps. Meanwhile, United States President Donald Trump expressed optimism that the ongoing military engagement with Iran would conclude rapidly.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+  "source_title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
+  "published": "2026-10-31T00:00:00+00:00",
+  "added": "2026-10-31T02:05:37.412608+00:00",
+  "hidden": false
+ },
+ {
   "id": "66c910d1ce22",
   "headline": "Fans Support Macklemore at Final 'Free Palestine' Concert",
   "summary": "Supporters attended the concluding night of Macklemore's 'Free Palestine' tour. The event followed his removal from Ed Sheeran's upcoming concert lineup.",
@@ -21,6 +93,18 @@
   "source_title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
   "published": "2026-10-30T23:39:19+00:00",
   "added": "2026-10-31T00:57:16.401492+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4d1a3aaa307a",
+  "headline": "Poland: Protesters clash with police after court chief dismissed",
+  "summary": "Demonstrators engaged in clashes with law enforcement following the removal of top court President Bogdan Swieczkowski. Prime Minister Donald Tusk supported the termination, describing it as an effort to bring back the rule of law.",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Poland: Protesters clash with police over sacked court chief",
+  "published": "2026-10-30T23:22:00+00:00",
+  "added": "2026-10-31T02:06:10.665708+00:00",
   "hidden": false
  },
  {
@@ -189,6 +273,18 @@
   "source_title": "Ukraine: Oleshky residents evacuate war-ravaged city",
   "published": "2026-10-30T20:09:00+00:00",
   "added": "2026-10-30T21:18:19.114103+00:00",
+  "hidden": false
+ },
+ {
+  "id": "0a82c8a7cd47",
+  "headline": "EU and Canada Forge Closer Ties Amid Global Uncertainty",
+  "summary": "The European Union and Canada have signed a new digital trade agreement. The move comes as trade threats from Donald Trump prompt American allies to pursue stronger relationships in other regions.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
+  "source_title": "EU and Canada seek deeper ties amid worsening global uncertainty",
+  "published": "2026-10-30T20:00:10+00:00",
+  "added": "2026-10-31T02:06:47.677894+00:00",
   "hidden": false
  },
  {

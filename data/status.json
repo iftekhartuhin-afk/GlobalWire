@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-31T00:54:31.700643+00:00",
+ "last_run": "2026-10-31T02:02:28.406670+00:00",
  "sources": {
   "UN News": {
    "ok": true,
@@ -20,6 +20,10 @@
   "NPR World": {
    "ok": true,
    "items": 10
+  },
+  "Jugantor": {
+   "ok": false,
+   "error": "syntax error: line 1, column 0"
   }
  },
  "added": 8,
