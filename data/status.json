@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-31T06:26:36.595944+00:00",
+ "last_run": "2026-10-31T12:54:22.307391+00:00",
  "sources": {
   "UN News": {
    "ok": true,
@@ -27,9 +27,10 @@
   },
   "Prothom Alo": {
    "ok": true,
-   "items": 72
+   "items": 110
   }
  },
- "added": 8,
- "paused": false
+ "added": 0,
+ "paused": false,
+ "note": "AI error: The read operation timed out"
 }
