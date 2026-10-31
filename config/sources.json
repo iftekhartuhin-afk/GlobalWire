@@ -1,12 +1,66 @@
 {
-  "settings": {"paused": false, "max_new_per_run": 8, "max_age_days": 3, "keep": 600},
+  "settings": {
+    "paused": false,
+    "max_new_per_run": 8,
+    "max_age_days": 3,
+    "keep": 600
+  },
   "sources": [
-    {"name": "UN News", "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "enabled": true, "terms_url": "https://www.un.org/en/about-us/copyright", "notes": "Verify terms yourself before relying on this."},
-    {"name": "DW", "url": "https://rss.dw.com/rdf/rss-en-all", "enabled": true, "terms_url": "https://www.dw.com/en/rss/s-9993", "notes": "Verify terms yourself."},
-    {"name": "France 24", "url": "https://www.france24.com/en/rss", "enabled": true, "terms_url": "https://www.france24.com/en/rss", "notes": "Verify terms yourself."},
-    {"name": "Al Jazeera English", "url": "https://www.aljazeera.com/xml/rss/all.xml", "enabled": true, "terms_url": "https://www.aljazeera.com/terms", "notes": "Verify terms yourself."},
-    {"name": "NPR World", "url": "https://feeds.npr.org/1004/rss.xml", "enabled": true, "terms_url": "https://www.npr.org/about-npr/179876898/terms-of-use", "notes": "Verify terms yourself."},
-    {"name": "BBC News", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "enabled": false, "terms_url": "https://www.bbc.co.uk/usingthebbc/terms/can-i-share-bbc-content/", "notes": "BBC feeds are for personal, non-commercial use. Off by default; get permission first."},
-    {"name": "CNN", "url": "http://rss.cnn.com/rss/edition_world.rss", "enabled": false, "terms_url": "https://www.cnn.com/terms", "notes": "Terms restrict automated reuse. Off by default."}
+    {
+      "name": "UN News",
+      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "enabled": true,
+      "terms_url": "https://www.un.org/en/about-us/copyright",
+      "notes": "Verify terms yourself before relying on this."
+    },
+    {
+      "name": "DW",
+      "url": "https://rss.dw.com/rdf/rss-en-all",
+      "enabled": true,
+      "terms_url": "https://www.dw.com/en/rss/s-9993",
+      "notes": "Verify terms yourself."
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/rss",
+      "enabled": true,
+      "terms_url": "https://www.france24.com/en/rss",
+      "notes": "Verify terms yourself."
+    },
+    {
+      "name": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "enabled": true,
+      "terms_url": "https://www.aljazeera.com/terms",
+      "notes": "Verify terms yourself."
+    },
+    {
+      "name": "NPR World",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "enabled": true,
+      "terms_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "notes": "Verify terms yourself."
+    },
+    {
+      "name": "BBC News",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "enabled": false,
+      "terms_url": "https://www.bbc.co.uk/usingthebbc/terms/can-i-share-bbc-content/",
+      "notes": "BBC feeds are for personal, non-commercial use. Off by default; get permission first."
+    },
+    {
+      "name": "CNN",
+      "url": "http://rss.cnn.com/rss/edition_world.rss",
+      "enabled": false,
+      "terms_url": "https://www.cnn.com/terms",
+      "notes": "Terms restrict automated reuse. Off by default."
+    },
+    {
+      "name": "Jugantor",
+      "url": "https://www.jugantor.com/feed/rss.xml",
+      "enabled": true,
+      "terms_url": "",
+      "notes": "Check this source's terms, then enable."
+    }
   ]
 }
