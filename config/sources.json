@@ -61,6 +61,13 @@
       "enabled": true,
       "terms_url": "",
       "notes": "Check this source's terms, then enable."
+    },
+    {
+      "name": "Prothom Alo",
+      "url": "https://www.prothomalo.com/feed/",
+      "enabled": true,
+      "terms_url": "",
+      "notes": "Check this source's terms, then enable."
     }
   ]
 }
