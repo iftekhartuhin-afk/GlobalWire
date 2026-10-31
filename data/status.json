@@ -1,13 +1,13 @@
 {
- "last_run": "2026-10-30T21:13:34.741098+00:00",
+ "last_run": "2026-10-31T00:54:31.700643+00:00",
  "sources": {
   "UN News": {
-   "ok": false,
-   "error": "not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "items": 30
   },
   "DW": {
    "ok": true,
-   "items": 126
+   "items": 124
   },
   "France 24": {
    "ok": true,

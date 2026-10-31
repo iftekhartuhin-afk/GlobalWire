@@ -1,5 +1,89 @@
 [
  {
+  "id": "9a514c090ff0",
+  "headline": "Brazil Summons Argentinian Diplomat Over Bolsonaro Flight",
+  "summary": "Brazil has summoned an Argentinian diplomat following former leader Jair Bolsonaro's flight to the United States. This diplomatic action risks increasing tensions between Brazilian President Luiz Inacio Lula da Silva and Argentinian counterpart Javier Milei.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss",
+  "source_title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
+  "published": "2026-10-31T00:02:06+00:00",
+  "added": "2026-10-31T00:55:44.875854+00:00",
+  "hidden": false
+ },
+ {
+  "id": "66c910d1ce22",
+  "headline": "Fans Support Macklemore at Final 'Free Palestine' Concert",
+  "summary": "Supporters attended the concluding night of Macklemore's 'Free Palestine' tour. The event followed his removal from Ed Sheeran's upcoming concert lineup.",
+  "category": "Culture",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
+  "source_title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
+  "published": "2026-10-30T23:39:19+00:00",
+  "added": "2026-10-31T00:57:16.401492+00:00",
+  "hidden": false
+ },
+ {
+  "id": "881a51334edc",
+  "headline": "Polish police deployed to top court following judge's suspension",
+  "summary": "Polish law enforcement officers have been sent to the Constitutional Tribunal following the suspension of its head judge. The measure is part of an ongoing conflict regarding the politicization of the court during the previous administration's tenure.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+  "source_title": "Polish police deployed to top court after head judge suspended",
+  "published": "2026-10-30T23:19:42+00:00",
+  "added": "2026-10-31T00:58:27.800029+00:00",
+  "hidden": false
+ },
+ {
+  "id": "6a6621c65be5",
+  "headline": "AI cyberattacks pose growing threat to PHP digital infrastructure",
+  "summary": "Volunteer-led PHP, which powers a majority of websites globally, faces escalating cybersecurity threats driven by artificial intelligence capabilities. Experts warn that these advanced attacks could endanger crucial digital infrastructure.",
+  "category": "Technology",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+  "source_title": "Why AI could threaten much of the world’s digital infrastructure",
+  "published": "2026-10-30T23:13:51+00:00",
+  "added": "2026-10-31T00:59:01.150051+00:00",
+  "hidden": false
+ },
+ {
+  "id": "079f93151133",
+  "headline": "US judge orders ethics inquiry into Trump lawyers",
+  "summary": "A federal judge has directed government attorneys to clarify conflicting statements regarding the East Potomac Golf Links. Judge Ana Reyes requested an ethics investigation into the legal representatives.",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
+  "source_title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+  "published": "2026-10-30T22:58:38+00:00",
+  "added": "2026-10-31T00:59:34.448111+00:00",
+  "hidden": false
+ },
+ {
+  "id": "25e96d6873b0",
+  "headline": "Africa Hosts First Olympic Event and South Africa Prepares for Local Elections",
+  "summary": "Senegal's capital is welcoming about 2,700 competitors for the 2026 Youth Olympic Games, marking the continent's first Olympic event. Meanwhile, South Africa schedules local elections for November 4 amid increasing scrutiny of the African National Congress.",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/first-youth-olympic-games-in-africa",
+  "source_title": "First Youth Olympic Games in Africa",
+  "published": "2026-10-30T21:48:20+00:00",
+  "added": "2026-10-31T01:00:07.816481+00:00",
+  "hidden": false
+ },
+ {
+  "id": "38d37832b865",
+  "headline": "Evacuated residents leave occupied Oleshky",
+  "summary": "People from the Russian-occupied town of Oleshky have departed for Anapa alongside a Ukrainian delegation. The evacuation occurred during a rare US-brokered ceasefire, with travelers heading to Belarus before returning to Ukraine by bus.",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
+  "source_title": "Residents leave Russian-occupied Oleshky in evacuation operation",
+  "published": "2026-10-30T21:46:29+00:00",
+  "added": "2026-10-31T01:00:40.941872+00:00",
+  "hidden": false
+ },
+ {
   "id": "a763542b3b8c",
   "headline": "Swiss court upholds 20-year sentence for Liberian ex-commander",
   "summary": "Switzerland's supreme court has confirmed a 20-year prison sentence against Alieu Kosiah. The former Liberian rebel commander was convicted of committing crimes against humanity, including murdering civilians and ordering lootings.",
@@ -9,6 +93,18 @@
   "source_title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
   "published": "2026-10-30T21:00:51+00:00",
   "added": "2026-10-30T21:14:10.584373+00:00",
+  "hidden": false
+ },
+ {
+  "id": "b797a5975f9e",
+  "headline": "Canadian Prime Minister Mark Carney discusses EU ties and US trade",
+  "summary": "In a DW interview, Canadian Prime Minister Mark Carney stated that Canada aims to enhance European Union partnerships to reduce its reliance on the United States. Despite facing pushback from Germany, Carney expressed support for establishing an 'associate membership' status.",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+  "published": "2026-10-30T20:55:00+00:00",
+  "added": "2026-10-31T01:01:14.126993+00:00",
   "hidden": false
  },
  {
