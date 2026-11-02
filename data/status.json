@@ -1,9 +1,9 @@
 {
- "last_run": "2026-11-02T16:40:05.853623+00:00",
+ "last_run": "2026-11-02T23:43:57.508551+00:00",
  "sources": {
   "UN News": {
-   "ok": false,
-   "error": "not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "items": 30
   },
   "DW": {
    "ok": true,
@@ -27,7 +27,7 @@
   },
   "Prothom Alo": {
    "ok": true,
-   "items": 72
+   "items": 5
   }
  },
  "added": 8,
