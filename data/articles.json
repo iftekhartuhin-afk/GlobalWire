@@ -1,5 +1,252 @@
 [
  {
+  "id": "7ae9c0fd94c6",
+  "headline": "US Midterms Seen as Referendum on President Trump",
+  "summary": "Democrats aim to take the House and close in on the Senate as voters judge Trump's first term.",
+  "body": [
+   "The United States is holding midterm elections that many observers describe as a referendum on President Donald Trump’s first term in office.",
+   "According to France 24, the vote could weaken the president’s influence in Washington, with Democrats positioned to capture the House of Representatives and close the gap in the Senate.",
+   "The outcome will signal public reaction to the administration’s policies and controversies, shaping the political landscape ahead of the next presidential contest."
+  ],
+  "headline_bn": "মধ্যমেয়াদী নির্বাচনকে ট্রাম্পের রেফারেনডাম হিসেবে দেখা হচ্ছে",
+  "summary_bn": "ডেমোক্র্যাটরা হাউস জয় এবং সেনেটে ঘনিষ্ঠ অবস্থান লক্ষ্য করে, ভোটাররা ট্রাম্পের প্রথম মেয়াদ মূল্যায়ন করছেন।",
+  "body_bn": [
+   "যুক্তরাষ্ট্রে মধ্যমেয়াদী নির্বাচন অনুষ্ঠিত হচ্ছে, যা অনেক বিশ্লেষক ট্রাম্পের প্রথম মেয়াদে জনমত যাচাই হিসেবে দেখছেন।",
+   "ফ্রান্স ২৪ অনুযায়ী, এই ভোট প্রেসিডেন্টের ওয়াশিংটন শাসনে প্রভাব কমাতে পারে, যখন ডেমোক্র্যাটরা হাউসের অধিকাংশ দখল এবং সেনেটে ঘনিষ্ঠ অবস্থান অর্জনের লক্ষ্যে রয়েছে।",
+   "ফলাফলটি প্রশাসনের নীতি ও বিতর্কের প্রতি জনসাধারণের প্রতিক্রিয়া প্রকাশ করবে এবং পরবর্তী প্রেসিডেন্টীয় নির্বাচনের পূর্বে রাজনৈতিক পরিবেশকে গঠন করবে।"
+  ],
+  "image_prompt": "Illustration of US ballot boxes and voting booths with American flags, generic, no faces or logos",
+  "category": "Politics",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/video/20261103-us-midterm-elections-a-referendum-on-president-donald-trump",
+  "source_title": "US midterm elections: A referendum on President Donald Trump?",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261103-us-midterm-elections-a-referendum-on-president-donald-trump",
+    "title": "US midterm elections: A referendum on President Donald Trump?"
+   }
+  ],
+  "published": "2026-11-03T13:56:59+00:00",
+  "added": "2026-11-03T14:00:05.880806+00:00",
+  "hidden": false,
+  "image": "data/img/7ae9c0fd94c6.jpg"
+ },
+ {
+  "id": "39555f9005f1",
+  "headline": "California votes on one-time billionaire tax to fund healthcare",
+  "summary": "California voters decide Tuesday on a one-time tax on billionaires aimed at supporting the state’s healthcare system, while oil prices slip after Iran’s diplomatic overtures.",
+  "body": [
+   "California voters will cast ballots on Tuesday for a landmark initiative that would levy a one-time tax on billionaires to fund the state’s healthcare system, according to France 24. The proposal seeks to generate a single infusion of revenue aimed at bolstering public health services.",
+   "On the same day, global oil prices dropped sharply, with both Brent and WTI falling about 8 percent. France 24 reported that the decline followed Iran’s announcement of intensive mediated talks toward peace and its readiness to reopen the Strait of Hormuz if the United States accepts its conditions, influencing market sentiment."
+  ],
+  "headline_bn": "ক্যালিফোর্নিয়ায় একবারের করের মাধ্যমে বিলিয়নিয়ারদের থেকে স্বাস্থ্যসেবা তহবিল",
+  "summary_bn": "ক্যালিফোর্নিয়া ভোটাররা মঙ্গলবার একবারের করের মাধ্যমে স্বাস্থ্যসেবা তহবিল বাড়ানোর পরিকল্পনা নিয়ে সিদ্ধান্ত নেবে, একই সময়ে ইরানের কূটনৈতিক পদক্ষেপে তেল দামের পতন ঘটেছে।",
+  "body_bn": [
+   "এই মঙ্গলবার ক্যালিফোর্নিয়া ভোটাররা একটি গুরুত্বপূর্ণ পরিকল্পনা নিয়ে ভোট দেবে, যা বিলিয়নিয়ারদের উপর একবারের কর আরোপ করে রাজ্যের স্বাস্থ্যসেবা ব্যবস্থাকে সমর্থন করবে, ফ্রান্স ২৪ অনুযায়ী।",
+   "একই সময়ে, গ্লোবাল তেল দামের তীব্র পতন ঘটেছে, যেখানে ব্রেন্ট এবং ডব্লিউটিআই উভয়ই প্রায় ৮ শতাংশ কমেছে। ফ্রান্স ২৪ অনুসারে, ইরান মধ্যপ্রাচ্যের তেল রুট স্ট্রেট অব হরমুজ পুনরায় খোলার ইচ্ছা প্রকাশ করেছে, যদি যুক্তরাষ্ট্র তার শর্ত গ্রহণ করে, যা তেল বাজারে প্রভাব ফেলেছে।"
+  ],
+  "image_prompt": "illustration of ballot box with a tax document and a hospital symbol, alongside falling oil price chart",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/tv-shows/business/20261103-californians-vote-on-ballot-initiative-to-impose-one-time-tax-on-billionaires",
+  "source_title": "Californians vote on ballot initiative to impose one-time tax on billionaires",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/tv-shows/business/20261103-californians-vote-on-ballot-initiative-to-impose-one-time-tax-on-billionaires",
+    "title": "Californians vote on ballot initiative to impose one-time tax on billionaires"
+   }
+  ],
+  "published": "2026-11-03T13:51:40+00:00",
+  "added": "2026-11-03T14:00:14.019642+00:00",
+  "hidden": false
+ },
+ {
+  "id": "8ee36c7a8273",
+  "headline": "Poland Says Security Forces Thwart Attempted Provocation on Kaliningrad Border",
+  "summary": "Prime Minister Donald Tusk announced that Polish security prevented an overnight provocation attempt on the border with Russia's Kaliningrad.",
+  "body": [
+   "Poland's Prime Minister Donald Tusk told reporters on Tuesday that Polish security forces stopped an attempted provocation on the country's border with the Russian exclave of Kaliningrad during the night.",
+   "Tusk provided few details about the incident, only confirming that the forces prevented any incident from occurring. The statement was reported by France 24.",
+   "The Polish government did not disclose the nature of the alleged provocation or the measures taken to avert it, emphasizing that the situation remained under control."
+  ],
+  "headline_bn": "পোল্যান্ডের নিরাপত্তা বাহিনী কালিনিনগ্রাদ সীমান্তে প্ররোচনার প্রচেষ্টা থামিয়ে দিয়েছে",
+  "summary_bn": "প্রধানমন্ত্রী ডোনাল্ড টাস্কের মতে, রাশিয়ার কালিনিনগ্রাদ সীমান্তে রাতারাতি একটি প্ররোচনা প্রতিরোধ করা হয়েছে।",
+  "body_bn": [
+   "প্রধানমন্ত্রী ডোনাল্ড টাস্ক মঙ্গলবার সাংবাদিকদের জানিয়ে বলেন, রাশিয়ার কালিনিনগ্রাদ এক্সক্লেভের সঙ্গে সীমান্তে রাতারাতি একটি প্ররোচনা প্রচেষ্টা থামাতে পোলিশ নিরাপত্তা বাহিনী সফল হয়েছে।",
+   "টাস্ক ঘটনাটির বিস্তারিত তথ্য দেননি, কেবলই উল্লেখ করেছেন যে কোনো ঘটনার ঘটতে বাধা দেওয়া হয়েছে। ফ্রান্স ২৪ এই বিবৃতি প্রকাশ করেছে।",
+   "পোল্যান্ড সরকার প্ররোচনার প্রকৃতি বা প্রতিরোধের পদ্ধতি প্রকাশ করেনি, তবে পরিস্থিতি নিয়ন্ত্রণে রয়েছে বলে জোর দিয়েছে।"
+  ],
+  "image_prompt": "Night-time European border fence with patrol vehicles and searchlights, illustrating security forces on a border",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/europe/20261103-poland-prevented-attempted-provocation-russian-border-pm-tusk-says",
+  "source_title": "Poland foils attempted 'provocation' on Russian border, PM Tusk says",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261103-poland-prevented-attempted-provocation-russian-border-pm-tusk-says",
+    "title": "Poland foils attempted 'provocation' on Russian border, PM Tusk says"
+   }
+  ],
+  "published": "2026-11-03T13:39:14+00:00",
+  "added": "2026-11-03T14:00:22.801019+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2a731e8c1a8e",
+  "headline": "Nahid Islam blames government for potential fascist infiltration of garment workers' wage protest",
+  "summary": "Prothom Alo reports NCP chief whip Nahid Islam says the government bears responsibility if fascists enter the garment workers' wage‑increase movement, which grew due to poor planning.",
+  "body": [
+   "According to Prothom Alo, National Citizen Party convener and opposition chief whip Nahid Islam stated that the government would be held accountable if fascist elements infiltrate the ongoing garment workers' wage‑increase movement.",
+   "He described the wage‑increase campaign as justified, adding that the protest expanded because organizers failed to adopt timely and appropriate planning."
+  ],
+  "headline_bn": "নাহিদ ইসলাম: ফ্যাসিস্টদের শ্রমিক আন্দোলনে অনুপ্রবেশের দায় সরকার",
+  "summary_bn": "প্রথম আলো অনুযায়ী, এনসিপি চিফ হুইপ নাহিদ ইসলাম বলেছেন, সরকার দায়ী যদি ফ্যাসিস্টরা পোশাকশ্রমিকদের মজুরি বৃদ্ধি আন্দোলনে প্রবেশ করে, যা পরিকল্পনা না করার ফলে বড় হয়েছে।",
+  "body_bn": [
+   "প্রথম আলো রিপোর্ট করেছে, জাতীয় নাগরিক পার্টির আহ্বায়ক ও বিরোধীদলীয় চিফ হুইপ নাহিদ ইসলাম বলেছেন, শ্রমিক আন্দোলনে ফ্যাসিস্টদের অনুপ্রবেশ ঘটলে সরকারের দায়িত্ব থাকবে।",
+   "তিনি পোশাকশ্রমিকদের মজুরি বৃদ্ধির আন্দোলনকে যৌক্তিক বলে উল্লেখ করে, সঠিক সময়ে সঠিক পরিকল্পনা না নেওয়ায় এই আন্দোলন বড় আকার ধারণ করেছে বলে মন্তব্য করেছেন।"
+  ],
+  "image_prompt": "illustration of garment workers marching with signs for higher wages, generic city backdrop, no faces or logos",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/c8v9ifsc8z",
+  "source_title": "শ্রমিক আন্দোলনে যদি ফ্যাসিস্টদের অনুপ্রবেশ ঘটে, এর দায়ভার সরকারের: নাহিদ ইসলাম",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/c8v9ifsc8z",
+    "title": "শ্রমিক আন্দোলনে যদি ফ্যাসিস্টদের অনুপ্রবেশ ঘটে, এর দায়ভার সরকারের: নাহিদ ইসলাম"
+   }
+  ],
+  "published": "2026-11-03T13:38:50+00:00",
+  "added": "2026-11-03T14:00:33.800788+00:00",
+  "hidden": false
+ },
+ {
+  "id": "869e9a5fedee",
+  "headline": "US Supreme Court blocks Trump administration's bid to set aside 20,000 California ballots",
+  "summary": "The Supreme Court denied the Trump administration's effort to discard 20,000 California ballots alleged to belong to noncitizens, just before the final voting day.",
+  "body": [
+   "The US Supreme Court rejected a request from the Trump administration to require California to set aside 20,000 ballots that the federal government says were cast by noncitizens. The ruling arrived hours before the final day of voting in the pivotal midterm elections.",
+   "As a result, the ballots will stay in the count, France 24 reported, and the administration’s bid will not alter the ongoing election process. The Supreme Court's denial prevents the removal of the ballots from the tally and ensures that all votes cast in California are counted as submitted."
+  ],
+  "headline_bn": "মার্কিন সুপ্রিম কোর্ট ট্রাম্প প্রশাসনের ২০,০০০ ক্যালিফোর্নিয়া ভোট বাতিলের অনুরোধ প্রত্যাখ্যান করেছে",
+  "summary_bn": "সুপ্রিম কোর্ট ট্রাম্পের প্রচেষ্টা বাতিল করেছে, যা ২০,০০০ ক্যালিফোর্নিয়া ভোটকে অ-নাগরিক বলে বাদ দেওয়ার চেষ্টা করছিল, ভোটের শেষ দিনের আগে।",
+  "body_bn": [
+   "মার্কিন সুপ্রিম কোর্ট ট্রাম্প প্রশাসনের অনুরোধ প্রত্যাখ্যান করেছে, যাতে ক্যালিফোর্নিয়াকে ২০,০০০ ভোটকে অ-নাগরিক বলে বাদ দিতে বলা হয়। সিদ্ধান্তটি গুরুত্বপূর্ণ মধ্যমেয়াদী নির্বাচনের শেষ ভোটের দিনটির কয়েক ঘণ্টা আগে প্রকাশিত হয়েছে।",
+   "ফ্রান্স ২৪ অনুযায়ী, এই সিদ্ধান্তের ফলে ভোটগুলো গণনা থেকে বাদ যাবে না, এবং প্রশাসনের চ্যালেঞ্জ চলমান নির্বাচনী প্রক্রিয়াকে প্রভাবিত করবে না। সুপ্রিম কোর্টের এই প্রত্যাখ্যান ক্যালিফোর্নিয়ার সব ভোটকে জমা হিসেবে গণ্য রাখতে বাধ্য করে।"
+  ],
+  "image_prompt": "illustration of a Supreme Court building with a ballot box and legal documents, no people, flags, logos, or text",
+  "category": "Politics",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/video/20261103-us-supreme-court-rejects-trump-request-to-set-aside-20-000-california-ballots",
+  "source_title": "US Supreme court rejects Trump request to set aside 20,000 California ballots",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261103-us-supreme-court-rejects-trump-request-to-set-aside-20-000-california-ballots",
+    "title": "US Supreme court rejects Trump request to set aside 20,000 California ballots"
+   }
+  ],
+  "published": "2026-11-03T13:27:59+00:00",
+  "added": "2026-11-03T14:00:44.041474+00:00",
+  "hidden": false
+ },
+ {
+  "id": "deef1a784e5f",
+  "headline": "Potential Impact of a Democratic Takeover in US Midterms on Trump’s Second Term",
+  "summary": "France 24 notes that a Democratic win could introduce the first major checks on President Trump’s agenda.",
+  "body": [
+   "Americans are voting on Tuesday in a pivotal midterm election, with Democrats seeking to gain control of Congress, according to France 24.",
+   "If Republicans lose their majority, the new Democratic majority could impose the first significant checks on President Donald Trump’s second term, as explained by France 24’s International Affairs Editor.",
+   "The analysis indicates that congressional control would shape legislative oversight, influencing the administration’s ability to advance its agenda."
+  ],
+  "headline_bn": "মিডটার্মে ডেমোক্র্যাটিক জয় যদি ট্রাম্পের দ্বিতীয় মেয়াদে চেক আনতে পারে",
+  "summary_bn": "ফ্রান্স ২৪ জানিয়েছে, ডেমোক্র্যাটিক জয় ট্রাম্পের এজেন্ডার প্রথম বড় চেক হতে পারে।",
+  "body_bn": [
+   "মঙ্গলবার আমেরিকানরা গুরুত্বপূর্ণ মিডটার্ম নির্বাচনে ভোট দিচ্ছেন, ডেমোক্র্যাটরা কংগ্রেসের নিয়ন্ত্রণ নিতে চায়, ফ্রান্স ২৪ অনুযায়ী।",
+   "রিপাবলিকানরা যদি সংখ্যাগরিষ্ঠতা হারায়, নতুন ডেমোক্র্যাটিক কংগ্রেস প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের দ্বিতীয় মেয়াদে প্রথম উল্লেখযোগ্য চেক আরোপ করতে পারে, ফ্রান্স ২৪-এর আন্তর্জাতিক বিষয় সম্পাদক ব্যাখ্যা করেছেন।",
+   "বিশ্লেষণ অনুযায়ী, কংগ্রেসের নিয়ন্ত্রণ আইনগত তদারকি গঠন করবে এবং প্রশাসনের নীতি বাস্তবায়নের সক্ষমতাকে প্রভাবিত করবে।"
+  ],
+  "image_prompt": "Illustration of the US Capitol with voting ballots and a split Congress, showing Democratic and Republican symbols abstractly",
+  "category": "Politics",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/video/20261103-what-could-happen-if-donald-trump-loses-us-midterm-elections",
+  "source_title": "What could happen if Donald Trump loses US midterm elections?",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261103-what-could-happen-if-donald-trump-loses-us-midterm-elections",
+    "title": "What could happen if Donald Trump loses US midterm elections?"
+   }
+  ],
+  "published": "2026-11-03T13:24:32+00:00",
+  "added": "2026-11-03T14:00:52.021170+00:00",
+  "hidden": false
+ },
+ {
+  "id": "602ee8aa7352",
+  "headline": "Shakespeare and Company draws both famed and debut authors to Paris bookshop",
+  "summary": "Literary director Adam Biles says the famed Paris shop now regularly hosts renowned and first‑time writers, reflecting its growing pull.",
+  "body": [
+   "According to France 24, Shakespeare and Company, the English‑language bookshop in Paris, has reached a level of notoriety where authors typically accept invitations to appear. Literary director Adam Biles notes that the venue welcomes both celebrated writers and debut novelists, offering the latter valuable exposure.",
+   "Biles personally hosts the events and, over the years, has interviewed hundreds of literary figures of varying fame. Many of these guests speak to France 24’s Perspective programme before or after their talks, and the outlet recently interviewed Biles for the same series."
+  ],
+  "headline_bn": "শেকসপিয়ার অ্যান্ড কোম্পানি প্যারিসের বইয়ের দোকানে বিখ্যাত ও নবলেখকদের স্বাগত জানায়",
+  "summary_bn": "সাহিত্যিক পরিচালক আদাম বাইলসের মতে, এই দোকান এখন উভয়ই পরিচিত এবং প্রথমবারের লেখকদের নিয়মিত আমন্ত্রণ করে।",
+  "body_bn": [
+   "ফ্রান্স ২৪ অনুযায়ী, প্যারিসের ইংরেজি‑ভাষী বইয়ের দোকান শেকসপিয়ার অ্যান্ড কোম্পানি এমন একটি খ্যাতি অর্জন করেছে যে লেখকরা সাধারণত আমন্ত্রণ গ্রহণ করে। সাহিত্যিক পরিচালক আদাম বাইলস উল্লেখ করেন যে, এই স্থানটি বিখ্যাত লেখক এবং নবলেখক উভয়কেই স্বাগত জানায়, নবলেখকদের জন্য মূল্যবান প্রকাশের সুযোগ প্রদান করে।",
+   "বাইলস নিজেই ইভেন্টগুলো পরিচালনা করেন এবং বছরের পর বছর শত শত বিভিন্ন পরিচিতি ও স্বল্প পরিচিতি সম্পন্ন সাহিত্যিকের সঙ্গে সাক্ষাৎকার নিয়েছেন। এই অতিথিদের অনেকেই ফ্রান্স ২৪-এর পার্সপেকটিভ প্রোগ্রামে তাদের উপস্থিতির আগে বা পরে কথা বলেন, এবং এই সিরিজের অংশ হিসেবে বাইলসের সঙ্গে সাম্প্রতিক সাক্ষাৎকারও নেওয়া হয়েছে।"
+  ],
+  "image_prompt": "Illustration of a cozy Paris bookshop interior with shelves of books and a small stage set for author talks, no people visible",
+  "category": "Culture",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/tv-shows/perspective/20261103-i-love-giving-debut-novelists-a-chance-shakespeare-and-company-s-adam-biles",
+  "source_title": "'I love giving debut novelists a chance': Shakespeare and Company's Adam Biles",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/tv-shows/perspective/20261103-i-love-giving-debut-novelists-a-chance-shakespeare-and-company-s-adam-biles",
+    "title": "'I love giving debut novelists a chance': Shakespeare and Company's Adam Biles"
+   }
+  ],
+  "published": "2026-11-03T13:24:32+00:00",
+  "added": "2026-11-03T14:01:01.256203+00:00",
+  "hidden": false
+ },
+ {
+  "id": "e3b67d021946",
+  "headline": "Police Pursued by Workers Move to Station, Tension Spreads Before Control Restored",
+  "summary": "After workers chased police to a station, tension rose locally until several police teams restored order.",
+  "body": [
+   "Workers chased police officers from a road to a nearby police station, where they attempted to surround the building, according to Prothom Alo.",
+   "The incident sparked tension in the station and surrounding area, but multiple police teams later joined the effort and brought the situation under control, the outlet reported."
+  ],
+  "headline_bn": "শ্রমিকদের ধাওয়ায় পুলিশ থানায়, উত্তেজনা ছড়িয়ে পরে নিয়ন্ত্রণ ফিরে আসে",
+  "summary_bn": "শ্রমিকদের ধাওয়ায় পুলিশ থানায় পৌঁছায়, এরপর বহু পুলিশ টিমের হস্তক্ষেপে পরিস্থিতি শিথিল হয়।",
+  "body_bn": [
+   "শ্রমিকরা রাস্তায় পুলিশকে ধাওয়া করে থানায় নিয়ে যায় এবং সেখানে ঘেরাও করার চেষ্টা করে, প্রথম আলো রিপোর্ট করেছে।",
+   "এই ঘটনার ফলে থানা ও আশপাশের এলাকায় উত্তেজনা ছড়িয়ে পড়ে, তবে পরে বহু পুলিশ টিম যুক্ত হয়ে পরিস্থিতি নিয়ন্ত্রণে আনে, সংবাদদাতা জানিয়েছেন।"
+  ],
+  "image_prompt": "illustration of police officers and workers in a tense street scene near a police station, with multiple police units arriving",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/9xtnrswbvg",
+  "source_title": "শ্রমিকদের ধাওয়ায় রাস্তা থেকে থানায় পুলিশ, পরে সেখানেও ঘেরাওয়ের চেষ্টা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/9xtnrswbvg",
+    "title": "শ্রমিকদের ধাওয়ায় রাস্তা থেকে থানায় পুলিশ, পরে সেখানেও ঘেরাওয়ের চেষ্টা"
+   }
+  ],
+  "published": "2026-11-03T13:22:15+00:00",
+  "added": "2026-11-03T14:01:09.172588+00:00",
+  "hidden": false
+ },
+ {
   "id": "b6ab04241d17",
   "headline": "French high schools see renewed student blockades as holidays end",
   "summary": "Students blocked dozens of high schools on Tuesday to pressure the government over education reforms, ahead of a planned union strike.",
