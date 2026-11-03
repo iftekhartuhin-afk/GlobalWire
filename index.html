@@ -1,62 +1,84 @@
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="bn"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Global Wire – International News</title>
-<meta name="description" content="AI-written briefs of international news, with links to the original reporting.">
+<title>Global Wire</title>
+<meta name="description" content="International news in Bengali and English, with links to the original reporting.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@400;700&family=Noto+Sans+Bengali:wght@400;600&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#fafaf7;--fg:#16181d;--mut:#667;--card:#fff;--line:#e3e3dc;--ac:#b3261e}
 @media(prefers-color-scheme:dark){:root{--bg:#101215;--fg:#eceef2;--mut:#98a0ad;--card:#181b20;--line:#2a2e36;--ac:#ff6b5e}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 Georgia,serif}
-a{color:inherit;text-decoration:none}small,.tag,nav,input,button{font-family:system-ui,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 "Noto Serif Bengali",Georgia,serif}
+a{color:inherit;text-decoration:none}small,.tag,nav,input,button{font-family:"Noto Sans Bengali",system-ui,sans-serif}
 header{border-bottom:3px solid var(--fg);padding:14px 16px 0;max-width:1100px;margin:auto}
-.top{display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.top{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap}
 .brand{font-size:1.9rem;font-weight:700;letter-spacing:-.5px}.brand b{color:var(--ac)}
-input{padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg);width:min(100%,260px);font-size:15px}
+input{padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg);width:min(100%,240px);font-size:15px}
+.lang button{padding:7px 12px;border:1px solid var(--line);background:var(--card);color:var(--fg);cursor:pointer;font-size:14px}
+.lang button:first-child{border-radius:8px 0 0 8px}.lang button:last-child{border-radius:0 8px 8px 0;border-left:0}.lang .on{background:var(--fg);color:var(--bg)}
 nav{display:flex;gap:4px;overflow-x:auto;padding:10px 0;font-size:14px}
 nav a{padding:5px 11px;border-radius:99px;white-space:nowrap}nav a.on,nav a:hover{background:var(--fg);color:var(--bg)}
 main{max-width:1100px;margin:auto;padding:18px 16px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px}
-.card h3{margin:6px 0;font-size:1.15rem;line-height:1.3}.card p{margin:6px 0;color:var(--mut);font-size:.95rem}
-.card:hover h3{color:var(--ac)}.hero{grid-column:1/-1}.hero h3{font-size:1.8rem}
-.tag{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ac);font-weight:700}
-small{color:var(--mut)}h1{line-height:1.2;margin:.3em 0}
-.src{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--ac);padding:14px;border-radius:8px;margin:20px 0;font-family:system-ui,sans-serif}
-.src a{color:var(--ac);font-weight:600}.art{max-width:720px;margin:auto}.art p.s{font-size:1.2rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden}.card .in{padding:14px 16px 16px}
+.th{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--line)}
+.card h3{margin:6px 0;font-size:1.15rem;line-height:1.4}.card p{margin:6px 0;color:var(--mut);font-size:.95rem}
+.card:hover h3{color:var(--ac)}.hero{grid-column:1/-1}.hero h3{font-size:1.7rem}
+.tag{font-size:12px;letter-spacing:.06em;color:var(--ac);font-weight:700}
+small{color:var(--mut)}h1{line-height:1.35;margin:.3em 0}
+.src{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--ac);padding:14px;border-radius:8px;margin:20px 0;font-family:"Noto Sans Bengali",system-ui,sans-serif}
+.src a{color:var(--ac);font-weight:600}.art{max-width:720px;margin:auto}.art p.s{font-size:1.15rem;font-weight:700}.art img{width:100%;border-radius:10px}
 button.more{display:block;margin:20px auto;padding:10px 22px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--fg);cursor:pointer}
-footer{max-width:1100px;margin:30px auto;padding:16px;border-top:1px solid var(--line);color:var(--mut);font:13px/1.5 system-ui,sans-serif}
+footer{max-width:1100px;margin:30px auto;padding:16px;border-top:1px solid var(--line);color:var(--mut);font:13px/1.6 "Noto Sans Bengali",system-ui,sans-serif}
 .empty{text-align:center;color:var(--mut);padding:60px 0}
 </style></head><body>
 <header><div class="top"><a href="#/" class="brand">Global<b>Wire</b></a>
-<input id="q" type="search" placeholder="Search news…" aria-label="Search"></div><nav id="nav"></nav></header>
-<main id="app"><p class="empty">Loading…</p></main>
-<footer>Summaries are generated by AI from publishers' public feed headlines and descriptions, and may contain errors. Always read the original article, linked on every story. All trademarks and original reporting belong to their respective publishers. <a href="admin.html" style="text-decoration:underline">Admin</a></footer>
+<div class="lang"><button id="lb" onclick="setL('bn')">বাংলা</button><button id="le" onclick="setL('en')">English</button></div>
+<input id="q" type="search" aria-label="Search"></div><nav id="nav"></nav></header>
+<main id="app"><p class="empty">…</p></main>
+<footer id="ft"></footer>
 <script>
 const CATS=["World","Politics","Business","Technology","Science","Health","Environment","Sports","Culture"];
-let A=[],shown=24;const $=s=>document.querySelector(s);
+const CB={World:"বিশ্ব",Politics:"রাজনীতি",Business:"অর্থনীতি",Technology:"প্রযুক্তি",Science:"বিজ্ঞান",Health:"স্বাস্থ্য",Environment:"পরিবেশ",Sports:"খেলা",Culture:"সংস্কৃতি"};
+const UI={en:{top:"Top",ph:"Search news…",more:"Load more",facts:"Facts reported by",orig:"Read the original reporting at the links above.",ai:"This article was written by AI from facts reported by the outlets named above. It may contain errors; check the original reporting.",img:"AI-generated illustration",none:"No stories found.",mi:"More in",res:"Results for",nf:"Story not found.",ft:"Articles are written by AI from facts reported by the outlets named on each story, and may contain errors. Illustrations are AI-generated. Original reporting is linked on every story."},
+bn:{top:"শীর্ষ খবর",ph:"খবর খুঁজুন…",more:"আরও দেখুন",facts:"তথ্যসূত্র",orig:"মূল প্রতিবেদন উপরের লিঙ্কে পড়ুন।",ai:"এই প্রতিবেদনটি উল্লিখিত সংবাদমাধ্যমের প্রকাশিত তথ্যের ভিত্তিতে এআই দিয়ে লেখা। এতে ভুল থাকতে পারে; মূল প্রতিবেদন দেখে নিন।",img:"এআই-নির্মিত চিত্র",none:"কোনো খবর পাওয়া যায়নি।",mi:"আরও",res:"অনুসন্ধানের ফল:",nf:"খবরটি পাওয়া যায়নি।",ft:"প্রতিটি খবর এআই দিয়ে লেখা, উল্লিখিত সংবাদমাধ্যমের প্রকাশিত তথ্যের ভিত্তিতে; ভুল থাকতে পারে। ছবিগুলো এআই-নির্মিত। মূল প্রতিবেদনের লিঙ্ক প্রতিটি খবরে দেওয়া আছে।"}};
+let A=[],shown=24,L="bn";try{L=localStorage.lang||"bn"}catch(e){}
+const $=s=>document.querySelector(s),u=()=>UI[L];
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const ago=d=>{const m=(Date.now()-new Date(d))/6e4;return m<60?Math.max(1,m|0)+" min ago":m<1440?(m/60|0)+" h ago":new Date(d).toLocaleDateString("en",{day:"numeric",month:"short",year:"numeric"})};
-const card=(a,h)=>`<article class="card${h?" hero":""}"><a href="#/a/${a.id}"><span class="tag">${esc(a.category)}</span><h3>${esc(a.headline)}</h3></a><p>${esc(a.summary)}</p><small>${esc(a.source)} · ${ago(a.published)}</small></article>`;
+const cat=c=>L=="bn"?CB[c]||c:c;
+const tx=(a,k)=>(L=="bn"&&a[k+"_bn"])||a[k];
+const body=a=>(L=="bn"&&a.body_bn&&a.body_bn.length)?a.body_bn:(a.body||[]);
+const ago=d=>{const m=(Date.now()-new Date(d))/6e4,n=x=>L=="bn"?x.toLocaleString("bn-BD"):x;
+ if(m<60)return n(Math.max(1,m|0))+(L=="bn"?" মিনিট আগে":" min ago");if(m<1440)return n(m/60|0)+(L=="bn"?" ঘণ্টা আগে":" h ago");
+ return new Date(d).toLocaleDateString(L=="bn"?"bn-BD":"en",{day:"numeric",month:"short",year:"numeric"})};
+const img=a=>a.image?`<img class="th" src="${esc(a.image)}" alt="" loading="lazy" onerror="this.remove()">`:"";
+const card=(a,h)=>`<article class="card${h?" hero":""}"><a href="#/a/${a.id}">${img(a)}<div class="in"><span class="tag">${esc(cat(a.category))}</span><h3>${esc(tx(a,"headline"))}</h3></a><p>${esc(tx(a,"summary"))}</p><small>${esc(a.source)} · ${ago(a.published)}</small></div></article>`;
 function list(items,title){
-  if(!items.length)return `<p class="empty">No stories found.</p>`;
-  return (title?`<h2>${esc(title)}</h2>`:"")+`<div class="grid">${items.slice(0,shown).map((a,i)=>card(a,i==0&&!title)).join("")}</div>`+(items.length>shown?`<button class="more" onclick="shown+=24;route()">Load more</button>`:"");
+  if(!items.length)return `<p class="empty">${u().none}</p>`;
+  return (title?`<h2>${esc(title)}</h2>`:"")+`<div class="grid">${items.slice(0,shown).map((a,i)=>card(a,i==0&&!title)).join("")}</div>`+(items.length>shown?`<button class="more" onclick="shown+=24;route()">${u().more}</button>`:"");
 }
+function setL(l){L=l;try{localStorage.lang=l}catch(e){}route()}
 function route(){
+  document.documentElement.lang=L;$("#lb").className=L=="bn"?"on":"";$("#le").className=L=="en"?"on":"";
+  $("#q").placeholder=u().ph;$("#ft").innerHTML=esc(u().ft)+' <a href="admin.html" style="text-decoration:underline">Admin</a>';
   const [,k,v]=decodeURIComponent(location.hash).split("/");
-  $("#nav").innerHTML=`<a href="#/" class="${!k?"on":""}">Top</a>`+CATS.map(c=>`<a href="#/c/${c}" class="${v==c?"on":""}">${c}</a>`).join("");
-  let h="",t="Global Wire – International News";
-  if(k=="c"){h=list(A.filter(a=>a.category==v),v);t=v+" News – Global Wire"}
-  else if(k=="s"){const w=(v||"").toLowerCase().split(/\s+/).filter(Boolean);h=list(A.filter(a=>w.every(x=>(a.headline+" "+a.summary+" "+a.source+" "+a.category).toLowerCase().includes(x))),`Results for “${v}”`)}
+  $("#nav").innerHTML=`<a href="#/" class="${!k?"on":""}">${u().top}</a>`+CATS.map(c=>`<a href="#/c/${c}" class="${v==c?"on":""}">${cat(c)}</a>`).join("");
+  let h="",t="Global Wire";
+  if(k=="c"){h=list(A.filter(a=>a.category==v),cat(v));t=cat(v)+" – Global Wire"}
+  else if(k=="s"){const w=(v||"").toLowerCase().split(/\s+/).filter(Boolean);h=list(A.filter(a=>w.every(x=>[a.headline,a.summary,a.headline_bn,a.summary_bn,a.source,a.category].join(" ").toLowerCase().includes(x))),`${u().res} “${v}”`)}
   else if(k=="a"){const a=A.find(x=>x.id==v);
-    if(a){t=a.headline;h=`<div class="art"><span class="tag">${esc(a.category)}</span><h1>${esc(a.headline)}</h1><small>${esc(a.source)} · ${new Date(a.published).toUTCString()}</small><p class="s">${esc(a.summary)}</p>
-    <div class="src">Source: <b>${esc(a.source)}</b><br>Original headline: ${esc(a.source_title)}<br><a href="${esc(a.source_url)}" target="_blank" rel="noopener nofollow">Read the full original article →</a></div>
-    <small>This brief was written by AI from the publisher's feed description. It is not a substitute for the original reporting.</small>
-    <h3>More in ${esc(a.category)}</h3><div class="grid">${A.filter(x=>x.category==a.category&&x.id!=a.id).slice(0,3).map(x=>card(x)).join("")}</div></div>`}
-    else h=`<p class="empty">Story not found.</p>`}
+    if(a){t=tx(a,"headline");h=`<div class="art"><span class="tag">${esc(cat(a.category))}</span><h1>${esc(tx(a,"headline"))}</h1><small>${esc(a.source)} · ${new Date(a.published).toLocaleString(L=="bn"?"bn-BD":"en")}</small>
+    ${a.image?`<p><img src="${esc(a.image)}" alt="" onerror="this.parentNode.remove()"><small>${u().img}</small></p>`:""}
+    <p class="s">${esc(tx(a,"summary"))}</p>${body(a).map(p=>`<p>${esc(p)}</p>`).join("")}
+    <div class="src">${u().facts}: ${(a.sources||[{name:a.source,url:a.source_url}]).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener nofollow">${esc(x.name)}</a>`).join(" · ")}<br><small>${u().orig}</small></div>
+    <small>${u().ai}</small>
+    <h3>${u().mi} ${cat(a.category)}</h3><div class="grid">${A.filter(x=>x.category==a.category&&x.id!=a.id).slice(0,3).map(x=>card(x)).join("")}</div></div>`}
+    else h=`<p class="empty">${u().nf}</p>`}
   else h=list(A);
   $("#app").innerHTML=h;document.title=t;if(k!="a")scrollTo(0,0)
 }
 $("#q").addEventListener("keydown",e=>{if(e.key=="Enter"&&e.target.value.trim()){shown=24;location.hash="#/s/"+encodeURIComponent(e.target.value.trim())}});
 addEventListener("hashchange",()=>{shown=24;route()});
 fetch("data/articles.json?t="+Date.now()).then(r=>r.json()).then(d=>{A=d.filter(a=>!a.hidden);route()}).catch(()=>{$("#app").innerHTML=`<p class="empty">Could not load news.</p>`});
+route();
 </script></body></html>
