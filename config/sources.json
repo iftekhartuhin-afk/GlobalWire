@@ -56,13 +56,6 @@
       "notes": "Terms restrict automated reuse. Off by default."
     },
     {
-      "name": "Jugantor",
-      "url": "https://www.jugantor.com/feed/rss.xml",
-      "enabled": true,
-      "terms_url": "",
-      "notes": "Check this source's terms, then enable."
-    },
-    {
       "name": "Prothom Alo",
       "url": "https://www.prothomalo.com/feed/",
       "enabled": true,
