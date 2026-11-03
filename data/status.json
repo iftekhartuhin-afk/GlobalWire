@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-03T13:59:48.783757+00:00",
+ "last_run": "2026-11-03T14:29:00.395469+00:00",
  "sources": {
   "UN News": {
    "ok": false,
@@ -7,7 +7,7 @@
   },
   "DW": {
    "ok": true,
-   "items": 124
+   "items": 125
   },
   "France 24": {
    "ok": true,
@@ -21,16 +21,13 @@
    "ok": true,
    "items": 10
   },
-  "Jugantor": {
-   "ok": false,
-   "error": "syntax error: line 1, column 0"
-  },
   "Prothom Alo": {
    "ok": true,
-   "items": 83
+   "items": 102
   }
  },
  "added": 8,
  "paused": false,
- "images": 1
+ "images": 0,
+ "facebook": "posted 2"
 }
