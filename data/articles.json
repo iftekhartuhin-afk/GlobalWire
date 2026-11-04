@@ -1,5 +1,246 @@
 [
  {
+  "id": "98781cff575f",
+  "headline": "EU says Montenegro on track for membership by 2028",
+  "summary": "Brussels indicates Montenegro could join as the 28th EU member, with Albania and Moldova next, while urging Ukraine to accelerate reforms.",
+  "body": [
+   "EU officials in Brussels stated that Montenegro is expected to become the European Union’s 28th member state by 2028, placing it ahead of Albania and Moldova in the accession schedule.",
+   "The same briefing noted that Ukraine must speed up its reform agenda and that the progress of Montenegro offers renewed optimism for Serbia following its elections last month."
+  ],
+  "headline_bn": "ইইউ জানিয়েছে মন্টেনেগ্রো ২০২৮ সালের মধ্যে সদস্য হতে পারে",
+  "summary_bn": "ব্রাসেলসের মতে মন্টেনেগ্রো ২৮তম সদস্য, আলবেনিয়া ও মোলদাভিয়া পরের দিকে, ইউক্রেনকে সংস্কার ত্বরান্বিত করতে আহ্বান জানায়।",
+  "body_bn": [
+   "ব্রাসেলসের ইইউ কর্মকর্তারা জানিয়েছেন যে মন্টেনেগ্রো ২০২৮ সালের মধ্যে ইউরোপীয় ইউনিয়নের ২৮তম সদস্য রাষ্ট্র হতে পারে, যা আলবেনিয়া ও মোলদাভিয়ার আগে আসবে।",
+   "একই বিবৃতিতে ইউক্রেনকে সংস্কার দ্রুত করতে বলা হয়েছে এবং মন্টেনেগ্রোর অগ্রগতি সেরবিয়ার সাম্প্রতিক নির্বাচনের পর নতুন আশার সঞ্চার করেছে।"
+  ],
+  "image_prompt": "illustration of European Union map highlighting Montenegro, Albania, Moldova, with symbolic EU stars, no faces or logos",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/eu-says-montenegro-on-track-to-become-bloc-s-next-member-state-by-2028/a-79855011?maca=en-rss-en-all-1573-rdf",
+  "source_title": "EU says Montenegro on track to become bloc's next member state by 2028",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/eu-says-montenegro-on-track-to-become-bloc-s-next-member-state-by-2028/a-79855011?maca=en-rss-en-all-1573-rdf",
+    "title": "EU says Montenegro on track to become bloc's next member state by 2028"
+   }
+  ],
+  "published": "2026-11-04T14:49:00+00:00",
+  "added": "2026-11-04T14:56:44.507894+00:00",
+  "hidden": false,
+  "image": "data/img/98781cff575f.jpg"
+ },
+ {
+  "id": "953111a7d8ac",
+  "headline": "Democrats achieve historic midterm gains, Trump loses congressional control",
+  "summary": "Democrats secured historic gains in the US midterm elections, stripping President Trump of congressional control, according to Al Jazeera English.",
+  "body": [
+   "The recent United States midterm elections resulted in historic gains for the Democratic Party, according to Al Jazeera English. The outcome removed President Donald Trump’s party from control of both the House of Representatives and the Senate, ending his congressional majority.",
+   "The shift marks a major setback for President Trump, as reported by Al Jazeera English, and signals a new balance of power in Washington.",
+   "Al Jazeera English described the Democratic gains as historic, underscoring the scale of the change in congressional representation."
+  ],
+  "headline_bn": "ডেমোক্র্যাটরা অর্জন করেছে ঐতিহাসিক মিডটার্ম জয়, ট্রাম্প হারিয়েছেন কংগ্রেসের নিয়ন্ত্রণ",
+  "summary_bn": "অল জাজিরা ইংরেজি অনুযায়ী, ডেমোক্র্যাটরা যুক্তরাষ্ট্রের মিডটার্ম নির্বাচনে ঐতিহাসিক জয় অর্জন করে, প্রেসিডেন্ট ট্রাম্পের কংগ্রেসের নিয়ন্ত্রণ শেষ হয়েছে।",
+  "body_bn": [
+   "সাম্প্রতিক যুক্তরাষ্ট্রের মিডটার্ম নির্বাচনে ডেমোক্র্যাটিক পার্টি ঐতিহাসিক জয় অর্জন করেছে, অল জাজিরা ইংরেজি রিপোর্ট করেছে। ফলস্বরূপ প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের দল হাউস অফ রিপ্রেজেন্টেটিভস ও সেনেট উভয়ের নিয়ন্ত্রণ হারিয়ে ফেলেছে, তার কংগ্রেসীয় সংখ্যাগরিষ্ঠতা শেষ হয়েছে।",
+   "এই পরিবর্তনটি প্রেসিডেন্ট ট্রাম্পের জন্য বড় ব্যর্থতা হিসেবে চিহ্নিত হয়েছে, অল জাজিরা ইংরেজি উল্লেখ করেছে, এবং ওয়াশিংটনে ক্ষমতার নতুন ভারসাম্য নির্দেশ করে।",
+   "অল জাজিরা ইংরেজি ডেমোক্র্যাটদের অর্জনকে ঐতিহাসিক বলে বর্ণনা করেছে, যা কংগ্রেসীয় প্রতিনিধিত্বে উল্লেখযোগ্য পরিবর্তনকে তুলে ধরে।"
+  ],
+  "image_prompt": "Illustration of the US Capitol interior with empty seats, highlighting Democratic and Republican symbols, no faces, flags, logos, or text.",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
+  "source_title": "Trump loses control of Congress",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
+    "title": "Trump loses control of Congress"
+   }
+  ],
+  "published": "2026-11-04T14:42:23+00:00",
+  "added": "2026-11-04T14:56:55.180368+00:00",
+  "hidden": false
+ },
+ {
+  "id": "b93c1b7766ad",
+  "headline": "Bangladesh Seeks Korean Funding for Metro Rail and Two Other Projects",
+  "summary": "Bangladesh's finance minister led a delegation that met Korean officials to request financing for three projects, including the metro rail.",
+  "body": [
+   "A delegation led by Bangladesh's finance minister met on Tuesday with officials from the Export‑Import Bank of Korea (KEXIM), the Korea Investment Corporation (KIC) and senior representatives of leading Korean companies and technology institutions.",
+   "The purpose of the talks was to request Korean financing for three Bangladeshi projects, one of which is the metro rail system, according to Prothom Alo.",
+   "The appeal underscores Bangladesh's strategy to attract foreign investment for large‑scale infrastructure development."
+  ],
+  "headline_bn": "বাংলাদেশ কোরিয়ার কাছে মেট্রোরেলসহ তিন প্রকল্পের জন্য তহবিল চেয়েছে",
+  "summary_bn": "অর্থমন্ত্রীর নেতৃত্বে দল কোরিয়ার এক্সপোর্ট-ইমপোর্ট ব্যাংক ও কেএআইসি সহ শীর্ষ সংস্থার সঙ্গে বৈঠক করে তহবিলের অনুরোধ জানায়।",
+  "body_bn": [
+   "অর্থমন্ত্রীর নেতৃত্বে বাংলাদেশ দল গতকাল মঙ্গলবার কোরিয়ার এক্সপোর্ট‑ইমপোর্ট ব্যাংক (কেক্সিম), কোরিয়া ইনভেস্টমেন্ট কর্পোরেশন (কেএআইসি) এবং শীর্ষস্থানীয় কোম্পানি ও প্রযুক্তি প্রতিষ্ঠানের কর্মকর্তাদের সঙ্গে বৈঠক করে।",
+   "বৈঠকের মূল উদ্দেশ্য ছিল মেট্রোরেলসহ তিনটি প্রকল্পের জন্য কোরিয়ান তহবিলের অনুরোধ করা, যা প্রথাম আলো রিপোর্ট করেছে।",
+   "এই অনুরোধ বাংলাদেশকে বৃহৎ পরিসরের অবকাঠামো প্রকল্পে বিদেশি বিনিয়োগ আকর্ষণ করার পরিকল্পনা নির্দেশ করে।"
+  ],
+  "image_prompt": "Illustration of a meeting table with Bangladesh and South Korea flags, documents and financial charts, no faces",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/business/economics/bz9v3nbdid",
+  "source_title": "মেট্রোরেলসহ তিন প্রকল্পের জন্য কোরিয়ার কাছে অর্থ চেয়েছে বাংলাদেশ",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/business/economics/bz9v3nbdid",
+    "title": "মেট্রোরেলসহ তিন প্রকল্পের জন্য কোরিয়ার কাছে অর্থ চেয়েছে বাংলাদেশ"
+   }
+  ],
+  "published": "2026-11-04T14:36:51+00:00",
+  "added": "2026-11-04T14:57:03.946116+00:00",
+  "hidden": false
+ },
+ {
+  "id": "ef0ccadfcc9a",
+  "headline": "Western US continues vote tally after election day, Al Jazeera asks why",
+  "summary": "Al Jazeera English notes ongoing vote counting in the western United States after election day.",
+  "body": [
+   "According to Al Jazeera English, vote counting in several western states of the United States is still underway after the official election day has passed. The outlet highlights that the continuation of the tally has raised questions about the timing and procedures used in those jurisdictions. While the report does not provide specific reasons, it points to the ongoing process as a point of public interest and scrutiny. Observers note that the extended counting period is part of the broader electoral landscape in the region."
+  ],
+  "headline_bn": "পশ্চিম যুক্তরাষ্ট্রে ভোট গণনা নির্বাচন দিবসের পরও চলছে, আল জাজিরা জিজ্ঞাসা করে কেন",
+  "summary_bn": "আল জাজিরা ইংলিশ উল্লেখ করেছে যে পশ্চিম যুক্তরাষ্ট্রে নির্বাচন দিবসের পরও ভোট গণনা চলছে।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের মতে, যুক্তরাষ্ট্রের কয়েকটি পশ্চিমা রাজ্যে নির্বাচন দিবসের পরেও ভোট গণনা চালু রয়েছে। এই ধারাবাহিকতা স্থানীয় নির্বাচন প্রক্রিয়া ও সময়সূচি সম্পর্কে প্রশ্ন উত্থাপন করেছে। প্রতিবেদনে নির্দিষ্ট কোনো কারণ উল্লেখ না করলেও, চলমান গণনাকে জনসাধারণের দৃষ্টি ও পর্যবেক্ষণের বিষয় হিসেবে তুলে ধরা হয়েছে। বিশ্লেষকরা উল্লেখ করেন, এই দীর্ঘমেয়াদী গণনা অঞ্চলটির বিস্তৃত নির্বাচন পরিবেশের অংশ।"
+  ],
+  "image_prompt": "Illustration of ballot boxes and election officials counting votes inside a government building, generic scene, no faces, flags, logos, or text",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss",
+  "source_title": "Why is the western US still counting votes after election day?",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss",
+    "title": "Why is the western US still counting votes after election day?"
+   }
+  ],
+  "published": "2026-11-04T14:35:54+00:00",
+  "added": "2026-11-04T14:57:12.253067+00:00",
+  "hidden": false
+ },
+ {
+  "id": "b4cf2b43d313",
+  "headline": "Ilhan Omar Re‑elected, First Hijab‑Wearing Woman in US Congress",
+  "summary": "Prothom Alo reports that Ilhan Omar, who escaped Somalia’s civil war and a Kenyan refugee camp, was re‑elected to the US House, marking her historic first as a hijab‑wearing member.",
+  "body": [
+   "Ilhan Omar has been re‑elected to the United States House of Representatives, according to Prothom Alo. She secured a large margin of votes, reinforcing her historic status as the first hijab‑wearing woman in the U.S. Congress.",
+   "Omar’s journey began when she fled the civil war in Somalia and later lived in a refugee camp in Kenya before resettling in the United States. Her re‑election underscores the significance of her background and the representation she brings to American politics."
+  ],
+  "headline_bn": "ইলহান ওমার পুনর্নির্বাচিত, প্রথম হিজাব পরা মার্কিন কংগ্রেস সদস্য",
+  "summary_bn": "প্রথম আলো জানায়, সোমালিয়া গৃহযুদ্ধ ও কেনিয়া শরণার্থী শিবির অতিক্রম করে ইলহান ওমার মার্কিন হাউস অফ রিপ্রেজেন্টেটিভসে পুনর্নির্বাচিত হন, প্রথম হিজাব পরা নারী হিসেবে।",
+  "body_bn": [
+   "প্রথম আলো অনুসারে ইলহান ওমার মার্কিন হাউস অফ রিপ্রেজেন্টেটিভসে পুনর্নির্বাচিত হয়েছেন। তিনি বিপুল ভোটে জয়লাভ করে প্রথম হিজাব পরা নারী হিসেবে মার্কিন কংগ্রেসে তার ঐতিহাসিক স্থানকে দৃঢ় করেছেন।",
+   "ওমার সোমালিয়ার গৃহযুদ্ধ থেকে পালিয়ে কেনিয়ার শরণার্থী শিবিরে ছিলেন, এরপর যুক্তরাষ্ট্রে স্থায়ী হন। তার পুনর্নির্বাচন তার পটভূমি ও আমেরিকান রাজনীতিতে তার প্রতিনিধিত্বের গুরুত্বকে তুলে ধরে।"
+  ],
+  "image_prompt": "illustration of a female politician in a hijab standing before the US Capitol building, symbolic representation, no faces or logos",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.haal.fashion/celeb/yby958w7fu",
+  "source_title": "সোমালিয়ার গৃহযুদ্ধ, কেনিয়ার শরণার্থী শিবির পেরিয়ে প্রথম হিজাব পরা নারী মার্কিন কংগ্রেস সদস্য হয়েছিলেন বিপুল ভোটে পুনর্নির্বাচিত ইলহান",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.haal.fashion/celeb/yby958w7fu",
+    "title": "সোমালিয়ার গৃহযুদ্ধ, কেনিয়ার শরণার্থী শিবির পেরিয়ে প্রথম হিজাব পরা নারী মার্কিন কংগ্রেস সদস্য হয়েছিলেন বিপুল ভোটে পুনর্নির্বাচিত ইলহান"
+   }
+  ],
+  "published": "2026-11-04T14:28:38+00:00",
+  "added": "2026-11-04T14:57:21.189813+00:00",
+  "hidden": false
+ },
+ {
+  "id": "fc979da2966a",
+  "headline": "Abdul El‑Sayed poised to become first Muslim U.S. senator after Michigan win",
+  "summary": "He credited humour and hope to counter racist attacks, including those from Donald Trump, according to France 24.",
+  "body": [
+   "Abdul El‑Sayed is set to become the first Muslim senator in United States history after winning the midterm election in Michigan. The victory came despite what he described as racist attacks, among them statements from former President Donald Trump. France 24 reported that El‑Sayed responded to the attacks with a blend of humour and hope, a strategy highlighted by the outlet’s correspondent Jessica Le Masurier. The result marks a historic milestone in U.S. politics."
+  ],
+  "headline_bn": "অবদুল এল‑সায়েদ মিশিগানে জয় পেয়ে প্রথম মুসলিম মার্কিন সেনেটর হতে চলেছেন",
+  "summary_bn": "ফ্রান্স ২৪ অনুযায়ী, তিনি ডোনাল্ড ট্রাম্পসহ বর্ণবাদী আক্রমণকে হাসি ও আশার মাধ্যমে প্রত্যাখ্যান করেছেন।",
+  "body_bn": [
+   "অবদুল এল‑সায়েদ মিশিগানের মিডটার্ম নির্বাচনে জয়লাভ করে যুক্তরাষ্ট্রের ইতিহাসে প্রথম মুসলিম সেনেটর হতে যাচ্ছেন। তার জয়কে তিনি বর্ণবাদী আক্রমণ, যার মধ্যে ডোনাল্ড ট্রাম্পের মন্তব্যও অন্তর্ভুক্ত, অস্বীকার করেছেন। ফ্রান্স ২৪ রিপোর্ট করেছে যে, এল‑সায়েদ হাসি ও আশার মিশ্রণ দিয়ে এই আক্রমণগুলোর মোকাবিলা করেছেন, যা এই মিডিয়ার প্রতিবেদক জেসিকা লে মাসুরি উল্লেখ করেছেন। এই ফলাফল যুক্তরাষ্ট্রের রাজনীতিতে একটি ঐতিহাসিক মাইলফলক চিহ্নিত করে।"
+  ],
+  "image_prompt": "Illustration of a US Senate chamber with a symbolic empty seat and a hopeful light, no faces or logos",
+  "category": "Politics",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/video/20261104-midterms-how-abdul-el-sayed-used-humour-and-hope-to-rebuff-racism",
+  "source_title": "Midterms: How Abdul El-Sayed used 'humour and hope' to rebuff racism",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261104-midterms-how-abdul-el-sayed-used-humour-and-hope-to-rebuff-racism",
+    "title": "Midterms: How Abdul El-Sayed used 'humour and hope' to rebuff racism"
+   }
+  ],
+  "published": "2026-11-04T14:25:15+00:00",
+  "added": "2026-11-04T14:57:28.657867+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4887e9701545",
+  "headline": "Mustafizur's BBL debut brings ticket discount for Bangladeshi expats in Australia",
+  "summary": "অস্ট্রেলিয়ায় বসবাসকারী প্রবাসীরা মোস্তাফিজের আসন্ন বিগ ব্যাশ লিগ অভিষেকে বিশেষ ছাড় পাবেন।",
+  "body": [
+   "Special ticket discounts will be offered to expatriates living in Australia for the upcoming Big Bash League debut of Mustafizur, according to Prothom Alo. The 16th season of the tournament is scheduled to run from December 12 until January 26 of next year.",
+   "Prior to his appearance in the Big Bash League, Mustafizur is set to play for Dubai Capitals in the ILT20, as reported by Prothom Alo."
+  ],
+  "headline_bn": "মোস্তাফিজের বিগ ব্যাশ অভিষেকে অস্ট্রেলিয়াপ্রবাসীদের জন্য বিশেষ ছাড়ের ঘোষণা",
+  "summary_bn": "",
+  "body_bn": [
+   "প্রথম আলোর তথ্য অনুযায়ী, মোস্তাফিজের বিগ ব্যাশ লিগের আসন্ন অভিষেক উপলক্ষে অস্ট্রেলিয়ায় বসবাসকারী প্রবাসী বাংলাদেশিদের জন্য বিশেষ ছাড়ের ব্যবস্থা করা হয়েছে। আগামী ১২ ডিসেম্বর শুরু হয়ে এই টুর্নামেন্টের ১৬তম আসরটি চলবে আগামী বছরের ২৬ জানুয়ারি পর্যন্ত।",
+   "প্রথম আলো জানিয়েছে, বিগ ব্যাশ লিগে খেলার আগে মোস্তাফিজ দুবাই ক্যাপিটালসের হয়ে আইএল টি-টুয়েন্টিতে অংশ নেবেন।"
+  ],
+  "image_prompt": "A generic cricket stadium under lights with a cricket pitch, no people, flags, or text",
+  "category": "Sports",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/sports/cricket/zyx8ll5s1m",
+  "source_title": "মোস্তাফিজের বিগব্যাশ অভিষেকে অস্ট্রেলিয়াপ্রবাসীদের জন্য বিশেষ ছাড়",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/sports/cricket/zyx8ll5s1m",
+    "title": "মোস্তাফিজের বিগব্যাশ অভিষেকে অস্ট্রেলিয়াপ্রবাসীদের জন্য বিশেষ ছাড়"
+   }
+  ],
+  "published": "2026-11-04T14:15:00+00:00",
+  "added": "2026-11-04T14:58:22.104892+00:00",
+  "hidden": false
+ },
+ {
+  "id": "075f81e9812e",
+  "headline": "Trump blames loss on not being on ballot as France 24 ties midterms to his decisions",
+  "summary": "After Republicans lost control of Congress, Donald Trump claimed his absence cost the party, while France 24 says the defeat stems from his own choices.",
+  "body": [
+   "Donald Trump responded to the Republican defeat in the recent midterm elections by asserting that the party would have retained Congress had he been on the ballot. He suggested that his absence was the primary reason for the loss.",
+   "France 24’s Washington correspondent Fraser Jackson countered the claim, stating that the “blue wave” that handed Democrats control of Congress can be traced directly to decisions made by Trump. The analysis links the party’s setbacks to his actions rather than his candidacy."
+  ],
+  "headline_bn": "ট্রাম্প দাবি করেন ভোটে না থাকলে পার্টি জিতত, ফ্রান্স২৪ বলেন তার সিদ্ধান্তই কারণ",
+  "summary_bn": "রিপাবলিকানদের কংগ্রেস হারার পর ট্রাম্প বলেন তার অনুপস্থিতি ফল, তবে ফ্রান্স২৪ের বিশ্লেষণে তার সিদ্ধান্তই মূল কারণ বলে উল্লেখ করা হয়েছে।",
+  "body_bn": [
+   "ডোনাল্ড ট্রাম্প সাম্প্রতিক মিডটার্ম নির্বাচনে রিপাবলিকানদের পরাজয়ের পর দাবি করেছেন যে তিনি যদি প্রার্থী হতেন তবে দল কংগ্রেস বজায় রাখত। তিনি তার অনুপস্থিতিকে হারার প্রধান কারণ হিসেবে উল্লেখ করেছেন।",
+   "ফ্রান্স২৪ের ওয়াশিংটন প্রতিবেদক ফ্রেজার জ্যাকসন এই দাবির বিরোধিতা করে বলেন, ডেমোক্র্যাটদের কংগ্রেস জয় করা ‘ব্লু ওয়েভ’ সরাসরি ট্রাম্পের সিদ্ধান্তের ফল। বিশ্লেষণে বলা হয়েছে পার্টির ব্যর্থতা তার কাজের সঙ্গে যুক্ত, প্রার্থীর উপস্থিতি নয়।"
+  ],
+  "image_prompt": "illustration of a political rally with empty ballot box and wave of blue color representing Democratic surge",
+  "category": "Politics",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/video/20261104-trump-seeks-to-shift-blame-but-has-nowhere-to-hide-after-midterms-defeat",
+  "source_title": "Trump seeks to shift blame but has 'nowhere to hide' after midterms defeat",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261104-trump-seeks-to-shift-blame-but-has-nowhere-to-hide-after-midterms-defeat",
+    "title": "Trump seeks to shift blame but has 'nowhere to hide' after midterms defeat"
+   }
+  ],
+  "published": "2026-11-04T14:13:47+00:00",
+  "added": "2026-11-04T14:58:31.887606+00:00",
+  "hidden": false
+ },
+ {
   "id": "0427c8353657",
   "headline": "Democrats Secure Majority in US House and Senate, Vote Count Ongoing",
   "summary": "Democrats have taken control of both chambers as vote tallies continue, with DW analysing the partisan voting patterns.",
