@@ -1,5 +1,250 @@
 [
  {
+  "id": "3724dbec2f45",
+  "headline": "Ballot scanner glitch disrupts voting in New York suburbs",
+  "summary": "Al Jazeera English reports that voting machine scanner failures occurred at polling sites about 50 km north of New York City, affecting the voting process.",
+  "body": [
+   "Al Jazeera English reported that a technical malfunction in ballot-scanning machines disrupted voting at several polling stations located approximately 50 kilometres north of New York City. The scanner failures prevented the normal processing of paper ballots, causing delays and requiring election officials to resort to alternative counting methods. The issue was confined to the specified area and was identified during the ongoing election day operations. Authorities are working to resolve the problem and ensure that voters can cast their votes without further interruption."
+  ],
+  "headline_bn": "নিউ ইয়র্কের উত্তরাঞ্চলে ভোট স্ক্যানার ত্রুটি ভোটিং প্রক্রিয়া ব্যাহত",
+  "summary_bn": "আল জাজিরা ইংলিশের মতে, নিউ ইয়র্ক সিটির ৫০ কিমি উত্তরে অবস্থিত কয়েকটি ভোট কেন্দ্রের ভোট স্ক্যানার ব্যর্থ হয়েছে।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশ জানিয়েছে যে, নিউ ইয়র্ক সিটির প্রায় ৫০ কিলোমিটার উত্তরে অবস্থিত কয়েকটি ভোট কেন্দ্রের ভোট স্ক্যানার মেশিনে প্রযুক্তিগত ত্রুটি ঘটেছে, যার ফলে ভোটিং প্রক্রিয়া ব্যাহত হয়েছে। স্ক্যানার ব্যর্থতার ফলে কাগজের ভোটের স্বয়ংক্রিয় প্রক্রিয়াকরণ বন্ধ হয়ে যায়, যা ভোটারদের জন্য দেরি সৃষ্টি করে এবং নির্বাচন কর্মকর্তাদের বিকল্প গণনা পদ্ধতি ব্যবহার করতে বাধ্য করে। সমস্যাটি নির্দিষ্ট এলাকায় সীমাবদ্ধ এবং নির্বাচন দিনের চলমান কার্যক্রমের সময় শনাক্ত হয়েছে। কর্তৃপক্ষ সমস্যার সমাধানে কাজ করছে যাতে ভোটাররা অতিরিক্ত বাধা ছাড়াই ভোট দিতে পারেন।"
+  ],
+  "image_prompt": "Illustration of a voting booth with a malfunctioning ballot scanner and empty polling area, generic city backdrop",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
+  "source_title": "Ballot scanner glitch disrupts voting in New York",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
+    "title": "Ballot scanner glitch disrupts voting in New York"
+   }
+  ],
+  "published": "2026-11-04T00:08:02+00:00",
+  "added": "2026-11-04T00:16:28.221203+00:00",
+  "hidden": false,
+  "image": "data/img/3724dbec2f45.jpg"
+ },
+ {
+  "id": "d5a29ca6b4fd",
+  "headline": "Iran says it has 'maximum deterrence' plan ready for any new US attack",
+  "summary": "Iran announced a ready 'maximum deterrence' plan to respond immediately to any further US attack, according to Al Jazeera English.",
+  "body": [
+   "Iran has announced that a 'maximum deterrence' plan is prepared to respond immediately to any new US attack, according to Al Jazeera English.",
+   "The statement underscores Tehran's readiness to launch an immediate response if the United States initiates further strikes."
+  ],
+  "headline_bn": "ইরান বলছে নতুন মার্কিন আক্রমণের জন্য 'সর্বোচ্চ প্রতিরোধ' পরিকল্পনা প্রস্তুত",
+  "summary_bn": "আল জাজিরা ইংরেজি অনুযায়ী ইরান কোনো নতুন মার্কিন আক্রমণে তাৎক্ষণিক প্রতিক্রিয়ার জন্য সর্বোচ্চ প্রতিরোধ পরিকল্পনা প্রস্তুত করেছে।",
+  "body_bn": [
+   "ইরান সরকার জানিয়েছে যে যুক্তরাষ্ট্রের কোনো নতুন আক্রমণের বিরুদ্ধে তাৎক্ষণিক প্রতিক্রিয়া জানাতে 'সর্বোচ্চ প্রতিরোধ' পরিকল্পনা প্রস্তুত রয়েছে।",
+   "আল জাজিরা ইংরেজি সূত্রে উল্লেখ করা হয়েছে যে, ইরান এই পরিকল্পনা কোনো নতুন আক্রমণ ঘটলে তৎক্ষণাৎ কার্যকর করবে।"
+  ],
+  "image_prompt": "Abstract illustration of a military deterrence plan, showing symbolic defenses and warning signs, no faces, flags, logos or text",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+  "source_title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+    "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack"
+   }
+  ],
+  "published": "2026-11-04T00:00:00+00:00",
+  "added": "2026-11-04T00:16:36.318098+00:00",
+  "hidden": false
+ },
+ {
+  "id": "f50c4fffbe0c",
+  "headline": "Post‑election government faces task of rebuilding near‑collapsed state apparatus",
+  "summary": "After Bangladesh's 13th parliamentary election, any ruling party must tackle the major challenge of restoring a severely weakened state structure, according to Prothom Alo.",
+  "body": [
+   "Following Bangladesh's 13th parliamentary election, the party that assumes power will encounter a substantial challenge in governing a weakened system.",
+   "Prothom Alo reports that the foremost obstacle is the reconstruction of a state apparatus that has been reduced to near collapse.",
+   "Restoring functional institutions is essential for effective governance and public service delivery, making the task a critical test for the new administration.",
+   "The difficulty of reviving administrative capacity may influence the government's ability to implement policies and maintain public confidence."
+  ],
+  "headline_bn": "১৩তম সংসদ নির্বাচনের পর সরকারকে পুনর্গঠন করা ধ্বংসপ্রায় রাষ্ট্রব্যবস্থা",
+  "summary_bn": "প্রথম আলো অনুযায়ী, ১৩তম সংসদ নির্বাচনের পর যে কোনো শাসন দলকে ধ্বংসপ্রায় রাষ্ট্রব্যবস্থা পুনর্নির্মাণের বড় চ্যালেঞ্জের মুখোমুখি হতে হবে।",
+  "body_bn": [
+   "বাংলাদেশের ১৩তম সংসদ নির্বাচনের পর ক্ষমতায় আসা দলকে দুর্বল ব্যবস্থাকে শাসনের বড় চ্যালেঞ্জের সম্মুখীন হতে হবে।",
+   "প্রথম আলো জানিয়েছে, প্রধান বাধা হল ধ্বংসপ্রায় অবস্থায় থাকা রাষ্ট্রব্যবস্থার পুনর্গঠন।",
+   "প্রয়োজনীয় প্রতিষ্ঠানগুলোকে পুনরুজ্জীবিত করা কার্যকর শাসন ও জনসেবা নিশ্চিত করার জন্য অপরিহার্য, যা নতুন সরকারের জন্য গুরুত্বপূর্ণ পরীক্ষা।",
+   "প্রশাসনিক সক্ষমতা পুনরুদ্ধারের কঠিনতা নীতি বাস্তবায়ন ও জনবিশ্বাস বজায় রাখার সক্ষমতাকে প্রভাবিত করতে পারে।"
+  ],
+  "image_prompt": "Illustration of a government building under renovation, symbolizing reconstruction of a weakened state apparatus",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/af0vs27r7z",
+  "source_title": "চ্যালেঞ্জ আছে, কিন্তু জনগণের সরকার পরাজিত হবে না",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/af0vs27r7z",
+    "title": "চ্যালেঞ্জ আছে, কিন্তু জনগণের সরকার পরাজিত হবে না"
+   }
+  ],
+  "published": "2026-11-03T23:50:00+00:00",
+  "added": "2026-11-04T00:16:45.425194+00:00",
+  "hidden": false
+ },
+ {
+  "id": "0796f0926e6c",
+  "headline": "US Voters Prioritize Economy and Democracy Over Crime, Immigration, Survey Shows",
+  "summary": "An AP poll finds about 60% disapprove of Trump, while 40% rank the economy and 30% rank democracy as top concerns.",
+  "body": [
+   "The AP survey released Tuesday shows roughly six in ten voters deeply disapprove of President Donald Trump's tenure. The poll also reveals that about four in ten consider the economy the most important issue facing the United States, while three in ten cite the state of American democracy as their primary concern.",
+   "Both issues outrank crime and immigration, which received lower priority among respondents. The findings highlight voter fatigue with Trump and growing attention to economic conditions and democratic health as key factors shaping public opinion."
+  ],
+  "headline_bn": "মতদাতারা অর্থনীতি ও গণতন্ত্রকে অগ্রাধিকার দেন, ট্রাম্পের প্রতি অসন্তোষ বেশি",
+  "summary_bn": "একটি এপি জরিপে প্রায় ৬০% ভোটার ট্রাম্পের প্রতি গভীর অসন্তোষ প্রকাশ করেছেন, আর ৪০% অর্থনীতি ও ৩০% গণতন্ত্রকে শীর্ষ উদ্বেগ হিসেবে চিহ্নিত করেছেন।",
+  "body_bn": [
+   "এপি জরিপটি মঙ্গলবার প্রকাশিত হয়েছে এবং দেখায় যে প্রায় ছয়জনের মধ্যে পাঁচজন ভোটকারী ডোনাল্ড ট্রাম্পের প্রেসিডেন্সি নিয়ে গভীরভাবে অসন্তোষ প্রকাশ করেছেন। জরিপে আরও জানা যায় যে প্রায় চারজনের মধ্যে তিনজন অর্থনীতিকে যুক্তরাষ্ট্রের সর্বোচ্চ গুরুত্বপূর্ণ বিষয় হিসেবে বিবেচনা করেন, আর তিনজনের মধ্যে দুইজন গণতন্ত্রের অবস্থাকে প্রধান উদ্বেগ হিসেবে উল্লেখ করেন।",
+   "এই দুই বিষয়ই অপরাধ ও অভিবাসনকে ছাড়িয়ে ভোটারদের অগ্রাধিকার তালিকায় শীর্ষে রয়েছে। ফলাফলটি ভোটারদের ট্রাম্পের প্রতি ক্লান্তি এবং অর্থনৈতিক ও গণতান্ত্রিক অবস্থার প্রতি বাড়তি মনোযোগকে তুলে ধরে, যা জনমত গঠনে গুরুত্বপূর্ণ ভূমিকা রাখে।"
+  ],
+  "image_prompt": "illustration of a poll chart showing public opinion on economy, democracy and presidential approval",
+  "category": "Politics",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds",
+  "source_title": "US democracy, Trump fatigue, cost of living are top issues with voters, AP survey finds",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds",
+    "title": "US democracy, Trump fatigue, cost of living are top issues with voters, AP survey finds"
+   }
+  ],
+  "published": "2026-11-03T23:46:02+00:00",
+  "added": "2026-11-04T00:16:54.323974+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4bc1af329cc9",
+  "headline": "Rural Bazaar Called a Living Museum of Village Trade",
+  "summary": "Prothom Alo reports the market functions as a vibrant showcase of rural commerce.",
+  "body": [
+   "Prothom Alo describes a rural market that operates as a \"living museum\" of village trade, highlighting its role in preserving traditional commerce practices.",
+   "The report notes that the market's ongoing activity provides a vivid illustration of how rural commerce continues to thrive, offering visitors a direct view of historic trading customs in a contemporary setting."
+  ],
+  "headline_bn": "গ্রামীণ হাটকে বলা হচ্ছে গ্রামীণ বাণিজ্যের ‘জীবন্ত’ জাদুঘর",
+  "summary_bn": "প্রথম আলো জানিয়েছে, এই হাটটি গ্রামীণ বাণিজ্যের জীবন্ত প্রদর্শনী হিসেবে কাজ করছে।",
+  "body_bn": [
+   "প্রথম আলো উল্লেখ করেছে যে এই গ্রামীণ হাটটি ‘জীবন্ত’ জাদুঘর হিসেবে কাজ করছে, যা ঐতিহ্যবাহী বাণিজ্যিক প্রথা সংরক্ষণে ভূমিকা রাখে।",
+   "রিপোর্টে বলা হয়েছে, হাটের চলমান কার্যক্রম গ্রামীণ বাণিজ্যের সমৃদ্ধি প্রদর্শন করে, দর্শকদের ঐতিহাসিক বাণিজ্যিক রীতির সরাসরি দৃশ্য প্রদান করে।"
+  ],
+  "image_prompt": "illustration of a bustling rural market with stalls, goods, and people trading, no faces or logos",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/video/bangladesh/rjlogoy24l",
+  "source_title": "গ্রামীণ বাণিজ্যের ‘জীবন্ত’ জাদুঘর এই হাট",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/video/bangladesh/rjlogoy24l",
+    "title": "গ্রামীণ বাণিজ্যের ‘জীবন্ত’ জাদুঘর এই হাট"
+   }
+  ],
+  "published": "2026-11-03T23:45:00+00:00",
+  "added": "2026-11-04T00:17:02.127112+00:00",
+  "hidden": false
+ },
+ {
+  "id": "d59546c6d103",
+  "headline": "Minor technical glitches delay voting at some US midterm polling stations",
+  "summary": "Al Jazeera English reports that several US polling stations faced minor technical problems that delayed voting during the midterm elections.",
+  "body": [
+   "During the United States midterm elections, a number of polling stations encountered technical problems that delayed the voting process, according to Al Jazeera English.",
+   "Election officials described the issues as minor, indicating they did not affect the overall integrity of the vote but caused temporary setbacks at the affected sites."
+  ],
+  "headline_bn": "মিডটার্ম নির্বাচনে কিছু ভোটিং কেন্দ্রে ছোট প্রযুক্তিগত ত্রুটি",
+  "summary_bn": "আল জাজিরা ইংরেজি জানিয়েছে, যুক্তরাষ্ট্রের কিছু ভোটিং কেন্দ্রে ভোটে বিলম্ব ঘটিয়েছে ছোট প্রযুক্তিগত সমস্যার ফলে।",
+  "body_bn": [
+   "যুক্তরাষ্ট্রের মিডটার্ম নির্বাচনের সময়, আল জাজিরা ইংরেজি অনুসারে, কয়েকটি ভোটিং কেন্দ্রে প্রযুক্তিগত সমস্যার কারণে ভোটিং প্রক্রিয়ায় বিলম্ব হয়েছে।",
+   "নির্বাচন কর্মকর্তারা এই সমস্যাগুলোকে ছোট বলে উল্লেখ করেছেন, যা ভোটের সামগ্রিক স্বচ্ছতায় প্রভাব ফেলেনি, তবে প্রভাবিত কেন্দ্রে সাময়িক বাধা সৃষ্টি করেছে।"
+  ],
+  "image_prompt": "Illustration of a polling station interior with electronic voting machines displaying error messages, generic setting, no identifiable people",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
+  "source_title": "Where have there been technical issues so far during US midterm elections?",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
+    "title": "Where have there been technical issues so far during US midterm elections?"
+   }
+  ],
+  "published": "2026-11-03T23:42:36+00:00",
+  "added": "2026-11-04T00:17:09.814876+00:00",
+  "hidden": false
+ },
+ {
+  "id": "cde91aca2645",
+  "headline": "Prothom Alo reports reforms blocked despite not failing",
+  "summary": "According to Prothom Alo, reforms have not failed but a campaign to halt them succeeded, prompting questions on responsibility and next steps.",
+  "body": [
+   "Prothom Alo reports that the reform agenda has not collapsed; instead, an organized effort to stop the reforms has succeeded. The outlet emphasizes that the failure lies not in the reforms themselves but in the mechanisms that prevented their implementation.",
+   "The report highlights two core questions: who ensured the success of the anti‑reform project and how it was achieved, and what actions can be taken now to address the situation."
+  ],
+  "headline_bn": "প্রথম আলো রিপোর্টে সংস্কার থামানোর সফলতা প্রকাশ",
+  "summary_bn": "প্রথম আলো অনুযায়ী, সংস্কার ব্যর্থ হয়নি, বরং তা থামানোর প্রকল্প সফল হয়েছে, যা দায়িত্ব ও পরবর্তী পদক্ষেপের প্রশ্ন উত্থাপন করে।",
+  "body_bn": [
+   "প্রথম আলো জানিয়েছে যে সংস্কার পরিকল্পনা ব্যর্থ হয়নি; বরং সংস্কার থামানোর একটি সংগঠিত প্রচেষ্টা সফল হয়েছে। প্রকাশনাটি জোর দেয় যে সমস্যাটি সংস্কারের নিজস্ব ব্যর্থতায় নয়, বরং তার বাস্তবায়ন রোধকারী প্রক্রিয়ায়।",
+   "প্রতিবেদনটি দুটি মূল প্রশ্ন তুলে ধরে: কে এই বিরোধী প্রকল্পের সাফল্য নিশ্চিত করেছে এবং কীভাবে তা সম্পন্ন হয়েছে, এবং এখন পরিস্থিতি মোকাবেলায় কী করা যেতে পারে।"
+  ],
+  "image_prompt": "illustration of a chessboard with policy pieces blocked by barriers, symbolizing halted reforms",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/mslgqfx4if",
+  "source_title": "সংস্কার ঠেকানোর সফল বন্দোবস্ত",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/mslgqfx4if",
+    "title": "সংস্কার ঠেকানোর সফল বন্দোবস্ত"
+   }
+  ],
+  "published": "2026-11-03T23:40:00+00:00",
+  "added": "2026-11-04T00:17:17.434104+00:00",
+  "hidden": false
+ },
+ {
+  "id": "b6a81919c22b",
+  "headline": "First polls close in pivotal US midterm elections",
+  "summary": "Al Jazeera English reports that early results could shape control of Congress.",
+  "body": [
+   "Polls have begun closing in the United States midterm elections, a contest that determines which party will control Congress.",
+   "According to Al Jazeera English, the outcomes of Tuesday’s races are expected to have marked implications for the country as control of the legislative branch hangs in the balance. Analysts note that the balance of power in the legislature could shift based on these early outcomes.",
+   "The closing of the first polls signals the start of vote counting that will inform observers about the political direction of the United States."
+  ],
+  "headline_bn": "মধ্যমেয়াদী নির্বাচনের প্রথম ভোট বন্ধ",
+  "summary_bn": "Al Jazeera English জানিয়েছে, প্রাথমিক ফলাফল কংগ্রেসের নিয়ন্ত্রণকে প্রভাবিত করতে পারে।",
+  "body_bn": [
+   "মার্কিন যুক্তরাষ্ট্রের মধ্যমেয়াদী নির্বাচনে প্রথম ভোটগুলো বন্ধ হয়েছে, যা কংগ্রেসের নিয়ন্ত্রণ নির্ধারণের জন্য গুরুত্বপূর্ণ প্রতিযোগিতা।",
+   "Al Jazeera English অনুযায়ী, মঙ্গলবারের নির্বাচনের ফলাফল দেশের জন্য উল্লেখযোগ্য প্রভাব ফেলবে, কারণ আইনসভা শাখার নিয়ন্ত্রণ ঝুঁকিতে রয়েছে। বিশ্লেষকরা উল্লেখ করছেন, এই প্রাথমিক ফলাফলগুলো ভিত্তিতে শাসন ক্ষমতার ভারসাম্য পরিবর্তিত হতে পারে।",
+   "প্রথম ভোটের বন্ধ হওয়া ভোট গণনার সূচনা নির্দেশ করে, যা পর্যবেক্ষকদের যুক্তরাষ্ট্রের রাজনৈতিক দিকনির্দেশনা সম্পর্কে ধারণা দেবে।"
+  ],
+  "image_prompt": "Illustration of a ballot box beside a silhouette of the US Capitol dome, with voting symbols",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
+  "source_title": "First polls close in pivotal US midterm elections",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
+    "title": "First polls close in pivotal US midterm elections"
+   }
+  ],
+  "published": "2026-11-03T23:03:42+00:00",
+  "added": "2026-11-04T00:17:26.094122+00:00",
+  "hidden": false
+ },
+ {
   "id": "da399b516723",
   "headline": "Bangla QR Code Digital Payment System Launched Nationwide",
   "summary": "From July 1, a universal Bangla QR code payment method has been introduced, according to Prothom Alo.",
