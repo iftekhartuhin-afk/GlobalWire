@@ -1,5 +1,252 @@
 [
  {
+  "id": "024cb93509f4",
+  "headline": "Democratic Leaders Celebrate Midterm Victory",
+  "summary": "Top Democrats in both houses of Congress praised the party's decisive win in the recent midterm elections, according to Al Jazeera English.",
+  "body": [
+   "Democratic leaders in both the House of Representatives and the Senate have publicly praised their party's performance in the recent midterm elections. The leaders described the outcome as a resounding victory for the Democrats, emphasizing the significance of the results for the party's legislative agenda.",
+   "According to Al Jazeera English, the celebration reflects the party's confidence heading into the next congressional session, with leaders highlighting broad voter support and signaling readiness to advance key policy priorities."
+  ],
+  "headline_bn": "ডেমোক্র্যাট নেতারা মধ্যমেয়াদি জয় উদযাপন",
+  "summary_bn": "অ্যাল জাজিরা ইংরেজি অনুযায়ী, কংগ্রেসের উভয় চেম্বারে শীর্ষ ডেমোক্র্যাটরা পার্টির বিজয়কে প্রশংসা করেছেন।",
+  "body_bn": [
+   "হাউস অফ রিপ্রেজেন্টেটিভস ও সেনেটে শীর্ষ ডেমোক্র্যাট নেতারা সাম্প্রতিক মধ্যমেয়াদি নির্বাচনে পার্টির পারফরম্যান্সকে প্রশংসা করেছেন। তারা ফলাফলকে ডেমোক্র্যাটদের জন্য একটি বিশাল জয় হিসেবে বর্ণনা করেছেন এবং এটি পার্টির আইনসভার এজেন্ডার জন্য গুরুত্বপূর্ণ বলে উল্লেখ করেছেন।",
+   "অ্যাল জাজিরা ইংরেজি জানায়, এই উদযাপন পার্টির আত্মবিশ্বাসকে প্রতিফলিত করে এবং পরবর্তী সেশনে মূল নীতি অগ্রাধিকার বাস্তবায়নের প্রস্তুতি নির্দেশ করে।"
+  ],
+  "image_prompt": "Illustration of the US Capitol with celebratory symbols and Democratic motifs, no faces or logos",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
+  "source_title": "Democrat leaders hail midterm election success",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
+    "title": "Democrat leaders hail midterm election success"
+   }
+  ],
+  "published": "2026-11-04T20:50:31+00:00",
+  "added": "2026-11-04T21:00:33.792539+00:00",
+  "hidden": false,
+  "image": "data/img/024cb93509f4.jpg"
+ },
+ {
+  "id": "588402d59d7b",
+  "headline": "Ukraine raises death toll from Zaporizhia strike to 40",
+  "summary": "At least 40 killed and dozens possibly trapped as rescue continues amid drone interference.",
+  "body": [
+   "According to Al Jazeera English, Ukraine has increased the death toll from a Russian strike on the Zaporizhia region to 40 people. The attack hit the settlement of Komyshuvakha, leaving many casualties.",
+   "Rescue teams continue to search for survivors, but drones operated by Russian forces have disrupted their work. Officials say dozens may still be buried under the rubble.",
+   "The increased death toll underscores the severity of the strike and the challenges faced by emergency responders in the conflict zone."
+  ],
+  "headline_bn": "ইউক্রেন জাপোরিজিয়া হামলায় মৃত সংখ্যা ৪০-এ বাড়িয়ে দিল",
+  "summary_bn": "দশকোটি মানুষ সম্ভবত ধ্বংসাবশেষে আটকে, ড্রোনের বাধা সত্ত্বেও উদ্ধার কাজ চলছে।",
+  "body_bn": [
+   "আল জাজিরা ইংরেজি অনুসারে, ইউক্রেন জাপোরিজিয়া অঞ্চলে রাশিয়ার আক্রমণের ফলে মৃত সংখ্যা ৪০-এ বাড়িয়ে দিয়েছে। এই হামলা কোমিশুভাখা গ্রামকে লক্ষ্য করে, যেখানে বহু প্রাণহানি ঘটেছে।",
+   "উদ্ধার দল এখনও বেঁচে থাকা লোকদের সন্ধানে কাজ চালিয়ে যাচ্ছে, তবে রাশিয়ান ড্রোনের হস্তক্ষেপে তাদের কাজ বাধাপ্রাপ্ত হচ্ছে। কর্মকর্তারা জানান, ধ্বংসাবশেষের নিচে এখনও কয়েকজন আটকে থাকতে পারেন।",
+   "মৃত্যের সংখ্যা বৃদ্ধি এই আক্রমণের তীব্রতা এবং সংঘর্ষপূর্ণ অঞ্চলে জরুরি সেবাদাতাদের মুখোমুখি চ্যালেঞ্জকে তুলে ধরছে।"
+  ],
+  "image_prompt": "illustration of collapsed building with rescue workers and hovering drones in a war zone",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+  "source_title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+    "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people"
+   }
+  ],
+  "published": "2026-11-04T20:31:56+00:00",
+  "added": "2026-11-04T21:00:42.285006+00:00",
+  "hidden": false
+ },
+ {
+  "id": "8db21a1017e0",
+  "headline": "US Midterms See Democrats Take Congress as Trump‑backed Republicans Lose",
+  "summary": "DW reports that Trump’s Republicans were soundly defeated while Democrats gained control of Congress.",
+  "body": [
+   "According to DW, the Tuesday midterm elections delivered a crushing defeat for the Republican candidates aligned with former President Donald Trump. The vote shifted control of both the House of Representatives and the Senate to the Democratic Party.",
+   "The change gives Democrats a majority in Congress, a development that could influence legislative priorities and the United States’ role on the global stage, as highlighted by the outlet.",
+   "Observers note that the new balance of power may affect upcoming policy debates and international cooperation, reflecting the broader significance of the election results."
+  ],
+  "headline_bn": "মিডটার্মে ডেমোক্র্যাটস কংগ্রেস দখল, ট্রাম্পের রিপাবলিকানদের বড় পরাজয়",
+  "summary_bn": "DW জানিয়েছে, ট্রাম্পের রিপাবলিকানরা তীব্র পরাজয় মুখোমুখি, আর ডেমোক্র্যাটস কংগ্রেসের নিয়ন্ত্রণ নেয়।",
+  "body_bn": [
+   "DW অনুযায়ী, মঙ্গলবারের মিডটার্ম নির্বাচনগুলোতে ডোনাল্ড ট্রাম্পের সমর্থক রিপাবলিকানদের একটি বিশাল পরাজয় ঘটেছে। ভোটের ফলাফল হাউস ও সেনেট উভয়ই ডেমোক্র্যাটিক পার্টির হাতে চলে যায়।",
+   "এই পরিবর্তন ডেমোক্র্যাটদের কংগ্রেসে সংখ্যাগরিষ্ঠতা দেয়, যা আইনসভার অগ্রাধিকার এবং যুক্তরাষ্ট্রের আন্তর্জাতিক ভূমিকা প্রভাবিত করতে পারে, outlet উল্লেখ করেছে।",
+   "বিশ্লেষকরা বলেন, নতুন ক্ষমতার ভারসাম্য নীতি আলোচনা এবং আন্তর্জাতিক সহযোগিতার ওপর প্রভাব ফেলতে পারে, যা নির্বাচনের বিস্তৃত গুরুত্বকে তুলে ধরে।"
+  ],
+  "image_prompt": "illustration of a ballot box with abstract voting symbols and US colors, representing a midterm election",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Winners, losers, the EU: Five takeaways from the US midterms",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-all-1573-rdf",
+    "title": "Winners, losers, the EU: Five takeaways from the US midterms"
+   }
+  ],
+  "published": "2026-11-04T20:27:00+00:00",
+  "added": "2026-11-04T21:00:52.422445+00:00",
+  "hidden": false
+ },
+ {
+  "id": "eaa6b52280c8",
+  "headline": "Tehran Announces Maximum Deterrence Plan Amid US Attack Speculation",
+  "summary": "Tehran says it is prepared with a maximum deterrence plan as US attack possibilities are discussed.",
+  "body": [
+   "According to Al Jazeera English, speculation about a possible resumption of US attacks on Iran has prompted Tehran to declare readiness. The Iranian capital stated it has a \"maximum deterrence plan\" prepared to respond.",
+   "The statement underscores heightened tensions between the United States and Iran, though no specific details of the plan were disclosed. Observers note that such declarations aim to signal deterrence and influence diplomatic calculations."
+  ],
+  "headline_bn": "ইরানের তেহরান সর্বোচ্চ নিরুৎসাহ পরিকল্পনা ঘোষণা, যুক্তরাষ্ট্রের আক্রমণ সম্ভাবনা নিয়ে আলোচনা",
+  "summary_bn": "ইরান সর্বোচ্চ নিরুৎসাহ পরিকল্পনা প্রস্তুত রয়েছে, যুক্তরাষ্ট্রের আক্রমণ সম্ভাবনা বাড়ার পরিপ্রেক্ষিতে।",
+  "body_bn": [
+   "আল জাজিরা ইংরেজি অনুসারে, যুক্তরাষ্ট্রের ইরানের উপর পুনরায় আক্রমণ করতে পারে এমন অনুমানের ফলে তেহরান প্রস্তুতির কথা জানিয়েছে। ইরানের রাজধানী বলেছে যে সে \"সর্বোচ্চ নিরুৎসাহ পরিকল্পনা\" প্রস্তুত রেখেছে।",
+   "এই ঘোষণাটি যুক্তরাষ্ট্র ও ইরানের মধ্যে বাড়তি উত্তেজনা নির্দেশ করে, যদিও পরিকল্পনার কোনো বিশদ প্রকাশ করা হয়নি। বিশ্লেষকরা উল্লেখ করেন, এমন ঘোষণা নিরুৎসাহের সংকেত দিতে এবং কূটনৈতিক গণনা প্রভাবিত করতে পারে।"
+  ],
+  "image_prompt": "illustration of abstract map showing US and Iran with warning symbols and a shield representing deterrence",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
+  "source_title": "Will the US resume its attacks on Iran?",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
+    "title": "Will the US resume its attacks on Iran?"
+   }
+  ],
+  "published": "2026-11-04T20:25:50+00:00",
+  "added": "2026-11-04T21:01:01.119710+00:00",
+  "hidden": false
+ },
+ {
+  "id": "592077daafce",
+  "headline": "Detective Branch arrests Iqbal Sobhan, releases Rajib Ghosh in July murder case",
+  "summary": "According to Prothom Alo, the Detective Branch detained former channel chairman Iqbal Sobhan Chowdhury and special representative Rajib Ghosh, later releasing Ghosh at midnight.",
+  "body": [
+   "The Detective Branch seized former channel chairman and Prime Minister Sheikh Hasina’s information adviser Iqbal Sobhan Chowdhury along with special representative Rajib Ghosh from the DB office in Mahakhali in the afternoon, linking them to a July murder investigation.",
+   "Sobhan remains in custody on the murder charge, while Ghosh was released at midnight, as reported by Prothom Alo."
+  ],
+  "headline_bn": "ডিটেকটিভ শাখা ইকবাল সোবহানকে গ্রেপ্তার, রাজীব ঘোষকে মধ্যরাতে মুক্তি",
+  "summary_bn": "প্রথম আলো অনুযায়ী, ডিটেকটিভ শাখা চ্যানেলের প্রাক্তন চেয়ারম্যান ইকবাল সোবহান চৌধুরী ও বিশেষ প্রতিনিধি রাজীব ঘোষকে গ্রেপ্তার করে, পরে ঘোষকে মধ্যরাতে ছেড়ে দেয়।",
+  "body_bn": [
+   "ডিটেকটিভ শাখা ঢাকা শহরের মহাখালীর অফিস থেকে দুপুরে চ্যানেলের প্রাক্তন চেয়ারম্যান, প্রধানমন্ত্রী শেখ হাসিনার তথ্য উপদেষ্টা ইকবাল সোবহান চৌধুরীকে এবং বিশেষ প্রতিনিধি রাজীব ঘোষকে আটক করে।",
+   "ইকবাল সোবহানকে জুলাইয়ের হত্যার মামলায় গ্রেপ্তার করা হয়, আর রাজীব ঘোষকে মধ্যরাতে ছেড়ে দেওয়া হয়।"
+  ],
+  "image_prompt": "Illustration of police officers in uniform detaining two figures outside an office building, with a night scene showing one released at midnight",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/bbqyoqtqo0",
+  "source_title": "মধ্যরাতে ছেড়ে দেওয়া হলো রাজীব ঘোষকে, ইকবাল সোবহান জুলাইয়ের হত্যা মামলায় গ্রেপ্তার",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/bbqyoqtqo0",
+    "title": "মধ্যরাতে ছেড়ে দেওয়া হলো রাজীব ঘোষকে, ইকবাল সোবহান জুলাইয়ের হত্যা মামলায় গ্রেপ্তার"
+   }
+  ],
+  "published": "2026-11-04T20:06:53+00:00",
+  "added": "2026-11-04T21:01:09.928218+00:00",
+  "hidden": false
+ },
+ {
+  "id": "75ac0d7674c0",
+  "headline": "Prothom Alo office in Dhaka welcomed flowers, cake and goodwill messages",
+  "summary": "The newspaper’s Karwan Bazar headquarters received floral arrangements, sweets and congratulatory notes.",
+  "body": [
+   "Prothom Alo reported that its main office in Karwan Bazar, the capital city, was visited by well-wishers who presented flowers, cake and sweets along with messages of goodwill.",
+   "The gestures were described as expressions of positive sentiment toward the newspaper, with the items displayed at the office entrance. No further details were provided.",
+   "The event reflects the support the publication enjoys among its readers and colleagues, according to the outlet's own coverage."
+  ],
+  "headline_bn": "প্রথম আলোর কারওয়ান বাজার অফিসে ফুল, কেক ও শুভেচ্ছা বার্তা",
+  "summary_bn": "অফিসে ফুলের সাজসজ্জা, মিষ্টি ও শুভেচ্ছা নোট রাখা হয়েছে।",
+  "body_bn": [
+   "প্রথম আলো জানিয়েছে, রাজধানীর কারওয়ান বাজারে প্রধান কার্যালয়ে শুভাকাঙ্ক্ষীরা ফুল, কেক ও মিষ্টি সহ শুভেচ্ছা বার্তা উপস্থাপন করেছেন।",
+   "এই উপহারগুলোকে প্রকাশনা সংস্থার প্রতি ইতিবাচক অনুভূতির প্রকাশ হিসেবে উল্লেখ করা হয়েছে, এবং সেগুলো অফিসের প্রবেশদ্বারে সাজিয়ে রাখা হয়েছে।",
+   "প্রতিবেদন অনুযায়ী, এই অনুষ্ঠানটি পাঠক ও সহকর্মীদের সমর্থনকে প্রতিফলিত করে।"
+  ],
+  "image_prompt": "illustration of a newspaper office interior with flowers, a cake, sweets and greeting cards on a desk",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/fvahxheplx",
+  "source_title": "শুভাকাঙ্ক্ষীদের শুভেচ্ছায় সিক্ত প্রথম আলো",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/fvahxheplx",
+    "title": "শুভাকাঙ্ক্ষীদের শুভেচ্ছায় সিক্ত প্রথম আলো"
+   }
+  ],
+  "published": "2026-11-04T20:00:47+00:00",
+  "added": "2026-11-04T21:01:18.203171+00:00",
+  "hidden": false
+ },
+ {
+  "id": "e8d44099fee5",
+  "headline": "Iranians Celebrate US Midterm Democratic Wins, Trump Blames Iran War",
+  "summary": "Iranians marked the US midterm Democratic victories, while President Trump said the Republican loss was partly due to the war on Iran, Al Jazeera reports.",
+  "body": [
+   "Iranians celebrated the outcome of the recent US midterm elections, which saw Democratic candidates win a majority of contested seats, according to Al Jazeera English.",
+   "In a separate statement, US President Donald Trump acknowledged that the Republican Party’s heavy defeat was partially linked to the ongoing war on Iran, the outlet added."
+  ],
+  "headline_bn": "ইরানিরা মার্কিন মিডটার্মে ডেমোক্র্যাট জয় উদযাপন, ট্রাম্প ইরানের যুদ্ধকে দায়িত্বে টেনেছেন",
+  "summary_bn": "ইরানিরা ডেমোক্র্যাট জয় উদযাপন করেছে, আর ট্রাম্পের মতে রিপাবলিকান পরাজয়ের কারণ partly ইরান যুদ্ধ, আল জাজিরা জানায়।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের মতে, সাম্প্রতিক মার্কিন মিডটার্ম নির্বাচনে ডেমোক্র্যাটদের জয় নিয়ে ইরানিরা উল্লাস প্রকাশ করেছে।",
+   "একই প্রতিবেদনে উল্লেখ করা হয়েছে, যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প স্বীকার করেছেন যে রিপাবলিকানদের বিশাল পরাজয় আংশিকভাবে ইরানের বিরুদ্ধে চলমান যুদ্ধের ফল।"
+  ],
+  "image_prompt": "Illustration of crowds celebrating democratic victory with symbolic US election icons, abstract background, no faces, flags, logos, or text",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+  "source_title": "Iranians celebrate Democrat victory in US midterms",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+    "title": "Iranians celebrate Democrat victory in US midterms"
+   }
+  ],
+  "published": "2026-11-04T19:59:14+00:00",
+  "added": "2026-11-04T21:01:26.920785+00:00",
+  "hidden": false
+ },
+ {
+  "id": "af0331329a4f",
+  "headline": "Progressive Democrat Randy Villegas Secures Victory in California's Central Valley",
+  "summary": "Randy Villegas earned a win in California’s Central Valley after running a campaign addressing living costs and pushback against ICE raids.",
+  "body": [
+   "According to a report by Al Jazeera English, progressive candidate Randy Villegas has notched a victory in California's Central Valley, delivering an electoral win for the Democratic Party's progressive faction.",
+   "Villegas anchored his campaign around everyday economic pressures, focusing extensively on cost of living issues affecting the area. His platform also centered on widespread backlash surrounding Immigration and Customs Enforcement (ICE) raids, a strategy that ultimately proved successful in securing his election victory."
+  ],
+  "headline_bn": "ক্যালিফোর্নিয়ার সেন্ট্রাল ভ্যালিতে প্রগতিশীল ডেমোক্র্যাট র‍্যান্ডি ভিলেগাসের জয়",
+  "summary_bn": "জীবনযাত্রার ব্যয় ও আইসিই অভিযানের বিরুদ্ধে জনরোষকে মূল ইস্যু করে ক্যালিফোর্নিয়ার সেন্ট্রাল ভ্যালিতে জয় পেয়েছেন প্রগতিশীল র‍্যান্ডি ভিলেগাস।",
+  "body_bn": [
+   "আল জাজিরা ইংরেজির প্রতিবেদন অনুযায়ী, যুক্তরাষ্ট্রের ক্যালিফোর্নিয়া অঙ্গরাজ্যের সেন্ট্রাল ভ্যালিতে জয় পেয়েছেন প্রগতিশীল ডেমোক্র্যাট প্রার্থী র‍্যান্ডি ভিলেগাস। এই ফলের মধ্য দিয়ে অঞ্চলটিতে ডেমোক্র্যাটিক পার্টির প্রগতিশীল অংশের একটি গুরুত্বপূর্ণ সাফল্য অর্জিত হলো।",
+   "ভিলেগাসের নির্বাচনী প্রচারণায় স্থানীয় জীবনযাত্রার ব্যয় সংক্রান্ত সমস্যাগুলো অন্যতম মূল বিষয় হিসেবে গুরুত্ব পেয়েছিল। একই সঙ্গে ইমিগ্রেশন অ্যান্ড কাস্টমস এনফোর্সমেন্টের (আইসিই) পরিচালিত অভিযানের বিরুদ্ধে সাধারণ মানুষের ক্ষোভকে কেন্দ্র করেও তাঁর প্রচারণা পরিচালিত হয়, যা শেষ পর্যন্ত তাঁর বিজয়ে ভূমিকা রাখে।"
+  ],
+  "image_prompt": "A voting ballot box resting on a wooden table inside an empty community hall, bathed in warm natural sunlight.",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
+  "source_title": "Democratic progressive wing notches win in California Central Valley",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
+    "title": "Democratic progressive wing notches win in California Central Valley"
+   }
+  ],
+  "published": "2026-11-04T19:50:37+00:00",
+  "added": "2026-11-04T21:01:44.722306+00:00",
+  "hidden": false
+ },
+ {
   "id": "98781cff575f",
   "headline": "EU says Montenegro on track for membership by 2028",
   "summary": "Brussels indicates Montenegro could join as the 28th EU member, with Albania and Moldova next, while urging Ukraine to accelerate reforms.",
