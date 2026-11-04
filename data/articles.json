@@ -1,5 +1,255 @@
 [
  {
+  "id": "0427c8353657",
+  "headline": "Democrats Secure Majority in US House and Senate, Vote Count Ongoing",
+  "summary": "Democrats have taken control of both chambers as vote tallies continue, with DW analysing the partisan voting patterns.",
+  "body": [
+   "Democrats have won the majority in both the US House of Representatives and the Senate following the recent midterm elections, though final vote counts are still being compiled.",
+   "DW examines which voters backed Republican versus Democratic candidates and outlines the potential significance of the shift in congressional control."
+  ],
+  "headline_bn": "ডেমোক্র্যাটরা ইউএস হাউস ও সেনেটে সংখ্যাগরিষ্ঠতা অর্জন, ভোট গণনা চলছে",
+  "summary_bn": "ডেমোক্র্যাটরা উভয় চেম্বার দখল করেছে, ভোট গণনা অব্যাহত, ডিডব্লিউ বিশ্লেষণ করেছে পার্টি ভিত্তিক ভোটের ধরণ।",
+  "body_bn": [
+   "ডেমোক্র্যাটরা সাম্প্রতিক মিডটার্ম নির্বাচনের পর ইউএস হাউস অফ রিপ্রেজেন্টেটিভস ও সেনেটে সংখ্যাগরিষ্ঠতা অর্জন করেছে, যদিও চূড়ান্ত ভোট গণনা এখনও সম্পন্ন হয়নি।",
+   "ডিডব্লিউ বিশ্লেষণ করেছে কোন ভোটাররা রিপাবলিকান ও ডেমোক্র্যাটের পক্ষে ভোট দিয়েছেন এবং সংসদীয় ক্ষমতার পরিবর্তনের সম্ভাব্য তাৎপর্য তুলে ধরেছে।"
+  ],
+  "image_prompt": "illustration of US Capitol with abstract Democratic and Republican symbols, voting charts, no faces or logos",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf",
+  "source_title": "US midterm election results: Democrats flip House and Senate. Here's what else the data tells us",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf",
+    "title": "US midterm election results: Democrats flip House and Senate. Here's what else the data tells us"
+   }
+  ],
+  "published": "2026-11-04T06:34:00+00:00",
+  "added": "2026-11-04T06:45:53.360961+00:00",
+  "hidden": false
+ },
+ {
+  "id": "50bbcdb080cd",
+  "headline": "Democrats Secure Majority in Both House and Senate in US Midterms",
+  "summary": "The Democratic Party took control of both chambers, marking a rebuke of President Donald Trump and the Republican Party, DW reports.",
+  "body": [
+   "In the recent United States midterm elections, voters elected members of the Democratic Party to secure a majority in both the House of Representatives and the Senate, DW reported.",
+   "The shift is portrayed as a pronounced rebuke of President Donald Trump and his Republican Party, reflecting a change in congressional control.",
+   "With control of both chambers, the Democratic Party now holds the legislative majority, positioning it to shape future policy and oversee the executive branch, while DW continues to provide live updates on the story."
+  ],
+  "headline_bn": "মিডটার্মে ডেমোক্র্যাটরা হাউস ও সেনেটে জয়ী, রিপাবলিকানদের পরাজয়",
+  "summary_bn": "DW জানায়, ডেমোক্র্যাট পার্টি উভয় সংসদীয় ঘরে নিয়ন্ত্রণ নিয়ে ট্রাম্প ও রিপাবলিকানদের কঠোর নিন্দা পেয়েছে।",
+  "body_bn": [
+   "সাম্প্রতিক যুক্তরাষ্ট্রের মিডটার্ম নির্বাচনে ডেমোক্র্যাট পার্টি হাউস অফ রিপ্রেজেন্টেটিভস এবং সেনেটে সংখ্যাগরিষ্ঠতা অর্জন করেছে, DW রিপোর্ট করেছে।",
+   "এই পরিবর্তনকে প্রেসিডেন্ট ডোনাল্ড ট্রাম্প এবং তার রিপাবলিকান পার্টির প্রতি তীব্র নিন্দা হিসেবে চিহ্নিত করা হয়েছে, যা কংগ্রেসের নিয়ন্ত্রণে পরিবর্তন নির্দেশ করে।",
+   "উভয় ঘরে নিয়ন্ত্রণের ফলে ডেমোক্র্যাট পার্টি আইন প্রণয়ন এবং নির্বাহী শাখার তত্ত্বাবধানের ক্ষেত্রে প্রভাব বিস্তার করতে পারবে, এবং DW বিষয়টি নিয়ে লাইভ আপডেট প্রদান করছে।"
+  ],
+  "image_prompt": "illustration of the United States Capitol building with empty chambers, showing legislative symbols, no people or logos",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/us-midterms-democrats-gain-control-of-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+  "source_title": "US midterms: Democrats gain control of House and Senate from Republicans",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/us-midterms-democrats-gain-control-of-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+    "title": "US midterms: Democrats gain control of House and Senate from Republicans"
+   }
+  ],
+  "published": "2026-11-04T06:32:00+00:00",
+  "added": "2026-11-04T06:46:01.795704+00:00",
+  "hidden": false
+ },
+ {
+  "id": "84f6ad79da65",
+  "headline": "House Democratic leader Jeffries calls midterm results a great American comeback",
+  "summary": "Jeffries said the election marks the start of a great American comeback, Al Jazeera English reported.",
+  "body": [
+   "House Democratic leader Hakeem Jeffries praised the recent midterm election results, describing them as the beginning of a great American comeback, according to Al Jazeera English.",
+   "The statement underscores the Democratic leader's optimism about the political outlook following the vote."
+  ],
+  "headline_bn": "হাউসের ডেমোক্র্যাটিক নেতা জেফ্রিস মিডটার্ম ফলাফলকে মহান আমেরিকান প্রত্যাবর্তন বলে",
+  "summary_bn": "অ্যাল জাজিরা ইংলিশের মতে, জেফ্রিস নির্বাচনকে মহান আমেরিকান প্রত্যাবর্তনের সূচনা হিসেবে উল্লেখ করেছেন।",
+  "body_bn": [
+   "হাউসের ডেমোক্র্যাটিক নেতা হাকিম জেফ্রিস সাম্প্রতিক মিডটার্ম নির্বাচনের ফলাফলকে মহান আমেরিকান প্রত্যাবর্তনের সূচনা হিসেবে প্রশংসা করেছেন, অ্যাল জাজিরা ইংলিশের প্রতিবেদনে উল্লেখ আছে।",
+   "এই মন্তব্য নির্বাচনের পর রাজনৈতিক পরিবেশ সম্পর্কে ডেমোক্র্যাটিক নেতা জেফ্রিসের আশাবাদকে তুলে ধরে।"
+  ],
+  "image_prompt": "Illustration of the US Capitol with abstract celebratory elements representing election results, no people, flags, logos, or text",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss",
+  "source_title": "House Democratic leader Hakeem Jeffries hails midterm victory",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss",
+    "title": "House Democratic leader Hakeem Jeffries hails midterm victory"
+   }
+  ],
+  "published": "2026-11-04T06:26:19+00:00",
+  "added": "2026-11-04T06:46:09.152752+00:00",
+  "hidden": false
+ },
+ {
+  "id": "64d4af7a1deb",
+  "headline": "Lula's win tests Global South amid US‑Brazil tensions",
+  "summary": "Al Jazeera English says Lula’s victory challenges the Global South as Trump may retaliate and questions China’s capacity to rival US dominance.",
+  "body": [
+   "According to Al Jazeera English, the recent election of Brazil’s president Lula is described as a stress test for the Global South. The outlet notes that the win reflects Brazil’s pursuit of an independent foreign policy stance.",
+   "The report adds that former US President Donald Trump could still punish Brazil for following this course, and it asks whether China can offer lasting alternatives to US dominance."
+  ],
+  "headline_bn": "লুলার জয় গ্লোবাল সাউথের পরীক্ষা করে",
+  "summary_bn": "আল জাজিরা ইংলিশের মতে, লুলার জয় গ্লোবাল সাউথকে চ্যালেঞ্জ করে, ট্রাম্পের প্রতিশোধের সম্ভাবনা ও চীনের ইউএস আধিপত্যের বিকল্পের প্রশ্ন উত্থাপন করে।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের মতে, ব্রাজিলের প্রেসিডেন্ট লুলার সাম্প্রতিক নির্বাচনে গ্লোবাল সাউথের জন্য একটি স্ট্রেস টেস্ট হিসেবে বিবেচিত হচ্ছে। এই জয় ব্রাজিলের স্বতন্ত্র বৈদেশিক নীতি অনুসরণকে নির্দেশ করে।",
+   "রিপোর্টে বলা হয়েছে যে প্রাক্তন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প এখনও ব্রাজিলকে শাস্তি দিতে পারে যদি তা এই পথে চলে, এবং চীনের কি যুক্তরাষ্ট্রের আধিপত্যের স্থায়ী বিকল্প দিতে পারে তা প্রশ্ন উত্থাপন করা হয়েছে।"
+  ],
+  "image_prompt": "illustration of a world map highlighting Brazil, United States and China with symbolic arrows indicating diplomatic tension, no faces or logos",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
+  "source_title": "Lula’s victory is a stress test for the Global South",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
+    "title": "Lula’s victory is a stress test for the Global South"
+   }
+  ],
+  "published": "2026-11-04T06:12:59+00:00",
+  "added": "2026-11-04T06:46:16.735027+00:00",
+  "hidden": false
+ },
+ {
+  "id": "690308869dc2",
+  "headline": "Rajbir De Joins Big Boss Bangla as Wild Card, Engages in House Discussion",
+  "summary": "Prothom Alo reports that the newcomer discussed his chemistry with Nandini Dutt and his acting and modeling background.",
+  "body": [
+   "Prothom Alo reported that Rajbir De entered the Big Boss Bangla house as a wild‑card contestant, and within a short time he was involved in a discussion inside the Big Boss Bangla set.",
+   "The dialogue explored his chemistry with fellow participant Nandini Dutt and also covered elements of his personal life, as well as his experience in acting and modeling, the outlet noted.",
+   "The appearance adds a new dynamic to the reality show, according to the report."
+  ],
+  "headline_bn": "রাজবীর দে ‘বিগ বস বাংলা’তে ওয়াইল্ড কার্ডে প্রবেশ, ঘরে আলোচনায় অংশগ্রহণ",
+  "summary_bn": "প্রথম আলো জানাচ্ছে, নতুন প্রতিযোগী নন্দিনী দত্তের সঙ্গে রসায়ন ও তার অভিনয়‑মডেলিং ক্যারিয়ার নিয়ে আলোচনা হয়েছে।",
+  "body_bn": [
+   "প্রথম আলো রিপোর্ট করেছে যে রাজবীর দে ‘বিগ বস বাংলা’ ঘরে ওয়াইল্ড কার্ড এন্ট্রি করে, এবং অল্প সময়ের মধ্যেই তিনি শো’র সেটে একটি আলোচনায় অংশ নেন।",
+   "আলোচনাটি নন্দিনী দত্তের সঙ্গে তার রসায়ন, ব্যক্তিগত জীবন এবং তার অভিনয় ও মডেলিং ক্যারিয়ারকে কেন্দ্র করে ছিল, বলে সূত্রটি জানিয়েছে।",
+   "এই উপস্থিতি রিয়েলিটি শোতে নতুন গতিবিধি যোগ করেছে, প্রতিবেদনে উল্লেখ করা হয়েছে।"
+  ],
+  "image_prompt": "illustration of a reality TV house interior with a microphone and a spotlight, no faces",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.haal.fashion/celeb/look/55kzgunw4x",
+  "source_title": "ওয়াইল্ড কার্ডে এসে বিগ বসের ঘরে আলোচনায় রাজবীর দে, কে এই সেনসেশন",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.haal.fashion/celeb/look/55kzgunw4x",
+    "title": "ওয়াইল্ড কার্ডে এসে বিগ বসের ঘরে আলোচনায় রাজবীর দে, কে এই সেনসেশন"
+   }
+  ],
+  "published": "2026-11-04T06:00:00+00:00",
+  "added": "2026-11-04T06:46:26.155808+00:00",
+  "hidden": false
+ },
+ {
+  "id": "d86ba6cd591e",
+  "headline": "Retiree Uses Pension to Build ‘Nature School’ in Home Courtyard",
+  "summary": "In 2021, a retiree funded a courtyard ‘Nature School’ modeled on a children’s park using his pension, reported by Prothom Alo.",
+  "body": [
+   "According to Prothom Alo, after retiring in 2021 a man used his pension funds to create a ‘Nature School’ in the courtyard of his home. The facility is designed like a children’s park and aims to provide a natural learning environment for children. The initiative reflects a personal investment in community education, turning private space into a small outdoor classroom. The project was carried out without external funding and is intended to inspire similar community efforts."
+  ],
+  "headline_bn": "অবসরপ্রাপ্ত ব্যক্তি পেনশনের টাকা দিয়ে বাড়ির আঙিনায় 'প্রকৃতির পাঠশালা' গড়ে তুলেছেন",
+  "summary_bn": "২০২১ সালে, পেনশনের অর্থে শিশুপার্কের নকশায় আঙিনায় 'প্রকৃতির পাঠশালা' নির্মাণের খবর প্রথম আলোতে।",
+  "body_bn": [
+   "প্রথম আলো অনুযায়ী, ২০২১ সালে অবসর নেওয়ার পর এক ব্যক্তি নিজের পেনশনের টাকা ব্যবহার করে বাড়ির আঙিনায় 'প্রকৃতির পাঠশালা' গড়ে তুলেছেন। এই স্থানটি শিশুপার্কের নকশায় তৈরি এবং শিশুদের জন্য প্রাকৃতিক শিক্ষার পরিবেশ প্রদান করে। উদ্যোগটি ব্যক্তিগতভাবে সম্প্রদায়ের শিক্ষায় বিনিয়োগের প্রতিফলন, যেখানে ব্যক্তিগত জায়গা ছোট একটি বহিরঙ্গন শ্রেণিকক্ষের রূপ নেয়। প্রকল্পটি বাহ্যিক তহবিল ছাড়া সম্পন্ন হয়েছে এবং অনুরূপ সম্প্রদায়িক প্রচেষ্টাকে উৎসাহিত করার লক্ষ্য রয়েছে।"
+  ],
+  "image_prompt": "A serene backyard transformed into a nature-themed playground with trees, wooden structures, and children’s learning areas under a clear sky",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/lwbj6a8g0v",
+  "source_title": "পেনশনের টাকায় শিশুদের জন্য শিক্ষক গড়ে তুললেন ‘প্রকৃতির পাঠশালা’",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/lwbj6a8g0v",
+    "title": "পেনশনের টাকায় শিশুদের জন্য শিক্ষক গড়ে তুললেন ‘প্রকৃতির পাঠশালা’"
+   }
+  ],
+  "published": "2026-11-04T05:59:00+00:00",
+  "added": "2026-11-04T06:46:34.667018+00:00",
+  "hidden": false
+ },
+ {
+  "id": "9525ff2af55e",
+  "headline": "India's Election Commission Allows Voter Re‑enrolment via Form 6 Without Penalty",
+  "summary": "The poll body said deleted voters using Form 6 to re‑enter the rolls will not face action, per DW.",
+  "body": [
+   "The Indian election authority announced that individuals whose names have been removed from the electoral register can apply for reinstatement using Form 6, and that no punitive measures will be taken against them.",
+   "The statement was reported by DW, indicating the commission's move to facilitate voter reinclusion."
+  ],
+  "headline_bn": "ভারতের নির্বাচন কমিশন ফর্ম ৬ দিয়ে ভোটার পুনঃনিবন্ধনে শাস্তি না",
+  "summary_bn": "ডব্লিউ অনুযায়ী, মুছে ফেলা ভোটাররা ফর্ম ৬ ব্যবহার করে তালিকায় ফিরে আসলে কোনো ব্যবস্থা নেওয়া হবে না।",
+  "body_bn": [
+   "ভারতীয় নির্বাচন কর্তৃপক্ষ জানিয়েছে যে, যাদের নাম ভোটার তালিকা থেকে মুছে ফেলা হয়েছে তারা ফর্ম ৬ ব্যবহার করে পুনঃনিবন্ধন করতে পারবে এবং তাদের বিরুদ্ধে কোনো শাস্তি আরোপ করা হবে না।",
+   "ডব্লিউ এই তথ্য জানিয়েছে, যা ভোটার পুনঃসংযোজন সহজ করার জন্য কমিশনের পদক্ষেপকে নির্দেশ করে।"
+  ],
+  "image_prompt": "illustration of a voter registration form being filled, generic democratic symbols, no faces, flags, logos or text",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf",
+  "source_title": "India news: Election body opens door for voter reinclusion",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf",
+    "title": "India news: Election body opens door for voter reinclusion"
+   }
+  ],
+  "published": "2026-11-04T05:58:00+00:00",
+  "added": "2026-11-04T06:46:41.828059+00:00",
+  "hidden": false
+ },
+ {
+  "id": "13ca73bafe5e",
+  "headline": "Georgia Senator Jon Ossoff Wins Reelection, Securing Key Democratic Senate Seat",
+  "summary": "Jon Ossoff defeated Republican Mike Collins on Tuesday, keeping a pivotal Senate seat for Democrats.",
+  "body": [
+   "Jon Ossoff was reelected on Tuesday to a second term as Georgia's senator, beating Republican Representative Mike Collins in the contest.",
+   "The victory preserves a key Senate seat for the Democratic Party and highlights Ossoff as the chamber's youngest member, raising his profile among the party's national figures.",
+   "Democrats view the win as part of their effort to limit President Donald Trump’s influence during his remaining time in the White House."
+  ],
+  "headline_bn": "জর্জিয়ার সেনেটর জোন ওসোফ পুনর্নির্বাচিত, ডেমোক্র্যাটদের গুরুত্বপূর্ণ সিট নিশ্চিত",
+  "summary_bn": "জোন ওসোফ রিপাবলিকান মাইক কলিন্সকে পরাজিত করে মঙ্গলবার ডেমোক্র্যাটদের গুরুত্বপূর্ণ সেনেট সিট বজায় রেখেছেন।",
+  "body_bn": [
+   "জোন ওসোফ মঙ্গলবার জর্জিয়ার সেনেটর পদে দ্বিতীয় মেয়াদে পুনর্নির্বাচিত হন, রিপাবলিকান প্রতিনিধি মাইক কলিন্সকে পরাজিত করে।",
+   "এই জয় ডেমোক্র্যাট পার্টির জন্য গুরুত্বপূর্ণ সেনেট সিট সংরক্ষণ করে এবং ওসোফকে চেম্বারের সবচেয়ে কম বয়সী সদস্য হিসেবে তুলে ধরে, যা তাকে দলের জাতীয় মুখে তুলে ধরে।",
+   "ডেমোক্র্যাটরা এই ফলাফলকে প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের শেষ বছরগুলোতে তার প্রভাব সীমিত করার প্রচেষ্টার অংশ হিসেবে দেখছে।"
+  ],
+  "image_prompt": "illustration of a ballot box, rising chart, and US map highlighting Georgia, no faces or logos",
+  "category": "Politics",
+  "source": "France 24, Al Jazeera English",
+  "source_url": "https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection",
+  "source_title": "REPLAY: Georgia Senator Jon Ossoff wins reelection",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection",
+    "title": "REPLAY: Georgia Senator Jon Ossoff wins reelection"
+   },
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss",
+    "title": "Ossoff wins reelection in Georgia holding Senate seat for Democrats"
+   }
+  ],
+  "published": "2026-11-04T03:36:09+00:00",
+  "added": "2026-11-04T06:45:46.621103+00:00",
+  "hidden": false,
+  "image": "data/img/13ca73bafe5e.jpg"
+ },
+ {
   "id": "3724dbec2f45",
   "headline": "Ballot scanner glitch disrupts voting in New York suburbs",
   "summary": "Al Jazeera English reports that voting machine scanner failures occurred at polling sites about 50 km north of New York City, affecting the voting process.",
