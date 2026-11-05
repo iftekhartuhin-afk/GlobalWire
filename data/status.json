@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-04T21:00:15.894713+00:00",
+ "last_run": "2026-11-05T01:32:43.508708+00:00",
  "sources": {
   "UN News": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "DW": {
    "ok": true,
-   "items": 125
+   "items": 122
   },
   "France 24": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Prothom Alo": {
    "ok": true,
-   "items": 38
+   "items": 8
   }
  },
  "added": 8,
