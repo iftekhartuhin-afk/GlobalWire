@@ -1,5 +1,265 @@
 [
  {
+  "id": "2e0a9bf9e20e",
+  "headline": "Mass wedding unites 250 couples in Gaza amid ongoing conflict",
+  "summary": "Al Jazeera English reports 250 couples married in Gaza despite the war.",
+  "body": [
+   "A mass wedding ceremony in Gaza brought together 250 couples who exchanged vows, according to Al Jazeera English. The event took place amid the ongoing war that the outlet describes as a genocidal campaign against the enclave.",
+   "Organisers said the gathering was meant to celebrate love and new beginnings despite the harsh conditions of the conflict. The ceremony highlighted the community’s desire to uphold personal milestones even as hostilities continue."
+  ],
+  "headline_bn": "গাজায় ২৫০ দম্পতি একসাথে বিয়ে, চলমান যুদ্ধের মাঝেও",
+  "summary_bn": "আল জাজিরা ইংলিশের মতে, গাজায় যুদ্ধের মাঝেও ২৫০ দম্পতি বিয়ে করেছে।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের রিপোর্টে গাজায় অনুষ্ঠিত একটি বৃহৎ বিয়ের অনুষ্ঠানে ২৫০ দম্পতি একসাথে শপথবদ্ধ হয়েছে। এই অনুষ্ঠান চলমান যুদ্ধের মাঝেও অনুষ্ঠিত হয়েছে, যা গাজাকে লক্ষ্য করে একটি গণহত্যা অভিযান বলে মিডিয়া উল্লেখ করেছে।",
+   "আয়োজকরা বলছেন, কঠিন পরিস্থিতি সত্ত্বেও এই সমাবেশটি প্রেম ও নতুন সূচনার উদযাপন হিসেবে পরিকল্পিত। সংঘাত চললেও ব্যক্তিগত মাইলফলক বজায় রাখার ইচ্ছা এই অনুষ্ঠানে প্রকাশ পেয়েছে।"
+  ],
+  "image_prompt": "illustration of a large wedding ceremony with many couples in a modest setting, symbolic of hope amid conflict",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+  "source_title": "Palestinian couples tie the knot in mass wedding in Gaza",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+    "title": "Palestinian couples tie the knot in mass wedding in Gaza"
+   }
+  ],
+  "published": "2026-11-06T21:37:30+00:00",
+  "added": "2026-11-06T22:30:28.020924+00:00",
+  "hidden": false
+ },
+ {
+  "id": "583af7491150",
+  "headline": "Trump appoints Stephen Miller as White House chief of staff",
+  "summary": "Stephen Miller, a longtime Trump adviser and architect of hardline immigration policies, replaces Susie Wiles.",
+  "body": [
+   "President Donald Trump announced that Stephen Miller will take over as White House chief of staff, succeeding Susie Wiles, according to DW. The outlet described Miller as a controversial figure who helped shape the administration's strict immigration agenda.",
+   "Al Jazeera English noted that Miller has been a close confidant of Trump since 2016 and was a key architect of the president's hardline immigration policies, indicating his new role may continue that policy focus."
+  ],
+  "headline_bn": "ট্রাম্প স্টিফেন মিলারকে হোয়াইট হাউস চিফ অফ স্টাফ হিসেবে নিয়োগ করেছেন",
+  "summary_bn": "স্টিফেন মিলার, ট্রাম্পের দীর্ঘমেয়াদী উপদেষ্টা ও কঠোর অভিবাসন নীতির স্থপতি, সুজি উইলসের পরিবর্তে আসছেন।",
+  "body_bn": [
+   "ডব্লিউ অনুযায়ী, প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ঘোষণা করেছেন যে স্টিফেন মিলার হোয়াইট হাউস চিফ অফ স্টাফের পদে সুজি উইলসের পরিবর্তে আসবেন। মিডিয়া মিলারকে বিতর্কিত ব্যক্তিত্ব হিসেবে চিহ্নিত করেছে, যিনি কঠোর অভিবাসন নীতি গঠনে ভূমিকা রেখেছেন।",
+   "আল জাজিরা ইংলিশ জানিয়েছে যে মিলার ২০১৬ সাল থেকে ট্রাম্পের ঘনিষ্ঠ উপদেষ্টা এবং প্রেসিডেন্টের কঠোর অভিবাসন নীতির মূল স্থপতি, যা তার নতুন পদে নীতিগত ধারাবাহিকতা নির্দেশ করে।"
+  ],
+  "image_prompt": "illustration of a modern office with a chief of staff nameplate and policy documents, no people",
+  "category": "Politics",
+  "source": "Al Jazeera English, DW",
+  "source_url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+  "source_title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+    "title": "Who is Stephen Miller, Trump’s new White House chief of staff?"
+   },
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
+    "title": "Stephen Miller named by Trump as new White House chief of staff"
+   }
+  ],
+  "published": "2026-11-06T21:22:57+00:00",
+  "added": "2026-11-06T22:30:04.132584+00:00",
+  "hidden": false,
+  "image": "data/img/583af7491150.jpg"
+ },
+ {
+  "id": "43e42c428382",
+  "headline": "Protesters breach Microsoft data centre site in Amsterdam",
+  "summary": "Activists demand a pause on European data centre construction over water, power and climate concerns.",
+  "body": [
+   "Al Jazeera English reports that protesters broke into Microsoft’s data centre site in Amsterdam, joining a wave of demonstrations across Europe against the large computing power and water consumption of such facilities.",
+   "DW adds that the demonstrators are calling for a halt to data centre construction in Europe. Campaigners planning actions in 16 countries say the AI building boom threatens water supplies, power grids and climate targets.",
+   "The protests aim to pressure technology firms and policymakers to address the environmental impact of expanding data infrastructure."
+  ],
+  "headline_bn": "মাইক্রোসফটের আমস্টারডাম ডেটা সেন্টার সাইটে প্রতিবাদকারীরা প্রবেশ",
+  "summary_bn": "এআই ডেটা সেন্টার নির্মাণের পানি, বিদ্যুৎ ও জলবায়ু প্রভাবের বিরুদ্ধে ইউরোপে প্রতিবাদ বাড়ছে।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের মতে, আমস্টারডামস্থিত মাইক্রোসফটের ডেটা সেন্টার সাইটে প্রতিবাদকারীরা প্রবেশ করেছে। ইউরোপ জুড়ে ডেটা সেন্টারগুলো বিশাল কম্পিউটিং ক্ষমতা ও প্রচুর পানি ব্যবহার করার কারণে প্রতিবাদের মুখে।",
+   "ডি ডব্লিউ জানিয়েছে, প্রতিবাদকারীরা ইউরোপে ডেটা সেন্টার নির্মাণে বিরতি দাবি করছে। ১৬টি দেশে প্রতিবাদ পরিকল্পনা করা ক্যাম্পেইনকারীরা এআই নির্মাণ বুমের ফলে পানি সরবরাহ, বিদ্যুৎ গ্রিড এবং জলবায়ু লক্ষ্যগুলোকে হুমকি হিসেবে দেখছে।",
+   "এই কর্মগুলো টেক কোম্পানি ও নীতিনির্ধারকদের পরিবেশগত প্রভাব বিবেচনা করতে চাপ দিচ্ছে।"
+  ],
+  "image_prompt": "Illustration of a crowd protesting outside a data centre building, with signs referencing water usage and power consumption, no faces, flags, or logos",
+  "category": "Environment",
+  "source": "Al Jazeera English, DW",
+  "source_url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+  "source_title": "Protesters break into Microsoft data centre site in Amsterdam",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+    "title": "Protesters break into Microsoft data centre site in Amsterdam"
+   },
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf",
+    "title": "Data center protesters break into Microsoft site in Amsterdam"
+   }
+  ],
+  "published": "2026-11-06T21:04:40+00:00",
+  "added": "2026-11-06T22:30:12.284351+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4a9c43c792f7",
+  "headline": "Russian diesel tankers reroute after sanctions block US docking",
+  "summary": "DW reports that Russian diesel tankers heading for the United States have altered their routes because sanctions prevent them from docking, despite a reported Trump‑Putin agreement.",
+  "body": [
+   "DW reports that tankers carrying Russian diesel intended for the United States have altered their routes. The change follows an alleged agreement between former U.S. President Donald Trump and Russian President Vladimir Putin to supply diesel to the U.S. However, existing sanctions prevent the vessels from docking, forcing them to seek alternative ports.",
+   "The sanctions, imposed by the United States and allied nations, restrict the entry of Russian fuel shipments, and officials have not confirmed any exemption for the reported deal."
+  ],
+  "headline_bn": "স্যানশন বাধা, রাশিয়ান ডিজেল ট্যাঙ্কার যুক্তরাষ্ট্রে রুট বদলাল",
+  "summary_bn": "DW জানায়, ট্রাম্প‑পুতিনের চুক্তি সত্ত্বেও স্যানশন ট্যাঙ্কারগুলোকে ডকিং থেকে বিরত রাখে, ফলে তারা রুট পরিবর্তন করেছে।",
+  "body_bn": [
+   "DW জানিয়েছে যে রাশিয়ান ডিজেল বহনকারী ট্যাঙ্কারগুলো যুক্তরাষ্ট্রে পৌঁছানোর জন্য তাদের রুট পরিবর্তন করেছে। এই পরিবর্তনটি প্রাক্তন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ও রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের মধ্যে একটি চুক্তির পরিপ্রেক্ষিতে ঘটেছে, তবে বিদ্যমান স্যানশনগুলো জাহাজগুলোকে ডকিং থেকে বাধা দিচ্ছে, ফলে তারা বিকল্প বন্দর খুঁজছে।",
+   "স্যানশনগুলো, যা যুক্তরাষ্ট্র ও তার মিত্র দেশগুলো আরোপ করেছে, রাশিয়ান জ্বালানি শিপমেন্টের প্রবেশ সীমাবদ্ধ করে এবং সংশ্লিষ্ট চুক্তির জন্য কোনো ব্যতিক্রম নিশ্চিত করা হয়নি।"
+  ],
+  "image_prompt": "cargo tanker at sea with oil barrels and a map showing routes between Russia and the United States, no faces or logos",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Tankers carrying Russian diesel to the US change course",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf",
+    "title": "Tankers carrying Russian diesel to the US change course"
+   }
+  ],
+  "published": "2026-11-06T20:55:00+00:00",
+  "added": "2026-11-06T22:30:35.991877+00:00",
+  "hidden": false
+ },
+ {
+  "id": "bb7780fee199",
+  "headline": "Trump names immigration hardliner Stephen Miller as White House chief of staff",
+  "summary": "President Donald Trump announced Stephen Miller, known for his role in the administration's deportation policy, will serve as the new chief of staff, France 24 reported.",
+  "body": [
+   "US President Donald Trump announced on Friday that Stephen Miller will become his new chief of staff. The appointment follows Miller's prominent involvement in shaping the administration's immigration enforcement strategy. Miller, who has served as a senior advisor to Trump, will replace the outgoing chief of staff.",
+   "According to France 24, Miller has been a key architect of the mass deportation programme and has drawn criticism after ICE agents fatally shot two protesters in Minneapolis in January. The criticism stems from the January incident in which ICE agents opened fire on demonstrators, resulting in two deaths, raising concerns about the administration's immigration enforcement tactics."
+  ],
+  "headline_bn": "ট্রাম্প স্টিফেন মিলারকে হোয়াইট হাউসের নতুন চিফ অফ স্টাফ হিসেবে নিয়োগ দিলেন",
+  "summary_bn": "প্রেসিডেন্ট ডোনাল্ড ট্রাম্প স্টিফেন মিলারকে, যিনি অভিবাসন নীতি চালাতে গুরুত্বপূর্ণ ভূমিকা পালন করেছেন, নতুন চিফ অফ স্টাফ হিসেবে নিয়োগের ঘোষণা দিয়েছেন, ফ্রান্স ২৪ জানিয়েছে।",
+  "body_bn": [
+   "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প শুক্রবার ঘোষণা করেছেন যে স্টিফেন মিলার হোয়াইট হাউসের নতুন চিফ অফ স্টাফ হবেন। মিলার, যিনি ট্রাম্পের সিনিয়র উপদেষ্টা হিসেবে কাজ করেছেন, অভিবাসন প্রয়োগ নীতিতে গুরুত্বপূর্ণ ভূমিকা পালন করেছেন এবং পূর্বের চিফ অফ স্টাফকে প্রতিস্থাপন করবেন।",
+   "ফ্রান্স ২৪ অনুযায়ী, মিলার মাস ডিপোর্টেশন প্রোগ্রামের প্রধান স্থপতি এবং জানুয়ারিতে মিনিাপলিসে আইসিই এজেন্টদের দুই প্রতিবাদকারীকে গুলি করার পর ব্যাপক সমালোচনার মুখে পড়েছেন। এই ঘটনা প্রশাসনের অভিবাসন প্রয়োগ কৌশল সম্পর্কে উদ্বেগ বাড়িয়ে দিয়েছে।"
+  ],
+  "image_prompt": "Illustration of a government office desk with paperwork and a nameplate indicating a new chief of staff",
+  "category": "Politics",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+  "source_title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+    "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff"
+   }
+  ],
+  "published": "2026-11-06T20:51:37+00:00",
+  "added": "2026-11-06T22:30:47.303250+00:00",
+  "hidden": false
+ },
+ {
+  "id": "28fd1f853fc8",
+  "headline": "Thomas Markle arrested in US over alleged child sexual abuse photos",
+  "summary": "US authorities say they found explicit images appearing to show the Prince Harry’s father with under‑age girls.",
+  "body": [
+   "US authorities have arrested Thomas Markle, the father of Meghan Markle, on suspicion of child sexual abuse. The arrest was made after investigators in the United States examined a collection of photographs.",
+   "Al Jazeera English reported that the photographs are sexually explicit and appear to show Markle with prepubescent girls. The images prompted the authorities to pursue criminal charges related to alleged child sex abuse.",
+   "Authorities have not released further details about the investigation, and the case remains under active inquiry."
+  ],
+  "headline_bn": "থমাস মার্কলকে যুক্তরাষ্ট্রে শিশু যৌন নির্যাতনের ছবি নিয়ে গ্রেফতার করা হয়েছে",
+  "summary_bn": "মার্কিন কর্তৃপক্ষের মতে, তিনি প্রাকবয়সী মেয়েদের সঙ্গে স্পষ্ট ছবি তোলার অভিযোগে অভিযুক্ত।",
+  "body_bn": [
+   "মার্কিন কর্তৃপক্ষ থমাস মার্কলকে, মেগান মার্কলের পিতা, শিশু যৌন নির্যাতনের সন্দেহে গ্রেফতার করেছে। যুক্তরাষ্ট্রের তদন্তকারীরা একটি ফটো সংগ্রহ পর্যালোচনা করার পর এই গ্রেফতার করা হয়।",
+   "Al Jazeera English রিপোর্ট করেছে যে ছবিগুলো যৌন স্পষ্ট এবং মার্কলকে প্রাকবয়সী মেয়েদের সঙ্গে দেখা যাচ্ছে। এই ছবিগুলো কর্তৃপক্ষকে শিশুর যৌন নির্যাতনের অভিযোগে ফৌজদারি মামলা চালানোর দিকে ধাবিত করেছে।",
+   "তদন্ত সংক্রান্ত অতিরিক্ত কোনো তথ্য প্রকাশ করা হয়নি, এবং এই মামলা সক্রিয়ভাবে তদন্তাধীন রয়েছে।"
+  ],
+  "image_prompt": "illustration of a courtroom with legal files and a blurred male silhouette, no faces or logos",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+  "source_title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+    "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos"
+   }
+  ],
+  "published": "2026-11-06T20:28:07+00:00",
+  "added": "2026-11-06T22:32:18.285489+00:00",
+  "hidden": false
+ },
+ {
+  "id": "58512176fa1c",
+  "headline": "Over 3,200 Migrants Rescued Off Spain’s Canary Islands in Early November",
+  "summary": "In the first six days of November, authorities rescued more than 3,200 migrants near the Canary Islands, Spain, according to Al Jazeera English.",
+  "body": [
+   "More than 3,200 migrants were rescued by authorities during the first six days of November in the waters surrounding Spain’s Canary Islands, Al Jazeera English reported. The operation took place over a short period at the start of the month, highlighting a significant influx of people attempting the sea crossing.",
+   "The rescue underscores the scale of maritime migration flows affecting the region, as the large number of people saved in just a few days points to ongoing challenges for coastal authorities."
+  ],
+  "headline_bn": "নভেম্বরের প্রথম ছয় দিনে ক্যানারি দ্বীপে ৩,২০০-এরও বেশি অভিবাসী উদ্ধার",
+  "summary_bn": "নভেম্বরের প্রথম ছয় দিনে স্পেনের ক্যানারি দ্বীপের কাছে ৩,২০০-এরও বেশি অভিবাসী উদ্ধার করা হয়েছে, আল জাজিরা ইংলিশ রিপোর্ট করেছে।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের মতে, নভেম্বরের প্রথম ছয় দিনে স্পেনের ক্যানারি দ্বীপের পার্শ্ববর্তী জলে ৩,২০০-এরও বেশি অভিবাসী উদ্ধার করা হয়েছে। এই অপারেশনটি মাসের শুরুর কয়েক দিনের মধ্যে সম্পন্ন হয়েছে, যা সমুদ্রপথে যাত্রা করা মানুষের বড় সংখ্যা নির্দেশ করে।",
+   "এই বৃহৎ উদ্ধারকর্মটি অঞ্চলের সামুদ্রিক অভিবাসন প্রবাহের মাত্রা প্রকাশ করে, কারণ স্বল্প সময়ে এতজনের নিরাপদে ফেরত আনা স্থানীয় কর্তৃপক্ষের জন্য চলমান চ্যালেঞ্জকে তুলে ধরে।"
+  ],
+  "image_prompt": "Rescue boat pulling dozens of people from rough sea near an island, with waves and distant shoreline, under overcast sky",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
+  "source_title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
+    "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea"
+   }
+  ],
+  "published": "2026-11-06T20:27:09+00:00",
+  "added": "2026-11-06T22:32:25.757169+00:00",
+  "hidden": false
+ },
+ {
+  "id": "5c5c8a725146",
+  "headline": "Tanzanian opposition leader Tundu Lissu sentenced to four years in politically‑charged case",
+  "summary": "Lissu was cleared of treason, convicted of incitement not originally charged, in a trial condemned as politically motivated.",
+  "body": [
+   "According to DW, Tanzanian opposition figure Tundu Lissu received a four‑year prison sentence after being cleared of treason. The court convicted him of incitement, a charge that was not part of the original indictment.",
+   "Al Jazeera English reports that the case has been widely condemned as politically motivated, and Lissu himself denounced the incitement conviction as unfounded."
+  ],
+  "headline_bn": "তানজানিয়ার বিরোধী নেতা তুন্দু লিসসুকে চার বছর কারাদণ্ড, রাজনৈতিক প্রেরণার মামলা",
+  "summary_bn": "লিসসু ত্রাসদোষে মুক্ত, তবে অপরাধের অভিযোগে শাস্তি, যা মূল অভিযোগের মধ্যে ছিল না, এবং বিচারকে রাজনৈতিকভাবে প্রভাবিত বলে সমালোচনা করা হয়েছে।",
+  "body_bn": [
+   "ডব্লিউ অনুযায়ী তানজানিয়ার বিরোধী নেতা তুন্দু লিসসুকে চার বছর কারাদণ্ড দেওয়া হয়েছে। তিনি ত্রাসদোষে দোষী সাব্যস্ত না হওয়া সত্ত্বেও, অপরাধের অভিযোগে দোষী সাব্যস্ত হয়েছেন, যা মূল অভিযোগের মধ্যে ছিল না।",
+   "আল জাজিরা ইংলিশের মতে, এই মামলাটি ব্যাপকভাবে রাজনৈতিক প্রেরণার হিসেবে সমালোচিত হয়েছে, এবং লিসসু নিজে এই দোষারোপকে নিন্দা করেছেন।"
+  ],
+  "image_prompt": "illustration of a courtroom with a judge's gavel and legal documents, no people or symbols",
+  "category": "Politics",
+  "source": "Al Jazeera English, DW",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
+  "source_title": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
+    "title": "Tanzanian opposition leader jailed in ‘politically motivated’ case"
+   },
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-all-1573-rdf",
+    "title": "Tanzania: Opposition leader Tundu Lissu jailed for four years"
+   }
+  ],
+  "published": "2026-11-06T19:42:46+00:00",
+  "added": "2026-11-06T22:30:20.519120+00:00",
+  "hidden": false
+ },
+ {
   "id": "7b0bd33452a3",
   "headline": "John Bolton says US midterms signal start of decline for Trump's grip on GOP",
   "summary": "In a France 24 interview, former adviser John Bolton called the recent midterm outcomes the beginning of the end for Donald Trump’s dominance of the Republican Party.",
