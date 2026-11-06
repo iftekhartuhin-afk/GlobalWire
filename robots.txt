@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iftekhartuhin-afk.github.io/GlobalWire/sitemap.xml
