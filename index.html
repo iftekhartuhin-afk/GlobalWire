@@ -52,7 +52,7 @@ const ago=d=>{const m=(Date.now()-new Date(d))/6e4,n=x=>L=="bn"?x.toLocaleString
  if(m<60)return n(Math.max(1,m|0))+(L=="bn"?" মিনিট আগে":" min ago");if(m<1440)return n(m/60|0)+(L=="bn"?" ঘণ্টা আগে":" h ago");
  return new Date(d).toLocaleDateString(L=="bn"?"bn-BD":"en",{day:"numeric",month:"short",year:"numeric"})};
 const img=a=>a.image?`<img class="th" src="${esc(a.image)}" alt="" loading="lazy" onerror="this.remove()">`:"";
-const card=(a,h)=>`<article class="card${h?" hero":""}"><a href="#/a/${a.id}">${img(a)}<div class="in"><span class="tag">${esc(cat(a.category))}</span><h3>${esc(tx(a,"headline"))}</h3></a><p>${esc(tx(a,"summary"))}</p><small>${esc(a.source)} · ${ago(a.published)}</small></div></article>`;
+const card=(a,h)=>`<article class="card${h?" hero":""}"><a href="a/${a.id}.html">${img(a)}<div class="in"><span class="tag">${esc(cat(a.category))}</span><h3>${esc(tx(a,"headline"))}</h3></a><p>${esc(tx(a,"summary"))}</p><small>${esc(a.source)} · ${ago(a.published)}</small></div></article>`;
 function list(items,title){
   if(!items.length)return `<p class="empty">${u().none}</p>`;
   return (title?`<h2>${esc(title)}</h2>`:"")+`<div class="grid">${items.slice(0,shown).map((a,i)=>card(a,i==0&&!title)).join("")}</div>`+(items.length>shown?`<button class="more" onclick="shown+=24;route()">${u().more}</button>`:"");
