@@ -130,6 +130,51 @@ def log_run(status):
     runs.append({"t": status["last_run"], "added": status["added"], "note": status.get("note", "")})
     json.dump(runs[-1000:], open(RUNS, "w"))
 
+CSS = ":root{--bg:#fafaf7;--fg:#16181d;--mut:#667;--ac:#b3261e}@media(prefers-color-scheme:dark){:root{--bg:#101215;--fg:#eceef2;--mut:#98a0ad;--ac:#ff6b5e}}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.7 'Noto Serif Bengali',Georgia,serif}main{max-width:720px;margin:auto;padding:18px 16px}a{color:var(--ac)}img{width:100%;border-radius:10px}small{color:var(--mut);font-family:system-ui,sans-serif}.src{border-left:4px solid var(--ac);padding:10px 14px;margin:20px 0;font-family:system-ui,sans-serif}.brand{font-weight:700;font-size:1.4rem;color:var(--fg);text-decoration:none}"
+PAGES = os.path.join(ROOT, "a")
+
+def esc(x): return html.escape(str(x or ""), quote=True)
+
+def site_base(st):
+    repo = os.environ.get("GITHUB_REPOSITORY", "/").split("/")
+    return (st.get("site_url") or f"https://{repo[0]}.github.io/{repo[1]}/").rstrip("/") + "/"
+
+def page(a, base):
+    bn = bool(a.get("headline_bn") and a.get("body_bn"))
+    title = a["headline_bn"] if bn else a["headline"]
+    dek = (a.get("summary_bn") if bn else a.get("summary")) or a.get("summary", "")
+    body = a["body_bn"] if bn else a.get("body", [])
+    url = f"{base}a/{a['id']}.html"; img = base + a["image"] if a.get("image") else ""
+    srcs = a.get("sources") or [{"name": a["source"], "url": a["source_url"]}]
+    ld = json.dumps({"@context": "https://schema.org", "@type": "NewsArticle", "headline": title[:110], "datePublished": a["published"],
+                     "dateModified": a["published"], "inLanguage": "bn" if bn else "en", "image": [img] if img else [],
+                     "publisher": {"@type": "Organization", "name": "Global Wire"}, "mainEntityOfPage": url}, ensure_ascii=False).replace("</", "<\\/")
+    links = " · ".join(f'<a href="{esc(x["url"])}" target="_blank" rel="noopener nofollow">{esc(x["name"])}</a>' for x in srcs)
+    en = ("<details><summary>English version</summary><h2>" + esc(a["headline"]) + "</h2>" + "".join(f"<p>{esc(x)}</p>" for x in a.get("body", [])) + "</details>") if bn else ""
+    return (f'<!DOCTYPE html><html lang="{"bn" if bn else "en"}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+            f'<title>{esc(title)} – Global Wire</title><meta name="description" content="{esc(dek)}"><link rel="canonical" href="{url}">'
+            f'<meta property="og:type" content="article"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(dek)}"><meta property="og:url" content="{url}">'
+            + (f'<meta property="og:image" content="{esc(img)}"><meta name="twitter:card" content="summary_large_image">' if img else "")
+            + f'<script type="application/ld+json">{ld}</script><link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@400;700&display=swap" rel="stylesheet">'
+            f'<style>{CSS}</style></head><body><main><a class="brand" href="../">GlobalWire</a><h1>{esc(title)}</h1>'
+            f'<small>{esc(a["source"])} · {esc(a["published"][:10])}</small>'
+            + (f'<p><img src="../{esc(a["image"])}" alt=""><small>AI-generated illustration</small></p>' if img else "")
+            + f'<p><b>{esc(dek)}</b></p>' + "".join(f"<p>{esc(x)}</p>" for x in body)
+            + f'<div class="src">Facts reported by: {links}<br><small>Read the original reporting at the links above.</small></div>'
+            f'<small>Written by AI from facts reported by the outlets named above. It may contain errors; check the original reporting.</small>{en}'
+            '<p><a href="../">← All news</a></p></main></body></html>')
+
+def write_site(arts, st):
+    base = site_base(st); os.makedirs(PAGES, exist_ok=True)
+    live = [a for a in arts if not a.get("hidden")]
+    keep = {a["id"] + ".html" for a in live}
+    for f in os.listdir(PAGES):
+        if f not in keep: os.remove(os.path.join(PAGES, f))
+    for a in live: open(os.path.join(PAGES, a["id"] + ".html"), "w", encoding="utf-8").write(page(a, base))
+    urls = [f"<url><loc>{base}</loc></url>"] + [f"<url><loc>{base}a/{a['id']}.html</loc><lastmod>{a['published'][:10]}</lastmod></url>" for a in live]
+    open(os.path.join(ROOT, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(urls) + "</urlset>")
+    open(os.path.join(ROOT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {base}sitemap.xml\n")
+
 def paras(b):
     if isinstance(b, str): b = b.split("\n")
     return [str(p).strip() for p in (b or []) if str(p).strip()]
@@ -165,11 +210,11 @@ def fb_post(added, status, st):
     page, tok = os.environ.get("FB_PAGE_ID", ""), os.environ.get("FB_PAGE_TOKEN", "")
     if not (page and tok and added): return
     repo = os.environ.get("GITHUB_REPOSITORY", "/").split("/")
-    base = st.get("site_url") or f"https://{repo[0]}.github.io/{repo[1]}/"
+    base = site_base(st)
     posted = 0
     for a in added[: st.get("facebook_per_run", 2)]:
         msg = f"{a.get('headline_bn') or a['headline']}\n\n{a.get('summary_bn') or a['summary']}\n\nFacts reported by: {a['source']}"
-        data = urllib.parse.urlencode({"message": msg, "link": base + "#/a/" + a["id"], "access_token": tok}).encode()
+        data = urllib.parse.urlencode({"message": msg, "link": base + "a/" + a["id"] + ".html", "access_token": tok}).encode()
         try:
             get(f"https://graph.facebook.com/v22.0/{page}/feed", 30, data); a["fb"] = True; posted += 1
         except urllib.error.HTTPError as e:
@@ -233,9 +278,11 @@ def main():
              "sources": [{"name": i["source"], "url": i["link"], "title": i["title"]} for i in g],
              "published": max(i["published"] for i in g), "added": datetime.now(timezone.utc).isoformat(), "hidden": False}
         added.append(a); titles += [a["headline"]] + [i["title"] for i in g]
-    add_images(added, st, status); fb_post(added, status, st)
+    add_images(added, st, status)
+    day = datetime.now(timezone.utc) - timedelta(days=1)
+    fb_post([a for a in arts if not a.get("fb") and not a.get("hidden") and datetime.fromisoformat(a.get("added", a["published"])) > day], status, st)
     arts = sorted(added + arts, key=lambda a: a["published"], reverse=True)[: st.get("keep", 600)]
-    prune_images(arts)
+    prune_images(arts); write_site(arts, st)
     json.dump(arts, open(OUT, "w"), indent=1, ensure_ascii=False)
     status["added"] = len(added)
     json.dump(status, open(STATUS, "w"), indent=1); log_run(status)
