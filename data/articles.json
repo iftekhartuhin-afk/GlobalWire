@@ -1,5 +1,248 @@
 [
  {
+  "id": "ff0eea51cee9",
+  "headline": "Trump's mixed messages on Iran amid post‑midterm uncertainty",
+  "summary": "Al Jazeera notes the president’s ambiguous stance after his party’s midterm loss as Iran pursues cognitive warfare.",
+  "body": [
+   "Al Jazeera English reported that questions are being raised about whether former President Donald Trump might consider striking nuclear facilities again, in the context of Iran’s alleged “cognitive warfare” activities.",
+   "The outlet noted that Trump has been issuing mixed messages since his party’s defeat in the recent midterm elections, suggesting uncertainty in U.S. policy toward Iran."
+  ],
+  "headline_bn": "মিডটার্ম পরাজয়ের পর ট্রাম্পের ইরানের প্রতি দ্বিধা প্রকাশ",
+  "summary_bn": "আল জাজিরা জানিয়েছে, পার্টির পরাজয়ের পর ট্রাম্পের অস্পষ্ট অবস্থান, ইরানের ‘কগনিটিভ ওয়ারফেয়ার’ চলমান।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশ রিপোর্ট করেছে যে, ইরানের ‘কগনিটিভ ওয়ারফেয়ার’ চালুর প্রেক্ষিতে ট্রাম্প আবার পারমাণবিক সাইটে আক্রমণ করবেন কিনা প্রশ্ন উঠছে।",
+   "মিডটার্ম নির্বাচনে পার্টির পরাজয়ের পর থেকে ট্রাম্প মিশ্র বার্তা পাঠাচ্ছেন, যা যুক্তরাষ্ট্রের ইরান নীতি নিয়ে অনিশ্চয়তা সৃষ্টি করছে।"
+  ],
+  "image_prompt": "illustration of a nuclear power plant silhouette with abstract digital brainwave patterns",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+  "source_title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+    "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?"
+   }
+  ],
+  "published": "2026-11-07T08:45:36+00:00",
+  "added": "2026-11-07T08:59:26.933057+00:00",
+  "hidden": false,
+  "image": "data/img/ff0eea51cee9.jpg"
+ },
+ {
+  "id": "d44683e64896",
+  "headline": "Mirpur Zoo sells surplus Chitra deer at 50,000 taka per animal, minimum pair required",
+  "summary": "Mirpur National Zoo is offering surplus Chitra deer for sale at 50,000 taka each, requiring buyers to purchase at least a pair.",
+  "body": [
+   "Mirpur National Zoo announced that it is selling surplus Chitra deer. Each animal is priced at 50,000 taka, and purchasers must buy a minimum of one pair, according to Prothom Alo.",
+   "The sale aims to manage the excess population of the species within the zoo, and the details were reported by Prothom Alo."
+  ],
+  "headline_bn": "মিরপুর চিড়িয়াখানায় চিত্রা হরিণ বিক্রি, দাম ৫০,০০০ টাকা",
+  "summary_bn": "মিরপুর জাতীয় চিড়িয়াখানায় অতিরিক্ত চিত্রা হরিণ ৫০,০০০ টাকায় বিক্রি, কমপক্ষে এক জোড়া কিনতে হবে।",
+  "body_bn": [
+   "মিরপুর জাতীয় চিড়িয়াখানা অতিরিক্ত চিত্রা হরিণ বিক্রির ঘোষণা দিয়েছে। প্রতিটি হরিণের দাম ৫০,০০০ টাকা, এবং ক্রেতাকে কমপক্ষে এক জোড়া কিনতে হবে।",
+   "এই বিক্রির তথ্য প্রথম আলোতে প্রকাশিত হয়েছে।"
+  ],
+  "image_prompt": "Illustration of a zoo enclosure with two deer, price tag showing 50,000 taka, no people",
+  "category": "Environment",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/50-haajaare-hrinn-paalun-baarrite",
+  "source_title": "৫০ হাজারে হরিণ, পালুন বাড়িতে",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/50-haajaare-hrinn-paalun-baarrite",
+    "title": "৫০ হাজারে হরিণ, পালুন বাড়িতে"
+   }
+  ],
+  "published": "2026-11-07T08:40:34+00:00",
+  "added": "2026-11-07T08:59:34.123001+00:00",
+  "hidden": false
+ },
+ {
+  "id": "171b00c194e4",
+  "headline": "Hackers Use Fake Job Interview to Breach Binance, Steal Billions in Crypto",
+  "summary": "According to Prothom Alo, a multi‑stage hack involving a bogus online interview let attackers install malware on engineers’ computers and siphon billions of dollars in cryptocurrency from Binance.",
+  "body": [
+   "Hackers carried out a complex, multi‑stage operation to gain access to Binance’s systems, according to Prothom Alo. The intrusion was orchestrated through a fabricated online job interview that persuaded engineers to download malicious software onto their work computers.",
+   "The installed malware enabled the perpetrators to extract cryptocurrency valued at billions of dollars from the exchange’s wallets."
+  ],
+  "headline_bn": "বাইন্যান্সে হ্যাকারদের জাল চাকরির সাক্ষাৎকার, বিলিয়ন ডলারের ক্রিপ্টো চুরি",
+  "summary_bn": "প্রথম আলো অনুসারে, জটিল বহু‑পর্যায়ের হ্যাকিংয়ে হ্যাকাররা জাল অনলাইন চাকরির সাক্ষাৎকারের মাধ্যমে ইঞ্জিনিয়ারদের কম্পিউটারে ম্যালওয়্যার ডাউনলোড করিয়ে বাইন্যান্সের ওয়ালেট থেকে বিলিয়ন ডলারের ক্রিপ্টো চুরি করেছে।",
+  "body_bn": [
+   "প্রথম আলো জানিয়েছে, হ্যাকাররা জটিল এবং বহুমাত্রিক ধাপের একটি অভিযান চালিয়ে বাইন্যান্সের সিস্টেমে প্রবেশ করেছে।",
+   "তারা একটি ভুয়া অনলাইন চাকরির ইন্টারভিউয়ের আড়ালে ইঞ্জিনিয়ারদের কম্পিউটারে ক্ষতিকারক সফটওয়্যার ডাউনলোড করিয়ে, ওয়ালেট থেকে বিলিয়ন ডলারের ক্রিপ্টো চুরি করার সুযোগ পেয়েছে।"
+  ],
+  "image_prompt": "A stylized illustration of a computer network with malicious code symbols infiltrating a digital vault, representing cryptocurrency theft",
+  "category": "Technology",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/technology/cyberworld/3mlrd45n80",
+  "source_title": "ভুয়া অনলাইন চাকরির ইন্টারভিউয়ের মাধ্যমে বাইন্যান্সের ক্রিপ্টো হ্যাকিং",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/technology/cyberworld/3mlrd45n80",
+    "title": "ভুয়া অনলাইন চাকরির ইন্টারভিউয়ের মাধ্যমে বাইন্যান্সের ক্রিপ্টো হ্যাকিং"
+   }
+  ],
+  "published": "2026-11-07T08:37:50+00:00",
+  "added": "2026-11-07T08:59:42.821549+00:00",
+  "hidden": false
+ },
+ {
+  "id": "9ca2f97e7f54",
+  "headline": "Traffic officials warn of possible congestion on select Dhaka roads",
+  "summary": "Officials advise commuters to allow extra time when traveling through the identified streets.",
+  "body": [
+   "Traffic department officials have identified several streets in Dhaka where congestion may develop. The warning points to a potential build‑up of vehicles on those routes, prompting concern for daily commuters.",
+   "People who need to travel through the identified areas have been advised to leave with sufficient time to reach their destinations. The guidance seeks to help commuters avoid delays caused by the expected traffic conditions. Authorities emphasized that allowing extra time can reduce the impact of the anticipated congestion. This recommendation applies to all regular travelers."
+  ],
+  "headline_bn": "ঢাকায় কিছু রাস্তায় সম্ভাব্য যানজট, ট্রাফিক কর্মকর্তাদের সতর্কবার্তা",
+  "summary_bn": "প্রয়োজনীয় যাতায়াতকারীদেরকে যথেষ্ট সময় নিয়ে বের হওয়ার পরামর্শ দেওয়া হয়েছে।",
+  "body_bn": [
+   "ট্রাফিক বিভাগের কর্মকর্তারা ঢাকায় কিছু রাস্তা চিহ্নিত করেছেন যেখানে যানজট হতে পারে। এই সতর্কতা নির্দেশ করে যে ঐ রাস্তাগুলোতে গাড়ির ভিড় বাড়তে পারে, যা দৈনন্দিন যাত্রীদের জন্য উদ্বেগের বিষয়।",
+   "প্রয়োজনীয় যাতায়াতকারীদেরকে এই এলাকাগুলোতে যথেষ্ট সময় নিয়ে বের হওয়ার পরামর্শ দেওয়া হয়েছে যাতে তারা সময়মতো গন্তব্যে পৌঁছাতে পারে। এই নির্দেশনা প্রত্যাশিত ট্রাফিকের কারণে সৃষ্ট বিলম্ব এড়াতে সহায়তা করবে। কর্মকর্তারা জোর দিয়ে বলেছেন যে অতিরিক্ত সময় নিলে সম্ভাব্য যানজটের প্রভাব কমে যাবে। এই সুপারিশ সব নিয়মিত যাত্রীদের জন্য প্রযোজ্য।"
+  ],
+  "image_prompt": "Illustration of congested city streets with many vehicles, traffic lights, and road signs, no faces or text",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/capital/k5bkn08jty",
+  "source_title": "ঢাকায় কোন কোন রাস্তায় যানজট হতে পারে, কীভাবে যাবেন",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/capital/k5bkn08jty",
+    "title": "ঢাকায় কোন কোন রাস্তায় যানজট হতে পারে, কীভাবে যাবেন"
+   }
+  ],
+  "published": "2026-11-07T08:34:15+00:00",
+  "added": "2026-11-07T08:59:52.136766+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4fb6f2eb2d73",
+  "headline": "Teen climbs and is rescued from banyan tree in Natore's Naldanga",
+  "summary": "A 13‑year‑old boy was rescued after spending three hours atop a madrasa’s banyan tree in Natore, Bangladesh, by fire service personnel.",
+  "body": [
+   "According to Prothom Alo, a 13‑year‑old boy identified as Mo. Alhaj climbed onto the uppermost part of a large banyan tree that stands in the courtyard of a madrasa in Naldanga, a locality of Natore district.",
+   "He became stuck there, prompting a rescue operation by fire service personnel. After nearly three hours of effort, the rescuers safely lowered the teenager to the ground, and no injuries were reported.",
+   "The incident underscores the responsiveness of local emergency teams in addressing unexpected accidents involving children."
+  ],
+  "headline_bn": "নাটোরের নলডাঙ্গায় বটগাছের শীর্ষে আটকে থাকা কিশোরকে উদ্ধার",
+  "summary_bn": "প্রথম আলো অনুযায়ী, ১৩ বছর বয়সী মো. আলহাজ্বকে তিন ঘণ্টা পর ফায়ার সার্ভিস নিরাপদে নামিয়ে এনেছে।",
+  "body_bn": [
+   "প্রথম আলো জানায়, নাটোরের নলডাঙ্গা অঞ্চলের একটি মাদ্রাসার বটগাছের শীর্ষে ১৩ বছর বয়সী মো. আলহাজ্ব নামের কিশোর উঠে গিয়েছিলেন।",
+   "বটগাছের শাখায় আটকে যাওয়ায় ফায়ার সার্ভিসের সদস্যদের হস্তক্ষেপের প্রয়োজন হয়। প্রায় তিন ঘণ্টার প্রচেষ্টার পর তারা কিশোরকে নিরাপদে নিচে নামিয়ে আনে এবং কোনো আঘাতের রিপোর্ট নেই।",
+   "এই ঘটনা স্থানীয় জরুরি সেবার দ্রুত প্রতিক্রিয়া এবং শিশুদের নিরাপত্তা রক্ষার গুরুত্বকে তুলে ধরে।"
+  ],
+  "image_prompt": "Illustration of a fire service team rescuing a teenager from the top of a large banyan tree in a rural area",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/k8n11l3pla",
+  "source_title": "নাটোরে বটগাছের মগডালে উঠে যায় কিশোর, পরে যেভাবে নামানো হলো",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/k8n11l3pla",
+    "title": "নাটোরে বটগাছের মগডালে উঠে যায় কিশোর, পরে যেভাবে নামানো হলো"
+   }
+  ],
+  "published": "2026-11-07T08:32:21+00:00",
+  "added": "2026-11-07T09:00:02.196093+00:00",
+  "hidden": false
+ },
+ {
+  "id": "00be72ac1fb8",
+  "headline": "Center for Development Innovation and Practices Announces 400 Open Positions in Dhaka",
+  "summary": "The SIDIP in Dhaka has opened 400 job vacancies with no experience required, applications close on 28 November 2026.",
+  "body": [
+   "Prothom Alo reports that the Center for Development Innovation and Practices (SIDIP) in Dhaka has issued a recruitment notice for 400 positions.",
+   "The notice states that applicants are not required to have prior experience and that the application deadline is 28 November 2026."
+  ],
+  "headline_bn": "সিদীপের ৪০০টি পদে নিয়োগ, অভিজ্ঞতা ছাড়া আবেদন",
+  "summary_bn": "ঢাকায় সিদীপ ৪০০টি খালি পদ বিজ্ঞাপন দিয়েছে, আবেদন শেষ তারিখ ২৮ নভেম্বর ২০২৬।",
+  "body_bn": [
+   "প্রথম আলো অনুসারে, ঢাকা শহরের সেন্টার ফর ডেভেলপমেন্ট ইনোভেশন অ্যান্ড প্র্যাকটিসেস (সিদীপ) ৪০০টি পদে নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+   "বিজ্ঞপ্তিতে উল্লেখ করা হয়েছে যে, আবেদনকারীদের অভিজ্ঞতা প্রয়োজন নেই এবং শেষ তারিখ ২৮ নভেম্বর ২০২৬ নির্ধারিত।"
+  ],
+  "image_prompt": "illustration of a job posting board with multiple vacancy listings, a calendar showing November 2026, and a city skyline, no faces or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/chakri/employment/nj8stev85t",
+  "source_title": "বেসরকারি সংস্থায় ৪০০ পদে নিয়োগ, অভিজ্ঞতা ছাড়াই আবেদন",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/chakri/employment/nj8stev85t",
+    "title": "বেসরকারি সংস্থায় ৪০০ পদে নিয়োগ, অভিজ্ঞতা ছাড়াই আবেদন"
+   }
+  ],
+  "published": "2026-11-07T08:19:03+00:00",
+  "added": "2026-11-07T09:00:10.374678+00:00",
+  "hidden": false
+ },
+ {
+  "id": "43d3003c551f",
+  "headline": "France prepares for Saturday protests as unions, students and Yellow Vests rally despite ban",
+  "summary": "Unions, student groups and the Yellow Vests plan demonstrations in Paris on Saturday, following weeks of nationwide strikes over living costs.",
+  "body": [
+   "French unions and student organisations announced they will take to the streets on Saturday, joining a wave of recent unrest.",
+   "The Yellow Vests movement also intends to hold a separate rally in central Paris, even though authorities have imposed a ban. Both actions come after weeks of youth‑led disturbances and nationwide strikes that attracted hundreds of thousands of workers protesting the rising cost of living, according to France 24."
+  ],
+  "headline_bn": "ফ্রান্সে শনিবার প্রতিবাদ, ইউনিয়ন, ছাত্র ও ইয়েলো ভেস্টসের র্যালি নিষেধাজ্ঞা সত্ত্বেও",
+  "summary_bn": "ইউনিয়ন, ছাত্র গোষ্ঠী ও ইয়েলো ভেস্টস পারিসে শনিবার প্রতিবাদে অংশ নেবে, জীবনের খরচ বাড়ার প্রতিবাদে চলা সাপ্তাহিক ধর্মঘটের পর।",
+  "body_bn": [
+   "ফ্রান্সের ইউনিয়ন এবং ছাত্র সংগঠনগুলো শনিবার রাস্তায় বেরিয়ে প্রতিবাদ করার পরিকল্পনা প্রকাশ করেছে, যা সাম্প্রতিক অশান্তির ধারাবাহিকতা।",
+   "ইয়েলো ভেস্টস আন্দোলনও কেন্দ্রীয় পারিসে একটি আলাদা র্যালি আয়োজনের ইচ্ছা প্রকাশ করেছে, যদিও কর্তৃপক্ষ নিষেধাজ্ঞা আরোপ করেছে। এই পদক্ষেপগুলো কয়েক সপ্তাহের যুবকেন্দ্রিক অশান্তি এবং জাতীয় স্তরের ধর্মঘটের পর আসে, যেখানে শত শত হাজার কর্মী জীবনের ব্যয় বৃদ্ধির বিরোধে প্রতিবাদ করেছিল, ফ্রান্স ২৪ রিপোর্ট করেছে।"
+  ],
+  "image_prompt": "Illustration of crowds of protestors with signs and police barriers in a city street, no faces or logos",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
+  "source_title": "Live: France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
+    "title": "Live: France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'"
+   }
+  ],
+  "published": "2026-11-07T08:17:22+00:00",
+  "added": "2026-11-07T09:00:18.515051+00:00",
+  "hidden": false
+ },
+ {
+  "id": "85a684b284d4",
+  "headline": "France Plans €4 Billion Education Boost Amid Protests and Mounting Debt",
+  "summary": "France faces questions over fiscal stability as rising interest costs complicate planned education spending.",
+  "body": [
+   "France is planning to allocate an additional €4 billion toward education amid nationwide protests, according to DW.",
+   "The planned expenditure comes as the country grapples with mounting public debt and climbing interest costs. These growing financial obligations have raised questions over how much fiscal maneuvering room remains for the French government, amid concerns that the rising costs of debt could threaten overall stability."
+  ],
+  "headline_bn": "বিক্ষোভ ও বাড়তি ঋণের চাপের মধ্যেই শিক্ষায় ৪ বিলিয়ন ইউরো ব্যয়ের পরিকল্পনা ফ্রান্সের",
+  "summary_bn": "ক্রমবর্ধমান ঋণ ও সুদের খরচের কারণে ফ্রান্সে নতুন করে শিক্ষা ব্যয়ের পরিকল্পনা নিয়ে প্রশ্ন উঠছে।",
+  "body_bn": [
+   "ডিডব্লিউ-এর বরাতে জানা গেছে, দেশজুড়ে বিক্ষোভের মধ্যেই ফ্রান্স শিক্ষা খাতে অতিরিক্ত ৪ বিলিয়ন ইউরো ব্যয়ের পরিকল্পনা করছে।",
+   "তবে এই ব্যয় পরিকল্পনার বিপরীতে দেশটিতে সরকারি ঋণের পরিমাণ ক্রমশ বাড়ছে এবং ঋণের সুদজনিত খরচও ক্রমাগত ঊর্ধ্বমুখী। ঋণের এই বাড়তি ব্যয়ের ফলে সরকারের হাতে বাজেট ব্যবস্থাপনায় কতটা সক্ষমতা রয়েছে এবং তা সামগ্রিক স্থিতিশীলতাকে হুমকির মুখে ফেলছে কি না, তা নিয়ে অনিশ্চয়তা দেখা দিয়েছে।"
+  ],
+  "image_prompt": "A calculator resting beside financial ledgers and miniature architectural structures on a desk, illustrating public spending and fiscal budget constraints.",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Amid protests, France's rising debt costs threaten stability",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf",
+    "title": "Amid protests, France's rising debt costs threaten stability"
+   }
+  ],
+  "published": "2026-11-07T08:16:00+00:00",
+  "added": "2026-11-07T09:00:53.499368+00:00",
+  "hidden": false
+ },
+ {
   "id": "7c337b7dd214",
   "headline": "Trump ministers consider resignations after Republican midterm loss",
   "summary": "Prothom Alo reports that several of President Trump's ministers are rumored to step down following the GOP's defeat in the U.S. midterm elections.",
