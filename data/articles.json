@@ -1,5 +1,245 @@
 [
  {
+  "id": "d4298f9a1819",
+  "headline": "Five Dead After Shooting in Krakow’s Main Market Square",
+  "summary": "Police report at least five fatalities in a Saturday shooting at Krakow’s central square.",
+  "body": [
+   "A shooting occurred on Saturday in the main market square of Krakow, Poland, resulting in at least five deaths, local police said.",
+   "Authorities confirmed the incident and indicated that an investigation is underway."
+  ],
+  "headline_bn": "ক্রাকোয়ের প্রধান বাজারে গুলিবিদ্ধে পাঁচজনের মৃত্যু",
+  "summary_bn": "স্থানীয় পুলিশ জানায় শনিবারের গুলিবিদ্ধে কমপক্ষে পাঁচজন নিহত হয়েছে।",
+  "body_bn": [
+   "পোল্যান্ডের ক্রাকোয়ের প্রধান বাজারে শনিবার গুলিবিদ্ধ ঘটেছে, যেখানে কমপক্ষে পাঁচজনের মৃত্যু হয়েছে।",
+   "স্থানীয় পুলিশ ঘটনাটি নিশ্চিত করেছে এবং পরিস্থিতি নিয়ে তদন্ত চালিয়ে যাচ্ছে।"
+  ],
+  "image_prompt": "Illustration of a public square with smoke and police tape, indicating a recent shooting, no people faces",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
+  "source_title": "At least five people killed in shooting in Polish city of Krakow, police say",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
+    "title": "At least five people killed in shooting in Polish city of Krakow, police say"
+   }
+  ],
+  "published": "2026-11-07T15:23:48+00:00",
+  "added": "2026-11-07T15:28:26.742279+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4fcd861032a5",
+  "headline": "Publishers Question AI Chatbots' Use of Their Content Without Compensation",
+  "summary": "Publishers say AI chatbots reuse their reporting, reducing traffic and revenue, and ask whether developers should pay for the content.",
+  "body": [
+   "Publishers are raising concerns that artificial‑intelligence chatbots are drawing on their news articles to answer user queries. According to DW, the publishers argue that this practice diverts traffic away from their sites and cuts into advertising and subscription income.",
+   "The media companies are questioning whether the firms that develop and operate these AI tools should compensate them for the use of their reporting. They contend that the content is being repurposed without payment, prompting a debate over the financial responsibilities of AI providers toward the journalism industry."
+  ],
+  "headline_bn": "প্রকাশকরা প্রশ্ন তুলছে AI চ্যাটবটের বিষয়বস্তু ব্যবহার ও ক্ষতিপূরণ",
+  "summary_bn": "প্রকাশকরা বলছেন AI চ্যাটবট তাদের প্রতিবেদনের ব্যবহার ট্র্যাফিক ও আয় কমাচ্ছে, এবং জিজ্ঞাসা করছে ডেভেলপারদের কি অর্থ প্রদান করা উচিত।",
+  "body_bn": [
+   "প্রকাশকরা উদ্বেগ প্রকাশ করছেন যে কৃত্রিম বুদ্ধিমত্তা চ্যাটবটগুলো তাদের সংবাদ প্রবন্ধ ব্যবহার করে পাঠকদের প্রশ্নের উত্তর দিচ্ছে। DW অনুসারে, প্রকাশকরা দাবি করছেন এই প্রক্রিয়া তাদের সাইটে ট্র্যাফিক কমিয়ে দিচ্ছে এবং বিজ্ঞাপন ও সাবস্ক্রিপশন আয় হ্রাস করছে।",
+   "মিডিয়া সংস্থাগুলো প্রশ্ন তুলছে যে এই AI টুলের নির্মাতা ও পরিচালনাকারীরা কি তাদের রিপোর্টিং ব্যবহারের জন্য ক্ষতিপূরণ প্রদান করা উচিত। তারা বলছে বিষয়বস্তু কোনো অর্থ ছাড়াই পুনঃব্যবহার করা হচ্ছে, যা AI প্রদানকারীদের জার্নালিজম শিল্পের প্রতি আর্থিক দায়িত্ব নিয়ে আলোচনা উত্থাপন করছে।"
+  ],
+  "image_prompt": "AI chatbot icons pulling text from newspaper articles, arrows indicating content flow, abstract digital background, no faces, flags, logos, or text",
+  "category": "Technology",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Journalism and AI: Who owns the news?",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-rdf",
+    "title": "Journalism and AI: Who owns the news?"
+   }
+  ],
+  "published": "2026-11-07T15:14:00+00:00",
+  "added": "2026-11-07T15:28:35.694771+00:00",
+  "hidden": false
+ },
+ {
+  "id": "343da3391bd4",
+  "headline": "Cultural program in Shariatpur marks 28-year journey",
+  "summary": "The event opened with the national anthem, featured performances by Rupak’s Rangkabhuban band and a dance rendition of “Eso Bhalobashi Deshke” by Sohel Mir Malat’s troupe, Prothom Alo reported.",
+  "body": [
+   "Shariatpur hosted a cultural program to commemorate a 28-year journey, Protham Alo reported. The event was organized as part of the anniversary celebrations.",
+   "The ceremony began with the national anthem, followed by a musical set from Rupak and his Rangkabhuban band. Later, Sohel Mir Malat’s troupe performed the song “Eso Bhalobashi Deshke,” accompanied by a group of small dance artists."
+  ],
+  "headline_bn": "শরীয়তপুরে ২৮ বছরের পথচলা উদযাপনে সাংস্কৃতিক অনুষ্ঠান",
+  "summary_bn": "জাতীয় সঙ্গীত দিয়ে শুরু, রঙভুবন ব্যান্ডের রূপক ও দল, এবং সোহেল মীর মালতার দল ‘এসো ভালোবাসি দেশকে’ গানে নৃত্য প্রদর্শন করেছে, প্রথম আলো জানায়।",
+  "body_bn": [
+   "প্রথম আলো অনুসারে, শরীয়তপুরে ২৮ বছরের পথচলা উদযাপনের জন্য একটি সাংস্কৃতিক অনুষ্ঠান অনুষ্ঠিত হয়।",
+   "অনুষ্ঠানটি জাতীয় সঙ্গীত দিয়ে শুরু হয়, এরপর রঙভুবন ব্যান্ডের শিল্পী রূপক ও তার দল সঙ্গীত পরিবেশন করে। পরবর্তীতে শরীয়তপুর শিল্পকলার শিল্পী সোহেল মীর মালতের দল ‘এসো ভালোবাসি দেশকে’ গানে ছোট নৃত্যশিল্পীদের নৃত্য পরিবেশন করে।"
+  ],
+  "image_prompt": "Illustration of a stage with musicians and dancers performing, cultural instruments, national flag backdrop, no real people faces",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.bondhushava.com/activities/oa1nryo2yl",
+  "source_title": "২৮ বছরের পথচলা উদ্‌যাপনে শরীয়তপুরে সাংস্কৃতিক আয়োজন",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.bondhushava.com/activities/oa1nryo2yl",
+    "title": "২৮ বছরের পথচলা উদ্‌যাপনে শরীয়তপুরে সাংস্কৃতিক আয়োজন"
+   }
+  ],
+  "published": "2026-11-07T15:00:00+00:00",
+  "added": "2026-11-07T15:28:43.569747+00:00",
+  "hidden": false
+ },
+ {
+  "id": "ee46e0e3e970",
+  "headline": "Pope Leo XIV urges Uruguayan Catholics to become bridge builders during tour",
+  "summary": "On the second day of his 12‑day South American tour, Pope Leo XIV called on Uruguay’s Catholics to foster faith and fraternity, weeks after lung cancer surgery.",
+  "body": [
+   "Pope Leo XIV, on the second day of his 12‑day visit to Uruguay, addressed a gathering of Catholics, urging them to act as “bridge builders” of faith and fraternity. The appeal was part of a broader itinerary that also includes Argentina and Peru.",
+   "The trip marks the pontiff’s first overseas journey since undergoing lung‑cancer surgery three weeks earlier, highlighting his recovery and the significance of the pastoral outreach across the three nations. The tour aims to strengthen ties among local churches and promote unity across the region."
+  ],
+  "headline_bn": "পোপ লিও১৪ উরুগুয়ের ক্যাথলিকদেরকে সেতু নির্মাতা হতে আহ্বান",
+  "summary_bn": "১২ দিনের দক্ষিণ আমেরিকান সফরের দ্বিতীয় দিনে পোপ লিও১৪ উরুগুয়ের ক্যাথলিকদেরকে বিশ্বাস ও ঐক্য গড়তে বলছেন, ক্যান্সার সার্জারির তিন সপ্তাহ পর।",
+  "body_bn": [
+   "পোপ লিও১৪ উরুগুয়ে সফরের দ্বিতীয় দিনে ক্যাথলিকদের সমাবেশে 'সেতু নির্মাতা' হিসেবে বিশ্বাস ও ভ্রাতৃত্ব গড়ার আহ্বান জানিয়েছেন। এই আহ্বান তার ১২‑দিনের সফরের অংশ, যা আর্জেন্টিনা ও পেরুকে অন্তর্ভুক্ত।",
+   "এই সফরটি পোপের ক্যান্সারজনিত ফুসফুসের অপারেশন থেকে মাত্র তিন সপ্তাহ পরের প্রথম আন্তর্জাতিক ভ্রমণ, যা তার স্বাস্থ্যের উন্নতি ও আঞ্চলিক গির্জাগুলোর মধ্যে ঐক্যবদ্ধতা জোরদার করার লক্ষ্যে।"
+  ],
+  "image_prompt": "A stylized illustration of a pope addressing a crowd in a park, with symbolic bridges and doves, no identifiable faces or logos",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
+  "source_title": "Pope Leo calls on Uruguay's Catholics to be 'bridge builders'",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
+    "title": "Pope Leo calls on Uruguay's Catholics to be 'bridge builders'"
+   }
+  ],
+  "published": "2026-11-07T14:59:30+00:00",
+  "added": "2026-11-07T15:28:51.768009+00:00",
+  "hidden": false
+ },
+ {
+  "id": "410a5fa1cac6",
+  "headline": "Sonia Gandhi Talks Rajiv, Sanjay's Role in Indira's Emergency as Book Launches",
+  "summary": "Sonia Gandhi's autobiography 'Biling: A Journey of Love' releases on 10 November, with The Hindu featuring her interview on her views about Rajiv and Sanjay during Indira's emergency.",
+  "body": [
+   "Sonia Gandhi's autobiography titled \"Biling: A Journey of Love\" is set to be released on 10 November. On the day of the launch, The Hindu published an interview with Gandhi, discussing the book and her perspectives.",
+   "Prothom Alo reported that Gandhi addressed the role of her children Rajiv and Sanjay during Indira Gandhi's emergency period, offering her comments in the same interview."
+  ],
+  "headline_bn": "সোনিয়া গান্ধী ইন্দিরার জরুরি অবস্থায় রাজীব-সঞ্জয়ের ভূমিকা নিয়ে কথা বলছেন, আত্মকথা প্রকাশে",
+  "summary_bn": "সোনিয়া গান্ধীর আত্মকথা ‘বিলিং: এ জার্নি অব লাভ’ ১০ নভেম্বর প্রকাশিত হচ্ছে, আজ দ্য হিন্দুতে ইন্দিরার জরুরি অবস্থায় রাজীব ও সঞ্জয়ের ভূমিকা নিয়ে তার সাক্ষাৎকার প্রকাশিত হয়েছে।",
+  "body_bn": [
+   "সোনিয়া গান্ধীর আত্মকথা ‘বিলিং: এ জার্নি অব লাভ’ ১০ নভেম্বর প্রকাশিত হবে। প্রকাশের দিন দ্য হিন্দুতে গান্ধীর সঙ্গে একটি সাক্ষাৎকার প্রকাশিত হয়েছে, যেখানে তিনি বই ও তার দৃষ্টিভঙ্গি নিয়ে আলোচনা করেছেন।",
+   "প্রথম আলো জানিয়েছে যে, গান্ধী ইন্দিরা গান্ধীর জরুরি অবস্থার সময় তার সন্তান রাজীব ও সঞ্জয়ের ভূমিকা নিয়ে তার মন্তব্য শেয়ার করেছেন, যা একই সাক্ষাৎকারে প্রকাশিত হয়েছে।"
+  ],
+  "image_prompt": "Illustration of an open autobiography book beside a microphone and newspaper headlines, symbolizing a literary release and media interview",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/india/fm3u0ty6c8",
+  "source_title": "ইন্দিরার জরুরি অবস্থা জারির সময় সন্তান রাজীব-সঞ্জয়ের কী ভূমিকা ছিল, কী বলছেন সোনিয়া",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/india/fm3u0ty6c8",
+    "title": "ইন্দিরার জরুরি অবস্থা জারির সময় সন্তান রাজীব-সঞ্জয়ের কী ভূমিকা ছিল, কী বলছেন সোনিয়া"
+   }
+  ],
+  "published": "2026-11-07T14:59:00+00:00",
+  "added": "2026-11-07T15:29:00.732189+00:00",
+  "hidden": false
+ },
+ {
+  "id": "66c2e3205fdc",
+  "headline": "Truck collision kills three family members and a motorcyclist in Jamalpur",
+  "summary": "A truck struck a family and a motorcyclist in Melandah, Jamalpur, killing four and injuring two, according to Prothom Alo.",
+  "body": [
+   "According to Prothom Alo, a truck collided with a family and a motorbike rider in Melandah, a locality of Jamalpur. The impact resulted in the deaths of three members of the same family and the motorcyclist who was riding the bike.",
+   "The accident also left two other individuals injured. Local authorities were alerted to the scene, and emergency services responded to attend to the victims."
+  ],
+  "headline_bn": "জামালপুরে ট্রাকের ধাক্কায় তিনজন পরিবার সদস্য ও এক মোটরসাইকেল আরোহী নিহত",
+  "summary_bn": "মেলান্দহে ট্রাকের ধাক্কায় চারজন নিহত ও দুইজন আহত, প্রথাম আলো রিপোর্ট করেছে।",
+  "body_bn": [
+   "প্রথাম আলো অনুসারে, মেলান্দহে একটি ট্রাক একই পরিবারের তিনজন সদস্য এবং একটি মোটরসাইকেল আরোহীর সঙ্গে ধাক্কা খায়। এতে চারজনের মৃত্যু হয়।",
+   "দুর্ঘটনায় আরও দুইজন আহত হয়। স্থানীয় কর্তৃপক্ষকে জানানো হয় এবং জরুরি সেবা দল ঘটনাস্থলে পৌঁছে আহতদের সেবা প্রদান করে।"
+  ],
+  "image_prompt": "A truck overturned on a rural road with a motorbike nearby, emergency lights and wreckage, no identifiable faces",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/video/bangladesh/rvnw8n1wvg",
+  "source_title": "ট্রাকের চাপায় একই পরিবারের তিনজন নিহত, আহত ২",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/video/bangladesh/rvnw8n1wvg",
+    "title": "ট্রাকের চাপায় একই পরিবারের তিনজন নিহত, আহত ২"
+   }
+  ],
+  "published": "2026-11-07T14:47:44+00:00",
+  "added": "2026-11-07T15:29:08.019773+00:00",
+  "hidden": false
+ },
+ {
+  "id": "1d7a89b3e1b3",
+  "headline": "Mélenchon vows higher minimum wage, food price caps, retirement age 60 in campaign launch",
+  "summary": "leftist Jean‑Luc Mélenchon will unveil his 2027 presidential programme on Saturday, promising wage hikes, food price limits and a return to a retirement age of 60, according to France 24",
+  "body": [
+   "Jean‑Luc Mélenchon, a veteran left‑wing politician, is set to formally announce his 2027 presidential election programme on Saturday, according to France 24. The speech will outline proposals to raise France’s minimum wage, impose price caps on essential food items and restore the statutory retirement age to 60.",
+   "Current polls show Mélenchon as the leading candidate on the left, positioned against far‑right contender Marine Le Pen, according to the same outlet.",
+   "His platform combines social welfare measures such as higher wages and a lower retirement age with economic controls like food price caps, presenting a distinct alternative to the far‑right."
+  ],
+  "headline_bn": "মেলঁশঁ ২০২৭ নির্বাচনী প্রোগ্রামে ন্যূনতম মজুরি, খাবারের দাম সীমা, অবসরবয়স ৬০ নিশ্চিত করবেন",
+  "summary_bn": "বামপন্থী জঁ-লুক মেলঁশঁ শনিবার তার ২০২৭ প্রেসিডেন্টিয়াল প্রোগ্রাম উপস্থাপন করবেন, যেখানে মজুরি বৃদ্ধি, খাবারের দাম সীমা এবং অবসরবয়স ৬০ বছরের প্রতিশ্রুতি রয়েছে, ফ্রান্স ২৪ জানায়।",
+  "body_bn": [
+   "প্রাক্তন বামপন্থী রাজনীতিক জঁ-লুক মেলঁশঁ শনিবার তার ২০২৭ সালের প্রেসিডেন্টিয়াল নির্বাচনের প্রোগ্রাম আনুষ্ঠানিকভাবে উপস্থাপন করবেন, ফ্রান্স ২৪ জানায়। এই ভাষণে ন্যূনতম মজুরি বৃদ্ধি, প্রয়োজনীয় খাবারের দাম সীমা এবং অবসরবয়স ৬০ বছর পুনঃপ্রতিষ্ঠার প্রস্তাব থাকবে।",
+   "বর্তমান মতামত সমীক্ষা অনুযায়ী মেলঁশঁ বামপক্ষের মধ্যে শীর্ষপ্রার্থী, যা দূর‑ডান প্রার্থী মারিন লে পেনের সঙ্গে প্রতিদ্বন্দ্বিতা করবে, ফ্রান্স ২৪ উল্লেখ করেছে।",
+   "তার পরিকল্পনা সামাজিক কল্যাণের পদক্ষেপ যেমন মজুরি বৃদ্ধি ও অবসরবয়স কমানো, এবং অর্থনৈতিক নিয়ন্ত্রণ যেমন খাবারের দাম সীমা, একত্রিত করে দূর‑ডানের থেকে আলাদা বিকল্প উপস্থাপন করে।"
+  ],
+  "image_prompt": "Illustration of a political rally with symbols of wage increase, food price caps and retirement age, representing a French election campaign",
+  "category": "Politics",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+  "source_title": "French presidential hopeful Mélenchon set to launch campaign by vowing to lower retirement age",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+    "title": "French presidential hopeful Mélenchon set to launch campaign by vowing to lower retirement age"
+   }
+  ],
+  "published": "2026-11-07T14:44:24+00:00",
+  "added": "2026-11-07T15:29:19.194138+00:00",
+  "hidden": false
+ },
+ {
+  "id": "9991362fdb3b",
+  "headline": "Bangladesh Advances After Remarkable Batting, Reports Prothom Alo",
+  "summary": "Prothom Alo says Bangladesh gained the lead thanks to an extraordinary batting display.",
+  "body": [
+   "Bangladesh moved into the lead in a recent match after delivering an extraordinary batting performance, Prothom Alo reported. The team's batting was described as \"incredible\" and was the decisive factor in gaining the advantage. The report highlighted the skill and composure shown by the Bangladeshi batsmen, noting that their effort shifted the momentum in their favor. No further details about the opponent, venue, or match specifics were provided."
+  ],
+  "headline_bn": "বাংলাদেশের অবিশ্বাস্য ব্যাটিংয়ে এগিয়ে গেল",
+  "summary_bn": "প্রথম আলো অনুযায়ী, অসাধারণ ব্যাটিং পারফরম্যান্সে বাংলাদেশ ম্যাচে অগ্রগতি অর্জন করেছে।",
+  "body_bn": [
+   "প্রথম আলো জানিয়েছে যে, অসাধারণ ব্যাটিং পারফরম্যান্সের ফলে বাংলাদেশ সাম্প্রতিক ম্যাচে অগ্রগতি অর্জন করেছে। দলটির ব্যাটিংকে \"অবিশ্বাস্য\" বলা হয়েছে এবং এটি সুবিধা অর্জনের মূল কারণ হিসেবে উল্লেখ করা হয়েছে। প্রতিবেদনে বাংলাদেশি ব্যাটসম্যানদের দক্ষতা ও সংযমের প্রশংসা করা হয়েছে, যা ম্যাচের গতি তাদের পক্ষে পরিবর্তন করেছে। প্রতিপক্ষ, স্থান বা ম্যাচের অন্যান্য বিশদ তথ্য প্রকাশ করা হয়নি।"
+  ],
+  "image_prompt": "Illustration of a cricket stadium with a scoreboard showing Bangladesh leading, no faces, flags, or text",
+  "category": "Sports",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/sports/cricket/hrdyyer-abishbaasy-byaattinyye-egiyye-gel-baanlaadesh",
+  "source_title": "হৃদয়ের অবিশ্বাস্য ব্যাটিংয়ে এগিয়ে গেল বাংলাদেশ",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/sports/cricket/hrdyyer-abishbaasy-byaattinyye-egiyye-gel-baanlaadesh",
+    "title": "হৃদয়ের অবিশ্বাস্য ব্যাটিংয়ে এগিয়ে গেল বাংলাদেশ"
+   }
+  ],
+  "published": "2026-11-07T14:43:14+00:00",
+  "added": "2026-11-07T15:29:26.922333+00:00",
+  "hidden": false
+ },
+ {
   "id": "ff0eea51cee9",
   "headline": "Trump's mixed messages on Iran amid post‑midterm uncertainty",
   "summary": "Al Jazeera notes the president’s ambiguous stance after his party’s midterm loss as Iran pursues cognitive warfare.",
