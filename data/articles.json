@@ -1,5 +1,259 @@
 [
  {
+  "id": "46009ba87bc6",
+  "headline": "Israel's President Assigns Government Formation to Aizenkot, Not Netanyahu",
+  "summary": "President informs Aizenkot of his role Saturday; formal handover scheduled for Sunday.",
+  "body": [
+   "On Saturday evening, the President of Israel conveyed to Aizenkot that he would be tasked with forming the new government, according to Prothom Alo.",
+   "The formal transfer of the responsibility is set for Sunday, when the president will officially hand over the mandate, marking a shift from expectations that Netanyahu would lead the process."
+  ],
+  "headline_bn": "ইসরায়েলে প্রেসিডেন্ট নতুন সরকার গঠনের দায়িত্ব দিলেন আইজেনকটকে, নেতানিয়াহু নয়",
+  "summary_bn": "প্রেসিডেন্ট শনিবার আইজেনকটকে দায়িত্ব জানিয়ে রবিবার আনুষ্ঠানিক হস্তান্তর করবেন।",
+  "body_bn": [
+   "শনিবার সন্ধ্যায় ইসরায়েলের প্রেসিডেন্ট আইজেনকটকে জানিয়ে দেন যে তিনি নতুন সরকার গঠনের দায়িত্ব পাবেন, প্রথম আলো রিপোর্ট করেছে।",
+   "রবিবার প্রেসিডেন্ট আনুষ্ঠানিকভাবে এই দায়িত্ব হস্তান্তর করবেন, যা নেতানিয়াহুকে বাদ দিয়ে আইজেনকটকে কেন্দ্রীয় ভূমিকা দেয়।"
+  ],
+  "image_prompt": "illustration of a political meeting table with documents and a symbolic government seal, no faces or logos",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/middle-east/5loozrk50a",
+  "source_title": "নেতানিয়াহু নন, ইসরায়েলে নতুন সরকার গঠনের দায়িত্ব পেলেন আইজেনকট",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/middle-east/5loozrk50a",
+    "title": "নেতানিয়াহু নন, ইসরায়েলে নতুন সরকার গঠনের দায়িত্ব পেলেন আইজেনকট"
+   }
+  ],
+  "published": "2026-11-07T22:22:11+00:00",
+  "added": "2026-11-07T23:13:38.516233+00:00",
+  "hidden": false
+ },
+ {
+  "id": "7010193096d3",
+  "headline": "Real Madrid defeats Valencia 3-0, ties Barcelona at La Liga top",
+  "summary": "Real Madrid's 3-0 win over Valencia moves them level with league leaders Barcelona, with goals from Valverde, Guler and Mbappé.",
+  "body": [
+   "Real Madrid secured a 3-0 victory over Valencia, with first‑half goals from Federico Valverde and Guler, and a second‑half strike by Kylian Mbappé, according to Al Jazeera English. The win puts Madrid in the driving seat. The match was part of the Spanish top‑flight competition and the victory was achieved without conceding a goal."
+  ],
+  "headline_bn": "রিয়াল মাদ্রিদ ৩-০ তে ভ্যালেন্সিয়া পরাজিত, বার্সেলোনার সঙ্গে লা লিগ শীর্ষে সমান",
+  "summary_bn": "রিয়াল মাদ্রিদ ভ্যালেন্সিয়ার উপর ৩-০ জয় পেয়ে লা লিগ শীর্ষে বার্সেলোনার সঙ্গে সমান হয়েছে।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের রিপোর্ট অনুযায়ী রিয়াল মাদ্রিদ ভ্যালেন্সিয়ার বিরুদ্ধে ৩-০ জয় অর্জন করেছে। প্রথমার্ধে ফেডেরিকো ভ্যালভার্দে ও গুলের গোল এবং দ্বিতীয়ার্ধে কিলিয়ান এমবাপ্পের তৃতীয় গোল দলকে এগিয়ে নিয়ে গেছে। এই জয় দলকে নেতৃত্বের অবস্থানে রেখেছে।",
+   "এই ফলাফল রিয়াল মাদ্রিদকে লা লিগ শীর্ষস্থানীয় বার্সেলোনার সঙ্গে পয়েন্টে সমান করেছে, ফলে উভয় দল এখন লিগ টেবিলে শীর্ষে রয়েছে এবং শিরোপা প্রতিযোগিতা তীব্র হয়েছে। ম্যাচটি স্প্যানিশ শীর্ষ লিগের অংশ ছিল এবং রিয়াল মাদ্রিদ শূন্য গোল না দিয়ে জয় নিশ্চিত করেছে।"
+  ],
+  "image_prompt": "A football stadium with a scoreboard showing 3-0, a soccer ball on the field, and cheering crowds",
+  "category": "Sports",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+  "source_title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+    "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona"
+   }
+  ],
+  "published": "2026-11-07T22:21:58+00:00",
+  "added": "2026-11-07T23:13:47.215698+00:00",
+  "hidden": false
+ },
+ {
+  "id": "5829d9d78a07",
+  "headline": "Israeli President gives opposition leader mandate to form government, challenging Netanyahu",
+  "summary": "According to NPR World, President Herzog handed Gadi Eisenkot the task of building a new coalition, weakening Benjamin Netanyahu's hold on power.",
+  "body": [
+   "Israel's political scene shifted on Tuesday when President Isaac Herzog assigned opposition leader Gadi Eisenkot the mandate to form a government, according to NPR World. The move directly challenges Prime Minister Benjamin Netanyahu's long‑standing grip on power and signals a potential realignment of the governing coalition. Herzog's decision reflects growing pressure on Netanyahu and opens the path for a new administration to emerge."
+  ],
+  "headline_bn": "ইসরায়েলি প্রেসিডেন্ট নেটানিয়াহু বিরোধীকে সরকার গঠনের দায়িত্ব দিলেন",
+  "summary_bn": "NPR World অনুযায়ী, প্রেসিডেন্ট হার্জগ ভি. ইসেনকটকে সরকার গঠনের ম্যান্ডেট দিয়েছেন, নেটানিয়াহুর ক্ষমতায় প্রভাব ফেলছে।",
+  "body_bn": [
+   "ইসরায়েলের রাজনৈতিক দৃশ্য মঙ্গলবার পরিবর্তিত হয়েছে যখন প্রেসিডেন্ট আইজ্যাক হার্জগ বিরোধী নেতা গাদি ইসেনকটকে সরকার গঠনের ম্যান্ডেট দিয়েছেন, NPR World রিপোর্ট করেছে। এই পদক্ষেপ সরাসরি প্রধানমন্ত্রী বেনজামিন নেটানিয়াহুর দীর্ঘস্থায়ী ক্ষমতার ওপর চ্যালেঞ্জ জানায় এবং শাসন সংহতির সম্ভাব্য পুনর্গঠনকে ইঙ্গিত করে। হার্জগের সিদ্ধান্ত নেটানিয়াহুর উপর বাড়তে থাকা চাপকে প্রতিফলিত করে এবং একটি নতুন প্রশাসনের উত্থানের পথ খুলে দেয়।"
+  ],
+  "image_prompt": "Illustration of a parliamentary building with a document and a handshake, symbolizing government formation",
+  "category": "Politics",
+  "source": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+  "source_title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+  "sources": [
+   {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+    "title": "Israeli president invites Netanyahu's opposition leader to broker new government"
+   }
+  ],
+  "published": "2026-11-07T22:12:09+00:00",
+  "added": "2026-11-07T23:13:54.416516+00:00",
+  "hidden": false
+ },
+ {
+  "id": "61ee0bf649b5",
+  "headline": "Cuba's power cuts and fuel shortages hinder reporting, reveal NPR correspondent",
+  "summary": "An NPR World reporter notes that covering Cuba is increasingly difficult due to widespread electricity outages and limited fuel supplies.",
+  "body": [
+   "An NPR World correspondent reporting from Cuba says that new obstacles have emerged for journalists on the island. The reporter highlights that the environment for newsgathering has become more challenging than before.",
+   "The correspondent points to extensive power outages and chronic fuel shortages as the main factors making reporting difficult. These conditions affect daily life and limit the ability to travel, communicate and operate equipment, according to NPR World."
+  ],
+  "headline_bn": "কিউবায় বিদ্যুৎ বিচ্ছিন্নতা ও জ্বালানি ঘাটতি প্রতিবেদনে বাধা সৃষ্টি, NPR প্রতিবেদক জানান",
+  "summary_bn": "NPR ওয়ার্ল্ডের একজন প্রতিবেদক জানান, বিদ্যুৎ বন্ধ এবং জ্বালানি সংকটের কারণে কিউবায় সংবাদ সংগ্রহ কঠিন হয়ে উঠেছে।",
+  "body_bn": [
+   "NPR ওয়ার্ল্ডের একজন correspondent কিউবায় রিপোর্টিংয়ে নতুন বাধা দেখা দিয়েছে বলে জানান। তিনি উল্লেখ করেন, দ্বীপে সাংবাদিকতার পরিবেশ পূর্বের তুলনায় বেশি কঠিন হয়ে দাঁড়িয়েছে।",
+   "প্রতিবেদক উল্লেখ করেন, ব্যাপক বিদ্যুৎ বিচ্ছিন্নতা এবং জ্বালানি ঘাটতি প্রধান কারণ, যা দৈনন্দিন জীবনকে প্রভাবিত করে এবং যাতায়াত, যোগাযোগ ও সরঞ্জাম চালানোর সক্ষমতা সীমিত করে, NPR ওয়ার্ল্ডের মতে।"
+  ],
+  "image_prompt": "illustration of a Cuban city street at night with dark buildings and empty fuel pumps, showing power outage",
+  "category": "World",
+  "source": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+  "source_title": "A correspondent finds Cuba's people struggling",
+  "sources": [
+   {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+    "title": "A correspondent finds Cuba's people struggling"
+   }
+  ],
+  "published": "2026-11-07T22:12:06+00:00",
+  "added": "2026-11-07T23:14:02.037201+00:00",
+  "hidden": false
+ },
+ {
+  "id": "f142e0146f51",
+  "headline": "Italian Foreign Minister's Data Leak Blamed on Pro-Russian Hackers",
+  "summary": "Prime Minister Giorgia Meloni accuses pro‑Russian hackers, Russia offers no comment.",
+  "body": [
+   "According to Prothom Alo, personal information of Italy's foreign minister was exposed after a cyber intrusion. Prime Minister Giorgia Meloni blamed hackers she described as pro‑Russian, suggesting a link to Moscow.",
+   "The disclosure has heightened concerns over the protection of government officials' information. Moscow has not issued any public statement in response to the accusation.",
+   "Italian authorities said they are investigating the breach and reviewing cybersecurity measures for officials.",
+   "The incident comes amid broader worries in Europe about state‑linked cyber activities targeting political figures."
+  ],
+  "headline_bn": "ইতালির পররাষ্ট্রমন্ত্রীর তথ্য ফাঁস, প্রধানমন্ত্রী রুশ‑সমর্থক হ্যাকারদের দোষারোপ",
+  "summary_bn": "প্রধানমন্ত্রী জর্জিয়া মেলোনি রুশ‑সমর্থক হ্যাকারদের দোষারোপ করেন, রাশিয়া কোনো মন্তব্য করেনি",
+  "body_bn": [
+   "প্রোথোম আলোর রিপোর্ট অনুযায়ী, ইতালির পররাষ্ট্রমন্ত্রীর ব্যক্তিগত তথ্য হ্যাকিংয়ের মাধ্যমে ফাঁস হয়েছে। ইতালির প্রধানমন্ত্রী জর্জিয়া মেলোনি এই হ্যাকারদের রুশ‑সমর্থক বলে অভিযুক্ত করেন এবং মস্কোর সঙ্গে তাদের সংযোগের ইঙ্গিত দেন।",
+   "এই তথ্য ফাঁস হওয়া সরকারী কর্মকর্তাদের তথ্য সুরক্ষার উদ্বেগ বাড়িয়ে দিয়েছে। রাশিয়া এই অভিযোগের প্রতি কোনো সরকারি মন্তব্য প্রদান করেনি।",
+   "ইতালির কর্তৃপক্ষ বলছে তারা ফাঁসের তদন্ত চালিয়ে যাচ্ছে এবং কর্মকর্তাদের সাইবার নিরাপত্তা ব্যবস্থা পুনর্বিবেচনা করছে।",
+   "এই ঘটনা ইউরোপে রাজনৈতিক ব্যক্তিত্বদের লক্ষ্য করে রাষ্ট্র-সংযুক্ত সাইবার কার্যক্রমের ব্যাপক উদ্বেগের সঙ্গে সামঞ্জস্যপূর্ণ।"
+  ],
+  "image_prompt": "a dimly lit office with multiple computer screens showing lines of code and data leaks, abstract hacker symbols, no faces",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/europe/z8tif9kp7j",
+  "source_title": "ইতালির পররাষ্ট্রমন্ত্রীর ব্যক্তিগত তথ্য ফাঁস করল হ্যাকারেরা, অভিযোগ রাশিয়ার দিকে",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/europe/z8tif9kp7j",
+    "title": "ইতালির পররাষ্ট্রমন্ত্রীর ব্যক্তিগত তথ্য ফাঁস করল হ্যাকারেরা, অভিযোগ রাশিয়ার দিকে"
+   }
+  ],
+  "published": "2026-11-07T22:00:00+00:00",
+  "added": "2026-11-07T23:14:10.467320+00:00",
+  "hidden": false
+ },
+ {
+  "id": "ebbad50a2541",
+  "headline": "AI‑Generated CEO Voices Used to Steal Around 13 Crore Dollars, Three Arrested Including Two Israelis",
+  "summary": "A fraud ring imitated CEOs with AI, siphoning roughly 13 crore dollars; three suspects were detained, two of them Israeli nationals.",
+  "body": [
+   "A criminal network employed artificial intelligence to replicate the voices of chief executives from various large companies. Using the synthetic audio, the group diverted close to 13 crore dollars from the targeted firms, according to Prothom Alo.",
+   "Law enforcement apprehended three individuals linked to the scheme. Among those arrested were two Israeli citizens, as reported by Prothom Alo."
+  ],
+  "headline_bn": "এআই‑সৃষ্ট সিইও কণ্ঠে ১৩ কোটি ডলার জালিয়াতি, ইসরায়েলি সহ তিনজন গ্রেপ্তার",
+  "summary_bn": "একটি জালিয়াতি গোষ্ঠী এআই দিয়ে সিইওদের কণ্ঠ নকল করে প্রায় ১৩ কোটি ডলার চুরি করেছে; তিনজন সন্দেহভাজন গ্রেপ্তার, তাদের মধ্যে দুইজন ইসরায়েলি নাগরিক।",
+  "body_bn": [
+   "একটি অপরাধী গোষ্ঠী কৃত্রিম বুদ্ধিমত্তা ব্যবহার করে বিভিন্ন বড় কোম্পানির সিইওদের কণ্ঠ নকল করে প্রায় ১৩ কোটি ডলার চুরি করেছে, প্রথাম আলো রিপোর্ট করেছে।",
+   "আইন প্রয়োগকারী সংস্থা তিনজন সন্দেহভাজনকে গ্রেপ্তার করেছে, যার মধ্যে দুইজন ইসরায়েলি নাগরিক অন্তর্ভুক্ত, প্রথাম আলো জানিয়েছে।"
+  ],
+  "image_prompt": "illustration of a digital voice waveform and corporate office building, representing AI voice fraud, no people, no logos",
+  "category": "Technology",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/usa/uig52duij2",
+  "source_title": "এআইয়ের সহায়তায় সিইও সেজে ১৩ লাখ ডলার জালিয়াতি, ইসরায়েলিসহ গ্রেপ্তার ৩",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/usa/uig52duij2",
+    "title": "এআইয়ের সহায়তায় সিইও সেজে ১৩ লাখ ডলার জালিয়াতি, ইসরায়েলিসহ গ্রেপ্তার ৩"
+   }
+  ],
+  "published": "2026-11-07T22:00:00+00:00",
+  "added": "2026-11-07T23:14:18.534645+00:00",
+  "hidden": false
+ },
+ {
+  "id": "ec039aa045ac",
+  "headline": "Trump offers White House press secretary post to UFC boss Dana White",
+  "summary": "President Donald Trump said he has asked UFC chief Dana White to become the White House press secretary.",
+  "body": [
+   "President Donald Trump announced on Saturday that he has approached Dana White, the chief executive of the Ultimate Fighting Championship, to serve as the White House press secretary.",
+   "The proposal reflects Trump’s ongoing effort to align his MAGA political brand with White’s high‑profile mixed‑martial‑arts promotion, according to reports from France 24 and Deutsche Welle.",
+   "No response from White has been reported, and the offer marks another unconventional move by the former president in staffing considerations."
+  ],
+  "headline_bn": "ট্রাম্প ডানা হোয়াইটকে হোয়াইট হাউস প্রেস সেক্রেটারির পদ প্রস্তাব",
+  "summary_bn": "প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ডানা হোয়াইটকে হোয়াইট হাউসের প্রেস সেক্রেটারি হিসেবে কাজ করতে বলছেন।",
+  "body_bn": [
+   "প্রেসিডেন্ট ডোনাল্ড ট্রাম্প শনিবার জানিয়েছেন যে তিনি আলটিমেট ফাইটিং চ্যাম্পিয়নশিপের সিইও ডানা হোয়াইটকে হোয়াইট হাউসের প্রেস সেক্রেটারি পদে নিয়োগের প্রস্তাব দিয়েছেন।",
+   "ফ্রান্স ২৪ এবং ডি ডব্লিউ রিপোর্ট করেছে, ট্রাম্পের এই প্রস্তাব তার ম্যাগা রাজনৈতিক ব্র্যান্ডকে ডানা হোয়াইটের জনপ্রিয় মিক্সড মার্শাল আর্টস প্রচারনার সঙ্গে যুক্ত করার প্রচেষ্টার অংশ।",
+   "ডানা হোয়াইটের কোনো উত্তর জানানো হয়নি, এবং এই প্রস্তাব প্রাক্তন প্রেসিডেন্টের স্টাফিং সিদ্ধান্তে আরেকটি অপ্রচলিত পদক্ষেপ হিসেবে বিবেচিত হচ্ছে।"
+  ],
+  "image_prompt": "illustration of a press secretary desk with a UFC logo and a political podium, no faces or text",
+  "category": "Politics",
+  "source": "France 24, DW",
+  "source_url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+  "source_title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+    "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White"
+   },
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+    "title": "Trump offers White House press secretary role to Dana White"
+   }
+  ],
+  "published": "2026-11-07T20:45:45+00:00",
+  "added": "2026-11-07T23:13:22.458617+00:00",
+  "hidden": false,
+  "image": "data/img/ec039aa045ac.jpg"
+ },
+ {
+  "id": "128a4d572bd8",
+  "headline": "Israeli President Appoints Gadi Eisenkot to Lead Government Formation Talks",
+  "summary": "President Isaac Herzog named former military chief Gadi Eisenkot to attempt forming a coalition after elections left no clear majority.",
+  "body": [
+   "Israeli President Isaac Herzog announced on Saturday that former military chief Gadi Eisenkot, who heads an anti‑Netanyahu alliance, has been tasked with trying to form a government. The move follows last month’s parliamentary election in which neither Eisenkot nor incumbent Prime Minister Benjamin Netanyahu secured a clear path to a majority.",
+   "Analysts expect coalition negotiations to be complex, as both leaders must assemble support from a fragmented Knesset. The president’s decision gives Eisenkot the first opportunity to build a governing coalition under the current political deadlock."
+  ],
+  "headline_bn": "ইসরায়েলি প্রেসিডেন্ট গাদি আইসেনকটকে সরকার গঠন মিশন দিলেন",
+  "summary_bn": "প্রেসিডেন্ট আইজ্যাক হার্জগভ গাদি আইসেনকটকে কোয়ালিশন গঠন করার দায়িত্ব দিলেন, নির্বাচনে স্পষ্ট সংখ্যাগরিষ্ঠতা না থাকায়।",
+  "body_bn": [
+   "ইসরায়েলি প্রেসিডেন্ট আইজ্যাক হার্জগভ শনিবার জানিয়েছেন যে প্রাক্তন সামরিক প্রধান গাদি আইসেনকট, যিনি নেটানিয়াহু বিরোধী জোটের নেতা, সরকার গঠনের দায়িত্ব পেয়েছেন। গত মাসের পার্লামেন্টারী নির্বাচনে নেটানিয়াহু এবং আইসেনকট উভয়ই স্পষ্ট সংখ্যাগরিষ্ঠতা অর্জন করতে পারেননি।",
+   "বিশ্লেষকরা বলছেন যে কূটনৈতিক আলোচনা জটিল হবে, কারণ উভয় নেতাকে বিচ্ছিন্ন কনেসেটের থেকে সমর্থন সংগ্রহ করতে হবে। প্রেসিডেন্টের এই সিদ্ধান্ত আইসেনকটকে বর্তমান রাজনৈতিক অচলাবস্থায় প্রথমবারের মতো শাসন গঠনের সুযোগ দিচ্ছে।"
+  ],
+  "image_prompt": "Illustration of a parliamentary chamber with empty seats and a draft coalition document on a table, no faces, flags, or logos",
+  "category": "Politics",
+  "source": "DW, France 24",
+  "source_url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Israeli president tasks Gadi Eisenkot with forming government",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
+    "title": "Israeli president tasks Gadi Eisenkot with forming government"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+    "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government"
+   }
+  ],
+  "published": "2026-11-07T19:56:00+00:00",
+  "added": "2026-11-07T23:13:31.087244+00:00",
+  "hidden": false
+ },
+ {
   "id": "dd26487adcea",
   "headline": "Malaysian king cautions against breaching house arrest order for former PM Najib",
   "summary": "Attorney general delayed Najib Razak's jail transfer after a court cleared him for house arrest, prompting the king's warning.",
