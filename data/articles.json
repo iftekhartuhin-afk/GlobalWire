@@ -1,5 +1,252 @@
 [
  {
+  "id": "8c5809141f89",
+  "headline": "France 24 Recaps US Midterm Wins, French Student Protests, Dakar Youth Olympics",
+  "summary": "France 24 showcases images of the Democratic Party’s strong midterm performance in the US, ongoing student protests in France, and the inaugural Youth Olympic Games in Dakar.",
+  "body": [
+   "France 24 compiled a visual review of recent events, highlighting the Democratic Party’s significant victories in the United States midterm elections, which have been described as a Blue Wave. The visual series presents striking photographs that capture the scale of the electoral shift.",
+   "The coverage also includes images of continuing student‑led demonstrations across France and photographs from the first Youth Olympic Games held in Dakar, marking the debut of an Olympic sport event on African soil. The pictures convey the energy of the protests and the historic atmosphere of the Dakar games."
+  ],
+  "headline_bn": "France 24 রিক্যাপস US মিডটার্ম জয়, ফরাসি ছাত্র প্রতিবাদ, ডাকার ইয়ুথ অলিম্পিক",
+  "summary_bn": "France 24 যুক্তরাষ্ট্রের ডেমোক্র্যাটিক পার্টির শক্তিশালী মিডটার্ম পারফরম্যান্স, ফ্রান্সের চলমান ছাত্র প্রতিবাদ এবং ডাকার প্রথম ইয়ুথ অলিম্পিকের ছবি তুলে ধরেছে।",
+  "body_bn": [
+   "France 24 সাম্প্রতিক ঘটনাবলীর একটি ভিজ্যুয়াল রিভিউ প্রস্তুত করেছে, যেখানে যুক্তরাষ্ট্রের মিডটার্ম নির্বাচনে ডেমোক্র্যাটিক পার্টির উল্লেখযোগ্য জয়কে ব্লু ওয়েভ হিসেবে চিত্রিত করা হয়েছে। ছবিগুলো নির্বাচনী পরিবর্তনের পরিসরকে তুলে ধরেছে।",
+   "এছাড়াও প্রতিবেদনে ফ্রান্সে চলমান ছাত্র-নেতৃত্বাধীন প্রতিবাদ এবং ডাকার প্রথম ইয়ুথ অলিম্পিকের ছবি অন্তর্ভুক্ত রয়েছে, যা আফ্রিকায় প্রথম অলিম্পিক স্পোর্টস ইভেন্টের সূচনা চিহ্নিত করে। ছবিগুলো প্রতিবাদের উচ্ছ্বাস এবং ডাকার গেমসের ঐতিহাসিক পরিবেশকে প্রকাশ করে।"
+  ],
+  "image_prompt": "A collage showing a US election rally crowd, French student protest banners, and athletes competing at a Youth Olympic stadium, without faces or logos",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
+  "source_title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
+    "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics"
+   }
+  ],
+  "published": "2026-11-08T16:21:34+00:00",
+  "added": "2026-11-08T16:27:22.924920+00:00",
+  "hidden": false,
+  "image": "data/img/8c5809141f89.jpg"
+ },
+ {
+  "id": "b03a49a20543",
+  "headline": "Transport Minister Says No One Prevented Former PM Sheikh Hasina’s Return",
+  "summary": "According to Prothom Alo, the transport and bridges minister stated that no one has barred Sheikh Hasina from returning to Bangladesh.",
+  "body": [
+   "The transport and bridges minister, Sheikh Rabiul Alam, commented on former Prime Minister Sheikh Hasina’s potential return, saying that if she wishes to come back, no one has prevented her.",
+   "He added that she should be in the country to face legal matters, implying that her presence is necessary for any legal proceedings. The remarks were reported by Prothom Alo.",
+   "The statements come amid speculation about her whereabouts after being ousted, but the minister emphasized that the decision rests with her."
+  ],
+  "headline_bn": "সেতু ও পরিবহন মন্ত্রী বললেন, কেউই শেখ হাসিনার ফেরাকে বাধা দেননি",
+  "summary_bn": "প্রথম আলো অনুযায়ী, মন্ত্রী বলেছেন, যদি চান তবে শেখ হাসিনা দেশে ফিরে আসতে পারেন।",
+  "body_bn": [
+   "সড়ক পরিবহন ও সেতু মন্ত্রী শেখ রাবিউল আলম বলেছেন, শীর্ষমন্ত্রীর দেশে ফেরার বিষয়ে কোনো বাধা নেই; তিনি যদি দেশে আসতে চান, তাকে বাধা দেয়া কেউ নেই।",
+   "তিনি আরও উল্লেখ করেছেন, আইন অনুসরণ করার জন্য শেখ হাসিনার দেশে থাকা উচিত, যাতে তিনি দেশের ভিতর থেকে আইনি প্রক্রিয়ার মুখোমুখি হতে পারেন।",
+   "এই মন্তব্যগুলি প্রথম আলোতে প্রকাশিত হয়েছে, যা শীর্ষমন্ত্রীর সম্ভাব্য প্রত্যাবর্তন নিয়ে চলমান অনুমানকে প্রতিফলিত করে।"
+  ],
+  "image_prompt": "illustration of a government building with a road bridge silhouette and a microphone, no faces or logos",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/ni5w081aad",
+  "source_title": "শেখ হাসিনার ফেরা নিয়ে সেতুমন্ত্রী বললেন, তাঁকে দেশে আসতে না করেছে কে",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/ni5w081aad",
+    "title": "শেখ হাসিনার ফেরা নিয়ে সেতুমন্ত্রী বললেন, তাঁকে দেশে আসতে না করেছে কে"
+   }
+  ],
+  "published": "2026-11-08T16:05:10+00:00",
+  "added": "2026-11-08T16:27:30.362185+00:00",
+  "hidden": false
+ },
+ {
+  "id": "1680156956ae",
+  "headline": "NSU Cybersecurity Center Showcases Student Films on Online Safety",
+  "summary": "Students at North South University presented short films highlighting cyber security challenges during the Cyberframes Gala Night.",
+  "body": [
+   "North South University’s Cybersecurity Center hosted the Cyberframes Gala Night, featuring student teams who screened short films that addressed a range of cyber security challenges.",
+   "The films explored issues such as phishing, data breaches and the need for strong passwords, illustrating practical risks. Organisers said the creative format helps convey technical concerns to a broader audience."
+  ],
+  "headline_bn": "এনএসইউ সাইবারসিকিউরিটি সেন্টার ছাত্রদের চলচ্চিত্রে অনলাইন নিরাপত্তা",
+  "summary_bn": "নর্থ সাউথ ইউনিভার্সিটির সাইবারফ্রেমস গালা নাইটে শিক্ষার্থীরা সাইবার নিরাপত্তা চ্যালেঞ্জ তুলে ধরার স্বল্পদৈর্ঘ্য চলচ্চিত্র প্রদর্শন করেন।",
+  "body_bn": [
+   "নর্থ সাউথ ইউনিভার্সিটির সাইবারসিকিউরিটি সেন্টার 'সাইবারফ্রেমস গালা নাইট' আয়োজন করে, যেখানে ছাত্র দলগুলো সাইবার নিরাপত্তা সংক্রান্ত বিভিন্ন চ্যালেঞ্জ তুলে ধরে স্বল্পদৈর্ঘ্য চলচ্চিত্র প্রদর্শন করে।",
+   "চলচ্চিত্রগুলো ফিশিং, ডেটা লিক, শক্তিশালী পাসওয়ার্ডের প্রয়োজনীয়তা ইত্যাদি বিষয় নিয়ে বাস্তব ঝুঁকি তুলে ধরে। আয়োজকরা বলেন, সৃজনশীল পদ্ধতি প্রযুক্তিগত সমস্যাগুলোকে বৃহত্তর দর্শকের কাছে সহজে পৌঁছে দিতে সহায়ক।"
+  ],
+  "image_prompt": "illustration of a digital lock with abstract network lines and symbols representing cyber security awareness",
+  "category": "Technology",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/education/campus/wbukfrnmnz",
+  "source_title": "এনএসইউতে শিক্ষার্থীদের নির্মিত চলচ্চিত্রে সাইবার নিরাপত্তার বার্তা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/education/campus/wbukfrnmnz",
+    "title": "এনএসইউতে শিক্ষার্থীদের নির্মিত চলচ্চিত্রে সাইবার নিরাপত্তার বার্তা"
+   }
+  ],
+  "published": "2026-11-08T15:57:00+00:00",
+  "added": "2026-11-08T16:27:37.946214+00:00",
+  "hidden": false
+ },
+ {
+  "id": "74cb87a9e840",
+  "headline": "Shah Rukh Khan Faces Skin Tone Controversy Ahead of ‘King’ Release",
+  "summary": "Prothom Alo reports the actor is again under debate over his brown complexion before the film’s debut.",
+  "body": [
+   "Shah Rukh Khan, the Bollywood actor, is again facing public debate over his brown skin tone as the release of his upcoming film “King” draws near, Prothom Alo reports.",
+   "The issue has resurfaced before the film’s debut, placing the star once more at the centre of discussions about colour perception in the entertainment sector, according to the same outlet.",
+   "No official comment has been issued by the actor or his representatives, and the controversy remains limited to media coverage ahead of the scheduled release."
+  ],
+  "headline_bn": "‘কিং’ মুক্তির আগে শাহরুখ খানের গেরুয়া রঙে বিতর্ক",
+  "summary_bn": "প্রথম আলো জানাচ্ছে, অভিনেতা গেরুয়া রঙের জন্য আবারও সমালোচনার মুখে",
+  "body_bn": [
+   "বলিউডের তারকা শাহরুখ খান আবারও গেরুয়া রঙ নিয়ে বিতর্কের মুখে আছেন, ‘কিং’ চলচ্চিত্রের মুক্তির আগে, প্রথম আলো রিপোর্ট করেছে।",
+   "ফিল্মের প্রিমিয়ার আগে এই বিষয়টি পুনরায় উঠে এসেছে, যা বিনোদন শিল্পে রঙের ধারণা নিয়ে আলোচনার দিকে ইঙ্গিত করে, একই সূত্রে বলা হয়েছে।",
+   "অভিনেতা বা তার প্রতিনিধিদের কাছ থেকে কোনো আনুষ্ঠানিক মন্তব্য পাওয়া যায়নি, এবং বিতর্কটি এখনো মিডিয়ার প্রতিবেদনে সীমাবদ্ধ।"
+  ],
+  "image_prompt": "illustration of a film reel and spotlight with brown hues, no faces or logos",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/video/entertainment/6nc4jz0kk0",
+  "source_title": "‘কিং’ মুক্তির আগেই গেরুয়া রং নিয়ে আবারও বিতর্কের মুখে শাহরুখ",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/video/entertainment/6nc4jz0kk0",
+    "title": "‘কিং’ মুক্তির আগেই গেরুয়া রং নিয়ে আবারও বিতর্কের মুখে শাহরুখ"
+   }
+  ],
+  "published": "2026-11-08T15:50:10+00:00",
+  "added": "2026-11-08T16:27:48.528878+00:00",
+  "hidden": false
+ },
+ {
+  "id": "6b78f9763812",
+  "headline": "Egypt Reopens Embassy in Tripoli After 12-Year Closure",
+  "summary": "Egypt has restored its diplomatic mission in Libya’s capital after a twelve-year hiatus, according to Al Jazeera English.",
+  "body": [
+   "Egypt has reopened its embassy in Tripoli, the capital of Libya, marking the first diplomatic presence in the city since the mission was closed twelve years ago.",
+   "The restoration of the embassy, announced by Al Jazeera English, signals a renewal of formal diplomatic channels between the two neighboring countries after a prolonged hiatus. The diplomatic mission had been shuttered for twelve years, and its return restores direct communication between the governments. This development ends a twelve-year period without an Egyptian diplomatic presence in Libya."
+  ],
+  "headline_bn": "ইজিপ্ট ট্রিপোলিতে ১২ বছর পর দূতাবাস পুনরায় খুলেছে",
+  "summary_bn": "অ্যাল জাজিরা ইংরেজি অনুযায়ী, ইজিপ্ট লিবিয়ার রাজধানী ট্রিপোলিতে ১২ বছরের বন্ধের পর তার দূতাবাস পুনরায় চালু করেছে।",
+  "body_bn": [
+   "ইজিপ্ট ট্রিপোলিতে তার দূতাবাস পুনরায় খুলেছে, যা শহরে ১২ বছর আগে বন্ধ হওয়ার পর প্রথম দফা কূটনৈতিক উপস্থিতি।",
+   "অ্যাল জাজিরা ইংরেজি এই পুনরায় খোলার কথা জানিয়ে বলেছে যে এটি দুই প্রতিবেশী দেশের মধ্যে আনুষ্ঠানিক কূটনৈতিক চ্যানেল পুনরায় চালু করার সংকেত দেয়। দূতাবাসটি বারো বছর বন্ধ থাকায়, এর ফিরে আসা সরকারগুলোর সরাসরি যোগাযোগ পুনরুদ্ধার করে। এই উন্নয়ন ইজিপ্টের লিবিয়ার সঙ্গে কূটনৈতিক সংযোগের পুনরায় সূচনা নির্দেশ করে।"
+  ],
+  "image_prompt": "a generic embassy building on a city street, with diplomatic symbols, no people, faces, flags, logos, or text",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+  "source_title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+    "title": "Egyptian embassy reopens in Libya for the first time in 12 years"
+   }
+  ],
+  "published": "2026-11-08T15:47:11+00:00",
+  "added": "2026-11-08T16:27:59.291849+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2b0ed24cc59d",
+  "headline": "Football Final Stopped in Sunamganj Over BNP Invitation Dispute",
+  "summary": "Prothom Alo reports the Nawdhara Seven Side tournament final was halted after the local BNP leaders were not invited.",
+  "body": [
+   "In Sunamganj's Dhormapashay union, the final match of the Nawdhara Seven Side football tournament was called off, according to Prothom Alo. The decision followed reports that the union's BNP president and general secretary were not invited to the event.",
+   "The stoppage has been described as a reaction to the lack of invitation, with local observers linking the cancellation directly to the political slight against the BNP officials."
+  ],
+  "headline_bn": "সুনামগঞ্জে বিএনপি নেতাদের না-দাওয়াতের কারণে ফুটবলের ফাইনাল বন্ধ",
+  "summary_bn": "প্রথম আলোতে জানানো মতে, ধর্মপাশা ইউনিয়নে নওধার সেভেন সাইড টুর্নামেন্টের ফাইনাল, বিএনপি সভাপতি ও সাধারণ সম্পাদককে না-দাওয়াতের ফলে বন্ধ করা হয়।",
+  "body_bn": [
+   "সুনামগঞ্জের ধর্মপাশা ইউনিয়নে নওধার সেভেন সাইড ফুটবল টুর্নামেন্টের ফাইনাল খেলা বন্ধ করা হয়েছে, প্রথম আলোর রিপোর্ট অনুসারে। এই সিদ্ধান্তের পেছনে ইউনিয়নের বিএনপি সভাপতি ও সাধারণ সম্পাদককে দাওয়াত না দেওয়া উল্লেখ করা হয়েছে।",
+   "স্থানীয় পর্যবেক্ষকরা উল্লেখ করেছেন, দাওয়াত না পেয়ে বিএনপি নেতাদের বিরুদ্ধে এই পদক্ষেপ নেওয়া হয়েছে, যা টুর্নামেন্টের শেষ ম্যাচকে থামিয়েছে।"
+  ],
+  "image_prompt": "illustration of a football field with a halted final match, empty sidelines, a scoreboard reading 'Final', and a notice indicating the game is stopped",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/lnikmvqn0o",
+  "source_title": "দাওয়াত না পেয়ে বিএনপি নেতাদের বিরুদ্ধে ফুটবলের ফাইনাল খেলা বন্ধের অভিযোগ",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/lnikmvqn0o",
+    "title": "দাওয়াত না পেয়ে বিএনপি নেতাদের বিরুদ্ধে ফুটবলের ফাইনাল খেলা বন্ধের অভিযোগ"
+   }
+  ],
+  "published": "2026-11-08T15:41:30+00:00",
+  "added": "2026-11-08T16:28:07.375454+00:00",
+  "hidden": false
+ },
+ {
+  "id": "c2da0adf15d5",
+  "headline": "Tenerife football club honors Jesus De Miguel with emotional tribute",
+  "summary": "Teammates held back tears, fans chanted his name, and the club pledged support to his family at the memorial service.",
+  "body": [
+   "At a memorial service held by Tenerife's football club, the late player Jesus De Miguel was honored. Teammates struggled to keep emotions in check, choking back tears as they paid tribute.",
+   "Fans in the stadium repeatedly chanted his name, creating a solemn atmosphere. The club announced that it will provide ongoing assistance to De Miguel's family and also pledged to cover funeral expenses.",
+   "According to Al Jazeera English, the collective display underscored the player's impact on the team and community."
+  ],
+  "headline_bn": "টেনেরিফের ফুটবল ক্লাব জেসুস দে মিগুয়েলকে স্মরণীয় সম্মাননা দিল",
+  "summary_bn": "সাথীরা কান্না দমন করে, ভক্তরা তার নাম চিৎকার করে, ক্লাব তার পরিবারকে সমর্থন দেবে বলে প্রতিশ্রুতি দিল।",
+  "body_bn": [
+   "টেনেরিফের ফুটবল ক্লাবের স্মরণসভায় মৃত খেলোয়াড় জেসুস দে মিগুয়েলকে সম্মান জানানো হয়। সাথীরা আবেগ দমন করে, কান্না দমন করে সম্মান জানাতে চেষ্টা করে।",
+   "স্টেডিয়ামে ভক্তরা বারবার তার নাম চিৎকার করে, মর্মস্পর্শী পরিবেশ তৈরি করে। ক্লাব ঘোষণা করেছে যে তারা মিগুয়েলের পরিবারকে চলমান সহায়তা প্রদান করবে এবং সমাধি খরচও বহন করবে।",
+   "আল জাজিরা ইংলিশের মতে, এই সমবেত সম্মাননা খেলোয়াড়ের দল ও সম্প্রদায়ের উপর প্রভাবকে তুলে ধরেছে।"
+  ],
+  "image_prompt": "illustration of a football stadium with empty seats, a memorial wreath and candles, no people faces",
+  "category": "Sports",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
+  "source_title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
+    "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans"
+   }
+  ],
+  "published": "2026-11-08T15:37:16+00:00",
+  "added": "2026-11-08T16:28:54.404085+00:00",
+  "hidden": false
+ },
+ {
+  "id": "d6ba9915f22e",
+  "headline": "Dhaka University campus sees cocktail explosion, three suspects detained",
+  "summary": "A cocktail bomb exploded on the Dhaka University campus, leading to the arrest of three suspects, reports Prothom Alo.",
+  "body": [
+   "A cocktail explosion occurred on the campus of Dhaka University. The incident was reported by Prothom Alo, which noted that the blast took place within the university grounds.",
+   "Following the explosion, authorities detained three individuals suspected of involvement, according to the same source."
+  ],
+  "headline_bn": "ঢাবি ক্যাম্পাসে ককটেল বিস্ফোরণ, তিনজন সন্দেহভাজন গ্রেফতার",
+  "summary_bn": "প্রথম আলো অনুযায়ী, ঢাবি ক্যাম্পাসে ককটেল বোমা বিস্ফোরণ ঘটায় তিনজন সন্দেহভাজন গ্রেফতার।",
+  "body_bn": [
+   "ঢাকা বিশ্ববিদ্যালয় ক্যাম্পাসে ককটেল বিস্ফোরণ ঘটেছে। প্রথম আলো জানায়, এই বিস্ফোরণটি বিশ্ববিদ্যালয় ভূখণ্ডের মধ্যে ঘটেছে।",
+   "বিস্ফোরণের পর, সংশ্লিষ্ট তিনজন সন্দেহভাজনকে কর্তৃপক্ষ গ্রেফতার করেছে, একই সূত্রে উল্লেখ করা হয়েছে।"
+  ],
+  "image_prompt": "illustration of a university campus with smoke and emergency responders, no faces or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/video/bangladesh/kycd8cd58h",
+  "source_title": "ঢাবি ক্যাম্পাসে ককটেল বিস্ফোরণ, ৩ সন্দেহভাজন আটক",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/video/bangladesh/kycd8cd58h",
+    "title": "ঢাবি ক্যাম্পাসে ককটেল বিস্ফোরণ, ৩ সন্দেহভাজন আটক"
+   }
+  ],
+  "published": "2026-11-08T15:17:04+00:00",
+  "added": "2026-11-08T16:29:01.363725+00:00",
+  "hidden": false
+ },
+ {
   "id": "c0c77e696e9a",
   "headline": "Mobile banking agent thwarts armed kidnapping attempt in Natore's Baraigram",
   "summary": "A 45-year-old mobile banking agent in Natore’s Baraigram upazila repelled a pistol-wielding assailant, preventing a kidnapping, Prothom Alo reports.",
