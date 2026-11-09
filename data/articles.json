@@ -1,5 +1,246 @@
 [
  {
+  "id": "bc0b846ed6bf",
+  "headline": "Nvidia CEO Jensen Huang apologizes for affair as company probes spy rumors",
+  "summary": "According to DW, Nvidia's chief Jensen Huang apologized for an extramarital affair while the company said it will investigate alleged Chinese espionage ties.",
+  "body": [
+   "Nvidia chief executive Jensen Huang issued an apology after reports surfaced that he had an extramarital affair, according to DW. The admission came amid circulating rumors linking him to a Chinese spy operation.",
+   "The company announced it will launch an investigation into the alleged espionage connections, pledging to examine any potential security breaches linked to the claims."
+  ],
+  "headline_bn": "Nvidia সিইও জেনসেন হুয়াং স্বীকার করেন সম্পর্ক, কোম্পানি গোপন জাসুসি তদন্তের প্রতিশ্রুতি",
+  "summary_bn": "DW অনুযায়ী, Nvidia-র প্রধান জেনসেন হুয়াং তার বিবাহবহির্ভূত সম্পর্কের জন্য ক্ষমা চেয়েছেন এবং কোম্পানি চীনা গোপন জাসুসি অভিযোগ তদন্ত করবে।",
+  "body_bn": [
+   "Nvidia-র সিইও জেনসেন হুয়াং DW-তে স্বীকার করেছেন যে তিনি বিবাহবহির্ভূত সম্পর্কের অংশ ছিলেন, যা চীনা জাসুসি সংক্রান্ত গুজবের সঙ্গে যুক্ত ছিল।",
+   "কোম্পানি দাবি করেছে যে এই অভিযোগের উপর তদন্ত চালাবে এবং সম্ভাব্য নিরাপত্তা লঙ্ঘন পরীক্ষা করবে।"
+  ],
+  "image_prompt": "A modern office with computer servers and a silhouetted figure reviewing documents, representing corporate investigation",
+  "category": "Business",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf",
+    "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties"
+   }
+  ],
+  "published": "2026-11-08T23:07:00+00:00",
+  "added": "2026-11-09T00:15:49.632758+00:00",
+  "hidden": false,
+  "image": "data/img/bc0b846ed6bf.jpg"
+ },
+ {
+  "id": "808af11d2eb3",
+  "headline": "Nvidia Board to Investigate Alleged Chinese Targeting of CEO Jensen Huang",
+  "summary": "Nvidia announced on Sunday it will probe reports that Chinese intelligence sought information from CEO Jensen Huang, who remains in post during the inquiry.",
+  "body": [
+   "Nvidia's board announced Sunday it will launch an internal probe into reports that Chinese intelligence targeted its chief executive Jensen Huang. The move follows a report in The New York Times that linked Huang to an affair with a U.S. intelligence official believed to be gathering information for Beijing.",
+   "Huang will stay in his role while the investigation proceeds and has pledged to cooperate fully with the inquiry, Nvidia said."
+  ],
+  "headline_bn": "নভিডিয়া বোর্ড চীনা গোয়েন্দা অপারেশন লক্ষ্য করে সিইও জেনসেন হুয়াং-এর তদন্ত শুরু করবে",
+  "summary_bn": "নভিডিয়া রবিবার ঘোষণা করেছে যে চীনা গোয়েন্দা হুয়াংকে লক্ষ্য করেছে বলে অভিযোগের ওপর তদন্ত করা হবে, এবং হুয়াং তদন্ত চলাকালেও সিইও পদে থাকবেন।",
+  "body_bn": [
+   "নভিডিয়ার বোর্ড রবিবার জানিয়েছে যে চীনা গোয়েন্দা সংস্থা তার সিইও জেনসেন হুয়াংকে লক্ষ্য করেছে বলে রিপোর্টের ওপর অভ্যন্তরীণ তদন্ত শুরু করবে। এই সিদ্ধান্তটি নিউ ইয়র্ক টাইমসের প্রতিবেদনের পরে নেওয়া হয়েছে, যেখানে হুয়াংকে একটি মার্কিন গোয়েন্দা কর্মকর্তার সঙ্গে সম্পর্কের কথা উল্লেখ করা হয়েছে, যাকে বেইজিংয়ের তথ্য সংগ্রহের সন্দেহ করা হয়।",
+   "হুয়াং তদন্ত চলাকালেও সিইও পদে থাকবেন এবং নভিডিয়া জানিয়েছে তিনি সম্পূর্ণ সহযোগিতা করবেন।"
+  ],
+  "image_prompt": "A modern corporate boardroom with a large screen displaying data charts and silhouettes of executives discussing, no identifiable faces",
+  "category": "Business",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe",
+  "source_title": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe",
+    "title": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang"
+   }
+  ],
+  "published": "2026-11-08T23:02:54+00:00",
+  "added": "2026-11-09T00:15:57.415729+00:00",
+  "hidden": false
+ },
+ {
+  "id": "8e9064de628a",
+  "headline": "Lopez Brace Secures Barcelona's 2-1 Victory Over Atletico Madrid",
+  "summary": "Fermin Lopez scored twice as Barcelona came from behind to beat Atletico Madrid 2-1, moving three points clear at the top of La Liga.",
+  "body": [
+   "Barcelona overturned a first‑half deficit to beat Atletico Madrid 2-1 at the host's stadium, with forward Fermin Lopez delivering both goals, according to Al Jazeera English.",
+   "The win placed the Catalan club three points ahead in the La Liga standings, extending their lead in the season's title race.",
+   "The result keeps Barcelona in a strong position as the league progresses, while Atletico Madrid remains behind in the standings."
+  ],
+  "headline_bn": "লোপেজের ডাবল গোলে বার্সেলোনার ২-১ জয় আতলেটিকো মাদ্রিদের বিপক্ষে",
+  "summary_bn": "ফার্মিন লোপেজের দু'গোল দিয়ে বার্সেলোনা আতলেটিকো মাদ্রিদকে পরাজিত করে, লা লিগা শীর্ষে তিন পয়েন্টের পার্থক্য তৈরি করেছে।",
+  "body_bn": [
+   "আতলেটিকো মাদ্রিদের ঘরে অনুষ্ঠিত লা লিগা ম্যাচে বার্সেলোনা প্রথমার্ধে পিছিয়ে থাকলেও, ফরোয়ার্ড ফার্মিন লোপেজের দু'টি গোল দিয়ে ২-১ স্কোরে জয় নিশ্চিত করেছে, আল জাজিরা ইংলিশের রিপোর্ট অনুযায়ী।",
+   "এই জয় বার্সেলোনাকে লা লিগার শীর্ষে তিন পয়েন্টের ব্যবধানে রাখে, শিরোপা প্রতিযোগিতায় তাদের অগ্রগতি শক্তিশালী করে।",
+   "ফলস্বরূপ, আতলেটিকো মাদ্রিদের অবস্থান নিচে সরে যায়, যখন বার্সেলোনার শিরোপা চ্যালেঞ্জ অব্যাহত থাকে।"
+  ],
+  "image_prompt": "A stylized football stadium interior with a scoreboard displaying Barcelona 2 – Atletico Madrid 1, no identifiable faces or logos",
+  "category": "Sports",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+  "source_title": "Lopez double fires Barcelona to win at Atletico Madrid",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+    "title": "Lopez double fires Barcelona to win at Atletico Madrid"
+   }
+  ],
+  "published": "2026-11-08T22:42:12+00:00",
+  "added": "2026-11-09T00:16:06.314219+00:00",
+  "hidden": false
+ },
+ {
+  "id": "7ec34c057f94",
+  "headline": "Quran Prohibits Believers from Befriending Certain People, Says Prothom Alo",
+  "summary": "According to Prothom Alo, the Quran warns that friendship shapes thoughts, beliefs and morality, and thus forbids believers from taking some individuals as friends.",
+  "body": [
+   "The Quran, as reported by Prothom Alo, states that friendship has a strong impact on a person's thoughts, beliefs and moral values. Consequently, the holy text instructs believers to avoid forming friendships with certain individuals.",
+   "The prohibition is presented as a divine directive intended to protect the faith and ethical conduct of Muslims, emphasizing the importance of choosing companions wisely."
+  ],
+  "headline_bn": "কোরআন মুমিনদের কিছু মানুষকে বন্ধু বানাতে নিষেধ করেছে",
+  "summary_bn": "প্রথম আলো অনুযায়ী, কোরআন বলে বন্ধুত্ব চিন্তা, বিশ্বাস ও নৈতিকতা গঠন করে, তাই কিছু ব্যক্তিকে বন্ধু হিসেবে গ্রহণে নিষেধাজ্ঞা রয়েছে।",
+  "body_bn": [
+   "প্রথম আলো জানিয়েছে, কোরআনে উল্লেখ আছে যে বন্ধুত্ব মানুষের চিন্তা, বিশ্বাস এবং নৈতিকতার উপর গভীর প্রভাব ফেলে। ফলে আল্লাহ মুমিনদের কিছু মানুষকে বন্ধু হিসেবে গ্রহণ করা থেকে বিরত রাখেন।",
+   "এই নিষেধাজ্ঞা ধর্মীয় ও নৈতিক সুরক্ষার জন্য নির্দেশিত, যা মুমিনদের সঠিক সঙ্গী নির্বাচন করার গুরুত্বকে তুলে ধরে।"
+  ],
+  "image_prompt": "Abstract scene showing symbolic paths intersecting, a glowing book representing the Quran, and silhouettes suggesting selective friendships, without faces or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/religion/islam/96gvzb5yus",
+  "source_title": "কোরআন যাদের বন্ধু বানাতে নিষেধ করেছে",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/religion/islam/96gvzb5yus",
+    "title": "কোরআন যাদের বন্ধু বানাতে নিষেধ করেছে"
+   }
+  ],
+  "published": "2026-11-08T22:30:00+00:00",
+  "added": "2026-11-09T00:16:14.438403+00:00",
+  "hidden": false
+ },
+ {
+  "id": "bf1e888cc2af",
+  "headline": "Pope Leo XIV arrives in Argentina, condemns Milei’s austerity",
+  "summary": "France 24 reports the pontiff’s first visit to Pope Francis’ homeland in decades, urging growth that benefits all.",
+  "body": [
+   "Pope Leo XIV arrived in Argentina on Sunday, coming from Uruguay where his tour began, France 24 reported. The visit marks the first time a pontiff has traveled to the late Pope Francis’ native country in nearly forty years.",
+   "The pope criticised President Javier Milei’s three‑year austerity programme, saying economic growth must benefit everyone and calling for efforts to bridge the nation’s divisions."
+  ],
+  "headline_bn": "পোপ লিও১৪ আর্জেন্টিনায় পৌঁছালেন, মাইলির কঠোর আর্থিক নীতি সমালোচনা",
+  "summary_bn": "ফ্রান্স ২৪ জানিয়েছে পোপের প্রথম সফর ফ্রান্সিসের জন্মভূমিতে, সকলের জন্য সমৃদ্ধি দাবি করেছেন।",
+  "body_bn": [
+   "পোপ লিও১৪ রবিবার উরুগুয়েতে শুরু করা সফর থেকে আর্জেন্টিনায় পৌঁছেছেন; ফ্রান্স ২৪ অনুসারে, প্রাক্তন পোপ ফ্রান্সিসের জন্মভূমিতে প্রায় চার দশক পর প্রথম পাপা সফর।",
+   "তিনি প্রেসিডেন্ট জাভিয়ের মাইলির তিন বছরের কঠোর আর্থিক নীতি সমালোচনা করে বলেছেন, অর্থনৈতিক বৃদ্ধি সকলের উপকারে আসা উচিত এবং দেশকে বিভাজন দূর করতে সহায়তা করা প্রয়োজন।"
+  ],
+  "image_prompt": "Illustration of a papal silhouette overlooking Buenos Aires skyline with symbolic bridges and economic icons, no faces or logos",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
+  "source_title": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
+    "title": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all"
+   }
+  ],
+  "published": "2026-11-08T22:23:19+00:00",
+  "added": "2026-11-09T00:16:22.052279+00:00",
+  "hidden": false
+ },
+ {
+  "id": "ff453408c686",
+  "headline": "President Milei greets Pope Leo XIV in historic Argentine visit",
+  "summary": "Pope Leo XIV's first visit to Argentina in almost 40 years occurs amid government tensions, Al Jazeera reports.",
+  "body": [
+   "President Javier Milei welcomed Pope Leo XIV as the pontiff began a historic visit to Argentina, the first papal trip to the country in nearly four decades.",
+   "The visit comes at a time of strained relations between the Vatican and the Argentine government, according to Al Jazeera English."
+  ],
+  "headline_bn": "প্রেসিডেন্ট মিলেি স্বাগত জানালেন পোপ লিও১৪কে ঐতিহাসিক আর্জেন্টিনার সফরে",
+  "summary_bn": "আর্জেন্টিনায় প্রায় ৪০ বছর পর পোপ লিও১৪য়ের প্রথম সফর, সরকারী উত্তেজনার মধ্যে, আল জাজিরা জানায়।",
+  "body_bn": [
+   "প্রেসিডেন্ট জাভিয়ার মিলেি পোপ লিও১৪কে স্বাগত জানিয়েছেন, যখন পোপ আর্জেন্টিনায় ঐতিহাসিক সফর শুরু করেন, যা প্রায় চার দশক পর প্রথম পাপাল সফর।",
+   "আল জাজিরা ইংলিশের মতে, এই সফরটি ভ্যাটিকান ও আর্জেন্টিনার সরকারী সম্পর্কের উত্তেজনার সময়ে অনুষ্ঠিত হচ্ছে।"
+  ],
+  "image_prompt": "Illustration of a pope's white mitre and a presidential palace silhouette under a sunny sky",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+  "source_title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+    "title": "President Milei welcomes Pope Leo during historic visit to Argentina"
+   }
+  ],
+  "published": "2026-11-08T22:16:50+00:00",
+  "added": "2026-11-09T00:16:29.576084+00:00",
+  "hidden": false
+ },
+ {
+  "id": "537b0cc6a7ee",
+  "headline": "Nvidia investigates CEO Jensen Huang after affair with woman accused of Chinese spying",
+  "summary": "Al Jazeera English reports Nvidia has opened an internal probe after CEO Jensen Huang confirmed an affair with a woman alleged to be a Chinese spy.",
+  "body": [
+   "Nvidia has launched an internal investigation into its chief executive Jensen Huang following his admission of an affair. The company’s probe comes after Huang confirmed a relationship with a woman who has been accused of spying for China, according to Al Jazeera English.",
+   "The development raises concerns within the technology sector, as the chipmaker faces scrutiny over potential security risks linked to the alleged espionage connection. Nvidia has not disclosed further details about the investigation or its potential impact on operations."
+  ],
+  "headline_bn": "Nvidia-র সিইও জেনসেন হুয়াংকে তদন্ত, চীনা গুপ্তচর অভিযোগে জড়িত নারীর সঙ্গে সম্পর্ক স্বীকার",
+  "summary_bn": "Al Jazeera English জানিয়েছে, Nvidia জেনসেন হুয়াংকে অভ্যন্তরীণ তদন্তের আওতায় রেখেছে, যিনি চীনা গুপ্তচর হিসেবে অভিযুক্ত নারীর সঙ্গে সম্পর্ক স্বীকার করেছেন।",
+  "body_bn": [
+   "Nvidia তার প্রধান নির্বাহী জেনসেন হুয়াংকে নিয়ে একটি অভ্যন্তরীণ তদন্ত শুরু করেছে, কারণ তিনি একটি সম্পর্ক স্বীকার করেছেন। Al Jazeera English অনুযায়ী, হুয়াং চীনা গুপ্তচর হিসেবে অভিযুক্ত নারীর সঙ্গে সম্পর্ক রাখার কথা স্বীকার করেছেন।",
+   "এই ঘটনা প্রযুক্তি খাতে নিরাপত্তা সংক্রান্ত উদ্বেগ বাড়িয়ে তুলেছে, কারণ চিপ নির্মাতা সম্ভাব্য গোপনীয়তা লঙ্ঘনের ঝুঁকির মুখে। Nvidia এখনও তদন্তের বিস্তারিত বা এর কার্যক্রমের ওপর প্রভাব সম্পর্কে কোনো তথ্য প্রকাশ করেনি।"
+  ],
+  "image_prompt": "Corporate office with computer chips and a magnifying glass silhouette over a document",
+  "category": "Business",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+  "source_title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+    "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair"
+   }
+  ],
+  "published": "2026-11-08T22:16:10+00:00",
+  "added": "2026-11-09T00:16:38.151108+00:00",
+  "hidden": false
+ },
+ {
+  "id": "726014e34080",
+  "headline": "Huawei faces trial in New York over alleged tech theft and sanctions evasion",
+  "summary": "NPR reports Huawei, the world’s largest telecoms firm, is on trial in New York for alleged US technology theft and sanctions breaches.",
+  "body": [
+   "According to NPR World, Huawei, identified as the world’s biggest telecommunications company, is currently on trial in a New York federal court. The company faces accusations of stealing American technology and violating U.S. sanctions. The case is being watched for its potential impact on global technology markets and international trade relations. Prosecutors allege that the firm engaged in illicit activities to gain competitive advantage, while defense arguments have not been detailed in the reporting. The trial underscores heightened scrutiny of Chinese firms operating abroad."
+  ],
+  "headline_bn": "হুয়াওয়ে নিউ ইয়র্কে প্রযুক্তি চুরি ও নিষেধাজ্ঞা লঙ্ঘনের অভিযোগে আদালতে",
+  "summary_bn": "NPR জানায়, বিশ্বের সর্ববৃহৎ টেলিকম কোম্পানি হুয়াওয়ে নিউ ইয়র্কে যুক্তরাষ্ট্রের প্রযুক্তি চুরি ও নিষেধাজ্ঞা লঙ্ঘনের অভিযোগে বিচারাধীন।",
+  "body_bn": [
+   "NPR World অনুযায়ী, হুয়াওয়ে, যা বিশ্বের সবচেয়ে বড় টেলিকমিউনিকেশন কোম্পানি হিসেবে চিহ্নিত, বর্তমানে নিউ ইয়র্কের ফেডারেল আদালতে বিচারাধীন। কোম্পানিটি আমেরিকান প্রযুক্তি চুরি এবং যুক্তরাষ্ট্রের নিষেধাজ্ঞা লঙ্ঘনের অভিযোগের মুখোমুখি। এই মামলাটি বৈশ্বিক প্রযুক্তি বাজার এবং আন্তর্জাতিক বাণিজ্য সম্পর্কের উপর সম্ভাব্য প্রভাবের কারণে ঘনিষ্ঠভাবে অনুসরণ করা হচ্ছে। প্রসিকিউশন দাবি করে যে প্রতিষ্ঠানটি প্রতিযোগিতামূলক সুবিধা অর্জনের জন্য অবৈধ কার্যকলাপে লিপ্ত হয়েছে, যদিও রিপোর্টে রক্ষার যুক্তি বিশদে উল্লেখ করা হয়নি। এই ট্রায়াল চীনা কোম্পানিগুলোর বিদেশে কার্যক্রমের ওপর বাড়তি নজরদারিকে তুলে ধরে।"
+  ],
+  "image_prompt": "Illustration of a courtroom with a telecommunications tower silhouette and legal documents, no people or logos",
+  "category": "World",
+  "source": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+  "source_title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+  "sources": [
+   {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+    "title": "The world's largest telecoms firm is on trial and the outcome has global implications"
+   }
+  ],
+  "published": "2026-11-08T22:04:13+00:00",
+  "added": "2026-11-09T00:16:47.384849+00:00",
+  "hidden": false
+ },
+ {
   "id": "25bcabf3fd71",
   "headline": "Rangoli Artists Switch to Organic Materials Amid Rising Costs",
   "summary": "Indian rangoli creators are using organic substitutes to offset higher material expenses.",
