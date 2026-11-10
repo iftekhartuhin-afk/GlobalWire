@@ -1,5 +1,253 @@
 [
  {
+  "id": "062eb389d98e",
+  "headline": "Al Jazeera English hosts panel on 2026 midterm election fallout",
+  "summary": "Emma Vigeland and Olivia Troye discuss the outcomes with host Josh Rushing, per Al Jazeera English.",
+  "body": [
+   "Al Jazeera English aired a program examining the aftermath of the 2026 midterm elections. The discussion featured Emma Vigeland and Olivia Troye alongside host Josh Rushing.",
+   "The panel addressed the political implications of the election results, exploring whether the outcome signals a blue wave or an anti‑establishment backlash, according to the network’s coverage."
+  ],
+  "headline_bn": "আল জাজিরা ইংলিশে ২০২৬ মিডটার্ম নির্বাচন পরিণতি নিয়ে প্যানেল",
+  "summary_bn": "এমা ভিগেল্যান্ড ও অলিভিয়া ট্রোয়ে জোশ রাশিংয়ের সঙ্গে আলোচনা করেছেন, আল জাজিরা ইংলিশের প্রতিবেদনে।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশ ২০২৬ মিডটার্ম নির্বাচনের পরিণতি নিয়ে একটি অনুষ্ঠান সম্প্রচার করেছে। এতে এমা ভিগেল্যান্ড এবং অলিভিয়া ট্রোয়ে জোশ রাশিংয়ের সঙ্গে আলোচনায় অংশ নিয়েছেন।",
+   "প্যানেলটি নির্বাচনের ফলাফলকে নীল তরঙ্গ নাকি প্রতিষ্ঠানের বিরুদ্ধ প্রতিক্রিয়া হিসেবে বিশ্লেষণ করেছে, নেটওয়ার্কের প্রতিবেদন অনুযায়ী।"
+  ],
+  "image_prompt": "illustration of a ballot box with abstract political symbols representing election analysis",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
+  "source_title": "2026 Midterms: Blue wave or anti-establishment backlash?",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
+    "title": "2026 Midterms: Blue wave or anti-establishment backlash?"
+   }
+  ],
+  "published": "2026-11-10T21:00:55+00:00",
+  "added": "2026-11-10T21:33:47.316701+00:00",
+  "hidden": false
+ },
+ {
+  "id": "e2e75fdcf2d7",
+  "headline": "White House allocates over $60 million each to St. Louis and Jackson for law‑enforcement program",
+  "summary": "The Trump administration announced funding for police initiatives in two U.S. cities, according to Al Jazeera English.",
+  "body": [
+   "The White House announced that the Trump administration will provide more than $60 million to each of St. Louis, Missouri, and Jackson, Mississippi, for a law‑enforcement initiative aimed at reducing crime.",
+   "The funds are part of a broader crime‑push strategy and will be directed to local police programs, Al Jazeera English reported.",
+   "No further details were released at the time of the announcement."
+  ],
+  "headline_bn": "হোয়াইট হাউস স্ট. লুইস ও জ্যাকসনে প্রত্যেক শহরে ৬০ মিলিয়ন ডলার আইন প্রয়োগের জন্য বরাদ্দ",
+  "summary_bn": "ট্রাম্প প্রশাসন অপরাধ কমাতে দুই শহরে বিশাল তহবিল প্রদান করেছে, আল জাজিরা ইংরেজি রিপোর্ট করেছে।",
+  "body_bn": [
+   "হোয়াইট হাউস জানিয়েছে যে ট্রাম্প প্রশাসন সেন্ট লুইস, মিসৌরি এবং জ্যাকসন, মিসিসিপিতে প্রত্যেকটি শহরে ৬০ মিলিয়নের বেশি ডলার আইন প্রয়োগের প্রোগ্রামের জন্য প্রদান করবে।",
+   "এই তহবিল অপরাধ মোকাবিলার বিস্তৃত উদ্যোগের অংশ হিসেবে স্থানীয় পুলিশ কার্যক্রমকে সমর্থন করবে, আল জাজিরা ইংরেজি অনুযায়ী।",
+   "অধিক তথ্য বর্তমানে প্রকাশিত হয়নি।"
+  ],
+  "image_prompt": "illustration of city hall with police badge and stacks of money, generic, no faces, flags, logos, or text",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+  "source_title": "White House announces funds for law enforcement programme in several cities",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+    "title": "White House announces funds for law enforcement programme in several cities"
+   }
+  ],
+  "published": "2026-11-10T21:00:01+00:00",
+  "added": "2026-11-10T21:33:55.003185+00:00",
+  "hidden": false
+ },
+ {
+  "id": "c85990e2dcad",
+  "headline": "US Soldier Detained in London on Alleged Russian Spy Charges",
+  "summary": "London police, aided by the FBI and US military, arrested a US service member suspected of spying for Russia, Al Jazeera reports.",
+  "body": [
+   "London’s Metropolitan Police announced that its counter‑terrorism unit, working closely with the United States Federal Bureau of Investigation and US military officials, detained a United States soldier on suspicion of conducting espionage for Russia. The suspect was arrested at a location in the capital.",
+   "The arrest, reported by Al Jazeera English, highlights the continued collaboration between British and American security agencies in countering foreign intelligence activities within the United Kingdom. Authorities said the case reflects heightened vigilance against hostile state actors."
+  ],
+  "headline_bn": "যুক্তরাষ্ট্রের সৈনিককে রাশিয়ান গোপনচর হিসেবে সন্দেহে লন্ডনে গ্রেপ্তার",
+  "summary_bn": "লন্ডন পুলিশ, FBI ও মার্কিন সামরিকের সহায়তায়, রাশিয়ার জন্য গোপনচর কাজের সন্দেহে একজন আমেরিকান সৈনিককে গ্রেপ্তার করেছে, আল জাজিরা জানিয়েছে।",
+  "body_bn": [
+   "লন্ডনের মেট্রোপলিটন পুলিশ জানিয়েছে যে, তার কাউন্টারটেরর ইউনিট যুক্তরাষ্ট্রের ফেডারেল ব্যুরো অফ ইনভেস্টিগেশন এবং মার্কিন সামরিক কর্মকর্তাদের সঙ্গে ঘনিষ্ঠভাবে কাজ করে রাশিয়ার পক্ষে গোপনচর কাজের সন্দেহে একজন যুক্তরাষ্ট্রের সৈনিককে গ্রেপ্তার করেছে। সন্দেহভাজনকে রাজধানীর একটি স্থানে আটক করা হয়।",
+   "আল জাজিরা ইংলিশের প্রতিবেদনে বলা হয়েছে, এই ধরা নিরাপত্তা সংস্থাগুলোর যুক্তরাজ্য ও যুক্তরাষ্ট্রের মধ্যে চলমান সহযোগিতাকে তুলে ধরে, যা দেশের মধ্যে বিদেশি গোয়েন্দা কার্যক্রমের মোকাবিলায় গুরুত্বপূর্ণ। কর্তৃপক্ষ উল্লেখ করেছে যে, এই ঘটনা শত্রু রাষ্ট্রের প্রতি বাড়তি সতর্কতার প্রতিফলন।"
+  ],
+  "image_prompt": "Illustration of a police badge and a silhouette of a soldier with a shadowy figure, representing a spy arrest investigation",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+  "source_title": "US soldier arrested in UK on suspicion of spying for Russia",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+    "title": "US soldier arrested in UK on suspicion of spying for Russia"
+   }
+  ],
+  "published": "2026-11-10T20:41:53+00:00",
+  "added": "2026-11-10T21:34:03.628114+00:00",
+  "hidden": false
+ },
+ {
+  "id": "68932bc1231a",
+  "headline": "Netanyahu and Eisenkot Seek New Government Amid Election Stalemate",
+  "summary": "According to Al Jazeera English, the two leaders are pushing for a fresh coalition after the vote left a deadlock.",
+  "body": [
+   "According to Al Jazeera English, Israeli Prime Minister Benjamin Netanyahu and Defense Minister Yoav Eisenkot are actively pursuing the formation of a new government following a parliamentary election that resulted in a deadlock. Both officials have signaled their intent to negotiate a coalition that can secure a governing majority, emphasizing the need to break the impasse and restore functional governance. The push comes as political parties assess potential alliances to overcome the stalemate and enable legislative activity."
+  ],
+  "headline_bn": "নেতান্যাহু ও আইসেনকট নির্বাচনী জটিলতার পর নতুন সরকার গঠনের প্রচেষ্টা",
+  "summary_bn": "আল জাজিরা ইংলিশের মতে, দুই নেতা ভোটের অচলাবস্থার পর একটি নতুন জোট গঠনের চেষ্টা করছেন।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের মতে, ইসরায়েলি প্রধানমন্ত্রী নেতান্যাহু এবং প্রতিরক্ষা মন্ত্রী আইসেনকট নির্বাচনের পর অচলাবস্থা ভাঙতে নতুন সরকার গঠনের জন্য আলোচনা চালিয়ে যাচ্ছেন। উভয় নেতাই একটি জোট গঠন করতে চাচ্ছেন যা সংসদে সংখ্যাগরিষ্ঠতা অর্জন করে শাসন পুনরায় চালু করবে। এই প্রচেষ্টা রাজনৈতিক দলগুলোকে সম্ভাব্য জোটের বিকল্প বিবেচনা করতে বাধ্য করছে, যাতে অচলাবস্থা শেষ হয়ে আইনসভার কাজ পুনরায় শুরু হয়।"
+  ],
+  "image_prompt": "Illustration of political leaders discussing coalition formation in a conference room, with documents and maps, no faces or logos",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+  "source_title": "Netanyahu and Eisenkot push for new government after election deadlock",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+    "title": "Netanyahu and Eisenkot push for new government after election deadlock"
+   }
+  ],
+  "published": "2026-11-10T20:39:46+00:00",
+  "added": "2026-11-10T21:34:11.472928+00:00",
+  "hidden": false
+ },
+ {
+  "id": "502695b1996d",
+  "headline": "Former Malaysian leader Najib Razak freed by royal pardon, still faces 15-year term",
+  "summary": "Najib Razak left prison after a royal pardon, but a minister resigned in protest as he still confronts a 15-year corruption sentence.",
+  "body": [
+   "Najib Razak, former prime minister of Malaysia, was released from prison after receiving a royal pardon, according to DW. The pardon allowed him to return home, prompting a minister to resign in protest.",
+   "Despite the pardon, Najib continues to face a separate 15-year prison term linked to the corruption scandal that led to his downfall, as reported by DW. The resignation underscores political tensions surrounding the decision.",
+   "The royal pardon was granted by the Malaysian monarch, while the 15-year sentence remains pending in the courts, according to DW. This development highlights ongoing legal and political challenges for the former leader."
+  ],
+  "headline_bn": "মালয়েশিয়ার প্রাক্তন নেতা নাজিব রাজারক রাজকীয় দয়া পেয়ে মুক্ত, এখনও ১৫ বছরের সাজা মুখোমুখি",
+  "summary_bn": "নাজিব রাজারক রাজকীয় দয়া পেয়ে কারাগার ত্যাগ করেছেন, তবে এক মন্ত্রী বিরোধে পদত্যাগ করেছেন, এবং তিনি এখনও ১৫ বছরের দুর্নীতি সাজা মুখোমুখি।",
+  "body_bn": [
+   "মালয়েশিয়ার প্রাক্তন প্রধানমন্ত্রী নাজিব রাজারক ডব্লিউের রিপোর্ট অনুযায়ী রাজকীয় দয়া পেয়ে কারাগার থেকে মুক্তি পেয়েছেন। দয়া তাকে বাড়ি ফেরার অনুমতি দেয়, ফলে এক মন্ত্রী বিরোধে পদত্যাগ করেন।",
+   "দয়া সত্ত্বেও, রাজারক একই দুর্নীতি কেলেঙ্কারির জন্য তাকে দেওয়া আলাদা ১৫ বছরের সাজা এখনও মুখোমুখি হচ্ছেন, ডব্লিউের মতে। মন্ত্রী পদত্যাগ সিদ্ধান্তটি রাজনৈতিক উত্তেজনা বাড়িয়ে তুলেছে।",
+   "রাজকীয় দয়া মালয়েশিয়ার সম্রাটের দ্বারা প্রদান করা হয়েছে, আর ১৫ বছরের সাজা আদালতে এখনও কার্যকর হতে বাকি, ডব্লিউের রিপোর্টে উল্লেখ আছে। এই ঘটনা প্রাক্তন নেতার জন্য চলমান আইনি ও রাজনৈতিক চ্যালেঞ্জকে তুলে ধরেছে।"
+  ],
+  "image_prompt": "Illustration of a courtroom with a gavel and a royal seal, symbolizing a political pardon and a prison sentence",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Former Malaysian leader Najib Razak returns home under royal pardon, but faces a separate 15-year prison sentence",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-rdf",
+    "title": "Former Malaysian leader Najib Razak returns home under royal pardon, but faces a separate 15-year prison sentence"
+   }
+  ],
+  "published": "2026-11-10T20:39:00+00:00",
+  "added": "2026-11-10T21:34:21.205333+00:00",
+  "hidden": false
+ },
+ {
+  "id": "cb104b77d4ca",
+  "headline": "US Army senior arrested in Britain on suspicion of aiding Russian intelligence",
+  "summary": "UK police detained a 41‑year‑old US Army member near Gloucester on suspicion of helping Russian intelligence, France 24 reports.",
+  "body": [
+   "According to France 24, UK police arrested a senior member of the US Army on Tuesday near the city of Gloucester in western England. The 41‑year‑old serviceman is being held in custody on suspicion of assisting Russian intelligence. Police said the detention was not linked to any other counter‑terrorism investigation. The arrest occurred in the vicinity of Gloucester, and the suspect remains detained.",
+   "Officials indicated that the investigation is separate from other counter‑terrorism operations. No further details have been released about the alleged assistance. The suspect continues to be held while authorities pursue the case."
+  ],
+  "headline_bn": "যুক্তরাষ্ট্রের সেনা উচ্চপদস্থ কর্মকর্তা ব্রিটেনে রাশিয়ান গোপন তথ্য সহায়তার সন্দেহে গ্রেফতার",
+  "summary_bn": "ফ্রান্স ২৪ অনুযায়ী, যুক্তরাজ্যের পুলিশ গ্লোস্টার নিকটস্থ ৪১‑বছরের একজন আমেরিকান সেনাকে রাশিয়ান গোয়েন্দা সহায়তার সন্দেহে গ্রেফতার করেছে।",
+  "body_bn": [
+   "ফ্রান্স ২৪ অনুযায়ী, যুক্তরাজ্যের পুলিশ গ্লোস্টার শহরের নিকটবর্তী পশ্চিম ইংল্যান্ডে মঙ্গলবার যুক্তরাষ্ট্রের সেনাবাহিনীর একটি উচ্চপদস্থ সদস্যকে গ্রেফতার করেছে। ৪১‑বছরের এই সৈনিককে রাশিয়ান গোয়েন্দা সংস্থাকে সহায়তা করার সন্দেহে জেলভুক্ত করা হয়েছে। পুলিশ জানিয়েছে যে এই ধরা অন্যান্য সন্ত্রাসবিরোধী তদন্তের সঙ্গে যুক্ত নয়। গ্রেফতার গ্লোস্টার এলাকার কাছাকাছি ঘটেছে এবং সন্দেহভাজন বর্তমানে আটক রয়েছে।",
+   "অধিকারেরা জানিয়েছেন যে এই তদন্ত অন্যান্য সন্ত্রাসবিরোধী কার্যক্রম থেকে আলাদা। সন্দেহজনক সহায়তা সম্পর্কে আরও কোনো তথ্য প্রকাশ করা হয়নি। সন্দেহভাজন এখনও আটক আছেন, যখন কর্তৃপক্ষ মামলাটি অনুসন্ধান চালিয়ে যাচ্ছে।"
+  ],
+  "image_prompt": "British police car parked near a city building, silhouette of a soldier and a shadowy figure suggesting espionage, no faces, flags, or logos",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence",
+  "source_title": "US soldier arrested in Britain on suspicion of assisting Russian intelligence",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence",
+    "title": "US soldier arrested in Britain on suspicion of assisting Russian intelligence"
+   }
+  ],
+  "published": "2026-11-10T20:23:04+00:00",
+  "added": "2026-11-10T21:34:32.826176+00:00",
+  "hidden": false
+ },
+ {
+  "id": "290c1b8b7e93",
+  "headline": "Salvadoran troops aid police in raid on Haitian gang, 20 killed",
+  "summary": "Salvadoran forces supported a police operation against a Haitian gang, resulting in 20 deaths, ahead of the Haitian prime minister’s scheduled visit to El Salvador.",
+  "body": [
+   "According to Al Jazeera English, Salvadoran troops supported a police operation that targeted a Haitian gang in El Salvador, resulting in the deaths of 20 individuals. The joint action was carried out as part of a security effort. Authorities said the raid aimed to dismantle the gang’s activities.",
+   "The raid took place ahead of the Haitian prime minister’s planned visit to El Salvador, underscoring the authorities’ focus on maintaining order before the diplomatic engagement. Local officials emphasized the need to ensure safety for the upcoming diplomatic meeting."
+  ],
+  "headline_bn": "সালভাদোরীয় সৈন্যদের সমর্থনে হাইতিয়ান গ্যাংয়ের ওপর অভিযান, ২০ জন নিহত",
+  "summary_bn": "হাইতিয়ান প্রধানমন্ত্রীকে সেলভাদোরে স্বাগত জানাতে, সশস্ত্র বাহিনী ও পুলিশ একসাথে গ্যাংকে লক্ষ্য করে ২০ জনের মৃত্যু ঘটিয়েছে।",
+  "body_bn": [
+   "Al Jazeera English অনুযায়ী, সালভাদোরীয় সৈন্যরা হাইতিয়ান গ্যাংকে লক্ষ্য করে পুলিশ অপারেশনে সমর্থন দিয়েছে, যার ফলে ২০ জনের মৃত্যু হয়েছে। এই যৌথ পদক্ষেপটি নিরাপত্তা রক্ষার অংশ হিসেবে পরিচালিত হয়েছে। কর্মকর্তারা বলছেন এই অভিযান গ্যাংয়ের কার্যক্রম ভাঙতে লক্ষ্য ছিল।",
+   "এই অভিযান হাইতিয়ান প্রধানমন্ত্রীকে সেলভাদোরে স্বাগত জানাতে পরিকল্পিত সফরের আগে অনুষ্ঠিত হয়েছে, যা আসন্ন কূটনৈতিক সাক্ষাতের নিরাপত্তা নিশ্চিত করার প্রয়োজনীয়তা তুলে ধরে। স্থানীয় কর্মকর্তারা এই বৈঠকের নিরাপত্তা নিশ্চিত করার গুরুত্ব জোর দিয়েছেন।"
+  ],
+  "image_prompt": "illustration of soldiers and police conducting a city raid, with armored vehicles and weapons, no faces or logos",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
+  "source_title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
+    "title": "Salvadoran troops target Haitian gang, leaving 20 dead"
+   }
+  ],
+  "published": "2026-11-10T20:22:21+00:00",
+  "added": "2026-11-10T21:35:20.304680+00:00",
+  "hidden": false
+ },
+ {
+  "id": "6bc481b81826",
+  "headline": "US Secretary Rubio says major combat ops against Iran unnecessary",
+  "summary": "Rubio stated that economic sanctions are effective, so no major combat against Iran is needed, and praised US‑mediated Russia‑Ukraine talks.",
+  "body": [
+   "At a press conference following the G7 summit in Paris, US Secretary of State Marco Rubio said there is no need to resume major combat operations against Iran, citing the effectiveness of economic restrictions. He made the remarks on Tuesday, according to France 24.",
+   "Rubio also described the US‑mediated talks between Russia and Ukraine in Abu Dhabi as \"very productive\" and urged that European nations be included in future discussions, as reported by France 24. Al Jazeera English noted his comment on the lack of need for further combat."
+  ],
+  "headline_bn": "মার্কো রুবিও বলেন ইরানের বিরুদ্ধে বড় সামরিক অভিযান অপ্রয়োজনীয়",
+  "summary_bn": "রুবিও বললেন আর্থিক নিষেধাজ্ঞা কার্যকর, তাই ইরানের বিরুদ্ধে বড় সামরিক অভিযান দরকার নেই, এবং যুক্তরাষ্ট্র‑মধ্যস্থতায় রাশিয়া‑ইউক্রেন আলোচনাকে প্রশংসা করেছেন।",
+  "body_bn": [
+   "প্যারিসে জি৭ শীর্ষ সম্মেলনের পর মঙ্গলবার মার্কো রুবিও, যুক্তরাষ্ট্রের পররাষ্ট্র সচিব, ইরানের বিরুদ্ধে বড় সামরিক অভিযান পুনরায় শুরু করার প্রয়োজন নেই বলে উল্লেখ করেন, আর্থিক নিষেধাজ্ঞার কার্যকারিতা উল্লেখ করে। (France 24)",
+   "রুবিও আবুধাবিতে যুক্তরাষ্ট্রের মধ্যস্থতায় রাশিয়া ও ইউক্রেনের আলোচনাকে \"খুবই ফলপ্রসূ\" বলে প্রশংসা করেন এবং ভবিষ্যতে ইউরোপীয় দেশগুলোকে আলোচনায় অন্তর্ভুক্ত করার আহ্বান জানান। (France 24, Al Jazeera English)"
+  ],
+  "image_prompt": "Illustration of a diplomatic press conference with maps, sanctions symbols and peace talks icons, no faces or logos",
+  "category": "Politics",
+  "source": "Al Jazeera English, France 24",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+  "source_title": "Rubio says no need for major combat operations against Iran",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+    "title": "Rubio says no need for major combat operations against Iran"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261110-replay-us-secretary-of-state-rubio-holds-press-conference-after-g7-meeting",
+    "title": "REPLAY: US Secretary of State Rubio holds press conference after G7 meeting"
+   }
+  ],
+  "published": "2026-11-10T19:34:13+00:00",
+  "added": "2026-11-10T21:33:39.675446+00:00",
+  "hidden": false,
+  "image": "data/img/6bc481b81826.jpg"
+ },
+ {
   "id": "c5e22111d6b7",
   "headline": "Exhibition Links Colonialism and Nazism, Sparks Debate Over Historical Comparisons",
   "summary": "A new exhibition explores ties between colonialism and Nazism, prompting heated debate among historians.",
