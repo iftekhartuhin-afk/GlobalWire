@@ -1,5 +1,217 @@
 [
  {
+  "id": "487f359ed546",
+  "headline": "Israeli Strikes on Gaza Tent Camp Kill Five Amid UN Call for Aid",
+  "summary": "Five people died when Israeli strikes hit a tent camp in Gaza as the UN urged urgent assistance to address heavy rains.",
+  "body": [
+   "According to Al Jazeera English, Israeli strikes hit a tent camp in the Gaza enclave, resulting in five fatalities.",
+   "The United Nations has appealed for urgent aid to cope with heavy rains affecting the area, emphasizing the need for immediate assistance."
+  ],
+  "headline_bn": "ইসরায়েলি হামলা গাজা তেন্ট ক্যাম্পে পাঁচজনের মৃত্যু, ইউএন জরুরি সহায়তা আহ্বান",
+  "summary_bn": "ইসরায়েলি আক্রমণে তেন্ট ক্যাম্পে পাঁচজন নিহত, গাজায় ভারী বৃষ্টির কারণে ইউএন জরুরি সাহায্য চেয়েছে।",
+  "body_bn": [
+   "আল জাজিরা ইংরেজি অনুযায়ী, গাজা অঞ্চলের একটি তেন্ট ক্যাম্পে ইসরায়েলি হামলা ঘটেছে, যার ফলে পাঁচজনের মৃত্যু হয়েছে।",
+   "যুক্তরাষ্ট্রের জাতিসংঘ গাজায় ভারী বৃষ্টির প্রভাব মোকাবিলার জন্য জরুরি সহায়তা চেয়েছে, তাৎক্ষণিক সাহায্যের প্রয়োজনীয়তা তুলে ধরেছে।"
+  ],
+  "image_prompt": "illustration of a damaged tent camp in Gaza under rain with smoke and aid symbols, no faces or logos",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+  "source_title": "Israeli strikes hit tent camp as five killed in Gaza",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+    "title": "Israeli strikes hit tent camp as five killed in Gaza"
+   }
+  ],
+  "published": "2026-11-11T22:55:37+00:00",
+  "added": "2026-11-11T23:13:36.774502+00:00",
+  "hidden": false
+ },
+ {
+  "id": "da8191456c5e",
+  "headline": "Democrats refuse to release Hagseth, warn of risk to Trump’s war minister",
+  "summary": "Prothom Alo reports the war minister is currently protected, but could face greater danger if Democrats control both chambers in January.",
+  "body": [
+   "According to Prothom Alo, Democrats have said they will not allow Hagseth to be released.",
+   "The outlet added that Trump’s war minister is presently shielded, yet his position may become more vulnerable should the Democrats secure control of the Senate and House in the upcoming January elections."
+  ],
+  "headline_bn": "ডেমোক্র্যাটরা হেগসেথকে ছাড় দেবে না, ট্রাম্পের যুদ্ধমন্ত্রীকে ঝুঁকি বাড়তে পারে",
+  "summary_bn": "প্রথম আলো জানায়, যুদ্ধমন্ত্রী বর্তমানে রক্ষিত, তবে জানুয়ারিতে ডেমোক্র্যাটরা দু’কক্ষের নিয়ন্ত্রণ পেলে তার বিপদ বৃদ্ধি পাবে।",
+  "body_bn": [
+   "প্রথম আলোর মতে, ডেমোক্র্যাটরা হেগসেথকে ছাড় দিতে অস্বীকার করেছে।",
+   "সংবাদটি জানায় যে ট্রাম্পের ‘যুদ্ধমন্ত্রী’ বর্তমানে সুরক্ষিত, তবে যদি ডেমোক্র্যাটরা জানুয়ারিতে সেনেট ও হাউসের দু’কক্ষের নিয়ন্ত্রণ অর্জন করে, তার বিপদ আরও বাড়বে।"
+  ],
+  "image_prompt": "Illustration of US Capitol with a silhouetted defense official and political symbols, no faces or text",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/usa/1pq1swsg8u",
+  "source_title": "হেগসেথকে ছাড় দেবে না ডেমোক্র্যাটরা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/usa/1pq1swsg8u",
+    "title": "হেগসেথকে ছাড় দেবে না ডেমোক্র্যাটরা"
+   }
+  ],
+  "published": "2026-11-11T22:50:46+00:00",
+  "added": "2026-11-11T23:13:45.026303+00:00",
+  "hidden": false
+ },
+ {
+  "id": "b82478859e8a",
+  "headline": "Iran labels Argentina's navy and air force as terrorist groups",
+  "summary": "Iran announced the designation of Argentina's navy and air force as terrorist organisations, following Argentina's earlier move to label Iran's IRGC as terrorist.",
+  "body": [
+   "According to Al Jazeera English, Iran has designated the Argentine navy and air force as terrorist organisations.",
+   "The decision comes months after the government of Javier Milei classified Iran's Islamic Revolutionary Guard Corps as a terrorist organisation."
+  ],
+  "headline_bn": "ইরান আর্জেন্টিনার নৌবাহিনী ও বিমানবাহিনীর ওপর সন্ত্রাসী সংস্থা ঘোষণা",
+  "summary_bn": "ইরান আর্জেন্টিনার নৌবাহিনী ও বিমানবাহিনীরকে সন্ত্রাসী সংস্থা হিসেবে তালিকাভুক্ত করেছে, যা আর্জেন্টিনার ইরানের আইআরজিসি-কে সন্ত্রাসী ঘোষণা করার পর।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের রিপোর্ট অনুসারে, ইরান সরকার আর্জেন্টিনার নৌবাহিনী এবং বিমানবাহিনীরকে সন্ত্রাসী সংস্থা হিসেবে চিহ্নিত করেছে।",
+   "এই পদক্ষেপটি কয়েক মাস আগে আর্জেন্টিনার জাভিয়ের মিলে সরকার ইরানের ইস্লামিক রেভলিউশনারি গার্ড কর্পসকে (আইআরজিসি) সন্ত্রাসী সংস্থা হিসেবে তালিকাভুক্ত করার পর নেওয়া হয়েছে।"
+  ],
+  "image_prompt": "Illustration showing navy and air force icons crossed out with a red warning symbol, no people, flags, logos or text",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+  "source_title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+    "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’"
+   }
+  ],
+  "published": "2026-11-11T22:34:43+00:00",
+  "added": "2026-11-11T23:13:52.917159+00:00",
+  "hidden": false
+ },
+ {
+  "id": "008f3dd410e5",
+  "headline": "Judge Allows Trump’s $10bn Defamation Suit Against BBC to Move Forward",
+  "summary": "A court has permitted former President Donald Trump's $10 billion defamation lawsuit against the BBC to proceed, while the broadcaster denies the allegations.",
+  "body": [
+   "A judge has ruled that the defamation lawsuit filed by former US President Donald Trump against the British broadcaster BBC, seeking $10 billion in damages, can continue. The decision was reported by Al Jazeera English.",
+   "The BBC has denied the defamation claim. Trump celebrated the ruling as a “huge victory.”"
+  ],
+  "headline_bn": "বিচারক ট্রাম্পের ১০ বিলিয়ন ডলারের বিবিসি মানহানি মামলাকে এগিয়ে যেতে অনুমোদন দিলেন",
+  "summary_bn": "একটি আদালত ট্রাম্পের বিবিসি বিরুদ্ধে ১০ বিলিয়ন ডলারের মানহানি মামলাকে চালু রাখতে অনুমতি দিয়েছে, যখন বিবিসি অভিযোগ অস্বীকার করেছে।",
+  "body_bn": [
+   "একজন বিচারক সিদ্ধান্ত দিয়েছেন যে প্রাক্তন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের ব্রিটিশ সম্প্রচারক বিবিসি-র বিরুদ্ধে ১০ বিলিয়ন ডলারের ক্ষতিপূরণ চাওয়া মানহানি মামলাটি চালিয়ে যেতে পারবে। এই তথ্য আল জাজিরা ইংলিশে প্রকাশিত হয়েছে।",
+   "বিবিসি এই মানহানি অভিযোগ অস্বীকার করেছে। ট্রাম্প আদালতের এই রায়কে “বৃহৎ বিজয়” বলে উদযাপন করেছেন।"
+  ],
+  "image_prompt": "illustration of a courtroom with a judge's gavel and legal documents, generic, no faces or logos",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
+  "source_title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
+    "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed"
+   }
+  ],
+  "published": "2026-11-11T22:10:12+00:00",
+  "added": "2026-11-11T23:14:00.161664+00:00",
+  "hidden": false
+ },
+ {
+  "id": "5987894913bb",
+  "headline": "Six Bollywood Stars Noted for Striking Resemblance to Hollywood Twins",
+  "summary": "Prothom Alo reports that six Bollywood actors closely mirror the looks of Hollywood twin siblings, showing that celebrity look‑alikes occur.",
+  "body": [
+   "A recent feature by Prothom Alo highlights six Bollywood actors whose appearances are said to closely match those of a pair of Hollywood twin siblings, drawing attention to the visual similarity between the two entertainment worlds.",
+   "The outlet notes that such striking resemblances can be surprising, and that film stars are no exception to this phenomenon of look‑alikes."
+  ],
+  "headline_bn": "হলিউডের জোড়া ভাইবোনের মতো শোনায় ছয়জন বলিউড তারকা",
+  "summary_bn": "প্রথম আলো জানিয়েছে যে ছয়জন বলিউড অভিনেতা হলিউডের জোড়া ভাইবোনের চেহারার সঙ্গে অবিশ্বাস্য সাদৃশ্য রাখেন, যা তারকাদেরও অনুরূপতা দেখায়।",
+  "body_bn": [
+   "প্রথম আলোর সাম্প্রতিক প্রতিবেদনে ছয়জন বলিউড অভিনেতার চেহারা হলিউডের জোড়া ভাইবোনের সঙ্গে কতটা সাদৃশ্যপূর্ণ তা তুলে ধরা হয়েছে, যা দুই চলচ্চিত্র জগতের ভিজ্যুয়াল সাদৃশ্যকে প্রকাশ করে।",
+   "প্রতিবেদনটি উল্লেখ করে যে এমন চমকপ্রদ সাদৃশ্য কখনও কখনও আশ্চর্যজনক হতে পারে, এবং চলচ্চিত্র তারকাদেরও এই ধরনের লুক‑অ্যালাইক হওয়া অস্বাভাবিক নয়।"
+  ],
+  "image_prompt": "A stylized film studio set showing two similar silhouettes of actors on a red carpet, representing Bollywood and Hollywood look‑alikes.",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.haal.fashion/ampstories/celeb/s3tgsn391i",
+  "source_title": "চেহারায় এত মিল! বলিউডের এই ৬ তারকার 'হলিউডতুতো' জমজ ভাইবোনদেরকে চেনেন কি",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.haal.fashion/ampstories/celeb/s3tgsn391i",
+    "title": "চেহারায় এত মিল! বলিউডের এই ৬ তারকার 'হলিউডতুতো' জমজ ভাইবোনদেরকে চেনেন কি"
+   }
+  ],
+  "published": "2026-11-11T22:00:00+00:00",
+  "added": "2026-11-11T23:14:08.019974+00:00",
+  "hidden": false
+ },
+ {
+  "id": "00c7ae7f9540",
+  "headline": "Spain's housing crisis sparks massive protests and a general strike ahead of snap elections",
+  "summary": "Hundreds of thousands rallied over Spain's housing crisis after a union-led general strike, with snap elections set for Nov. 29.",
+  "body": [
+   "According to DW, hundreds of thousands of citizens took to the streets across Spain to demonstrate against the worsening housing crisis. The demonstrations followed a general strike organized by millions of union workers, highlighting widespread discontent over affordable housing shortages.",
+   "The escalating crisis has prompted the government to call snap elections, scheduled for November 29, as authorities seek a political solution to the mounting public pressure."
+  ],
+  "headline_bn": "স্পেনের বাসস্থান সংকট বিশাল প্রতিবাদ ও ধর্মঘটের কারণ, শীঘ্রই নির্ধারিত নির্বাচন",
+  "summary_bn": "ডব্লিউ অনুযায়ী, শত শত হাজার মানুষ বাসস্থান সংকটের প্রতিবাদে রাস্তায় নেমে এসেছে, এবং ২৯ নভেম্বর শীঘ্রই নির্বাচনের তারিখ নির্ধারিত হয়েছে।",
+  "body_bn": [
+   "ডব্লিউ অনুযায়ী, স্পেন জুড়ে শত শত হাজার নাগরিক বাসস্থানের ক্রমবর্ধমান সংকটের বিরোধে রাস্তায় নেমে বিশাল প্রতিবাদ করেছে। এই প্রতিবাদগুলি মিলিয়ন ইউনিয়ন কর্মীর সাধারণ ধর্মঘটের পর ঘটেছে, যা সাশ্রয়ী বাসস্থান সমস্যার প্রতি ব্যাপক অসন্তোষ প্রকাশ করে।",
+   "বিকাশমান সংকটের ফলে সরকার শীঘ্রই নির্বাচনের ঘোষণা দিয়েছে, যা ২৯ নভেম্বর অনুষ্ঠিত হবে, যাতে জনমতকে শান্তি ও সমাধানের পথে নিয়ে যাওয়া যায়।"
+  ],
+  "image_prompt": "illustration of a large crowd protesting a housing crisis with generic signs, city skyline background, no faces, flags or text",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Spain: Housing crisis prompts general strike, mass nighttime protests",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf",
+    "title": "Spain: Housing crisis prompts general strike, mass nighttime protests"
+   }
+  ],
+  "published": "2026-11-11T21:58:00+00:00",
+  "added": "2026-11-11T23:14:15.709349+00:00",
+  "hidden": false
+ },
+ {
+  "id": "cdd0a525b9bc",
+  "headline": "Russia and Ukraine agree on large-scale prisoner swap as Abu Dhabi talks conclude",
+  "summary": "Kyiv and Moscow said they will conduct a large-scale prisoner exchange after Abu Dhabi peace talks ended, with US envoys set to meet both leaders Thursday.",
+  "body": [
+   "According to France 24, Kyiv and Moscow reached an agreement on Wednesday for a large‑scale prisoner exchange as the final day of peace talks in Abu Dhabi concluded, though no specific numbers were disclosed.",
+   "The report adds that U.S. envoys Steve Witkoff and Jared Kushner are scheduled to hold separate meetings with Russian President Vladimir Putin and Ukrainian President Volodymyr Zelensky on Thursday.",
+   "The separate official meetings are set for Thursday, following the conclusion of the Abu Dhabi talks."
+  ],
+  "headline_bn": "রাশিয়া ও ইউক্রেন সমঝোতা, আবুধাবি আলোচনার শেষে বড় পরিসরের বন্দি বিনিময়",
+  "summary_bn": "কিয়েভ ও মস্কো আবুধাবি শান্তি আলোচনার সমাপ্তির পর বড় পরিসরের বন্দি বিনিময়ের চুক্তি করেছে, যুক্তরাষ্ট্রের প্রতিনিধি বৃহস্পতিবার উভয় নেতার সঙ্গে আলাপ করবেন।",
+  "body_bn": [
+   "ফ্রান্স ২৪ অনুসারে, কিয়েভ ও মস্কো বুধবার আবুধাবিতে শান্তি আলোচনার শেষ দিনে বড় পরিসরের বন্দি বিনিময়ের চুক্তি করেছে, তবে নির্দিষ্ট সংখ্যা প্রকাশ করা হয়নি।",
+   "রিপোর্টে জানানো হয়েছে যে মার্কিন প্রতিনিধিরা স্টিভ উইটকফ এবং জ্যারেড কুশনার বৃহস্পতিবার রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন এবং ইউক্রেনের প্রেসিডেন্ট ভ্লাদিমির জেলেনস্কির সঙ্গে পৃথকভাবে সাক্ষাৎ করবেন।",
+   "আবুধাবি আলোচনার সমাপ্তির পর বৃহস্পতিবার এই পৃথক সরকারি সাক্ষাৎকারগুলি নির্ধারিত হয়েছে।"
+  ],
+  "image_prompt": "A neutral illustration of diplomats exchanging documents at a conference table, with abstract symbols of peace and negotiation, no faces or logos",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
+  "source_title": "Russia and Ukraine agree to major prisoner swap as peace talks end",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
+    "title": "Russia and Ukraine agree to major prisoner swap as peace talks end"
+   }
+  ],
+  "published": "2026-11-11T21:46:12+00:00",
+  "added": "2026-11-11T23:14:25.833497+00:00",
+  "hidden": false
+ },
+ {
   "id": "ad3650883fc0",
   "headline": "Study finds one in four Germans favor right-wing authoritarian rule",
   "summary": "DW reports a new study shows 25% of Germans support a right-wing authoritarian dictatorship as satisfaction with democracy hits a low point.",
@@ -88,6 +300,42 @@
   "published": "2026-11-11T16:16:00+00:00",
   "added": "2026-11-11T16:45:46.507044+00:00",
   "hidden": false
+ },
+ {
+  "id": "195b86b2e565",
+  "headline": "Brazil Electoral Court Fines Meta $1.3 Million, Finds No Intent to Influence Election",
+  "summary": "Brazil's top electoral court imposed a $1.3 million fine on Meta after a complaint from President Lula's coalition, but found no proof of election meddling.",
+  "body": [
+   "France 24 reports that Brazil's electoral court imposed a $1.3 million fine on Meta. The penalty follows a complaint filed by President Lula's coalition.",
+   "DW notes that the court said there was no evidence of intent to influence the election, and Meta said it will defend itself against what it called false allegations."
+  ],
+  "headline_bn": "ব্রাজিলের নির্বাচনী আদালত মেটা-কে ১.৩ মিলিয়ন ডলার জরিমানা, নির্বাচনে হস্তক্ষেপের ইচ্ছা না পাওয়া গেছে",
+  "summary_bn": "প্রেসিডেন্ট লুলার জোটের অভিযোগের পর ব্রাজিলের সর্বোচ্চ নির্বাচনী আদালত মেটা-কে জরিমানা করলেও, নির্বাচনী হস্তক্ষেপের কোনো প্রমাণ না পেয়ে।",
+  "body_bn": [
+   "ফ্রান্স ২৪ জানায়, ব্রাজিলের নির্বাচনী আদালত মেটা-কে ১.৩ মিলিয়ন ডলার জরিমানা করেছে। এই শাস্তি প্রেসিডেন্ট লুলার জোটের অভিযোগের ফলস্বরূপ দেওয়া হয়।",
+   "ডব্লিউ রিপোর্ট করে, আদালত বলেছে নির্বাচনে হস্তক্ষেপের ইচ্ছার কোনো প্রমাণ পাওয়া যায়নি। মেটা এই অভিযোগকে 'মিথ্যা' বলে প্রতিরক্ষা করার পরিকল্পনা জানিয়েছে।"
+  ],
+  "image_prompt": "illustration of a courtroom with digital social media icons and a monetary fine document",
+  "category": "Politics",
+  "source": "France 24, DW",
+  "source_url": "https://www.france24.com/en/brazil-electoral-court-fines-meta-1-3-mn-sees-no-deliberate-election-bias",
+  "source_title": "Brazil electoral court fines Meta $1.3 MN, sees no deliberate election bias",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/brazil-electoral-court-fines-meta-1-3-mn-sees-no-deliberate-election-bias",
+    "title": "Brazil electoral court fines Meta $1.3 MN, sees no deliberate election bias"
+   },
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-all-1573-rdf",
+    "title": "Brazil electoral court fines Meta, sees no deliberate election bias"
+   }
+  ],
+  "published": "2026-11-11T16:08:22+00:00",
+  "added": "2026-11-11T23:13:29.801392+00:00",
+  "hidden": false,
+  "image": "data/img/195b86b2e565.jpg"
  },
  {
   "id": "6f861898eee6",
