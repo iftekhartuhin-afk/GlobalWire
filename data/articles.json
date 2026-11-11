@@ -1,5 +1,252 @@
 [
  {
+  "id": "889e8bb18277",
+  "headline": "AI-driven production cuts raise concerns over job losses and market demand",
+  "summary": "Mass layoffs from AI and robots leave millions without income to buy the goods produced.",
+  "body": [
+   "Production continues and markets are stocked with goods, according to Prothom Alo. However, the surge in output has not translated into sales.",
+   "Millions of workers displaced by AI and robots now lack the money to purchase those products, creating a mismatch between supply and demand and prompting questions about economic resilience."
+  ],
+  "headline_bn": "এআই চালিত উৎপাদন ছাঁটাই ও চাকরি হারানোর ফলে বাজারে চাহিদা হ্রাস",
+  "summary_bn": "এআই ও রোবটের কারণে লাখ লাখ মানুষ চাকরি হারিয়ে, উৎপাদিত পণ্য কেনার ক্ষমতা হারিয়েছেন।",
+  "body_bn": [
+   "প্রোথোম আলোর মতে উৎপাদন অব্যাহত রয়েছে এবং বাজারে পণ্য ভরে গেছে। তবে, এই অতিরিক্ত সরবরাহ বিক্রয়ে রূপান্তরিত হয়নি।",
+   "এআই ও রোবটের ফলে চাকরি হারানো লক্ষ লক্ষ মানুষ এখন পণ্য কেনার আর্থিক সক্ষমতা হারিয়েছেন, যা সরবরাহ ও চাহিদার মধ্যে বৈসাম্যহীনতা তৈরি করে এবং অর্থনৈতিক স্থিতিশীলতার প্রশ্ন উত্থাপন করে।"
+  ],
+  "image_prompt": "illustration of a factory with robots and empty consumer shelves, symbolizing overproduction and unemployment",
+  "category": "Business",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/opinion/column/m7ya6zm9o3",
+  "source_title": "এআই দিয়ে উৎপাদনের ছাঁটাই–ধাক্কা মোকাবিলায় আমরা কি প্রস্তুত?",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/opinion/column/m7ya6zm9o3",
+    "title": "এআই দিয়ে উৎপাদনের ছাঁটাই–ধাক্কা মোকাবিলায় আমরা কি প্রস্তুত?"
+   }
+  ],
+  "published": "2026-11-11T08:32:10+00:00",
+  "added": "2026-11-11T08:36:32.878809+00:00",
+  "hidden": false,
+  "image": "data/img/889e8bb18277.jpg"
+ },
+ {
+  "id": "2b4999a5f377",
+  "headline": "Spain's General Strike Highlights Housing Crisis Ahead of Snap Election",
+  "summary": "Millions of workers strike across Spain demanding housing reforms as a snap election looms.",
+  "body": [
+   "On Wednesday, for the first time in 14 years, millions of Spanish workers took part in a nationwide general strike. The protest targets the country's severe housing shortage and the rising cost of living, according to France 24.",
+   "The strike is expected to disrupt public transport and force many businesses to close, occurring less than three weeks before a snap election that could see the far right gain power.",
+   "With the election imminent, the strike adds pressure on political parties to address the housing emergency before voters head to the polls."
+  ],
+  "headline_bn": "স্পেনের সাধারণ ধর্মঘট বাড়ি সংকটকে তুলে ধরেছে, দ্রুত আসন্ন নির্বাচনের আগে",
+  "summary_bn": "মিলিয়ন কর্মী স্পেন জুড়ে ধর্মঘট করে, বাসস্থানের সংস্কার দাবি করে, যখন দ্রুত নির্বাচনের সময়সীমা নিকটবর্তী।",
+  "body_bn": [
+   "বুধবার, ১৪ বছর পর প্রথমবার, মিলিয়ন স্প্যানিশ কর্মী দেশব্যাপী সাধারণ ধর্মঘটে অংশ নিলেন। এই প্রতিবাদ দেশের তীব্র বাসস্থান সংকট ও জীবনের ব্যয়বৃদ্ধি মোকাবেলা করার দাবি জানায়, ফ্রান্স ২৪ অনুযায়ী।",
+   "ধর্মঘটের ফলে পাবলিক পরিবহন ব্যাহত হওয়া এবং বহু ব্যবসা বন্ধ হওয়ার সম্ভাবনা রয়েছে, যা ত্রিশ দিনের কম সময়ে নির্ধারিত দ্রুত নির্বাচনের আগে ঘটছে, যা ডানপন্থী শক্তি ক্ষমতা অর্জন করতে পারে।",
+   "নির্বাচন নিকটবর্তী হওয়ায়, ধর্মঘট রাজনৈতিক দলগুলোর ওপর বাসস্থান জরুরি সমস্যার সমাধান করার চাপ বাড়িয়ে দিচ্ছে, যাতে ভোটাররা ভোট দিতে যাওয়ার আগে সমাধান পাওয়া যায়।"
+  ],
+  "image_prompt": "illustration of a large crowd of protestors holding signs about housing, with city skyline and empty public transport vehicles",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections",
+  "source_title": "Spain’s general strike puts housing crisis at centre of upcoming elections",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections",
+    "title": "Spain’s general strike puts housing crisis at centre of upcoming elections"
+   }
+  ],
+  "published": "2026-11-11T08:29:33+00:00",
+  "added": "2026-11-11T08:36:42.474335+00:00",
+  "hidden": false
+ },
+ {
+  "id": "f45703afa225",
+  "headline": "Iran Rejects US Negotiations, Vows Hormuz Closure Until Demands Met",
+  "summary": "Iran says the Strait of Hormuz will remain closed until its conditions are satisfied, denying any US talks.",
+  "body": [
+   "Iran's officials have denied any ongoing negotiations with the United States, stating that the Strait of Hormuz will stay shut until Tehran's demands are fulfilled, according to Al Jazeera English.",
+   "The Islamic Revolutionary Guard Corps reported that at least three vessels struck mines and caught fire in the Hormuz Strait, underscoring the heightened tension in the waterway.",
+   "Senior commander Mohsen Rezaei emphasized that the closure will continue until the United States meets the conditions set by Tehran, reinforcing the statement that no dialogue is taking place."
+  ],
+  "headline_bn": "ইরান যুক্তরাষ্ট্রের আলোচনাকে অস্বীকার, হরমুজ বন্ধ থাকবে শর্ত পূরণ না হওয়া পর্যন্ত",
+  "summary_bn": "ইরান দাবি করেছে হরমুজ প্রণালী বন্ধ থাকবে যতক্ষণ না তার শর্ত পূরণ হয়, এবং কোনো যুক্তরাষ্ট্রের আলোচনার স্বীকৃতি দেয়নি।",
+  "body_bn": [
+   "ইরানের কর্মকর্তারা যুক্তরাষ্ট্রের সঙ্গে কোনো চলমান আলোচনার অস্বীকার করেছেন এবং জানিয়েছেন হরমুজ প্রণালী তার শর্ত পূরণ না হওয়া পর্যন্ত বন্ধ থাকবে, আল জাজিরা ইংরেজি রিপোর্ট করেছে।",
+   "ইসলামিক রেভলিউশনারি গার্ড কর্পস জানিয়েছে যে হরমুজ প্রণালীর অন্তত তিনটি জাহাজ মাইন ধাক্কা খেয়ে আগুনে পুড়ে গেছে, যা অঞ্চলের উত্তেজনা বাড়িয়ে তুলেছে।",
+   "বড় কমান্ডার মোহসেন রেজাই তার মন্তব্যে জোর দিয়ে বলেছেন যে যুক্তরাষ্ট্র শর্ত পূরণ না করা পর্যন্ত বন্ধ থাকা অব্যাহত থাকবে এবং কোনো সংলাপ চলছে না।"
+  ],
+  "image_prompt": "illustration of naval mines and burning ships in a narrow strait, with smoke and water, no people or flags",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss",
+  "source_title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss",
+    "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met"
+   }
+  ],
+  "published": "2026-11-11T08:21:56+00:00",
+  "added": "2026-11-11T08:36:51.158521+00:00",
+  "hidden": false
+ },
+ {
+  "id": "75d0bd68fbbe",
+  "headline": "Rajib and Sonia married in February 1968, welcomed son in January 1969",
+  "summary": "The couple tied the knot on 25 February 1968 and their first child was born on 18 January 1969.",
+  "body": [
+   "According to Prothom Alo, Rajib and Sonia were married on 25 February 1968.",
+   "The following year, on 18 January 1969, the couple welcomed their first son."
+  ],
+  "headline_bn": "রাজীব ও সোনিয়া ১৯৬৮ সালের ফেব্রুয়ারি মাসে বিবাহিত, ১৯৬৯ সালে পুত্রের জন্ম",
+  "summary_bn": "দম্পতি ২৫ ফেব্রুয়ারি ১৯৬৮-এ বিয়ে করেন এবং প্রথম সন্তান ১৮ জানুয়ারি ১৯৬৯-এ জন্ম নেয়।",
+  "body_bn": [
+   "প্রথমে, প্রথাম আলোর প্রতিবেদনের মতে, রাজীব ও সোনিয়ার বিবাহ ২৫ ফেব্রুয়ারি ১৯৬৮-এ অনুষ্ঠিত হয়।",
+   "পরবর্তী বছর, ১৮ জানুয়ারি ১৯৬৯-এ, দম্পতি তাদের প্রথম পুত্র সন্তানকে স্বাগত জানায়।"
+  ],
+  "image_prompt": "Illustration of a 1960s wedding ceremony and a newborn baby in a simple household setting",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/india/zv8pe2zx25",
+  "source_title": "জন্মের এক দিন পরই প্রথম সন্তানের মৃত্যু, সেই শোক কতটা ভুগিয়েছিল সোনিয়াকে",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/india/zv8pe2zx25",
+    "title": "জন্মের এক দিন পরই প্রথম সন্তানের মৃত্যু, সেই শোক কতটা ভুগিয়েছিল সোনিয়াকে"
+   }
+  ],
+  "published": "2026-11-11T08:04:44+00:00",
+  "added": "2026-11-11T08:36:58.621475+00:00",
+  "hidden": false
+ },
+ {
+  "id": "6b1635f0c9cf",
+  "headline": "Former ‘Nagnokonna’ Star Demy Becomes Owner of 2.5 Trillion Taka, Gains Award Nomination and Time Influence Listing",
+  "summary": "The 1990s actress saw her career revive, earning a major award nomination and a spot on Time’s influential list while amassing 2.5 trillion taka.",
+  "body": [
+   "Prothom Alo reported that the actress known for the film “Nagnokonna” has become the owner of assets worth approximately 2.5 trillion Bangladeshi taka. Her career, which began in the 1990s, had been approaching its end when it experienced a sharp resurgence.",
+   "The star recently received a nomination for a major award and was included in Time magazine’s list of influential personalities, according to the same source.",
+   "The financial milestone and renewed public profile underscore the actress’s significant comeback in the entertainment industry."
+  ],
+  "headline_bn": "‘নগ্ন-কন্যা’র প্রাক্তন নায়িকা ডেমি, ২.৫ হাজার কোটি টাকার মালিক, পুরস্কার মনোনয়ন ও টাইমের প্রভাবশালী তালিকায়",
+  "summary_bn": "১৯৯০-এর দশকে ক্যারিয়ার শুরু করা অভিনেত্রী, শেষের দিকে উল্টে দাঁড়িয়ে ২.৫ হাজার কোটি টাকার সম্পদ, পুরস্কার মনোনয়ন ও টাইমের তালিকায় অন্তর্ভুক্তি পেয়েছেন।",
+  "body_bn": [
+   "প্রথম আলো জানিয়েছে, ‘নগ্ন-কন্যা’ ছবিতে অভিনয় করা ডেমি বর্তমানে প্রায় ২.৫ হাজার কোটি টাকার সম্পদ অর্জন করেছেন। তার ক্যারিয়ার ১৯৯০-এর দশকে শুরু হলেও, শেষের দিকে এসে তা তীব্রভাবে উল্টে দাঁড়িয়েছে।",
+   "অভিনেত্রী সম্প্রতি একটি প্রধান পুরস্কারের জন্য মনোনয়ন পেয়েছেন এবং টাইম ম্যাগাজিনের প্রভাবশালী ব্যক্তিত্বের তালিকায় অন্তর্ভুক্ত হয়েছেন, একই সূত্রে উল্লেখ করা হয়েছে।",
+   "এই আর্থিক অর্জন এবং পুনরুজ্জীবিত জনসচেতনতা তার বিনোদন জগতে ফিরে আসার গুরুত্বকে তুলে ধরে।"
+  ],
+  "image_prompt": "illustration of a glamorous actress on a stage with sparkling lights and a large sum of money symbols",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/entertainment/hollywood/tdkh094g8q",
+  "source_title": "‘নগ্ন-কন্যা’ থেকে সেরা সুন্দরী, ডেমি এখন আড়াই হাজার কোটি টাকার মালিক",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/entertainment/hollywood/tdkh094g8q",
+    "title": "‘নগ্ন-কন্যা’ থেকে সেরা সুন্দরী, ডেমি এখন আড়াই হাজার কোটি টাকার মালিক"
+   }
+  ],
+  "published": "2026-11-11T08:00:00+00:00",
+  "added": "2026-11-11T08:37:08.243765+00:00",
+  "hidden": false
+ },
+ {
+  "id": "a73fe525f472",
+  "headline": "Bangladesh Bank offers up to 90‑day credit for imports of key food items",
+  "summary": "Importers of palm oil, sugar, chickpeas, spices, dates and peas can defer payment up to 90 days to curb price hikes.",
+  "body": [
+   "Bangladesh Bank announced a credit facility that lets importers postpone payment for up to 90 days on selected commodities. The move is intended to help contain rising consumer prices.",
+   "The scheme covers eleven products, among them palm oil, sugar, chickpeas, spices, dates and peas, giving traders additional cash‑flow flexibility while aiming to curb inflation."
+  ],
+  "headline_bn": "বাংলাদেশ ব্যাংক দিল ৯০ দিনের ঋণসুবিধা ১১টি পণ্যের আমদানির জন্য",
+  "summary_bn": "পাম তেল, চিনি, ছোলা, মসলা, খেজুর ও মটরশুঁটির আমদানিকর্তারা এখন ৯০ দিন পর্যন্ত বিলম্বে অর্থ পরিশোধ করতে পারবেন, মূল্যবৃদ্ধি রোধে",
+  "body_bn": [
+   "বাংলাদেশ ব্যাংক একটি ঋণসুবিধা ঘোষণা করেছে, যার মাধ্যমে আমদানিকর্তারা নির্বাচিত পণ্যের জন্য সর্বোচ্চ ৯০ দিন পর্যন্ত অর্থ পরিশোধ বিলম্ব করতে পারবেন। এই পদক্ষেপের লক্ষ্য ভোক্তা মূল্যের দ্রুত বৃদ্ধি রোধ করা।",
+   "এই স্কিমে মোট এগারোটি পণ্য অন্তর্ভুক্ত, যার মধ্যে পাম তেল, চিনি, ছোলা, মসলা, খেজুর এবং মটরশুঁটি রয়েছে, যা বাণিজ্যিক নগদ প্রবাহে স্বস্তি এনে মুদ্রাস্ফীতি কমাতে সহায়তা করবে।"
+  ],
+  "image_prompt": "illustration of cargo ships unloading food commodities with a calendar showing a 90‑day credit period",
+  "category": "Business",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/business/bank/6zf0oaedhy",
+  "source_title": "রোজায় মূল্যবৃদ্ধি ঠেকাতে ১১ পণ্য আমদানিতে ৯০ দিনের ঋণসুবিধা দিল বাংলাদেশ ব্যাংক",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/business/bank/6zf0oaedhy",
+    "title": "রোজায় মূল্যবৃদ্ধি ঠেকাতে ১১ পণ্য আমদানিতে ৯০ দিনের ঋণসুবিধা দিল বাংলাদেশ ব্যাংক"
+   }
+  ],
+  "published": "2026-11-11T07:57:50+00:00",
+  "added": "2026-11-11T08:37:15.785015+00:00",
+  "hidden": false
+ },
+ {
+  "id": "6f9316b1fd83",
+  "headline": "Fireworks Set Off Inside French School Prompt Evacuation",
+  "summary": "Students and staff fled a corridor after fireworks were ignited inside a French school, according to Al Jazeera English.",
+  "body": [
+   "A video released by Al Jazeera English shows students and school staff rushing for safety when fireworks were set off along a corridor in a French school. The sudden ignition caused an immediate evacuation of the area as people sought to distance themselves from the danger.",
+   "The footage captures the moment of the run, but provides no further details about injuries or the cause of the incident. Authorities have not yet released additional information."
+  ],
+  "headline_bn": "ফরাসি স্কুলে আতশবাজি ফোটা, শিক্ষার্থীরা তৎক্ষণাৎ পলায়ন",
+  "summary_bn": "আল জাজিরা ইংলিশের রিপোর্টে বলা হয়েছে, আতশবাজি ফোটা ফলে শিক্ষার্থী ও কর্মীরা করিডোরে তৎক্ষণাৎ নিরাপত্তার জন্য দৌড়ে বেরিয়ে যায়।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশ প্রকাশিত একটি ভিডিওতে দেখা যায়, ফ্রান্সের একটি স্কুলের করিডোরে আতশবাজি ফোটা সঙ্গে সঙ্গে শিক্ষার্থী ও কর্মীরা নিরাপত্তার জন্য দৌড়ে বেরিয়ে আসে।",
+   "ভিডিওতে পলায়নের মুহূর্তটি ধরা পড়েছে, তবে কোনো আঘাত বা ঘটনার কারণ সম্পর্কে অতিরিক্ত তথ্য দেওয়া হয়নি।"
+  ],
+  "image_prompt": "illustration of a school hallway with fireworks sparking, students and teachers running, generic, no faces, flags, logos",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/students-run-for-safety-after-fireworks-set-off-inside-french-school?traffic_source=rss",
+  "source_title": "Students run for safety after fireworks set off inside French school",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/students-run-for-safety-after-fireworks-set-off-inside-french-school?traffic_source=rss",
+    "title": "Students run for safety after fireworks set off inside French school"
+   }
+  ],
+  "published": "2026-11-11T07:55:55+00:00",
+  "added": "2026-11-11T08:37:23.977768+00:00",
+  "hidden": false
+ },
+ {
+  "id": "66c4e76b42d8",
+  "headline": "15 charged in assault on NCP student leader Hasib Al Islam in Moulvibazar",
+  "summary": "Prothom Alo reports a case has been filed against fifteen individuals, including a former banned Chhatra League leader, for attacking the Dhaka University branch president of National Student Power.",
+  "body": [
+   "According to Prothom Alo, an assault was carried out on Hasib Al Islam, the president of the Dhaka University branch of the National Student Power, a student organization of the Nationalist Citizens Party, in Shrimangal, Moulvibazar.",
+   "A legal case has been lodged against fifteen suspects, among them a former leader of the banned Chhatra League, in connection with the incident."
+  ],
+  "headline_bn": "মৌলভীবাজারে ছাত্রশক্তির হাসিব আল ইসলামের ওপর হামলার জন্য ১৫ জনের বিরুদ্ধে মামলা",
+  "summary_bn": "প্রথম আলো অনুযায়ী, নিষিদ্ধ ছাত্রলীগের প্রাক্তন নেতাসহ ১৫ জনের বিরুদ্ধে শ্রীমঙ্গলে ছাত্রশক্তির ঢাকা বিশ্ববিদ্যালয় শাখার সভাপতি হাসিব আল ইসলামের ওপর হামলার মামলা দায়ের হয়েছে।",
+  "body_bn": [
+   "প্রথম আলো জানায়, মৌলভীবাজারের শ্রীমঙ্গলে জাতীয় নাগরিক পার্টির ছাত্রসংগঠন জাতীয় ছাত্রশক্তির ঢাকা বিশ্ববিদ্যালয় শাখার সভাপতি হাসিব আল ইসলামের ওপর হামলা ঘটেছে।",
+   "এই ঘটনার সঙ্গে সম্পর্কিত ১৫ জনের বিরুদ্ধে মামলা দায়ের করা হয়েছে, যার মধ্যে নিষিদ্ধ ছাত্রলীগের একজন প্রাক্তন নেতা অন্তর্ভুক্ত।"
+  ],
+  "image_prompt": "Illustration of a courtroom scene with documents and silhouettes representing a legal case about a student leader attack",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/dh4u6jwhaz",
+  "source_title": "ছাত্রশক্তির হাসিবের ওপর হামলা: নিষিদ্ধ ছাত্রলীগের সাবেক নেতাসহ ১৫ জনের বিরুদ্ধে মামলা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/dh4u6jwhaz",
+    "title": "ছাত্রশক্তির হাসিবের ওপর হামলা: নিষিদ্ধ ছাত্রলীগের সাবেক নেতাসহ ১৫ জনের বিরুদ্ধে মামলা"
+   }
+  ],
+  "published": "2026-11-11T07:46:52+00:00",
+  "added": "2026-11-11T08:37:32.404475+00:00",
+  "hidden": false
+ },
+ {
   "id": "0e67340da37a",
   "headline": "Two Bluefin Tuna Caught Off Whitby Mark First North Sea Harvest in Six Decades",
   "summary": "In mid‑August, two bluefin tuna were hauled near Whitby, the first North Sea catch for market in 60 years, reports Prothom Alo.",
