@@ -1,13 +1,13 @@
 {
- "last_run": "2026-11-11T08:36:17.098627+00:00",
+ "last_run": "2026-11-11T16:44:43.216753+00:00",
  "sources": {
   "UN News": {
-   "ok": false,
-   "error": "not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "items": 30
   },
   "DW": {
    "ok": true,
-   "items": 123
+   "items": 125
   },
   "France 24": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Prothom Alo": {
    "ok": true,
-   "items": 72
+   "items": 85
   }
  },
  "added": 8,
