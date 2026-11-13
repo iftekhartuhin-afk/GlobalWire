@@ -1,5 +1,246 @@
 [
  {
+  "id": "5f7df267401f",
+  "headline": "Friday’s Cultural Line‑up in the Capital Features Drama, Music and Stand‑up Comedy",
+  "summary": "Prothom Alo reports a variety of performances in the capital on Friday, highlighted by stand‑up comedy.",
+  "body": [
+   "According to Prothom Alo, the capital hosts a range of cultural events on Friday, including theatrical productions and musical performances. The schedule reflects a lively weekend program aimed at offering entertainment options for residents and visitors alike.",
+   "The week’s standout attraction is a stand‑up comedy show, positioned as the special highlight among the diverse offerings scheduled for the day."
+  ],
+  "headline_bn": "শুক্রবার রাজধানীতে নাটক, গান ও স্ট্যান্ড‑আপ কমেডি",
+  "summary_bn": "প্রথম আলো অনুযায়ী, রাজধানীতে শুক্রবার নানা অনুষ্ঠান, বিশেষ আকর্ষণ স্ট্যান্ড‑আপ কমেডি।",
+  "body_bn": [
+   "প্রথম আলোর মতে, রাজধানীতে শুক্রবার নাটক ও গানের মতো বিভিন্ন সাংস্কৃতিক অনুষ্ঠান অনুষ্ঠিত হচ্ছে। এই অনুষ্ঠানগুলো শহরের বাসিন্দা ও দর্শকদের জন্য একটি প্রাণবন্ত সপ্তাহান্তের পরিবেশ তৈরি করছে।",
+   "সপ্তাহের বিশেষ আকর্ষণ হিসেবে স্ট্যান্ড‑আপ কমেডি শোটি উল্লেখ করা হয়েছে, যা অন্যান্য অনুষ্ঠানের মধ্যে প্রধান হাইলাইট হিসেবে উপস্থাপিত হয়েছে।"
+  ],
+  "image_prompt": "Illustration of a city square stage with microphones, musical instruments and a comedy spotlight, showing diverse cultural performances",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/entertainment/mrochsq4jg",
+  "source_title": "ছুটির দিনে রাজধানীতে কী দেখবেন",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/entertainment/mrochsq4jg",
+    "title": "ছুটির দিনে রাজধানীতে কী দেখবেন"
+   }
+  ],
+  "published": "2026-11-13T01:00:00+00:00",
+  "added": "2026-11-13T01:15:49.113050+00:00",
+  "hidden": false,
+  "image": "data/img/5f7df267401f.jpg"
+ },
+ {
+  "id": "fa38c0f743a3",
+  "headline": "Humayun Ahmed's childhood travels linked to father's job",
+  "summary": "Prothom Alo reports that Foyzur Rahman's job as a baddali caused Humayun Ahmed's family to move frequently during his youth.",
+  "body": [
+   "According to Prothom Alo, Humayun Ahmed’s early years were marked by frequent relocations because his father, Foyzur Rahman, worked as a baddali. The nature of the job required the family to shift from one place to another, shaping Ahmed’s childhood environment.",
+   "The writer’s autobiographical works later reflect these itinerant experiences, with scattered recollections of the moves appearing throughout his memoirs."
+  ],
+  "headline_bn": "হুমায়ূন আহমেদের শৈশবের ঘুরে বেড়ানো, বাবার চাকরির প্রভাব",
+  "summary_bn": "প্রথম আলো জানায়, ফয়জুর রহমানের বদলি চাকরি হুমায়ূন আহমেদের পরিবারকে শৈশবে ঘুরে বেড়াতে বাধ্য করে।",
+  "body_bn": [
+   "প্রথম আলো অনুসারে, হুমায়ূন আহমেদের শৈশব তার বাবার বদলি কাজের কারণে ধারাবাহিক স্থানান্তরের সঙ্গে যুক্ত ছিল। এই কাজের স্বভাবের ফলে পরিবারটি এক স্থান থেকে অন্য স্থানে ঘুরে বেড়াতো, যা তার প্রারম্ভিক জীবনে প্রভাব ফেলেছিল।",
+   "লেখকের আত্মজীবনীমূলক বইগুলোতে এই ঘুরে বেড়ানোর স্মৃতিগুলো ছড়িয়ে ছিটিয়ে দেখা যায়, যা তার জীবনের এই দিককে তুলে ধরে।"
+  ],
+  "image_prompt": "illustration of a child traveling with a family in a rural setting, a driver with a vehicle, scattered books nearby, no faces or logos",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.kishoralo.com/feature/97nr6u7pys",
+  "source_title": "বাবার সঙ্গে হুমায়ূন আহমেদের স্মৃতি",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.kishoralo.com/feature/97nr6u7pys",
+    "title": "বাবার সঙ্গে হুমায়ূন আহমেদের স্মৃতি"
+   }
+  ],
+  "published": "2026-11-13T01:00:00+00:00",
+  "added": "2026-11-13T01:15:56.400053+00:00",
+  "hidden": false
+ },
+ {
+  "id": "e2b3a60d14a6",
+  "headline": "New York judge rejects FIFA's bid to block UEFA evidence collection",
+  "summary": "A New York judge dismissed FIFA's attempt to shield its president as UEFA seeks evidence of wrongdoing, DW reports.",
+  "body": [
+   "A federal judge in New York has dismissed FIFA's effort to prevent UEFA from gathering evidence related to its president, Gianni Infantino. The ruling removes a legal obstacle that FIFA had raised to shield the official from investigation.",
+   "UEFA is pursuing the evidence collection as part of its inquiry into possible misconduct by Infantino. The decision, reported by DW, underscores the court's stance on allowing the investigation to proceed.",
+   "The dismissal means UEFA can continue its evidence‑gathering efforts without FIFA's legal interference, potentially advancing the probe into Infantino's actions."
+  ],
+  "headline_bn": "নিউ ইয়র্কের বিচারক ইউইফা-র প্রমাণ সংগ্রহে ফিফার বাধা প্রত্যাখ্যান",
+  "summary_bn": "ডব্লিউ অনুযায়ী, নিউ ইয়র্কের বিচারক ফিফার আইনের চ্যালেঞ্জ বাতিল করে ইউইফা-কে ইন্টারফ্যান্টো সম্পর্কিত প্রমাণ সংগ্রহে অনুমতি দিয়েছেন।",
+  "body_bn": [
+   "নিউ ইয়র্কের একটি ফেডারেল বিচারক ফিফার প্রচেষ্টা বাতিল করেছেন, যাতে ইউইফা গিয়ানি ইন্টারফ্যান্টো-র বিরুদ্ধে প্রমাণ সংগ্রহ করতে না পারে। এই রায় ফিফার আইনি বাধা সরিয়ে দেয়, যা প্রেসিডেন্টকে তদন্ত থেকে রক্ষা করতে চেয়েছিল।",
+   "ইউইফা ইন্টারফ্যান্টো-র সম্ভাব্য দোষারোপের তদন্তের অংশ হিসেবে প্রমাণ সংগ্রহ চালিয়ে যাচ্ছে। ডব্লিউ রিপোর্ট করেছে যে, আদালত এই তদন্তকে বাধা না দিয়ে এগিয়ে যাওয়ার অনুমতি দিয়েছে।",
+   "এই রায়ের ফলে ইউইফা ফিফার আইনি হস্তক্ষেপ ছাড়াই তার প্রমাণ সংগ্রহ চালিয়ে যেতে পারবে, যা ইন্টারফ্যান্টো-র কর্মকাণ্ডের উপর আরও স্পষ্টতা আনতে পারে।"
+  ],
+  "image_prompt": "Illustration of a courtroom with soccer symbols and legal documents, no faces or logos",
+  "category": "Sports",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/fifa-loses-bid-to-block-uefa-evidence-gathering-against-infantino/a-79935807?maca=en-rss-en-all-1573-rdf",
+  "source_title": "FIFA loses bid to block UEFA evidence gathering against Infantino",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/fifa-loses-bid-to-block-uefa-evidence-gathering-against-infantino/a-79935807?maca=en-rss-en-all-1573-rdf",
+    "title": "FIFA loses bid to block UEFA evidence gathering against Infantino"
+   }
+  ],
+  "published": "2026-11-13T00:02:00+00:00",
+  "added": "2026-11-13T01:16:05.854545+00:00",
+  "hidden": false
+ },
+ {
+  "id": "5d21b1e6d150",
+  "headline": "Trump says Gulf allies urged pause in Iran strikes",
+  "summary": "At the White House, Trump said Gulf countries asked him to hold off further attacks on Iran, Al Jazeera reports.",
+  "body": [
+   "Speaking at the White House, President Donald Trump told reporters that Gulf nations had requested a pause in any additional strikes against Iran. The comment was reported by Al Jazeera English."
+  ],
+  "headline_bn": "ট্রাম্প বলেছেন গাল্ফ দেশগুলো ইরানের আক্রমণ থামাতে বলেছে",
+  "summary_bn": "হোয়াইট হাউসে ট্রাম্প গাল্ফ দেশগুলোর ইরানের অতিরিক্ত আক্রমণ বন্ধের অনুরোধ উল্লেখ করেছেন, আল জাজিরা জানায়।",
+  "body_bn": [
+   "হোয়াইট হাউসে কথা বলার সময় প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানান গাল্ফ দেশগুলো ইরানের বিরুদ্ধে আরও কোনো আক্রমণ না করার জন্য বিরতি চাইছিল। আল জাজিরা ইংলিশ এই তথ্য প্রকাশ করেছে।"
+  ],
+  "image_prompt": "illustration of diplomatic discussion in a conference room with maps and documents, no faces",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+  "source_title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+    "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes"
+   }
+  ],
+  "published": "2026-11-13T00:00:26+00:00",
+  "added": "2026-11-13T01:16:12.780178+00:00",
+  "hidden": false
+ },
+ {
+  "id": "d2e11db3e954",
+  "headline": "Houthis resume drone attacks on Saudi Arabia as UN sanctions are extended",
+  "summary": "Saudi-led coalition says it shot down several suspected Houthi drones aimed at oil and military sites, while the UN Security Council prolongs sanctions on the group.",
+  "body": [
+   "According to Al Jazeera English, Yemen's Houthi movement has renewed strikes against Saudi Arabia, launching a flurry of drones that the Saudi-led coalition intercepted.",
+   "The drones were reported to target oil and military infrastructure, and the United Nations Security Council has extended sanctions on the Houthis."
+  ],
+  "headline_bn": "হৌতি গোষ্ঠী পুনরায় সৌদি আরবে ড্রোন আক্রমণ, ইউএন নিষেধাজ্ঞা বাড়াল",
+  "summary_bn": "সৌদি-নেতৃত্বাধীন জোট বলেছে, হৌতি ড্রোনগুলো তেল ও সামরিক স্থাপনা লক্ষ্য করেছিল; meanwhile, জাতিসংঘ নিরাপত্তা পরিষদ গোষ্ঠীর উপর নিষেধাজ্ঞা বাড়িয়েছে।",
+  "body_bn": [
+   "Al Jazeera English অনুযায়ী, ইয়েমেনের হৌতি গোষ্ঠী সৌদি আরবের বিরুদ্ধে নতুন আক্রমণ চালু করেছে, যেখানে জোটের বাহিনী সন্দেহজনক হৌতি ড্রোনের একাধিক পালা আটক করেছে।",
+   "ড্রোনগুলো তেল ও সামরিক অবকাঠামোকে লক্ষ্য করেছিল, এবং জাতিসংঘ নিরাপত্তা পরিষদ হৌতি গোষ্ঠীর উপর নিষেধাজ্ঞা বাড়িয়ে দিয়েছে।"
+  ],
+  "image_prompt": "Illustration of drones over oil and military facilities with interception icons, no people, flags, logos, or text",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+  "source_title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+    "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions"
+   }
+  ],
+  "published": "2026-11-12T23:52:38+00:00",
+  "added": "2026-11-13T01:16:21.467798+00:00",
+  "hidden": false
+ },
+ {
+  "id": "df8154f62aa5",
+  "headline": "Russian Court Sentences Rights Lawyer to 12 Years for Treason",
+  "summary": "A Russian court sentenced a rights lawyer to 12 years in prison on treason charges, alleging she passed security information to Ukraine.",
+  "body": [
+   "A Russian court has handed down a 12‑year prison term to a lawyer known for defending human‑rights cases, convicting her of treason. The judgment reflects the prosecution's claim that she transmitted security‑related details to Ukrainian authorities.",
+   "The defence argues that the information in question was not classified, contesting the treason allegation and maintaining that no secret material was shared."
+  ],
+  "headline_bn": "রাশিয়ার আদালত মানবাধিকার আইনজীবীকে ১২ বছর জেলদণ্ডে দণ্ডিত করেছে",
+  "summary_bn": "একজন রাশিয়ান মানবাধিকার আইনজীবীকে ত্রাসদোষে ১২ বছরের কারাদণ্ড দেওয়া হয়েছে, অভিযোগে তিনি ইউক্রেনে নিরাপত্তা তথ্য শেয়ার করেছেন।",
+  "body_bn": [
+   "রাশিয়ার আদালত মানবাধিকার মামলায় জড়িত এক আইনজীবীকে ত্রাসদোষে দোষী সাব্যস্ত করে ১২ বছরের কারাদণ্ড প্রদান করেছে। প্রসিকিউশন দাবি করে তিনি ইউক্রেনীয় কর্তৃপক্ষকে নিরাপত্তা সংক্রান্ত তথ্য পাঠিয়েছেন।",
+   "অভিযুক্তের আইনজীবীরা যুক্তি দেন যে উক্ত তথ্য গোপনীয় নয় এবং ত্রাসের অভিযোগ ভিত্তিহীন, কারণ কোনো গোপন তথ্য শেয়ার করা হয়নি।"
+  ],
+  "image_prompt": "illustration of a courtroom with a judge's bench, legal documents and a gavel, no faces or logos",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+  "source_title": "Russian court jails rights lawyer for 12 years on treason charge",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+    "title": "Russian court jails rights lawyer for 12 years on treason charge"
+   }
+  ],
+  "published": "2026-11-12T23:18:50+00:00",
+  "added": "2026-11-13T01:16:29.134146+00:00",
+  "hidden": false
+ },
+ {
+  "id": "710214022f76",
+  "headline": "Eight dead, including two children, after Brooklyn building collapse",
+  "summary": "A residential building in Brooklyn collapsed into a nearby construction site, killing eight people, including two children, as firefighters ended the search on Thursday, authorities investigate.",
+  "body": [
+   "A residential building in Brooklyn collapsed into an adjacent construction site on Wednesday, killing eight people, including two children, according to France 24. The sudden failure sent debris onto the neighboring site, prompting an immediate emergency response. Rescue teams faced unstable conditions as they cleared the site.",
+   "Firefighters worked through the night searching the rubble and declared the operation concluded on Thursday. The search involved hours of careful excavation, but no additional survivors were found. Authorities have opened an investigation into the cause of the collapse."
+  ],
+  "headline_bn": "ব্রুকলিনে ভবন ধসে আটজন নিহত, দুই শিশু সহ",
+  "summary_bn": "ব্রুকলিনের একটি আবাসিক ভবন পার্শ্ববর্তী নির্মাণ সাইটে ধসে আটজন নিহত, দুই শিশুও অন্তর্ভুক্ত, অগ্নিনির্বাপকরা সন্ধ্যা শেষ করে তদন্ত শুরু।",
+  "body_bn": [
+   "ব্রুকলিনে একটি আবাসিক ভবন বুধবার পার্শ্ববর্তী নির্মাণ সাইটে ধসে আটজন নিহত হয়েছেন, যার মধ্যে দুই শিশুও অন্তর্ভুক্ত, ফ্রান্স ২৪ অনুযায়ী। হঠাৎ ধসের ফলে ধ্বংসাবশেষ পাশের সাইটে পড়ে তৎক্ষণাৎ জরুরি সাড়া দেওয়া হয়। উদ্ধার দলগুলো সাইট পরিষ্কারে অস্থিতিশীল পরিস্থিতির মুখোমুখি হয়।",
+   "অগ্নিনির্বাপকরা রাতভর ধ্বংসাবশেষের মধ্যে অনুসন্ধান চালিয়ে বৃহস্পতিবার অপারেশন শেষ ঘোষণা করেন। অনুসন্ধানে সতর্কভাবে বহু ঘণ্টা খনন করা হয়, তবে অতিরিক্ত কোনো বেঁচে থাকা পাওয়া যায়নি। কর্তৃপক্ষ ধসের কারণ তদন্তের জন্য তদন্ত শুরু করেছে।"
+  ],
+  "image_prompt": "Illustration of a collapsed residential building beside a construction site with emergency workers and rubble",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/americas/20261112-eight-killed-including-two-children-in-new-york-building-collapse",
+  "source_title": "Eight killed, including two children, in New York building collapse",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20261112-eight-killed-including-two-children-in-new-york-building-collapse",
+    "title": "Eight killed, including two children, in New York building collapse"
+   }
+  ],
+  "published": "2026-11-12T22:58:23+00:00",
+  "added": "2026-11-13T01:16:38.455156+00:00",
+  "hidden": false
+ },
+ {
+  "id": "086093dcba5c",
+  "headline": "Russia employs illegal tactics in hybrid warfare, Europe unlikely to mirror, says expert",
+  "summary": "France 24 reports an expert warning that Russia’s use of illegal and unethical methods in hybrid warfare aims to boost its power while Europe refrains from similar tactics.",
+  "body": [
+   "Concerns are growing across Europe that recent hoax threats and cyber attacks may be part of a broader hybrid warfare campaign. France 24’s Sharon Gaffney interviewed Elisabeth Braw, a senior fellow with the Atlantic Council’s Transatlantic Security Initiative, about these developments.",
+   "Braw said Russia’s objective is to increase its power at the expense of European countries, and the easiest way to do so is to wage a continuous “dirty war” using illegal and unethical means, because Russia knows Europe will not respond with the same tactics."
+  ],
+  "headline_bn": "রাশিয়া অবৈধ পদ্ধতিতে হাইব্রিড যুদ্ধ চালাচ্ছে, ইউরোপ একই পথে যাবে না, বিশেষজ্ঞের মন্তব্য",
+  "summary_bn": "ফ্রান্স ২৪ রিপোর্ট করেছে, এক বিশেষজ্ঞের মতে রাশিয়া অবৈধ ও অনৈতিক পদ্ধতিতে হাইব্রিড যুদ্ধ চালিয়ে ইউরোপের শক্তি বৃদ্ধি করছে, তবে ইউরোপ একই পদ্ধতি ব্যবহার করবে না।",
+  "body_bn": [
+   "ইউরোপ জুড়ে সাম্প্রতিক হোয়াক হুমকি এবং সাইবার আক্রমণকে বৃহত্তর হাইব্রিড যুদ্ধের অংশ হিসেবে দেখা নিয়ে উদ্বেগ বাড়ছে। ফ্রান্স ২৪‑এর শারন গ্যাফনি এটলান্টিক কাউন্সিলের ট্রান্সঅ্যাটলান্টিক সিকিউরিটি ইনিশিয়েটিভের সিনিয়র ফেলো এলিজাবেথ ব্রাউকে সাক্ষাৎকার নিয়েছেন।",
+   "ব্রাউ বলেন রাশিয়ার লক্ষ্য ইউরোপীয় দেশগুলোর ক্ষতির মাধ্যমে তার শক্তি বৃদ্ধি করা, এবং এর সর্বোচ্চ উপায় হল অবৈধ ও অনৈতিক পদ্ধতিতে ধারাবাহিক “ময়লা যুদ্ধ” চালানো, কারণ রাশিয়া জানে ইউরোপ একই পদ্ধতি ব্যবহার করবে না।"
+  ],
+  "image_prompt": "A stylized map of Europe with digital network lines and abstract symbols of cyber attacks, representing hybrid warfare, no faces or logos",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
+  "source_title": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
+    "title": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says"
+   }
+  ],
+  "published": "2026-11-12T22:19:34+00:00",
+  "added": "2026-11-13T01:16:46.850812+00:00",
+  "hidden": false
+ },
+ {
   "id": "cafcfcf76e17",
   "headline": "Israeli strike on Gaza's Nasser Hospital kills six, including surgeon",
   "summary": "Health officials say Israeli fire on Thursday killed 11 people in Gaza, with six fatalities in the Nasser Hospital bombing, the deadliest strike since last month's elections.",
