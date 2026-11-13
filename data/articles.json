@@ -1,5 +1,246 @@
 [
  {
+  "id": "ea191cc8732b",
+  "headline": "TFFF rainforest fund faces funding shortfall, threatens conservation goals",
+  "summary": "The TFFF fund, designed to make forest preservation more profitable than logging, may stall due to insufficient financing, according to DW.",
+  "body": [
+   "The TFFF rainforest fund was created to shift economic incentives toward protecting forests rather than clearing them. Its goal is to generate profits from conservation that exceed those from deforestation.",
+   "DW reports that the initiative is struggling to secure the capital needed to launch, and the lack of money could keep the project from taking off, jeopardizing its intended impact on forest protection."
+  ],
+  "headline_bn": "টিএফএফএফ রেইনফরেস্ট ফান্ডে তহবিলের ঘাটতি, সংরক্ষণ লক্ষ্য ঝুঁকিতে",
+  "summary_bn": "বনের সংরক্ষণকে কাঠ কাটার চেয়ে লাভজনক করতে চাওয়া টিএফএফএফ ফান্ড, তহবিলের অভাবে অগ্রসর হতে পারছে না, ডিডব্লিউ জানায়।",
+  "body_bn": [
+   "টিএফএফএফ রেইনফরেস্ট ফান্ডের লক্ষ্য হল বনের সংরক্ষণকে কাঠ কাটার চেয়ে বেশি লাভজনক করা, যাতে অর্থনৈতিক প্রণোদনা রক্ষা দিকের দিকে সরানো যায়।",
+   "ডিডব্লিউ অনুযায়ী, তহবিল সংগ্রহে সমস্যার কারণে ফান্ডটি এখনও চালু হতে পারেনি; আর্থিক ঘাটতি প্রকল্পের শুরুতে বাধা সৃষ্টি করে, যা বন সংরক্ষণের প্রত্যাশিত প্রভাবকে বিপন্ন করতে পারে।"
+  ],
+  "image_prompt": "illustration of a dense rainforest with trees and a financial chart overlay, symbolizing conservation funding",
+  "category": "Environment",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/is-the-tfff-rainforest-fund-failing-due-to-a-lack-of-money/a-79878673?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Is the TFFF rainforest fund failing due to a lack of money?",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/is-the-tfff-rainforest-fund-failing-due-to-a-lack-of-money/a-79878673?maca=en-rss-en-all-1573-rdf",
+    "title": "Is the TFFF rainforest fund failing due to a lack of money?"
+   }
+  ],
+  "published": "2026-11-13T08:12:00+00:00",
+  "added": "2026-11-13T08:16:34.003282+00:00",
+  "hidden": false,
+  "image": "data/img/ea191cc8732b.jpg"
+ },
+ {
+  "id": "15ca2a489eb0",
+  "headline": "US Senate asks Nvidia’s Jensen Huang and Commerce Secretary Lutnick to testify",
+  "summary": "Senate Banking Committee Chairman Tim Scott has summoned the two officials amid House Republican calls for closed-door interviews over national security concerns.",
+  "body": [
+   "The Senate Banking Committee, led by Chairman Tim Scott, has formally requested that former Nvidia chief Jensen Huang and Commerce Secretary Howard Lutnick appear before the committee. The move comes as House Republicans have pressed for closed‑door interviews, citing concerns that Nvidia’s technology may pose national‑security risks. According to DW, the request reflects growing scrutiny of the semiconductor firm’s role in U.S. defense and technology supply chains. Both officials are expected to provide testimony on the issues raised by lawmakers."
+  ],
+  "headline_bn": "মার্কিন সেনেট নভিডিয়ার জেনসেন হুয়াং ও বাণিজ্য সচিব লুটনিককে সাক্ষ্য দিতে আহ্বান করেছে",
+  "summary_bn": "সেনেট ব্যাংকিং কমিটি চেয়ারম্যান টিম স্কট হাউস রিপাবলিকানদের জাতীয় নিরাপত্তা উদ্বেগের মধ্যে বন্ধ দরজার সাক্ষাৎকারের দাবি সত্ত্বেও দুই কর্মকর্তাকে সমন্বিতভাবে ডেকেছেন।",
+  "body_bn": [
+   "সেনেট ব্যাংকিং কমিটির চেয়ারম্যান টিম স্কট নভিডিয়ার প্রাক্তন সিইও জেনসেন হুয়াং এবং বাণিজ্য সচিব হাওয়ার্ড লুটনিককে কমিটিতে সাক্ষ্য দিতে আনুষ্ঠানিকভাবে আহ্বান জানিয়েছেন। হাউস রিপাবলিকানরা নভিডিয়ার প্রযুক্তি জাতীয় নিরাপত্তা ঝুঁকি সৃষ্টি করতে পারে বলে বন্ধ দরজার সাক্ষাৎকারের দাবি তুলেছেন। DW অনুসারে, এই অনুরোধ সেমিকন্ডাক্টর কোম্পানির যুক্তরাষ্ট্রের প্রতিরক্ষা ও প্রযুক্তি সরবরাহ শৃঙ্খলে ভূমিকা নিয়ে বাড়তে থাকা তদারকি প্রতিফলিত করে। উভয় কর্মকর্তাকে আইনপ্রণেতাদের উত্থাপিত বিষয়গুলোর ওপর সাক্ষ্য দিতে আশা করা হচ্ছে।"
+  ],
+  "image_prompt": "Illustration of a U.S. Senate hearing room with microphones, documents, and a gavel, no faces or logos",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf",
+  "source_title": "US Senate asks Huang, Lutnick to testify on Nvidia",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf",
+    "title": "US Senate asks Huang, Lutnick to testify on Nvidia"
+   }
+  ],
+  "published": "2026-11-13T08:02:00+00:00",
+  "added": "2026-11-13T08:16:42.405523+00:00",
+  "hidden": false
+ },
+ {
+  "id": "80a074447dfd",
+  "headline": "Microsoft services face global outage, Outlook communication halted",
+  "summary": "Prothom Alo reports a worldwide disruption of Microsoft services, leaving companies and government agencies unable to use Outlook for communication.",
+  "body": [
+   "Microsoft’s suite of online services experienced a global failure, according to Prothom Alo. The outage affected users across multiple continents, disrupting routine operations.",
+   "Several companies and government bodies reported that they could not send or receive messages through Outlook, the email platform that forms part of Microsoft’s productivity tools.",
+   "The incident highlights the reliance on cloud‑based services for essential communication, though no further details on the cause or expected resolution were provided."
+  ],
+  "headline_bn": "মাইক্রোসফটের সেবায় বিশ্বব্যাপী বিপর্যয়, আউটলুক যোগাযোগ বন্ধ",
+  "summary_bn": "প্রথম আলো জানিয়েছে, মাইক্রোসফটের সেবার বিশ্বব্যাপী ব্যাঘাতে কোম্পানি ও সরকারি সংস্থা আউটলুকের মাধ্যমে যোগাযোগ করতে পারছে না।",
+  "body_bn": [
+   "প্রথম আলো অনুসারে, মাইক্রোসফটের অনলাইন সেবাগুলিতে বিশ্বব্যাপী ব্যাঘাত ঘটেছে, যা বিভিন্ন মহাদেশে ব্যবহারকারীদের প্রভাবিত করেছে।",
+   "বহু কোম্পানি ও সরকারি সংস্থা জানিয়েছে, তারা আউটলুক ইমেইল প্ল্যাটফর্মের মাধ্যমে বার্তা পাঠানো বা গ্রহণ করতে পারছে না।",
+   "এই ঘটনার ফলে ক্লাউড‑ভিত্তিক যোগাযোগ সেবার ওপর নির্ভরশীলতা প্রকাশ পেয়েছে, যদিও কারণ বা সমাধানের সময়সীমা সম্পর্কে কোনো অতিরিক্ত তথ্য দেওয়া হয়নি।"
+  ],
+  "image_prompt": "illustration of a computer network with error symbols and email icons, representing a global service outage",
+  "category": "Technology",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/7rqz7esh65",
+  "source_title": "বিশ্বজুড়ে মাইক্রোসফটের বিভিন্ন সেবায় বিপর্যয়",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/7rqz7esh65",
+    "title": "বিশ্বজুড়ে মাইক্রোসফটের বিভিন্ন সেবায় বিপর্যয়"
+   }
+  ],
+  "published": "2026-11-13T08:00:49+00:00",
+  "added": "2026-11-13T08:16:50.909333+00:00",
+  "hidden": false
+ },
+ {
+  "id": "466613a9e5ff",
+  "headline": "Nobel Laureate Narges Mohammadi’s Prison Memoir Exposes Iran’s Repression",
+  "summary": "DW reports the Nobel Peace Prize winner’s smuggled memoir details the personal cost of opposing Iran’s regime.",
+  "body": [
+   "According to DW, Nobel Peace Prize laureate Narges Mohammadi wrote a memoir while incarcerated and managed to smuggle it out of prison. The book presents her personal account of resistance against Iran’s authorities.",
+   "The memoir, as described by DW, reveals the price she paid for defying the regime and fighting for freedom, highlighting the broader challenges faced by dissidents in the country."
+  ],
+  "headline_bn": "নোবেল বিজয়ী নারগেস মোহাম্মদির কারাগার স্মৃতিকথা ইরানের দমনকে উন্মোচন করে",
+  "summary_bn": "DW জানায়, নোবেল শান্তি পুরস্কারধারীর গোপন স্মৃতিকথা ইরানের শাসনের বিরোধে ব্যক্তিগত মূল্য প্রকাশ করে।",
+  "body_bn": [
+   "DW অনুযায়ী, নোবেল শান্তি পুরস্কারপ্রাপ্ত নারগেস মোহাম্মদি কারাগারে থাকাকালীন একটি স্মৃতিকথা রচনা করেন এবং তা গোপনে বেরিয়ে আনা হয়। বইটি তার ব্যক্তিগত প্রতিরোধের গল্প তুলে ধরে।",
+   "DW উল্লেখ করেছে, এই স্মৃতিকথা শাসনের বিরোধে তিনি যে মূল্য দিয়েছেন তা প্রকাশ করে, যা দেশের বিরোধী আন্দোলনের বৃহত্তর চ্যালেঞ্জগুলোকে আলোকিত করে।"
+  ],
+  "image_prompt": "illustration of a handwritten memoir being passed secretly, with prison bars in background, symbolic representation of freedom struggle",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-rdf",
+    "title": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir"
+   }
+  ],
+  "published": "2026-11-13T08:00:00+00:00",
+  "added": "2026-11-13T08:16:58.114413+00:00",
+  "hidden": false
+ },
+ {
+  "id": "d7ebca75e570",
+  "headline": "Fresh Look Over Youthful Appearance Becomes New Beauty Trend",
+  "summary": "Current beauty standards favor looking vibrant at one's own age rather than trying to appear younger.",
+  "body": [
+   "A shift in beauty expectations is emerging, with emphasis placed on looking fresh and attractive at one's actual age rather than attempting to appear younger. The change reflects a growing preference for authenticity in personal appearance.",
+   "Prothom Alo reports that the new trend prioritises a vibrant look that aligns with the individual's age, signaling a move away from the traditional focus on youthful deception. This approach encourages people to embrace their natural age while maintaining a lively aesthetic. Fashion editors note that this perspective is influencing product lines and marketing campaigns."
+  ],
+  "headline_bn": "সতেজ চেহারা, কম বয়সের চেয়ে, নতুন সৌন্দর্যের ট্রেন্ড",
+  "summary_bn": "বয়সের সাথে সুন্দর ও সতেজ দেখানো এখন বেশি গুরুত্ব পাচ্ছে, কম বয়সী দেখানোর চেয়ে।",
+  "body_bn": [
+   "সৌন্দর্যের প্রত্যাশায় একটি পরিবর্তন দেখা যাচ্ছে, যেখানে নিজের বয়সে সতেজ ও আকর্ষণীয় দেখানোর ওপর বেশি জোর দেওয়া হচ্ছে, কম বয়সী দেখানোর চেয়ে। এই পরিবর্তন ব্যক্তিগত চেহারায় স্বচ্ছলতা ও প্রকৃতিত্বের দিকে ঝোঁক প্রকাশ করে।",
+   "প্রথম আলো অনুযায়ী, নতুন ট্রেন্ডটি বয়সের সঙ্গে সামঞ্জস্যপূর্ণ উজ্জ্বল চেহারাকে অগ্রাধিকার দিচ্ছে, যা ঐতিহ্যগতভাবে কম বয়সের ভানকে পিছনে ফেলে। এই দৃষ্টিভঙ্গি পণ্য লাইন এবং বিপণন ক্যাম্পেইনগুলিকেও প্রভাবিত করছে।"
+  ],
+  "image_prompt": "illustration of a calendar with blooming flowers symbolizing age and freshness",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.haal.fashion/beauty/trend/noi95v3xhj",
+  "source_title": "কম বয়সী দেখানো নয়, সতেজ দেখানোই এখন সৌন্দর্যের নতুন ট্রেন্ড",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.haal.fashion/beauty/trend/noi95v3xhj",
+    "title": "কম বয়সী দেখানো নয়, সতেজ দেখানোই এখন সৌন্দর্যের নতুন ট্রেন্ড"
+   }
+  ],
+  "published": "2026-11-13T08:00:00+00:00",
+  "added": "2026-11-13T08:17:06.111073+00:00",
+  "hidden": false
+ },
+ {
+  "id": "1bbd674e5ed6",
+  "headline": "Classic Horror Icons Boris Karloff and Christopher Lee Shared Film Roles",
+  "summary": "Prothom Alo notes both actors appeared in Frankenstein’s Monster, The Mummy, Dr. Fu Manchu and Dr. Jekyll & Mr. Hyde.",
+  "body": [
+   "Prothom Alo reports that the horror film community recognizes Boris Karloff and Christopher Lee as its two leading icons.",
+   "Both actors have appeared in the classic monster picture Frankenstein’s Monster, the ancient‑curse adventure The Mummy, the exotic thriller Dr. Fu Manchu, and the split‑personality drama Dr. Jekyll & Mr. Hyde.",
+   "Their overlapping filmography underscores a shared legacy that continues to define the genre’s golden era. These titles remain reference points for fans and scholars of horror cinema."
+  ],
+  "headline_bn": "হরর আইকন বোরিস কার্লফ ও ক্রিস্টোফার লি শেয়ার করেছেন চলচ্চিত্র ভূমিকা",
+  "summary_bn": "প্রথম আলো জানায় দুজনই ‘ফ্রাঙ্কেনস্টাইন’স মনস্টার’, ‘দ্য মমি’, ‘ডি. ফু মানচু’ ও ‘ডি. জেকিল ও মি. হাইড’ ছবিতে অভিনয় করেছেন।",
+  "body_bn": [
+   "প্রথম আলো রিপোর্ট করেছে যে হরর চলচ্চিত্রের দুই প্রধান আইকন হলেন বোরিস কার্লফ এবং ক্রিস্টোফার লি।",
+   "উভয় অভিনেতা ‘ফ্রাঙ্কেনস্টাইন’স মনস্টার’, ‘দ্য মমি’, ‘ডি. ফু মানচু’ এবং ‘ডি. জেকিল ও মি. হাইড’ ছবিতে কাজ করেছেন।",
+   "এই শেয়ার করা চলচ্চিত্রগুলো হরর ধারার স্বর্ণযুগের গুরুত্বপূর্ণ অংশ হিসেবে বিবেচিত। এই শিরোনামগুলো হরর সিনেমার ভক্ত ও গবেষকদের জন্য রেফারেন্স হিসেবে রয়ে গেছে।"
+  ],
+  "image_prompt": "Illustration of classic horror movie posters featuring silhouettes of a monster, a mummy, and a split‑face figure, in a dimly lit cinema lobby",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/fun/wxnllcrht0",
+  "source_title": "রিপলি’স বিলিভ ইট অর নট!",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/fun/wxnllcrht0",
+    "title": "রিপলি’স বিলিভ ইট অর নট!"
+   }
+  ],
+  "published": "2026-11-13T07:59:26+00:00",
+  "added": "2026-11-13T08:17:15.297970+00:00",
+  "hidden": false
+ },
+ {
+  "id": "13f1779bdee2",
+  "headline": "Mosquito Fogging Scheduled for 4 PM in Local Area",
+  "summary": "Prothom Alo reports that mosquito control spray will be applied today at 4 p.m.",
+  "body": [
+   "According to Prothom Alo, a mosquito spray operation is scheduled for today at 4 p.m. in the specified locality. Residents have been informed that the application will take place in the afternoon, with the intent to treat the area at the designated time. The announcement was made by the local authorities, and the timing has been set for 16:00 hours. No further details about the scope or duration of the spraying have been provided. The timing of the operation has been confirmed for the afternoon hour of 4 p.m."
+  ],
+  "headline_bn": "স্থানীয় এলাকায় আজ বিকেল ৪টায় মশার স্প্রে",
+  "summary_bn": "প্রথম আলো জানিয়েছে, আজ বিকেল ৪টায় মশার ওষুধ দেওয়া হবে।",
+  "body_bn": [
+   "প্রথম আলো অনুসারে, আজ বিকেল চারটায় অত্র এলাকায় মশার ওষুধের স্প্রে কার্যক্রম নির্ধারিত হয়েছে। স্থানীয় কর্তৃপক্ষের মাধ্যমে এই সময়সূচি জানানো হয়েছে এবং স্প্রে নির্দিষ্ট সময়ে সম্পন্ন হবে বলে জানানো হয়েছে। স্প্রে কার্যক্রমের সঠিক সময় ১৬:০০ ঘণ্টা নির্ধারিত এবং অতিরিক্ত কোনো তথ্য প্রদান করা হয়নি।"
+  ],
+  "image_prompt": "illustration of mosquito fogging equipment spraying in a neighborhood, generic scene, no people, no logos",
+  "category": "Health",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/fun/frgdl1bnyr",
+  "source_title": "ভাবুক সম্রাট",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/fun/frgdl1bnyr",
+    "title": "ভাবুক সম্রাট"
+   }
+  ],
+  "published": "2026-11-13T07:57:22+00:00",
+  "added": "2026-11-13T08:17:24.270124+00:00",
+  "hidden": false
+ },
+ {
+  "id": "ffdaab2662af",
+  "headline": "Child Killed and Two Injured in Ferry Collision on Shariatpur‑Chandpur Waterway",
+  "summary": "A ferry collided with a sand‑laden bulkhead on the Shariatpur–Chandpur route, killing 11‑year‑old Tarikul Islam and injuring two others, reports Prothom Alo.",
+  "body": [
+   "According to Prothom Alo, a ferry traveling the Shariatpur–Chandpur waterway struck a bulkhead loaded with sand. The impact occurred on the Shariatpur‑Chandpur route, prompting an immediate emergency response.",
+   "The collision resulted in the death of 11‑year‑old Tarikul Islam. Two additional passengers sustained injuries and were taken for medical care."
+  ],
+  "headline_bn": "শরীয়তপুর‑চাঁদপুর নৌপথে ফেরি-ব্যাল্কহেড সংঘর্ষে শিশু নিহত, দুজন আহত",
+  "summary_bn": "প্রথম আলো জানায়, শ্রীযতপুর‑চাঁদপুর নৌপথে ফেরি ও বালু ভর্তি ব্যাল্কহেডের ধাক্কায় ১১ বছর বয়সী তরিকুল ইসলাম নিহত, দুজন আহত।",
+  "body_bn": [
+   "প্রথম আলো অনুসারে, শরীয়তপুর‑চাঁদপুর নৌপথে চলমান একটি ফেরি বালু ভর্তি ব্যাল্কহেডের সঙ্গে ধাক্কা খায়। সংঘর্ষের পর সঙ্গে সঙ্গে জরুরি সেবা পাঠানো হয়।",
+   "ধাক্কায় ১১ বছর বয়সী তরিকুল ইসলাম নিহত হন। আরও দুইজন যাত্রী আহত হন এবং চিকিৎসা গ্রহণ করেন।"
+  ],
+  "image_prompt": "A ferry striking a sand‑filled bulkhead on a river, with splashing water and rescue boats, no visible people or logos.",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/yv35jfcba2",
+  "source_title": "মেঘনায় ফেরিতে বাল্কহেডের ধাক্কায় শিশু নিহত, আহত আরও দুজন",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/yv35jfcba2",
+    "title": "মেঘনায় ফেরিতে বাল্কহেডের ধাক্কায় শিশু নিহত, আহত আরও দুজন"
+   }
+  ],
+  "published": "2026-11-13T07:55:01+00:00",
+  "added": "2026-11-13T08:17:32.438065+00:00",
+  "hidden": false
+ },
+ {
   "id": "5f7df267401f",
   "headline": "Friday’s Cultural Line‑up in the Capital Features Drama, Music and Stand‑up Comedy",
   "summary": "Prothom Alo reports a variety of performances in the capital on Friday, highlighted by stand‑up comedy.",
