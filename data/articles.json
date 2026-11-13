@@ -1,5 +1,251 @@
 [
  {
+  "id": "79cb7e64297a",
+  "headline": "US Grounds All Flights Temporarily Due to Communication System Fault",
+  "summary": "All flights in the United States were halted after a communications glitch, marking the second nationwide shutdown since the 2001 attacks.",
+  "body": [
+   "According to Prothom Alo, a fault in the United States' communication system led authorities to announce a temporary suspension of all flight operations across the country. The measure was taken to ensure safety while the technical issue was addressed.",
+   "The shutdown is the first nationwide grounding since the September 11, 2001 attacks, which also prompted a complete halt of flights. A similar, shorter interruption occurred in 2023, lasting less than two hours."
+  ],
+  "headline_bn": "যোগাযোগ ত্রুটির কারণে যুক্তরাষ্ট্রে সব ফ্লাইট সাময়িকভাবে বন্ধ",
+  "summary_bn": "যোগাযোগের সমস্যার ফলে যুক্তরাষ্ট্রে সব ফ্লাইট থামানো হয়েছে, যা ২০০১ সালের হামলার পর দ্বিতীয়বারের মতো সম্পূর্ণ বন্ধ।",
+  "body_bn": [
+   "প্রথম আলো অনুযায়ী, যুক্তরাষ্ট্রের যোগাযোগ ব্যবস্থা ত্রুটির কারণে দেশের সব ফ্লাইটের উড্ডয়ন সাময়িকভাবে বন্ধের ঘোষণা দেওয়া হয়েছে। নিরাপত্তা নিশ্চিত করতে এই ব্যবস্থা গ্রহণ করা হয়েছে।",
+   "এই বন্ধটি ২০০১ সালের ১১ সেপ্টেম্বরের হামলার পর প্রথম সম্পূর্ণ বন্ধ, যা একই সময়ে সব ফ্লাইট থামিয়েছিল। ২০২৩ সালে কম দুই ঘণ্টা সময়ের একটি সংক্ষিপ্ত বন্ধেরও রেকর্ড রয়েছে।"
+  ],
+  "image_prompt": "illustration of grounded airplanes on runway under cloudy sky with control tower and communication equipment",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/usa/4qxj83xazp",
+  "source_title": "যুক্তরাষ্ট্রে যোগাযোগব্যবস্থায় ত্রুটি কারণে সব ফ্লাইটের উড্ডয়ন সাময়িকভাবে বন্ধ ঘোষণা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/usa/4qxj83xazp",
+    "title": "যুক্তরাষ্ট্রে যোগাযোগব্যবস্থায় ত্রুটি কারণে সব ফ্লাইটের উড্ডয়ন সাময়িকভাবে বন্ধ ঘোষণা"
+   }
+  ],
+  "published": "2026-11-13T22:14:41+00:00",
+  "added": "2026-11-13T22:17:25.965455+00:00",
+  "hidden": false
+ },
+ {
+  "id": "df76b7d7d3b8",
+  "headline": "FAA imposes nationwide ground stop on all US flights",
+  "summary": "The FAA ordered all departing flights to remain grounded while technicians investigate a communication problem, according to DW and Al Jazeera.",
+  "body": [
+   "According to DW, the U.S. Federal Aviation Administration announced that all departing traffic must stay ground‑stopped until further notice. The directive follows a reported communication issue affecting the national air‑traffic system.",
+   "Al Jazeera English reported that the grounding came after the communication problem, and U.S. Transportation Secretary Sean Duffy said the aviation agency is investigating the matter."
+  ],
+  "headline_bn": "FAA সব যুক্তরাষ্ট্রের ফ্লাইটে জাতীয় গ্রাউন্ড স্টপ আরোপ করেছে",
+  "summary_bn": "FAA সকল প্রস্থানকারী ফ্লাইটকে স্থগিত রাখার নির্দেশ দিয়েছে, কারণ প্রযুক্তিবিদরা যোগাযোগ সমস্যার তদন্ত করছেন।",
+  "body_bn": [
+   "ডব্লিউ (DW) অনুসারে, যুক্তরাষ্ট্রের ফেডারেল এভিয়েশন অ্যাডমিনিস্ট্রেশন (FAA) সকল প্রস্থানকারী ট্রাফিককে আরও নোটিশ না দেওয়া পর্যন্ত গ্রাউন্ড স্টপে রাখতে বলেছে।",
+   "আল জাজিরা ইংলিশ রিপোর্ট করেছে যে এই পদক্ষেপটি একটি যোগাযোগ সমস্যার পরিণতি, এবং পরিবহন সচিব শোন ডাফি উল্লেখ করেছেন যে এয়ারলাইন সংস্থা তদন্ত চালাচ্ছে।"
+  ],
+  "image_prompt": "empty airport runway under cloudy sky with grounded aircraft and control tower, no people, flags, logos or text",
+  "category": "World",
+  "source": "DW, Al Jazeera English",
+  "source_url": "https://www.dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-rdf",
+  "source_title": "FAA issues US national ground stop on all flights",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-rdf",
+    "title": "FAA issues US national ground stop on all flights"
+   },
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+    "title": "US grounds all flights after ‘communication issue’"
+   }
+  ],
+  "published": "2026-11-13T21:54:00+00:00",
+  "added": "2026-11-13T22:17:18.302408+00:00",
+  "hidden": false,
+  "image": "data/img/df76b7d7d3b8.jpg"
+ },
+ {
+  "id": "41b9e64abb79",
+  "headline": "Gambia Announces Five Presidential Candidates as Barrow Runs for Third Term",
+  "summary": "Gambia's electoral commission names five contenders for the upcoming vote, while Ethiopia faces rising tensions over a new regional head and Dakar wraps up Youth Olympic Games.",
+  "body": [
+   "France 24 reports that Gambia's electoral commission has announced five official candidates for the upcoming presidential election, with incumbent President Adama Barrow seeking a third term.",
+   "Tensions have risen in Ethiopia after the federal government appointed a new head of the Western Tigray region. Meanwhile, the Dakar Youth Olympic Games concluded after two weeks of intense competition."
+  ],
+  "headline_bn": "গাম্বিয়ার প্রেসিডেন্ট নির্বাচনে পাঁচজন প্রার্থী, বারো তৃতীয় মেয়াদে প্রতিদ্বন্দ্বিতা",
+  "summary_bn": "গাম্বিয়ার নির্বাচনী কমিশন পাঁচজন প্রার্থী ঘোষনা করেছে, ইথিওপিয়ায় নতুন তিগ্রেই অঞ্চল প্রধানের নিয়োগে উত্তেজনা বাড়ছে, ডাকার যুব অলিম্পিক শেষ হয়েছে।",
+  "body_bn": [
+   "ফ্রান্স ২৪ অনুসারে, গাম্বিয়ার নির্বাচনী কমিশন আসন্ন প্রেসিডেন্ট নির্বাচনের জন্য পাঁচজন প্রার্থী ঘোষনা করেছে, যেখানে বর্তমান প্রেসিডেন্ট আদামা বারো তৃতীয় মেয়াদে প্রতিদ্বন্দ্বিতা করছেন।",
+   "ইথিওপিয়ায় ফেডারেল সরকার পশ্চিম তিগ্রেই অঞ্চলের নতুন প্রধান নিয়োগের পর উত্তেজনা বৃদ্ধি পেয়েছে। একই সময়ে, ডাকার যুব অলিম্পিক দুই সপ্তাহের তীব্র প্রতিযোগিতার পর সমাপ্তি লাভ করেছে।"
+  ],
+  "image_prompt": "Illustration of ballot box with African map, a silhouette of a regional leader, and youth athletes with Olympic torches, no faces or logos",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term",
+  "source_title": "Gambia's Adama Barrow seeks third term",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term",
+    "title": "Gambia's Adama Barrow seeks third term"
+   }
+  ],
+  "published": "2026-11-13T21:46:32+00:00",
+  "added": "2026-11-13T22:17:33.803060+00:00",
+  "hidden": false
+ },
+ {
+  "id": "6a3985b18904",
+  "headline": "France among five major powers to represent EU in Ukraine talks",
+  "summary": "European Council President Antonio Costa announced that France, alongside the UK, Germany, Italy and Poland, will join EU diplomats in upcoming Ukraine negotiations, per France 24.",
+  "body": [
+   "According to France 24, European Council President Antonio Costa said on Friday that Brussels will dispatch diplomats from the European Union together with representatives from five major powers – the United Kingdom, France, Germany, Italy and Poland – to the forthcoming talks on Ukraine. The inclusion of these countries aims to ensure a coordinated EU stance in the negotiations. The announcement highlights the bloc’s intent to play a significant role in shaping the dialogue concerning Ukraine’s future. The move reflects ongoing efforts to align member states’ policies toward the conflict."
+  ],
+  "headline_bn": "ইউক্রেন আলোচনায় ইউরোপরের প্রতিনিধিত্বে ফ্রান্স সহ পাঁচটি প্রধান দেশ",
+  "summary_bn": "ইউরোপীয় কাউন্সিলের প্রেসিডেন্ট আন্তোনিও কোস্টা জানান, ফ্রান্স, যুক্তরাজ্য, জার্মানি, ইতালি ও পোল্যান্ড ইউক্রেন আলোচনায় ইউরোপরের কূটনীতিকদের সঙ্গে অংশ নেবে।",
+  "body_bn": [
+   "ফ্রান্স ২৪ অনুসারে, ইউরোপীয় কাউন্সিলের প্রেসিডেন্ট আন্তোনিও কোস্টা শুক্রবার জানিয়েছেন যে ব্রাসেলস ইউরোপীয় ইউনিয়নের কূটনীতিকদের সঙ্গে যুক্তরাজ্য, ফ্রান্স, জার্মানি, ইতালি ও পোল্যান্ডের প্রতিনিধিদের নিয়ে আসন্ন ইউক্রেন আলোচনায় অংশ নেবে। এই দেশগুলোর অন্তর্ভুক্তি আলোচনায় সমন্বিত ইউরোপি অবস্থান নিশ্চিত করার লক্ষ্য রাখে। এই ঘোষণায় ব্লকের সংকট সমাধানে গুরুত্বপূর্ণ ভূমিকা পালন করার ইচ্ছা প্রকাশ পায়। এই পদক্ষেপটি সদস্য রাষ্ট্রগুলোর নীতি সমন্বয় করার চলমান প্রচেষ্টাকে প্রতিফলিত করে।"
+  ],
+  "image_prompt": "A conference room with a round table, EU and Ukrainian flags, diplomats reviewing documents, neutral lighting",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
+  "source_title": "France among five major powers to represent EU in Ukraine talks",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
+    "title": "France among five major powers to represent EU in Ukraine talks"
+   }
+  ],
+  "published": "2026-11-13T21:38:52+00:00",
+  "added": "2026-11-13T22:17:42.688150+00:00",
+  "hidden": false
+ },
+ {
+  "id": "b4b8d91dc3ce",
+  "headline": "Freighter Collides with Cruise Ship Near New Orleans, Vessel Capsizes",
+  "summary": "A freighter struck a cruise ship carrying about 130 passengers on the Mississippi, prompting rescue efforts.",
+  "body": [
+   "A freighter collided with a cruise ship on the Mississippi River near New Orleans, according to DW. The cruise vessel, which carries around 130 people, is a paddlewheel ship that capsized after the impact.",
+   "Rescue teams have been deployed and are working to evacuate passengers and crew. Officials are monitoring the situation as emergency services continue their response. No further details on injuries or damage have been released. The capsized paddlewheel vessel remains in the water as rescue crews continue their efforts. Authorities have not yet released information on casualties."
+  ],
+  "headline_bn": "নিউ অরলিন্সের কাছে ফ্রেইটার ও ক্রুজ শিপের ধাক্কা, নৌকা উল্টে গেল",
+  "summary_bn": "প্রায় ১৩০ যাত্রীসহ ক্রুজ শিপে ফ্রেইটার ধাক্কা দিয়ে প্যাডেলহুইল নৌকা উল্টে গেছে, উদ্ধার কাজ চলছে।",
+  "body_bn": [
+   "DW অনুযায়ী, নিউ অরলিন্সের কাছে মিসিসিপি নদীতে একটি ফ্রেইটার একটি ক্রুজ শিপের সঙ্গে ধাক্কা মারেছে। প্রায় ১৩০ যাত্রীসহ এই প্যাডেলহুইল নৌকা ধাক্কা পাওয়ার পর উল্টে গেছে।",
+   "রেসকিউ দল তৎক্ষণাৎ মোতায়েন হয়েছে এবং যাত্রী ও ক্রুদের উদ্ধার করার কাজ চালিয়ে যাচ্ছে। কর্মকর্তারা পরিস্থিতি পর্যবেক্ষণ করছেন এবং জরুরি সেবা কার্যক্রম অব্যাহত রয়েছে। আঘাত বা ক্ষতি সম্পর্কে অতিরিক্ত কোনো তথ্য প্রকাশিত হয়নি। উল্টে যাওয়া নৌকা এখনও পানিতে রয়েছে এবং রেসকিউ কর্মীরা কাজ চালিয়ে যাচ্ছে। কর্তৃপক্ষ এখনও ক্ষতিগ্রস্তদের সম্পর্কে কোনো তথ্য প্রকাশ করেনি।"
+  ],
+  "image_prompt": "Illustration of a freighter colliding with a paddlewheel cruise ship on a river, with rescue boats nearby",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-near-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Tanker collides with cruise ship on Mississippi near New Orleans",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-near-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf",
+    "title": "Tanker collides with cruise ship on Mississippi near New Orleans"
+   }
+  ],
+  "published": "2026-11-13T21:31:00+00:00",
+  "added": "2026-11-13T22:17:54.361102+00:00",
+  "hidden": false
+ },
+ {
+  "id": "3d721a446ad0",
+  "headline": "US flight authority issues nationwide ground stop over ATC communication problem",
+  "summary": "A national ground stop was imposed on Friday after the Transportation Secretary said a communication issue disrupted air traffic control centers.",
+  "body": [
+   "The Federal Aviation Administration ordered a nationwide ground stop on Friday, halting departures at airports across the United States. The decision came after Transportation Secretary Sean Duffy said a communication problem was affecting the country’s air traffic control centres, according to France 24.",
+   "The stop was intended to preserve safety while the issue is investigated and resolved. No further details were released about the cause or expected duration of the disruption."
+  ],
+  "headline_bn": "মার্কিন ফ্লাইট কর্তৃপক্ষের জাতীয় গ্রাউন্ড স্টপ, এয়ার ট্রাফিক কন্ট্রোলের যোগাযোগ সমস্যার কারণে",
+  "summary_bn": "পরিবহন সচিবের মতে, যোগাযোগের ত্রুটির ফলে দেশের এয়ার ট্রাফিক কন্ট্রোল কেন্দ্রগুলোতে সমস্যা সৃষ্টি হয়েছে, ফলে জাতীয় গ্রাউন্ড স্টপ আরোপিত হয়েছে।",
+  "body_bn": [
+   "ফেডারেল এভিয়েশন অ্যাডমিনিস্ট্রেশন শুক্রবার জাতীয় গ্রাউন্ড স্টপ আরোপ করে, যা দেশের সব বিমানবন্দরে উড়ান বন্ধ করে দেয়। পরিবহন সচিব শিন ডাফি জানান, যোগাযোগের সমস্যার কারণে এয়ার ট্রাফিক কন্ট্রোল সেন্টারগুলো প্রভাবিত হয়েছে, ফ্রান্স ২৪ অনুযায়ী।",
+   "এই পদক্ষেপটি নিরাপত্তা নিশ্চিত করার জন্য নেওয়া হয়েছে, সমস্যার সমাধান ও তদন্তের সময় পর্যন্ত। সমস্যার কারণ বা সময়সীমা সম্পর্কে অতিরিক্ত কোনো তথ্য প্রকাশ করা হয়নি।"
+  ],
+  "image_prompt": "illustration of multiple airplanes lined up on runways under a cloudy sky with a control tower, indicating a nationwide ground stop",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue",
+  "source_title": "US flight authority orders national ground stop over air traffic control 'communication issue'",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue",
+    "title": "US flight authority orders national ground stop over air traffic control 'communication issue'"
+   }
+  ],
+  "published": "2026-11-13T21:27:52+00:00",
+  "added": "2026-11-13T22:18:01.989255+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4b9b27cc2307",
+  "headline": "Pope Leo XIV welcomed by 1.5 million in Peruvian city where he was bishop",
+  "summary": "Around 1.5 million people gathered to greet Pope Leo XIV on his return to the Peruvian city where he once served as bishop, Al Jazeera reports.",
+  "body": [
+   "Pope Leo XIV made a public return to the Peruvian city where he previously held the office of bishop, prompting a large public reception.",
+   "Al Jazeera English reported that an estimated 1.5 million residents assembled in the city’s streets to cheer his arrival, reflecting the enduring bond between the pontiff and the local faithful.",
+   "The crowd, estimated at 1.5 million, stretched along the main avenues and filled public squares as the pope passed through."
+  ],
+  "headline_bn": "পোপ লিও১৪কে স্বাগত জানালেন ১.৫ মিলিয়ন মানুষ, যেখানে তিনি বিশপ ছিলেন সেই পেরু শহরে",
+  "summary_bn": "আল জাজিরা ইংরেজি জানায়, পেরুর সেই শহরে পোপ লিও১৪-কে ১.৫ মিলিয়ন মানুষ উল্লাসে স্বাগত জানিয়েছে।",
+  "body_bn": [
+   "পোপ লিও১৪ পেরুর সেই শহরে ফিরে এসেছেন যেখানে তিনি পূর্বে বিশপের দায়িত্ব পালন করেছেন, এবং সেখানে বিশাল জনসাধারণের স্বাগত পেয়েছেন।",
+   "আল জাজিরা ইংরেজি অনুসারে, আনুমানিক ১.৫ মিলিয়ন বাসিন্দা শহরের রাস্তায় জড়ো হয়ে পোপের আগমনকে উল্লাসের সঙ্গে স্বাগত জানিয়েছেন, যা পোপ এবং স্থানীয় সম্প্রদায়ের মধ্যে শক্তিশালী সংযোগকে প্রকাশ করে।",
+   "এই বিশাল ভিড়, যা ১.৫ মিলিয়ন হিসেবে অনুমান করা হয়েছে, প্রধান সড়ক ও পাবলিক স্কোয়ারে ছড়িয়ে ছিল যখন পোপ শহরের মধ্য দিয়ে গিয়েছেন।"
+  ],
+  "image_prompt": "A crowd of people gathering in a city square to welcome a religious leader, with banners and festive atmosphere",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
+  "source_title": "Pope Leo cheered on return to Peru city where he served as bishop",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
+    "title": "Pope Leo cheered on return to Peru city where he served as bishop"
+   }
+  ],
+  "published": "2026-11-13T20:52:31+00:00",
+  "added": "2026-11-13T22:18:11.557057+00:00",
+  "hidden": false
+ },
+ {
+  "id": "5cdc3fc4246a",
+  "headline": "Australia captain Cummins denies link to 2018 ball‑tampering scandal",
+  "summary": "Cummins rejected former teammate Usman Khawaja's allegation that he was involved in the 2018 ball‑tampering incident, Al Jazeera reports.",
+  "body": [
+   "Australia's cricket captain Pat Cummins has denied any involvement in the 2018 ball‑tampering controversy after former teammate Usman Khawaja suggested a link. The denial was reported by Al Jazeera English, which noted Cummins' rejection of the allegation.",
+   "Cummins said he had no role in the alleged tampering and called the claims unfounded. Al Jazeera English covered the exchange, highlighting the captain's statement. The remarks were issued without specifying a location."
+  ],
+  "headline_bn": "অস্ট্রেলিয়ার ক্যাপ্টেন কামিন্স ২০১৮ সালের বল‑ট্যাম্পারিং স্ক্যান্ডালে যুক্তি না",
+  "summary_bn": "আল জাজিরা রিপোর্ট করেছে, কামিন্স উসমান খাওয়াজার অভিযোগে নিজেকে মুক্তি দিয়েছেন।",
+  "body_bn": [
+   "অস্ট্রেলিয়ার ক্রিকেট ক্যাপ্টেন প্যাট কামিন্স ২০১৮ সালের বল‑ট্যাম্পারিং বিতর্কে নিজেকে যুক্ত না বলে অস্বীকার করেছেন, যখন প্রাক্তন দলীয় সহকর্মী উসমান খাওয়াজা এই সংযোগের ইঙ্গিত দিয়েছিলেন। আল জাজিরা ইংলিশ এই অস্বীকৃতিকে রিপোর্ট করেছে এবং কামিন্সের এই দাবি প্রত্যাখ্যানের উল্লেখ করেছে।",
+   "কামিন্স জানান তিনি কোনোভাবে বল‑ট্যাম্পারিংয়ে জড়িত ছিলেন না এবং অভিযোগগুলো ভিত্তিহীন। আল জাজিরা ইংলিশ এই কথোপকথনকে কভার করেছে, ক্যাপ্টেনের বিবৃতি তুলে ধরে। মন্তব্যগুলো কোনো নির্দিষ্ট স্থান উল্লেখ না করে প্রকাশ করা হয়েছে।"
+  ],
+  "image_prompt": "illustration of a cricket captain holding a bat on a stadium field, generic crowd, no faces or logos",
+  "category": "Sports",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
+  "source_title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
+    "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’"
+   }
+  ],
+  "published": "2026-11-13T20:32:42+00:00",
+  "added": "2026-11-13T22:18:57.897798+00:00",
+  "hidden": false
+ },
+ {
   "id": "b06303284909",
   "headline": "Russia threatens legal action against Canada and Germany over ice‑hockey exclusion",
   "summary": "Two weeks after a CAS ruling to readmit Russia to international ice hockey, Moscow says it may sue Canada and Germany, the tournament hosts, over their exclusion.",
