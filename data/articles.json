@@ -1,5 +1,251 @@
 [
  {
+  "id": "20a3bb8193fd",
+  "headline": "Hungary investigators seize hidden cash in Orban graft probe",
+  "summary": "DW reports that investigators uncovered bundles of banknotes hidden in forests and buildings during a probe into a former minister’s alleged bribe-taking.",
+  "body": [
+   "Investigators in Hungary have seized large bundles of banknotes that were buried in forested areas and concealed inside buildings, according to a report by Deutsche Welle. The cash, described as being in bundles, was uncovered during a law‑enforcement operation linked to a graft investigation.",
+   "The operation forms part of a probe into a former minister who is alleged to have taken millions in bribes. Authorities say the hidden cash is evidence of the alleged corruption and will be retained as part of the ongoing investigation."
+  ],
+  "headline_bn": "হাঙ্গেরিতে গোপন নগদ উদ্ধার, ওরবানের দুর্নীতি তদন্তে",
+  "summary_bn": "DW জানায়, তদন্তকারীরা বন ও ভবনে লুকানো ব্যাংকনোটের গুচ্ছ আবিষ্কার করেছে, যা এক প্রাক্তন মন্ত্রীর ঘুষের অভিযোগের অংশ।",
+  "body_bn": [
+   "হাঙ্গেরির তদন্তকারীরা বনভূমিতে গুঁড়িয়ে এবং ভবনের মধ্যে লুকিয়ে থাকা বড় পরিমাণের ব্যাংকনোট জব্দ করেছেন, DW রিপোর্টে জানানো হয়েছে। এই নগদ, গুচ্ছের আকারে, দুর্নীতি তদন্তের অংশ হিসেবে পরিচালিত অপারেশনের সময় আবিষ্কৃত হয়েছে।",
+   "এই পদক্ষেপটি এক প্রাক্তন মন্ত্রীর বিরুদ্ধে চালু তদন্তের অংশ, যিনি মিলিয়ন ডলারের ঘুষ গ্রহণের অভিযোগে অভিযুক্ত। কর্তৃপক্ষের মতে, গোপন নগদটি অভিযোগের প্রমাণ হিসেবে সংরক্ষণ করা হবে এবং চলমান তদন্তে ব্যবহৃত হবে।"
+  ],
+  "image_prompt": "illustration of investigators finding hidden bundles of cash in a forest and inside a building, with crates and bags, no people",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/hungary-millions-in-hidden-cash-found-in-orban-graft-probe/a-79946923?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Hungary: Millions in hidden cash found in Orban graft probe",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/hungary-millions-in-hidden-cash-found-in-orban-graft-probe/a-79946923?maca=en-rss-en-all-1573-rdf",
+    "title": "Hungary: Millions in hidden cash found in Orban graft probe"
+   }
+  ],
+  "published": "2026-11-14T09:19:00+00:00",
+  "added": "2026-11-14T09:39:07.354651+00:00",
+  "hidden": false
+ },
+ {
+  "id": "57d66af1d859",
+  "headline": "Youth Arif attacked with rod and local weapons in early Friday morning",
+  "summary": "Prothom Alo reports Arif was assaulted around 2 a.m. Friday with a rod and other domestic weapons.",
+  "body": [
+   "Prothom Alo reports that on Friday night, shortly after 2 a.m., a youth named Arif was the target of a violent assault. The attackers used a rod together with other locally sourced weapons to strike him repeatedly.",
+   "The beating left Arif injured, leading him to lodge a complaint alleging the use of the rod and domestic weapons in the attack. Authorities have been notified of the incident.",
+   "The incident highlights concerns over street violence in the area, according to the report."
+  ],
+  "headline_bn": "যুবক আরিফের ওপর রড ও দেশি অস্ত্র দিয়ে রাত দুইটায় হামলা",
+  "summary_bn": "প্রথম আলো অনুযায়ী, আরিফকে শুক্রবার রাত দুইটায় রড ও অন্যান্য দেশি অস্ত্র দিয়ে আক্রমণ করা হয়।",
+  "body_bn": [
+   "প্রথম আলো জানায়, গত শুক্রবার রাত দুইটার দিকে আরিফ নামের এক যুবকের ওপর রডসহ দেশি অস্ত্র ব্যবহার করে হিংসাত্মক হামলা চালানো হয়।",
+   "হামলায় আরিফ আহত হন এবং রড ও দেশি অস্ত্র ব্যবহারের অভিযোগে তিনি অভিযোগ দায়ের করেন।",
+   "প্রতিবেদনটি স্থানীয় এলাকায় বাড়তে থাকা হিংসা সম্পর্কে উদ্বেগ প্রকাশ করে।"
+  ],
+  "image_prompt": "Nighttime street with a broken rod and scattered local weapons on the ground, no people, no flags, no text",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/3h2wxy30d9",
+  "source_title": "ঝগড়া মিটিয়ে দেওয়া যুবককে রড দিয়ে পিটিয়ে আহত করার অভিযোগ",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/3h2wxy30d9",
+    "title": "ঝগড়া মিটিয়ে দেওয়া যুবককে রড দিয়ে পিটিয়ে আহত করার অভিযোগ"
+   }
+  ],
+  "published": "2026-11-14T09:18:26+00:00",
+  "added": "2026-11-14T09:39:16.153955+00:00",
+  "hidden": false
+ },
+ {
+  "id": "c7aed77a88e4",
+  "headline": "US stripped of measles‑elimination status after 26 years",
+  "summary": "The Pan American Health Organization removed the United States from measles‑free status as the nation faces its worst outbreaks in over 30 years.",
+  "body": [
+   "The Pan American Health Organization announced that the United States has been stripped of its measles‑elimination status, a classification it had retained for 26 years. The decision was reported by DW, citing a Wall Street Journal article.",
+   "The removal comes as the country confronts its most severe measles outbreaks in more than three decades, according to the same reports. Health officials have noted a sharp recent increase in cases, prompting the regional body to reassess the United States’ disease‑control standing."
+  ],
+  "headline_bn": "মার্কিন যুক্তরাষ্ট্রের মেজলস-মুক্তির মর্যাদা ২৬ বছর পর বাতিল",
+  "summary_bn": "প্যান আমেরিকান হেলথ অর্গানাইজেশন মেজলস‑মুক্ত অবস্থান থেকে যুক্তরাষ্ট্রকে বাদ দিয়েছে, কারণ দেশের তিন দশকের চেয়ে বেশি সময়ে সবচেয়ে তীব্র সংক্রমণ দেখা দিচ্ছে।",
+  "body_bn": [
+   "প্যান আমেরিকান হেলথ অর্গানাইজেশন জানিয়েছে যে যুক্তরাষ্ট্রের মেজলস‑মুক্তির মর্যাদা ২৬ বছর ধরে বজায় থাকায় এখন বাতিল করা হয়েছে। ডব্লিউএসজি রিপোর্টের ভিত্তিতে ডিডব্লিউ এই তথ্য প্রকাশ করেছে।",
+   "এই পদক্ষেপটি নেওয়া হয়েছে যখন দেশটি তিন দশকের চেয়ে বেশি সময়ে সবচেয়ে তীব্র মেজলস সংক্রমণের মুখোমুখি হচ্ছে। স্বাস্থ্য কর্মকর্তারা কেসের তীব্র বৃদ্ধি লক্ষ্য করেছেন, যা আঞ্চলিক সংস্থা যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণের অবস্থান পুনর্মূল্যায়ন করতে বাধ্য করেছে।"
+  ],
+  "image_prompt": "illustration of measles virus particles over a map of the United States with warning symbols",
+  "category": "Health",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/us-loses-measles-elimination-status-after-26-years-wsj-reports/a-79946974?maca=en-rss-en-all-1573-rdf",
+  "source_title": "US loses measles-elimination status after 26 years, WSJ reports",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/us-loses-measles-elimination-status-after-26-years-wsj-reports/a-79946974?maca=en-rss-en-all-1573-rdf",
+    "title": "US loses measles-elimination status after 26 years, WSJ reports"
+   }
+  ],
+  "published": "2026-11-14T09:15:00+00:00",
+  "added": "2026-11-14T09:39:25.665765+00:00",
+  "hidden": false
+ },
+ {
+  "id": "857a9f147bcd",
+  "headline": "Tamanna Akhtar and Smita Sarkar Crowned National Champions in Bangladesh Girls Programming Contest",
+  "summary": "Tamanna Akhtar won the university division and Smita Sarkar the school‑college division at the contest’s national round, Prothom Alo reports.",
+  "body": [
+   "The Bangladesh Girls Programming Contest held its national round with separate university and school‑college categories. According to Prothom Alo, Tamanna Akhtar emerged as champion in the university division.",
+   "In the school‑college division, Smita Sarkar secured the top position. The results underscore the contest’s role in encouraging programming skills among female students across the country."
+  ],
+  "headline_bn": "তামান্না আক্তার ও স্মিতা সরকার বাংলাদেশ গার্লস প্রোগ্রামিং কনটেস্টের জাতীয় চ্যাম্পিয়ন",
+  "summary_bn": "প্রথম আলো অনুযায়ী, তামান্না আক্তার বিশ্ববিদ্যালয় বিভাগে এবং স্মিতা সরকার স্কুল‑কলেজ বিভাগে শীর্ষে পৌঁছেছেন।",
+  "body_bn": [
+   "বাংলাদেশ গার্লস প্রোগ্রামিং কনটেস্টের (বিডিজিপিসি) জাতীয় পর্যায়ে বিশ্ববিদ্যালয় ও স্কুল‑কলেজ বিভাগে প্রতিযোগিতা অনুষ্ঠিত হয়েছে। প্রথম আলো জানায়, তামান্না আক্তার বিশ্ববিদ্যালয় বিভাগে চ্যাম্পিয়ন হয়েছেন।",
+   "স্মিতা সরকার স্কুল‑কলেজ বিভাগে প্রথম স্থান অর্জন করেছেন। এই ফলাফল দেশের তরুণী শিক্ষার্থীদের প্রোগ্রামিং দক্ষতা বিকাশে প্রতিযোগিতার গুরুত্বকে তুলে ধরে।"
+  ],
+  "image_prompt": "illustration of a computer screen with code and a trophy, representing a programming competition",
+  "category": "Technology",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/technology/bzn8jwzzdu",
+  "source_title": "বাংলাদেশ গার্লস প্রোগ্রামিং কনটেস্টে চ্যাম্পিয়ন তামান্না ও স্মিতা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/technology/bzn8jwzzdu",
+    "title": "বাংলাদেশ গার্লস প্রোগ্রামিং কনটেস্টে চ্যাম্পিয়ন তামান্না ও স্মিতা"
+   }
+  ],
+  "published": "2026-11-14T09:09:50+00:00",
+  "added": "2026-11-14T09:39:33.870858+00:00",
+  "hidden": false
+ },
+ {
+  "id": "cf42302ef4f0",
+  "headline": "Microsoft Restores Global Services After 24‑Hour Outage",
+  "summary": "Microsoft confirmed all services are back online after a worldwide disruption that affected businesses and governments for over a day.",
+  "body": [
+   "According to DW, Microsoft announced it has resolved the technical glitch that caused a global outage of its services, which had severely disrupted online communications for businesses and governments for more than 24 hours.",
+   "France 24 reported that by Saturday morning the company said all services, including Teams, Outlook, Copilot and other applications, were fully recovered. The outage highlighted the reliance of modern organizations on cloud platforms. The U.S. homeland security chief also stated there was no link between Microsoft and the recent U.S. air‑traffic stoppage."
+  ],
+  "headline_bn": "মাইক্রোসফট পুনরায় চালু করেছে বিশ্বব্যাপী সেবা",
+  "summary_bn": "মাইক্রোসফট নিশ্চিত করেছে সব সেবা পুনরুদ্ধার হয়েছে, যা ব্যবসা ও সরকারকে এক দিনের বেশি সময়ের যোগাযোগ বিঘ্নের পর পুনরায় চালু করেছে।",
+  "body_bn": [
+   "DW অনুযায়ী, মাইক্রোসফট জানিয়েছে যে সে প্রযুক্তিগত ত্রুটি সমাধান করেছে, যা বিশ্বব্যাপী সেবা বন্ধের কারণ ছিল এবং ব্যবসা ও সরকারে ২৪ ঘণ্টারও বেশি সময়ের অনলাইন যোগাযোগে গুরুতর বিঘ্ন সৃষ্টি করেছিল।",
+   "ফ্রান্স ২৪ জানিয়েছে যে শনিবার সকালে কোম্পানি টিমস, আউটলুক, কোপাইলট এবং অন্যান্য অ্যাপ্লিকেশনসহ সব সেবা সম্পূর্ণভাবে পুনরুদ্ধার হয়েছে। এই ব্যাঘাত আধুনিক সংস্থার ক্লাউড প্ল্যাটফর্মের উপর নির্ভরশীলতা প্রকাশ করেছে। যুক্তরাষ্ট্রের গৃহ নিরাপত্তা প্রধানও উল্লেখ করেছেন যে সাম্প্রতিক যুক্তরাষ্ট্রের বিমান চলাচল বন্ধের সঙ্গে মাইক্রোসফটের কোনো সংযোগ নেই।"
+  ],
+  "image_prompt": "Illustration of cloud servers with network lines and warning icons indicating an outage",
+  "category": "Technology",
+  "source": "DW, France 24",
+  "source_url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Microsoft says all services working again",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf",
+    "title": "Microsoft says all services working again"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
+    "title": "Microsoft says all services 'fully recovered' after global outage"
+   }
+  ],
+  "published": "2026-11-14T09:06:00+00:00",
+  "added": "2026-11-14T09:38:03.666553+00:00",
+  "hidden": false,
+  "image": "data/img/cf42302ef4f0.jpg"
+ },
+ {
+  "id": "f05795d2e473",
+  "headline": "Law Minister Says Sheikh Hasina’s Return Dependent on Legal Process",
+  "summary": "The minister stated she will come back only when a repatriation agreement permits a legal return.",
+  "body": [
+   "According to Prothom Alo, Bangladesh’s law minister announced that Sheikh Hasina will be able to return to the country only if a legal avenue becomes available. He emphasized that any return would occur under the terms of a repatriation agreement, framing it as a legal procedure.",
+   "The minister added that decisions regarding actions to be taken after her arrival are matters for others to decide, implying that the government’s role is limited to facilitating the legal process."
+  ],
+  "headline_bn": "আইনমন্ত্রী: শেখ হাসিনার দেশে ফেরার সুযোগ আইনি শর্তে",
+  "summary_bn": "মন্ত্রীর মতে, তিনি কেবল আইনি প্রত্যর্পণ চুক্তির মাধ্যমে দেশে আসবেন।",
+  "body_bn": [
+   "প্রথম আলো অনুযায়ী, বাংলাদেশ সরকারের আইনমন্ত্রী জানিয়েছেন যে শেখ হাসিনা কেবল আইনি সুযোগ পাওয়া মাত্র দেশে ফিরে আসতে পারবেন। তিনি উল্লেখ করেছেন যে তার প্রত্যর্পণ একটি প্রত্যর্পণ চুক্তির অধীনে হবে এবং তা আইনি প্রক্রিয়া হিসেবে বিবেচিত হবে।",
+   "মন্ত্রীর মতে, দেশে আসার পর কী ব্যবস্থা নেওয়া হবে তা অন্যদের দায়িত্ব, ফলে সরকারের ভূমিকা সীমিত থাকবে আইনি প্রক্রিয়া সহজতর করার মধ্যে।"
+  ],
+  "image_prompt": "Illustration showing a legal contract and Bangladesh map, symbolizing repatriation, without faces, flags, or logos",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/7i35af5mwz",
+  "source_title": "শেখ হাসিনা আইনি সুযোগেই দেশে আসবেন, ওনারা কী করবেন সেটা ওনাদের বিষয়: আইনমন্ত্রী",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/7i35af5mwz",
+    "title": "শেখ হাসিনা আইনি সুযোগেই দেশে আসবেন, ওনারা কী করবেন সেটা ওনাদের বিষয়: আইনমন্ত্রী"
+   }
+  ],
+  "published": "2026-11-14T08:49:11+00:00",
+  "added": "2026-11-14T09:39:41.530066+00:00",
+  "hidden": false
+ },
+ {
+  "id": "af48a523a1e3",
+  "headline": "Baibhav Surjabhanshi Becomes Youngest T20 Captain in Saeed Mushtaq Ali Trophy",
+  "summary": "According to Prothom Alo, Baibhav Surjabhanshi set the record as the youngest T20 captain while playing for Bihar in the Saeed Mushtaq Ali Trophy.",
+  "body": [
+   "Baibhav Surjabhanshi achieved a new milestone in Indian domestic cricket by becoming the youngest captain in a T20 match. The record was set during the Saeed Mushtaq Ali Trophy, where he led the Bihar side on the field. Prothom Alo reported that his appointment broke previous age benchmarks for T20 leadership, highlighting a shift toward younger players assuming strategic roles. The achievement underscores the growing confidence in emerging talent within the country's cricket structure."
+  ],
+  "headline_bn": "বৈভব সূর্যবংশী রেকর্ড গড়লেন, টি‑২০-এ সবচেয়ে কম বয়সী অধিনায়ক",
+  "summary_bn": "প্রথম আলো অনুযায়ী, বিহারের হয়ে খেলতে গিয়ে বৈভব সূর্যবংশী সঈদ মুশতাক আলী ট্রফিতে সবচেয়ে কম বয়সী টি‑২০ অধিনায়কের রেকর্ড স্থাপন করেছেন।",
+  "body_bn": [
+   "বৈভব সূর্যবংশী ভারতীয় গৃহক্রীড়া টুর্নামেন্টে সবচেয়ে কম বয়সী টি‑২০ অধিনায়ক হিসেবে নতুন রেকর্ড স্থাপন করেছেন। তিনি সঈদ মুশতাক আলী ট্রফিতে বিহার দলের হয়ে মাঠে নামার সময় এই সাফল্য অর্জন করেন। প্রথম আলো জানিয়েছে, তার এই দায়িত্ব গ্রহণ পূর্বের বয়স সীমা ভেঙে নতুন দৃষ্টান্ত স্থাপন করেছে, যা দেশের ক্রিকেটে তরুণ খেলোয়াড়দের কৌশলগত ভূমিকা বাড়ার ইঙ্গিত দেয়।"
+  ],
+  "image_prompt": "illustration of a cricket match with a captain raising a bat in a generic stadium, no faces, flags or logos",
+  "category": "Sports",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/sports/cricket/7isrhaghsl",
+  "source_title": "টি–টুয়েন্টিতে সবচেয়ে কম বয়সী অধিনায়কের রেকর্ড সূর্যবংশীর",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/sports/cricket/7isrhaghsl",
+    "title": "টি–টুয়েন্টিতে সবচেয়ে কম বয়সী অধিনায়কের রেকর্ড সূর্যবংশীর"
+   }
+  ],
+  "published": "2026-11-14T08:44:31+00:00",
+  "added": "2026-11-14T09:39:49.707972+00:00",
+  "hidden": false
+ },
+ {
+  "id": "39cf62a31c66",
+  "headline": "Six killed in 13 shootings over 22 days as Khulna hospitals face attacks",
+  "summary": "Over three weeks, 13 gun attacks left six dead and sparked a human chain protest against vandalism and extortion in Khulna.",
+  "body": [
+   "According to Prothom Alo, over a 22‑day period Khulna experienced 13 shooting incidents that resulted in six fatalities. The attacks targeted private hospitals, clinics and diagnostic centres, creating widespread fear in the city.",
+   "The violence prompted a protest on Tuesday, when residents formed a human chain to denounce vandalism and extortion linked to the attacks. The demonstration highlighted community concern over the safety of medical facilities and public order."
+  ],
+  "headline_bn": "২২ দিনে গুলিবিদ্ধে ছয়জন নিহত, খুলনায় হাসপাতাল-ক্লিনিকে হামলা",
+  "summary_bn": "১৩টি গুলির ঘটনা, ছয়জন মৃত্যু; ভাঙচুর ও চাঁদাবাজির বিরোধে খুলনায় মানববন্ধন গঠিত।",
+  "body_bn": [
+   "প্রথম আলো অনুযায়ী, ২২ দিনের মধ্যে খুলনায় গুলির ঘটনা ১৩ বার ঘটেছে, যার ফলে ছয়জন নিহত হয়েছে। বেসরকারি হাসপাতাল, ক্লিনিক ও ডায়াগনস্টিক সেন্টারগুলোকে লক্ষ্য করে হামলা করা হয়েছে, যা শহরে ব্যাপক আতঙ্ক সৃষ্টি করেছে।",
+   "গত মঙ্গলবার, ভাঙচুর ও চাঁদাবাজির প্রতিবাদে শহরের বাসিন্দারা মানববন্ধন গঠন করে গুলিবিদ্ধের বিরুদ্ধে প্রতিবাদ জানায়। এই প্রতিবাদে চিকিৎসা প্রতিষ্ঠান ও জননিরাপত্তার ওপর উদ্বেগ প্রকাশ করা হয়েছে।"
+  ],
+  "image_prompt": "Illustration of a damaged clinic building with broken windows, smoke, and silhouettes forming a human chain in a city street",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/end36pxnic",
+  "source_title": "২২ দিনে গুলিবিদ্ধ হয়ে ছয়জন নিহত, গুলির ঘটনা ১৩ বার, খুলনায় আতঙ্ক",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/end36pxnic",
+    "title": "২২ দিনে গুলিবিদ্ধ হয়ে ছয়জন নিহত, গুলির ঘটনা ১৩ বার, খুলনায় আতঙ্ক"
+   }
+  ],
+  "published": "2026-11-14T08:40:00+00:00",
+  "added": "2026-11-14T09:39:59.858618+00:00",
+  "hidden": false
+ },
+ {
   "id": "d8fac7c02e1c",
   "headline": "SpaceX Starship launch ends with booster explosion over Gulf of Mexico",
   "summary": "SpaceX attempted its first full-stage recovery, but the booster detonated while the spacecraft reached orbit, DW reports.",
