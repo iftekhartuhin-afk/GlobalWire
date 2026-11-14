@@ -1,5 +1,248 @@
 [
  {
+  "id": "d8fac7c02e1c",
+  "headline": "SpaceX Starship launch ends with booster explosion over Gulf of Mexico",
+  "summary": "SpaceX attempted its first full-stage recovery, but the booster detonated while the spacecraft reached orbit, DW reports.",
+  "body": [
+   "SpaceX launched its Starship rocket with the aim of catching and reusing both stages for the first time, according to DW.",
+   "During the flight, the booster exploded over the Gulf of Mexico, while the spacecraft continued on to orbit."
+  ],
+  "headline_bn": "স্পেসএক্সের স্টারশিপ রকেটের লঞ্চে গাল্ফ অব মেক্সিকোতে বুস্টার বিস্ফোরণ",
+  "summary_bn": "DW অনুযায়ী, প্রথম পূর্ণ-পর্যায় পুনর্ব্যবহারের প্রচেষ্টা ব্যর্থ হয়ে বুস্টার বিস্ফোরিত হয়েছে, তবে মহাকাশযান কক্ষপথে পৌঁছেছে।",
+  "body_bn": [
+   "DW রিপোর্ট করেছে, স্পেসএক্স তার স্টারশিপ রকেটটি উড়িয়ে প্রথমবারের মতো উভয় স্তর পুনর্ব্যবহারের পরিকল্পনা করেছিল।",
+   "উড়ানের সময় বুস্টার গাল্ফ অব মেক্সিকোতে বিস্ফোরিত হয়, তবে মহাকাশযান কক্ষপথে পৌঁছায়।"
+  ],
+  "image_prompt": "illustration of a rocket launch with a booster separating and exploding over water, space background",
+  "category": "Science",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
+  "source_title": "SpaceX launches Starship rocket, fails to recover booster",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
+    "title": "SpaceX launches Starship rocket, fails to recover booster"
+   }
+  ],
+  "published": "2026-11-14T02:24:00+00:00",
+  "added": "2026-11-14T02:32:29.936070+00:00",
+  "hidden": false,
+  "image": "data/img/d8fac7c02e1c.jpg"
+ },
+ {
+  "id": "5a1f74129903",
+  "headline": "US Flights Resume Four Hours After Halt, Transport Minister Says",
+  "summary": "Prothom Alo reports the Transport Minister announced aircraft are back in US airspace about four hours after a pause.",
+  "body": [
+   "According to Prothom Alo, Transport Minister Shan Dafi told journalists that aircraft have begun operating again in United States airspace roughly four hours after a suspension. The brief interruption had halted commercial and other flights across the country.",
+   "The minister’s statement indicates that normal flight activity is now being restored, allowing airlines to resume services and passengers to travel as scheduled."
+  ],
+  "headline_bn": "যুক্তরাষ্ট্রে চার ঘণ্টা পর ফ্লাইট পুনরায় শুরু, পরিবহনমন্ত্রী জানান",
+  "summary_bn": "প্রতিবেদন অনুযায়ী, পরিবহনমন্ত্রী শান ডাফি জানান চার ঘণ্টা পর আকাশপথে উড়োজাহাজ আবার চলতে শুরু করেছে।",
+  "body_bn": [
+   "প্রোথোম আলোর মতে, পরিবহনমন্ত্রী শান ডাফি সাংবাদিকদের জানান যে যুক্তরাষ্ট্রের আকাশপথে প্রায় চার ঘণ্টা পর উড়োজাহাজ আবার চালু হয়েছে। সাময়িক বন্ধের ফলে দেশের বাণিজ্যিক ও অন্যান্য ফ্লাইট স্থগিত ছিল।",
+   "মন্ত্রীর এই বক্তব্য স্বাভাবিক ফ্লাইট কার্যক্রমের পুনরুদ্ধার নির্দেশ করে, যা এয়ারলাইনগুলোকে সেবা চালিয়ে যাওয়া এবং যাত্রীদের নির্ধারিত সময়ে ভ্রমণ করার সুযোগ দেবে।"
+  ],
+  "image_prompt": "illustration of airplanes flying in clear sky over a generic airport control tower, no people or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/usa/dwntva5kn6",
+  "source_title": "চার ঘণ্টা পর যুক্তরাষ্ট্রে ফ্লাইট চলাচল শুরু, কারণ জানালেন পরিবহনমন্ত্রী",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/usa/dwntva5kn6",
+    "title": "চার ঘণ্টা পর যুক্তরাষ্ট্রে ফ্লাইট চলাচল শুরু, কারণ জানালেন পরিবহনমন্ত্রী"
+   }
+  ],
+  "published": "2026-11-14T02:15:20+00:00",
+  "added": "2026-11-14T02:32:37.771719+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2c6d4a18b97c",
+  "headline": "Netanyahu's Exit May Accelerate US-Israel Rift, Says Prothom Alo",
+  "summary": "Prothom Alo warns that Netanyahu's eventual departure could leave a legacy of strained US ties, undermining Israel's security and welfare.",
+  "body": [
+   "Israeli Prime Minister Benjamin Netanyahu is expected to step down eventually, according to Prothom Alo. The outlet notes that his tenure will be marked by extensive damage inflicted on Israel, its citizens and others.",
+   "Strategically, the publication highlights that the most damaging legacy could be a rapid deterioration of the close and vital relationship with the United States, a factor crucial for Israel's security and welfare."
+  ],
+  "headline_bn": "নেতানিয়াহু পদত্যাগে যুক্তরাষ্ট্র-ইসরায়েল সম্পর্কের ফাটল, প্রোথোম আলো",
+  "summary_bn": "প্রোথোম আলো জানিয়েছে, নেতানিয়াহু যখন ক্ষমতা ছাড়বেন, তখন যুক্তরাষ্ট্রের সঙ্গে সম্পর্কের দ্রুত অবনতি ইসরায়েলের নিরাপত্তা ও কল্যাণকে ক্ষতিগ্রস্ত করতে পারে।",
+  "body_bn": [
+   "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু শেষ পর্যন্ত ক্ষমতা ছাড়বেন, প্রোথোম আলোর মতে। প্রকাশনাটি উল্লেখ করে যে তার শাসনকালে নিজের দেশ, জনগণ এবং অন্যদের ওপর দীর্ঘমেয়াদী ক্ষতি ঘটবে।",
+   "কৌশলগতভাবে, প্রোথোম আলো উল্লেখ করেছে যে সবচেয়ে ক্ষতিকর উত্তরাধিকার হবে যুক্তরাষ্ট্রের সঙ্গে সবচেয়ে ঘনিষ্ঠ ও গুরুত্বপূর্ণ মিত্রের সম্পর্কের দ্রুত অবনতি, যা ইসরায়েলের নিরাপত্তা ও কল্যাণের জন্য গুরুত্বপূর্ণ।"
+  ],
+  "image_prompt": "Illustration of a symbolic broken bridge representing strained Israel‑United States diplomatic ties, with neutral tones, no faces or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/opinion/column/f1vqpbzapo",
+  "source_title": "ওয়াশিংটনের সঙ্গে ইসরায়েলের সম্পর্কে কি ফাটল ধরল",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/opinion/column/f1vqpbzapo",
+    "title": "ওয়াশিংটনের সঙ্গে ইসরায়েলের সম্পর্কে কি ফাটল ধরল"
+   }
+  ],
+  "published": "2026-11-14T02:00:00+00:00",
+  "added": "2026-11-14T02:32:46.316425+00:00",
+  "hidden": false
+ },
+ {
+  "id": "3e61f5f65316",
+  "headline": "Prothom Alo previews new OTT releases, including record‑breaking ‘Jela 2’",
+  "summary": "Prothom Alo’s weekly roundup highlights the latest web series, films, documentaries and reality shows debuting on OTT platforms, featuring the record‑setting ‘Jela 2’.",
+  "body": [
+   "Prothom Alo’s regular weekly segment compiles information on new web series, films, documentaries and reality shows that have debuted this week or are slated for release on over‑the‑top (OTT) platforms.",
+   "The current edition is titled ‘Record‑building ‘Jela 2’, and OTT — what else you’ll see’, signalling that the series ‘Jela 2’ has set a viewership record while the feature also outlines other upcoming titles.",
+   "According to Prothom Alo, the roundup serves as a guide for audiences seeking the latest digital entertainment options across Bangladesh’s streaming services."
+  ],
+  "headline_bn": "প্রথম আলো উপস্থাপন করেছে ‘রেকর্ড গড়া জেলার ২’ সহ নতুন OTT শো রিভিউ",
+  "summary_bn": "প্রথম আলোের সাপ্তাহিক রাউন্ডআপে নতুন ওয়েব সিরিজ, সিনেমা, ডকুমেন্টারি ও রিয়েলিটি শো, বিশেষ করে রেকর্ড‑গড়া ‘জেলা ২’।",
+  "body_bn": [
+   "প্রথম আলো তার নিয়মিত সাপ্তাহিক অনুষ্ঠান দিয়ে ওটিটিতে (OTT) এই সপ্তাহে মুক্তি পাওয়া অথবা মুক্তির অপেক্ষায় থাকা নতুন ওয়েব সিরিজ, সিনেমা, ডকুমেন্টারি ও রিয়েলিটি শো সম্পর্কে তথ্য সংগ্রহ করে উপস্থাপন করে।",
+   "এই সংখ্যার শিরোনাম ‘রেকর্ড গড়া ‘জেলার ২’, এবং ওটিটিতে আরও যা দেখবেন', যা নির্দেশ করে যে ‘জেলার ২’ শোটি দর্শকসংখ্যা রেকর্ড করেছে এবং অন্যান্য আসন্ন শোগুলোরও উল্লেখ করা হয়েছে।",
+   "প্রথম আলোর মতে, এই রাউন্ডআপটি বাংলাদেশের স্ট্রিমিং পরিষেবাগুলোর সর্বশেষ ডিজিটাল বিনোদন বিকল্পগুলি অনুসন্ধানকারী দর্শকদের জন্য একটি গাইড হিসেবে কাজ করে।"
+  ],
+  "image_prompt": "illustration of a TV screen surrounded by icons representing web series, movies, documentaries and reality shows on streaming platforms",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/entertainment/ott/3igp7atsm0",
+  "source_title": "রেকর্ড গড়া ‘জেলার ২’, ওটিটিতে আরও যা দেখবেন",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/entertainment/ott/3igp7atsm0",
+    "title": "রেকর্ড গড়া ‘জেলার ২’, ওটিটিতে আরও যা দেখবেন"
+   }
+  ],
+  "published": "2026-11-14T02:00:00+00:00",
+  "added": "2026-11-14T02:32:56.356084+00:00",
+  "hidden": false
+ },
+ {
+  "id": "7ad9ae912d2a",
+  "headline": "Incident on Rajshahi Medical College Hospital balcony highlights devaluation of human life",
+  "summary": "Prothom Alo says a recent event on the balcony of Rajshahi Medical College Hospital illustrates how human life is perceived as cheap in the country.",
+  "body": [
+   "Prothom Alo reports that a recent incident on the balcony of Rajshahi Medical College Hospital has brought attention to concerns about how human life is valued in the country.",
+   "The outlet notes that many observers claim that life has become the cheapest commodity, and the event on the hospital balcony appears to confirm that perception."
+  ],
+  "headline_bn": "রাজশাহী মেডিকেল কলেজ হাসপাতালের বারান্দার ঘটনা মানব জীবনের অবমূল্যায়নকে তুলে ধরেছে",
+  "summary_bn": "প্রথম আলো জানায়, রাজশাহী মেডিকেল কলেজ হাসপাতালের বারান্দায় সাম্প্রতিক ঘটনার মাধ্যমে দেশের মানব জীবনের মূল্য হ্রাসের প্রতিফলন দেখা গেছে।",
+  "body_bn": [
+   "প্রথম আলো জানায়, রাজশাহী মেডিকেল কলেজ হাসপাতালের বারান্দায় সাম্প্রতিক একটি ঘটনার ফলে দেশের মানব জীবনের মূল্য নিয়ে উদ্বেগ বাড়ছে।",
+   "মাধ্যমটি উল্লেখ করেছে, বহু পর্যবেক্ষক বলেন জীবন এখন সবচেয়ে সস্তা পণ্য, এবং হাসপাতালের বারান্দার ঘটনা এই ধারণাকে পুনরায় নিশ্চিত করেছে।"
+  ],
+  "image_prompt": "Illustration of a hospital balcony with empty railing, conveying neglect and devaluation of human life, no identifiable persons or logos",
+  "category": "Health",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/opinion/column/f819ibmzqd",
+  "source_title": "‘ব্রট ডেথ’ ও একটি অরক্ষিত হাসপাতালের বারান্দা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/opinion/column/f819ibmzqd",
+    "title": "‘ব্রট ডেথ’ ও একটি অরক্ষিত হাসপাতালের বারান্দা"
+   }
+  ],
+  "published": "2026-11-14T01:50:00+00:00",
+  "added": "2026-11-14T02:33:05.693381+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2c20ed361fa3",
+  "headline": "US Federal Aviation Regulator Ends Nationwide Ground Stop After Hours-Long Halt",
+  "summary": "All US airports resume departures after regulator lifts ground stop; officials cite overloaded, outdated systems.",
+  "body": [
+   "The US Federal Aviation Administration lifted a nationwide ground stop that had halted departures at all airports, ending the interruption that lasted several hours.",
+   "Officials from the Trump administration said the pause was caused by overloaded and outdated systems, according to DW."
+  ],
+  "headline_bn": "মার্কিন ফেডারেল এভিয়েশন রেগুলেটর ঘন্টার পর ঘন্টা বন্ধের পর সব বিমানবন্দরে গ্রাউন্ড স্টপ বাতিল",
+  "summary_bn": "সকল বিমানবন্দরে উড্ডয়ন পুনরায় শুরু; কর্মকর্তারা বলছেন সিস্টেম অতিরিক্ত লোডেড ও পুরোনো",
+  "body_bn": [
+   "মার্কিন ফেডারেল এভিয়েশন অ্যাডমিনিস্ট্রেশন সব বিমানবন্দরে গ্রাউন্ড স্টপ বাতিল করেছে, যা ঘন্টার পর ঘন্টা উড্ডয়ন বন্ধ করে রেখেছিল।",
+   "ডিডব্লিউ অনুসারে, ট্রাম্প প্রশাসনের কর্মকর্তারা বলছেন এই বন্ধের কারণ ছিল সিস্টেমের অতিরিক্ত লোড এবং পুরোনো অবস্থা।"
+  ],
+  "image_prompt": "illustration of an airport control tower with planes taxiing and taking off, showing a lifted ground stop",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf",
+  "source_title": "US lifts nationwide ground stop for airports hours after halting all departures",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf",
+    "title": "US lifts nationwide ground stop for airports hours after halting all departures"
+   }
+  ],
+  "published": "2026-11-14T01:41:00+00:00",
+  "added": "2026-11-14T02:33:13.255485+00:00",
+  "hidden": false
+ },
+ {
+  "id": "20af5fff831b",
+  "headline": "Former FAA official says flight grounding is safest amid uncertainty",
+  "summary": "Kyle Bailey, a former FAA safety team representative, told Al Jazeera English that grounding flights is the safest option as the situation remains unclear.",
+  "body": [
+   "According to Al Jazeera English, former FAA safety team representative Kyle Bailey said that nobody really knows what is going on, and that grounding flights is the safest course of action. He emphasized that without a clear understanding of the underlying issues, maintaining the grounding is prudent.",
+   "Bailey's remarks highlight the challenges faced by regulators in assessing risks when information is limited. The call for continued grounding aims to protect passengers and crew until authorities can determine the cause of the uncertainty."
+  ],
+  "headline_bn": "প্রাক্তন FAA কর্মকর্তা বলেন, অনিশ্চিত অবস্থায় ফ্লাইট স্থগিত করা নিরাপদ",
+  "summary_bn": "Al Jazeera English অনুসারে, প্রাক্তন FAA সেফটি টিমের প্রতিনিধি কাইল বেইলি বলেছেন যে পরিস্থিতি অজানা থাকায় ফ্লাইট স্থগিত করা সর্বোত্তম।",
+  "body_bn": [
+   "Al Jazeera English অনুযায়ী, প্রাক্তন FAA সেফটি টিমের প্রতিনিধি কাইল বেইলি বলেছেন যে কেউ সত্যিই জানে না কী ঘটছে, এবং ফ্লাইট স্থগিত করা সবচেয়ে নিরাপদ পদক্ষেপ। তিনি জোর দিয়ে বলেছেন যে মূল সমস্যার স্পষ্ট ধারণা না থাকলে স্থগিত রাখা যুক্তিসঙ্গত।",
+   "বেইলির মন্তব্য নিয়ন্ত্রকদের জন্য সীমিত তথ্যের মধ্যে ঝুঁকি মূল্যায়নের চ্যালেঞ্জকে তুলে ধরে। অব্যাহত স্থগিতের আহ্বান যাত্রী ও ক্রুদের রক্ষা করার উদ্দেশ্যে, যতক্ষণ না কর্তৃপক্ষ অনিশ্চয়তার কারণ নির্ধারণ করে।"
+  ],
+  "image_prompt": "An empty airport runway with grounded airplanes under a cloudy sky",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+  "source_title": "Former FAA official says ‘nobody really knows what is going on’",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+    "title": "Former FAA official says ‘nobody really knows what is going on’"
+   }
+  ],
+  "published": "2026-11-14T01:28:46+00:00",
+  "added": "2026-11-14T02:34:07.395870+00:00",
+  "hidden": false
+ },
+ {
+  "id": "ca848d7e65d0",
+  "headline": "Argentina Falls to Uruguay in Buenos Aires Friendly",
+  "summary": "Argentina, coached by Lionel Scaloni, lost a friendly match against Uruguay in Buenos Aires.",
+  "body": [
+   "Argentina suffered a defeat in a friendly match held in Buenos Aires, failing to secure a win for the national side.",
+   "The loss came against Uruguay, with the Argentine team under the direction of coach Lionel Scaloni."
+  ],
+  "headline_bn": "আর্জেন্টিনা বুয়েনস আইরেসে উরুগুয়ের কাছে হেরেছে",
+  "summary_bn": "লিওনেল স্কালোনির তত্ত্বাবধানে আর্জেন্টিনা উরুগুয়ের সঙ্গে বন্ধুত্বপূর্ণ ম্যাচে পরাজিত হয়েছে।",
+  "body_bn": [
+   "আর্জেন্টিনা বুয়েনস আইরেসে অনুষ্ঠিত একটি বন্ধুত্বপূর্ণ ম্যাচে জয় না পেয়ে পরাজিত হয়েছে।",
+   "এই পরাজয় উরুগুয়ের বিরুদ্ধে ঘটেছে, এবং দলটি লিওনেল স্কালোনির তত্ত্বাবধানে খেলেছে।"
+  ],
+  "image_prompt": "illustration of a soccer stadium with two teams playing, generic crowd, no faces, no logos",
+  "category": "Sports",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/sports/football/j4hmv0kilo",
+  "source_title": "প্রথম কদমেই হার মেসি-পরবর্তী আর্জেন্টিনার",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/sports/football/j4hmv0kilo",
+    "title": "প্রথম কদমেই হার মেসি-পরবর্তী আর্জেন্টিনার"
+   }
+  ],
+  "published": "2026-11-14T01:08:43+00:00",
+  "added": "2026-11-14T02:34:14.936894+00:00",
+  "hidden": false
+ },
+ {
   "id": "79cb7e64297a",
   "headline": "US Grounds All Flights Temporarily Due to Communication System Fault",
   "summary": "All flights in the United States were halted after a communications glitch, marking the second nationwide shutdown since the 2001 attacks.",
