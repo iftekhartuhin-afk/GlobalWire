@@ -1,5 +1,250 @@
 [
  {
+  "id": "86cee693d648",
+  "headline": "Chile's far‑right president Kast faces rising anger over fuel price hikes",
+  "summary": "Fuel price spikes have sparked transport strikes and nationwide protests, intensifying pressure on President José Antonio Kast, NPR reports.",
+  "body": [
+   "Chile's far‑right leader José Antonio Kast is confronting escalating public discontent, NPR World reports. A surge in fuel prices has prompted transport workers to launch strikes and sparked demonstrations in multiple cities across the country.",
+   "The protests highlight broader frustration with living costs, while the transport sector’s shutdown is disrupting travel and commerce nationwide, increasing pressure on the Kast administration to address the fuel crisis."
+  ],
+  "headline_bn": "চিলির দূরদর্শী প্রেসিডেন্ট কাস্টের মুখে জ্বালানি সংকট ও প্রতিবাদ",
+  "summary_bn": "বর্ধিত জ্বালানি মূল্যের ফলে দেশের জুড়ে পরিবহন ধর্মঘট ও প্রতিবাদে প্রেসিডেন্ট কাস্টের প্রতি জনসাধারণের ক্রমবর্ধমান অসন্তোষ।",
+  "body_bn": [
+   "চিলির দূরদর্শী নেতা জোসে আন্তোনিও কাস্ট বর্ধিত জ্বালানি মূল্যের ফলে বাড়তে থাকা জনঅসন্তোষের মুখোমুখি, NPR World জানায়। জ্বালানি দামের উত্থান পরিবহন কর্মীদের ধর্মঘটের দিকে ধাবিত করেছে এবং দেশের বিভিন্ন শহরে প্রতিবাদে রূপান্তরিত হয়েছে।",
+   "প্রতিবাদগুলি জীবনের ব্যয় বৃদ্ধির প্রতি বিস্তৃত অসন্তোষ প্রকাশ করে, আর পরিবহন খাতের বন্ধ হয়ে যাওয়া দেশব্যাপী ভ্রমণ ও বাণিজ্যকে ব্যাহত করছে, ফলে কাস্ট সরকারের উপর জ্বালানি সংকট সমাধানের চাপ বাড়ছে।"
+  ],
+  "image_prompt": "illustration of fuel pumps, protest signs, and stalled buses on a city street, no faces or logos",
+  "category": "Politics",
+  "source": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+  "source_title": "Fuel crisis and protests pressure Chile's far-right president",
+  "sources": [
+   {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+    "title": "Fuel crisis and protests pressure Chile's far-right president"
+   }
+  ],
+  "published": "2026-11-14T16:05:12+00:00",
+  "added": "2026-11-14T16:13:44.484146+00:00",
+  "hidden": false,
+  "image": "data/img/86cee693d648.jpg"
+ },
+ {
+  "id": "aba212013333",
+  "headline": "EU urges Israel to allow UN humanitarian operations in Gaza",
+  "summary": "The European Union demanded that Israel grant immediate access to UN agencies for aid delivery after they were blocked from Gaza.",
+  "body": [
+   "The European Union has called for immediate humanitarian access to Gaza, stating that Israel must enable the work of the United Nations and its agencies to deliver aid.",
+   "The call comes after the United Nations and its agencies were blocked from entering the enclave, a development reported by Al Jazeera English, prompting the EU to urge Israel to lift the restrictions.",
+   "The EU emphasized that unhindered UN operations are essential for addressing the humanitarian situation in Gaza."
+  ],
+  "headline_bn": "ইইউ ইসরায়েলকে গাজায় ইউএন মানবিক কাজের অনুমতি দিতে আহ্বান",
+  "summary_bn": "ইউরোপীয় ইউনিয়ন দাবি করেছে ইসরায়েলকে অবিলম্বে গাজায় ইউএন সংস্থাগুলোর কাজের অনুমতি দিতে, যখন তাদের প্রবেশাধিকার বাধা দেওয়া হয়েছে।",
+  "body_bn": [
+   "ইউরোপীয় ইউনিয়ন গাজায় অবিলম্বে মানবিক প্রবেশের আহ্বান জানিয়েছে, দাবি করেছে ইসরায়েলকে জাতিসংঘ ও তার সংস্থাগুলোর কাজের অনুমতি দিতে।",
+   "এই দাবি এসেছে যখন জাতিসংঘ ও তার সংস্থাগুলোকে গাজায় প্রবেশের অনুমতি থেকে বাধা দেওয়া হয়েছিল, আল জাজিরা ইংলিশের রিপোর্ট অনুসারে, এবং ইইউ ইসরায়েলকে সীমাবদ্ধতা তুলে দিতে বলেছে।",
+   "ইইউ জোর দিয়ে বলেছে যে, সীমাহীন জাতিসংঘের কার্যক্রম গাজায় মানবিক পরিস্থিতি মোকাবেলায় অপরিহার্য।"
+  ],
+  "image_prompt": "illustration of humanitarian aid trucks and UN symbols approaching a war-torn coastal city under a cloudy sky",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+  "source_title": "EU calls for immediate humanitarian access to Gaza",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+    "title": "EU calls for immediate humanitarian access to Gaza"
+   }
+  ],
+  "published": "2026-11-14T15:57:22+00:00",
+  "added": "2026-11-14T16:13:53.348066+00:00",
+  "hidden": false
+ },
+ {
+  "id": "bbcd3df10450",
+  "headline": "Hamza Chowdhury's courtyard in Bahubale becomes a makeshift mini‑stadium",
+  "summary": "A large curtain installed by his father lets villagers watch a game from the yard, reports Prothom Alo.",
+  "body": [
+   "In the village of Bahubale in Habiganj, the courtyard of Hamza Chowdhury’s home has been turned into a makeshift viewing area for a local game, according to Prothom Alo.",
+   "His father has hung a large curtain across the yard, creating a shaded space where residents gather to watch the match. The arrangement resembles a small stadium, with villagers standing and sitting around the curtain to follow the action."
+  ],
+  "headline_bn": "হবিগঞ্জের বাহুবলে হামজার বাড়ি মিনি স্টেডিয়াম রূপে",
+  "summary_bn": "হামজা চৌধুরীর বাড়ির আঙিনায় বড় পর্দা বসিয়ে গ্রামবাসীরা খেলায় মুগ্ধ, প্রথাম আলো রিপোর্ট।",
+  "body_bn": [
+   "হাবিগঞ্জের বাহুবলে গ্রামটি হামজা চৌধুরীর বাড়ির আঙিনাকে স্থানীয় খেলায় দেখার জন্য মিনি স্টেডিয়াম হিসেবে রূপান্তর করেছে, প্রথাম আলো জানায়।",
+   "তার বাবা আঙিনায় বড় পর্দা ঝুলিয়ে শেডেড জায়গা তৈরি করেছেন, যেখানে গ্রামবাসীরা খেলাটি দেখতে একত্রিত হয়। এই ব্যবস্থা ছোট স্টেডিয়ামের মতো, পর্দার চারপাশে মানুষ দাঁড়িয়ে বা বসে ম্যাচের দৃশ্য উপভোগ করে।"
+  ],
+  "image_prompt": "Illustration of a village courtyard with a large curtain and spectators watching a game, simple rural setting",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/a6qq0stnue",
+  "source_title": "হামজার বাড়ি যেন ‘মিনি স্টেডিয়াম’, উঠানে খেলা দেখছেন গ্রামবাসী",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/a6qq0stnue",
+    "title": "হামজার বাড়ি যেন ‘মিনি স্টেডিয়াম’, উঠানে খেলা দেখছেন গ্রামবাসী"
+   }
+  ],
+  "published": "2026-11-14T15:39:29+00:00",
+  "added": "2026-11-14T16:14:00.609798+00:00",
+  "hidden": false
+ },
+ {
+  "id": "c5c97682f131",
+  "headline": "Israeli Forces Occupy Palestinian-American Home in West Bank for 17 Days",
+  "summary": "Al Jazeera English reports Israeli troops took over a Palestinian-American residence in the occupied West Bank for over two weeks.",
+  "body": [
+   "Israeli security forces entered and seized a house owned by a Palestinian-American citizen in the occupied West Bank, keeping the property under military control for a period of 17 days, Al Jazeera English reported.",
+   "The extended occupation of the residence underscores the persistent security and political tensions that characterize the Israeli‑Palestinian conflict in the region, according to the outlet.",
+   "After the 17‑day interval, the forces withdrew, ending the direct military presence in the home, though the broader dispute over such actions remains unresolved."
+  ],
+  "headline_bn": "ইসরায়েলি সেনাবাহিনী ১৭ দিন জেরুজালেমের পশ্চিম তটে প্যালেস্টিনীয়-আমেরিকান বাড়ি দখল করেছে",
+  "summary_bn": "আল জাজিরা ইংলিশের মতে, ইসরায়েলি সৈন্যরা পশ্চিম তটে প্যালেস্টিনীয়-আমেরিকান বাড়ি ১৭ দিন দখল করেছে।",
+  "body_bn": [
+   "ইসরায়েলি নিরাপত্তা বাহিনী পশ্চিম তটে অবস্থিত একটি প্যালেস্টিনীয়-আমেরিকান নাগরিকের বাড়িতে প্রবেশ করে তা দখল করে, এবং আল জাজিরা ইংলিশের রিপোর্ট অনুযায়ী ১৭ দিন পর্যন্ত সামরিক নিয়ন্ত্রণ বজায় রাখে।",
+   "বাড়ির দীর্ঘমেয়াদী দখল অঞ্চলটির নিরাপত্তা ও রাজনৈতিক উত্তেজনা অব্যাহত থাকার ইঙ্গিত দেয়, যা ইসরায়েল-ফিলিস্তিন সংঘাতের বৈশিষ্ট্য।",
+   "১৭ দিনের পর সেনাবাহিনী বাড়ি থেকে সরে যায়, সরাসরি সামরিক উপস্থিতি শেষ হয়, তবে এ ধরনের পদক্ষেপের উপর বিস্তৃত বিতর্ক এখনও সমাধান হয়নি।"
+  ],
+  "image_prompt": "illustration of a house in a West Bank setting with military vehicles and soldiers surrounding it, no faces or logos",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+  "source_title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+    "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home"
+   }
+  ],
+  "published": "2026-11-14T15:36:37+00:00",
+  "added": "2026-11-14T16:14:09.288651+00:00",
+  "hidden": false
+ },
+ {
+  "id": "70362dc4d21f",
+  "headline": "34 Residents Protest Attempted Seizure of Dhirendra Nath Dutta’s Home in Kumilla",
+  "summary": "According to Prothom Alo, Dhirendra Nath Dutta’s family says an attempted takeover of his house in Jhautala, Kumilla has sparked a 34‑person protest demanding protection.",
+  "body": [
+   "In the Jhautala area of Kumilla city, a group of 34 citizens gathered to protest after the family of Dhirendra Nath Dutta said an attempt was being made to seize his house.",
+   "The demonstrators demanded that authorities provide protection for the property, warning that the alleged takeover could threaten the safety of the occupants, Prothom Alo reported.",
+   "The gathering highlights local concerns over property rights and the need for law enforcement to intervene, according to the same Prothom Alo report."
+  ],
+  "headline_bn": "কুমিল্লা ঝাউতলা এলাকায় ধীরেন্দ্রনাথ দত্তের বাড়ি দখলের প্রতিবাদে ৩৪ জন নাগরিকের দাবি",
+  "summary_bn": "প্রথম আলো অনুযায়ী, ধীরেন্দ্রনাথ দত্তের পরিবার বাড়ি দখলের অভিযোগে নিরাপত্তা চেয়েছেন।",
+  "body_bn": [
+   "কুমিল্লা শহরের ঝাউতলা এলাকায় ৩৪ জন নাগরিক একত্রিত হয়ে ধীরেন্দ্রনাথ দত্তের বাড়ি দখলের অভিযোগের প্রতিবাদে সমবেত হয়।",
+   "পরিবারের দাবি অনুযায়ী, বাড়ি দখলের প্রচেষ্টা চলছে এবং প্রদর্শকরা নিরাপত্তা নিশ্চিত করার আহ্বান জানিয়েছেন, প্রথম আলো রিপোর্ট করেছে।",
+   "এই প্রতিবাদ স্থানীয় সম্পত্তি অধিকারের উদ্বেগ ও আইন প্রয়োগের প্রয়োজনীয়তা তুলে ধরে, একই প্রথম আলো প্রতিবেদনে উল্লেখ করা হয়েছে।"
+  ],
+  "image_prompt": "Illustration of a crowd of people holding signs outside a house in a South Asian town",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/a1x9kie3fd",
+  "source_title": "ধীরেন্দ্রনাথ দত্তের বাড়ি দখলের অপপ্রয়াসের প্রতিবাদ, সুরক্ষার দাবি ৩৪ নাগরিকের",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/a1x9kie3fd",
+    "title": "ধীরেন্দ্রনাথ দত্তের বাড়ি দখলের অপপ্রয়াসের প্রতিবাদ, সুরক্ষার দাবি ৩৪ নাগরিকের"
+   }
+  ],
+  "published": "2026-11-14T15:28:20+00:00",
+  "added": "2026-11-14T16:14:22.205736+00:00",
+  "hidden": false
+ },
+ {
+  "id": "36dbc6b16975",
+  "headline": "DW journalists Jaafar Abdul Karim and Katja Gloger receive Werner Holzer Prize",
+  "summary": "According to DW, journalist Jaafar Abdul Karim and Russia correspondent Katja Gloger have been honored with the Werner Holzer Prize for international journalism.",
+  "body": [
+   "DW reports that its journalist Jaafar Abdul Karim and Russia correspondent Katja Gloger have been awarded the prestigious Werner Holzer Prize for international journalism.",
+   "The award recognises both journalists for their contributions to reporting on global issues."
+  ],
+  "headline_bn": "DW-র সাংবাদিক জাফার আবদুল করিম ও রাশিয়া প্রতিবেদক কাটজা গ্লগারকে ওয়্যারনার হোলজার পুরস্কার",
+  "summary_bn": "DW অনুযায়ী, জাফার আবদুল করিম এবং কাটজা গ্লগারকে আন্তর্জাতিক সাংবাদিকতার জন্য ওয়্যারনার হোলজার পুরস্কার প্রদান করা হয়েছে।",
+  "body_bn": [
+   "DW জানিয়েছে যে তার সাংবাদিক জাফার আবদুল করিম এবং রাশিয়া প্রতিবেদক কাটজা গ্লগারকে আন্তর্জাতিক সাংবাদিকতার ক্ষেত্রে বিশিষ্ট ওয়্যারনার হোলজার পুরস্কার প্রদান করা হয়েছে।",
+   "এই স্বীকৃতি উভয় সাংবাদিকের আন্তর্জাতিক সংবাদ কভারেজে অবদানের স্বীকৃতি হিসেবে বিবেচিত হচ্ছে।"
+  ],
+  "image_prompt": "A symbolic trophy on a podium beside a globe and a microphone, representing an international journalism award",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Werner Holzer Prize awarded to Katja Gloger and DW's Jaafar Abdul Karim",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-rdf",
+    "title": "Werner Holzer Prize awarded to Katja Gloger and DW's Jaafar Abdul Karim"
+   }
+  ],
+  "published": "2026-11-14T15:24:00+00:00",
+  "added": "2026-11-14T16:14:29.349202+00:00",
+  "hidden": false
+ },
+ {
+  "id": "d76b98b80e0e",
+  "headline": "Voyager 1 Set to Reach One Light-Day Distance, NASA Confirms",
+  "summary": "Al Jazeera English reports the 1977‑launched probe will mark a new distance milestone while still sending data to NASA.",
+  "body": [
+   "According to Al Jazeera English, NASA’s Voyager 1, launched in 1977, is on track to become the first spacecraft to travel a distance of one light‑day from Earth. The probe continues to transmit scientific data back to a team of NASA researchers despite its extreme distance. Reaching this milestone highlights the longevity of the mission and its ongoing contribution to space science. The achievement underscores the durability of the spacecraft’s power source and its ability to operate far beyond the outer planets. Scientists monitor the signal to study interstellar conditions as Voyager 1 moves farther into the galaxy."
+  ],
+  "headline_bn": "ভয়েজার ১ এক লাইট-ডে দূরত্বে পৌঁছাবে, নাসা নিশ্চিত করেছে",
+  "summary_bn": "আল জাজিরা ইংলিশ জানাচ্ছে ১৯৭৭ সালে উৎক্ষেপিত এই প্রকল্পটি নতুন দূরত্বের মাইলফলক ছুঁয়ে নাসার কাছে ডেটা পাঠাতে থাকবে।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের মতে, নাসার ভয়েজার ১, যা ১৯৭৭ সালে উৎক্ষেপণ করা হয়েছিল, এক লাইট‑ডে দূরত্বে পৌঁছানোর পথে রয়েছে, যা পৃথিবী থেকে প্রথম স্পেসক্রাফটের এই মাইলফলক। এই প্রোব এখনও নাসার গবেষকদের কাছে বৈজ্ঞানিক ডেটা প্রেরণ করে, যদিও এটি বিশাল দূরত্বে রয়েছে। এই সাফল্য প্রোবের শক্তি উৎসের স্থায়িত্ব এবং বহির্গ্রহীয় গ্রহের বাইরে কাজ করার সক্ষমতা তুলে ধরে। বিজ্ঞানীরা সিগন্যাল পর্যবেক্ষণ করে আন্তঃনক্ষত্রীয় পরিবেশ অধ্যয়ন করেন, যখন ভয়েজার ১ গ্যালাক্সির দিকে আরও দূরে অগ্রসর হয়।"
+  ],
+  "image_prompt": "illustration of a distant space probe traveling through deep space with stars, no faces, logos or text",
+  "category": "Science",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
+  "source_title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
+    "title": "NASA’s Voyager 1 to hit new space distance record of one light-day"
+   }
+  ],
+  "published": "2026-11-14T15:14:54+00:00",
+  "added": "2026-11-14T16:14:38.214049+00:00",
+  "hidden": false
+ },
+ {
+  "id": "913b219153a6",
+  "headline": "Stelco to recall 175 workers after government pressure, promises back pay",
+  "summary": "Al Jazeera reports Stelco will bring back 175 laid‑off workers and provide back pay after the Canadian government intervened.",
+  "body": [
+   "Canada’s steelmaker Stelco announced it will recall 175 workers following pressure from the federal government, according to Al Jazeera English.",
+   "The company also said it will pay back wages to those affected by recent layoffs, which its U.S. parent attributed to tariffs, weak demand and increased imports."
+  ],
+  "headline_bn": "স্টেলকো ১৭৫ কর্মীকে পুনরায় ডাকার সিদ্ধান্ত, সরকারী চাপের পর বেক-পে প্রতিশ্রুতি",
+  "summary_bn": "আল জাজিরা জানায়, স্টেলকো সরকারী হস্তক্ষেপের পর ১৭৫ কর্মীকে পুনরায় ডেকে বেক-পে দেবে।",
+  "body_bn": [
+   "কানাডার ইস্পাত কোম্পানি স্টেলকো সরকারী চাপের ফলে ১৭৫ জন কর্মীকে পুনরায় ডাকার পরিকল্পনা জানিয়েছে, আল জাজিরা ইংলিশ রিপোর্ট করেছে।",
+   "কোম্পানি অতিরিক্তভাবে বলেছে যে, সাম্প্রতিক ছাঁটাইয়ের জন্য বেক-পে প্রদান করা হবে, যা এর মার্কিন মালিক ট্যারিফ, দুর্বল চাহিদা ও আমদানি বৃদ্ধিকে দোষারোপ করেছিল।"
+  ],
+  "image_prompt": "Illustration of a steel mill with workers and machinery, showing a recall notice and financial documents, no faces or logos",
+  "category": "Business",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
+  "source_title": "Canada’s Stelco to recall 175 workers after government pressure",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
+    "title": "Canada’s Stelco to recall 175 workers after government pressure"
+   }
+  ],
+  "published": "2026-11-14T15:06:52+00:00",
+  "added": "2026-11-14T16:14:46.593838+00:00",
+  "hidden": false
+ },
+ {
   "id": "20a3bb8193fd",
   "headline": "Hungary investigators seize hidden cash in Orban graft probe",
   "summary": "DW reports that investigators uncovered bundles of banknotes hidden in forests and buildings during a probe into a former minister’s alleged bribe-taking.",
