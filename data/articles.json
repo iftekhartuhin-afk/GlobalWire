@@ -1,5 +1,262 @@
 [
  {
+  "id": "fe7d15a5c1bf",
+  "headline": "Modi to attend ASEAN meeting and Quad summit in Manila",
+  "summary": "India's Prime Minister Narendra Modi is traveling to Manila for the ASEAN gathering and is expected to join the Quad leaders' summit, DW reports.",
+  "body": [
+   "Indian Prime Minister Narendra Modi is set to travel to Manila for the Association of Southeast Asian Nations (ASEAN) meeting, according to DW.",
+   "DW adds that Modi is also likely to take part in the Quad leaders' summit, involving the United States, Japan and Australia, which will be held on the sidelines of the ASEAN summit."
+  ],
+  "headline_bn": "মডি ম্যানিলায় ASEAN সভা ও কোয়াড শীর্ষ সম্মেলনে অংশ নেবেন",
+  "summary_bn": "DW অনুসারে, ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি ম্যানিলায় ASEAN সভা এবং কোয়াড শীর্ষ সম্মেলনে অংশগ্রহণের পরিকল্পনা করছেন।",
+  "body_bn": [
+   "DW জানিয়েছে, ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি ম্যানিলায় অনুষ্ঠিত ASEAN সভায় অংশ নিতে যাচ্ছেন।",
+   "DW আরও উল্লেখ করেছে যে, মডি যুক্তরাষ্ট্র, জাপান এবং অস্ট্রেলিয়া অন্তর্ভুক্ত কোয়াড শীর্ষ সম্মেলনে, যা ASEAN সভার পাশাপাশি অনুষ্ঠিত হবে, অংশগ্রহণের সম্ভাবনা রয়েছে।"
+  ],
+  "image_prompt": "Illustration of a conference hall in Manila with symbols of ASEAN and Quad nations, no faces or logos",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/india-news-modi-heads-to-asean-meet-in-manila/live-79954596?maca=en-rss-en-all-1573-rdf",
+  "source_title": "India news: Modi heads to ASEAN meet in Manila",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/india-news-modi-heads-to-asean-meet-in-manila/live-79954596?maca=en-rss-en-all-1573-rdf",
+    "title": "India news: Modi heads to ASEAN meet in Manila"
+   }
+  ],
+  "published": "2026-11-16T06:23:00+00:00",
+  "added": "2026-11-16T06:55:58.012312+00:00",
+  "hidden": false
+ },
+ {
+  "id": "f5352c43facd",
+  "headline": "Khulna sees no new terrorism, recalls past violence, says Prothom Alo",
+  "summary": "Prothom Alo reports that Khulna has not faced new terrorism, recalling 1980s-90s fear empire and early‑2000s extremist attacks, highlighted by the 2004 journalist murders.",
+  "body": [
+   "Prothom Alo notes that Khulna is not experiencing new terrorism. In the 1980s and 1990s, Ershad Shikdar Ghat, river and land areas were turned into a fear empire.",
+   "At the start of the 2000s, extremist groups carried out killings, bombings and arson that shook the city. The 2004 murders of journalists Manik Saha and Humayun Kabir Balu are cited as emblematic of that period."
+  ],
+  "headline_bn": "খুলনায় নতুন সন্ত্রাস দেখা যায় না, অতীতের সহিংসতা স্মরণ করিয়ে দিল প্রথাম আলো",
+  "summary_bn": "প্রথাম আলো জানিয়েছে খুলনা নতুন সন্ত্রাসের মুখোমুখি নয়, ৮০‑৯০ দশকের ভয়ভীত সাম্রাজ্য ও ২০০০‑এর শুরুর চরমপন্থী হামলা, ২০০৪ সালের সাংবাদিক হত্যাকাণ্ডের কথা উল্লেখ করে।",
+  "body_bn": [
+   "প্রথাম আলোর প্রতিবেদনে বলা হয়েছে যে খুলনা বর্তমানে নতুন কোনো সন্ত্রাসের সম্মুখীন হচ্ছে না। ১৯৮০ ও ১৯৯০ দশকে এরশাদ শিকদার ঘাট, নদী ও জমি জুড়ে একটি ভয়ভীত সাম্রাজ্য গড়ে উঠেছিল।",
+   "২০০০-এর প্রথম দশকের শুরুর দিকে চরমপন্থী গোষ্ঠীগুলি হত্যাকাণ্ড, বোমা হামলা এবং অগ্নিসংযোগে শহরকে কাঁপিয়ে তুলেছিল। ২০০৪ সালে সাংবাদিক মানিক সাহা ও হুমায়ুন কবীর বালুর হত্যাকাণ্ড সেই সময়ের প্রতীক হিসেবে উল্লেখ করা হয়েছে।"
+  ],
+  "image_prompt": "A stylized city skyline with dark clouds and subtle symbols of past conflict, no faces, flags, logos, or text",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/opinion/column/i60qvlonzp",
+  "source_title": "খুলনায় রাষ্ট্র আসলে কোথায়",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/opinion/column/i60qvlonzp",
+    "title": "খুলনায় রাষ্ট্র আসলে কোথায়"
+   }
+  ],
+  "published": "2026-11-16T06:14:22+00:00",
+  "added": "2026-11-16T06:56:07.586460+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4ba7423c9a6d",
+  "headline": "US sees 10,000 flights delayed or cancelled as JetBlue and American cut schedules",
+  "summary": "Prothom Alo reports JetBlue cancelled 28% of flights and American Airlines 17% on Sunday, contributing to roughly 10,000 disruptions.",
+  "body": [
+   "Yesterday, the United States experienced significant flight disruptions, with about 10,000 flights delayed or cancelled, according to Prothom Alo.",
+   "JetBlue announced the cancellation of 28% of its scheduled flights, while American Airlines cancelled 17% of its flights on Sunday, intensifying the operational standstill."
+  ],
+  "headline_bn": "যুক্তরাষ্ট্রে ১০,০০০ ফ্লাইট বিলম্বিত বা বাতিল, জেটব্লু ও আমেরিকান এয়ারলাইনসের শিডিউল কাটে",
+  "summary_bn": "প্রথম আলো জানায়, রবিবার জেটব্লু ২৮% এবং আমেরিকান এয়ারলাইনস ১৭% ফ্লাইট বাতিল করেছে, ফলে প্রায় ১০,০০০ ফ্লাইটে বিঘ্ন ঘটেছে।",
+  "body_bn": [
+   "গতকাল যুক্তরাষ্ট্রে প্রায় ১০,০০০ ফ্লাইট বিলম্বিত বা বাতিল হয়েছে, প্রথম আলো রিপোর্ট করেছে।",
+   "জেটব্লু তাদের নির্ধারিত ফ্লাইটের ২৮ শতাংশ বাতিল করেছে, আর আমেরিকান এয়ারলাইনস ১৭ শতাংশ ফ্লাইট বাতিল করেছে, যা দেশের বিমান চলাচলে বিশাল প্রভাব ফেলেছে।"
+  ],
+  "image_prompt": "illustration of crowded airport with delayed flights, empty gates and grounded planes, no faces or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/usa/xeekgrggnj",
+  "source_title": "যুক্তরাষ্ট্রে গতকাল ১০ হাজার ফ্লাইট বিলম্বিত বা বাতিল হয়েছে, কবে কাটবে অচলাবস্থা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/usa/xeekgrggnj",
+    "title": "যুক্তরাষ্ট্রে গতকাল ১০ হাজার ফ্লাইট বিলম্বিত বা বাতিল হয়েছে, কবে কাটবে অচলাবস্থা"
+   }
+  ],
+  "published": "2026-11-16T06:06:18+00:00",
+  "added": "2026-11-16T06:56:15.656513+00:00",
+  "hidden": false
+ },
+ {
+  "id": "5e1a577cfb95",
+  "headline": "Barber Returns After Two and a Half Years, Known for Multitasking Skills",
+  "summary": "The barber, described as a versatile problem‑solver who can handle many tasks and be in the right place at the right time, has come back.",
+  "body": [
+   "According to Prothom Alo, a barber who disappeared for two and a half years has reappeared. The report highlights his reputation for handling numerous tasks simultaneously.",
+   "The outlet notes that he consistently arrives at the appropriate moment and location, and is regarded as a problem‑solver. No further details were provided.",
+   "Observers suggest his ability to manage many responsibilities at once could benefit the community he serves, though specifics remain unclear.",
+   "The report emphasizes his capacity to perform a thousand tasks at once, underscoring a rare versatility among local service providers."
+  ],
+  "headline_bn": "আড়াই শ বছর পর ফিরে আসা নাপিত, বহু কাজের দক্ষতা নিয়ে",
+  "summary_bn": "প্রতিবেদন অনুযায়ী, নাপিতটি বহু কাজ একসঙ্গে করতে পারেন এবং সঠিক সময়ে সঠিক জায়গায় উপস্থিত হন।",
+  "body_bn": [
+   "প্রোথোম আলোর মতে, দুই বছর অর্ধেক সময়ের জন্য অদৃশ্য ছিলেন এমন নাপিতটি এখন ফিরে এসেছেন। প্রতিবেদনে তার একসঙ্গে হাজার কাজ করার ক্ষমতা উল্লেখ করা হয়েছে।",
+   "সংবাদটি জানায় যে তিনি সর্বদা সঠিক সময়ে এবং সঠিক স্থানে উপস্থিত হন এবং সমস্যার সমাধানকারী হিসেবে পরিচিত। অতিরিক্ত কোনো তথ্য দেওয়া হয়নি।",
+   "পর্যবেক্ষকরা বলছেন, তার বহুমুখী কাজের দক্ষতা স্থানীয় সম্প্রদায়ের জন্য উপকারী হতে পারে, যদিও বিশদ স্পষ্ট নয়।",
+   "প্রতিবেদনটি তার একসঙ্গে হাজার কাজ করার ক্ষমতা তুলে ধরে, যা স্থানীয় সেবা প্রদানকারীদের মধ্যে বিরল বলে বিবেচিত।"
+  ],
+  "image_prompt": "illustration of a barber shop with tools, an empty chair, and a clock showing elapsed time, no people faces",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/pjkjk6dyp4",
+  "source_title": "আড়াই শ বছর পর ফিরে এলেন এক নাপিত, কী তাঁর গল্প",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/pjkjk6dyp4",
+    "title": "আড়াই শ বছর পর ফিরে এলেন এক নাপিত, কী তাঁর গল্প"
+   }
+  ],
+  "published": "2026-11-16T06:01:57+00:00",
+  "added": "2026-11-16T06:56:25.068995+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2e16555496ef",
+  "headline": "Late-night return leaves only two to three hours of sleep, report says",
+  "summary": "Prothom Alo reports a midnight arrival followed by preparation for the next day and sleep around 1‑1:30 am.",
+  "body": [
+   "According to Prothom Alo, an individual returned home at midnight and then organized clothing and other essential items for the following day.",
+   "The person subsequently took a shower and went to bed between 1:00 and 1:30 am, leaving only two to three hours of sleep.",
+   "The title’s reference to the brief sleep window underscores a tight schedule and limited rest."
+  ],
+  "headline_bn": "রাত ১২টায় বাড়ি ফেরার পর মাত্র দুই‑তিন ঘণ্টা ঘুম, প্রতিবেদন",
+  "summary_bn": "প্রথম আলো জানায়, রাত ১২টায় ফিরে পোশাক গুছিয়ে গোসলের পর ১‑১:৩০ টায় শোয়া হয়",
+  "body_bn": [
+   "প্রথম আলো অনুসারে, একজন ব্যক্তি রাত ১২টায় বাড়ি ফিরে পরদিনের পোশাক ও অন্যান্য প্রয়োজনীয় জিনিসপত্র গুছিয়েছেন।",
+   "এরপর তিনি গোসল করে রাত ১টা থেকে ১টা-৩০ মিনিটের মধ্যে শোয়েছেন, ফলে ঘুমের সময় মাত্র দুই থেকে তিন ঘণ্টা বাকি থাকে।",
+   "শিরোনামে উল্লেখিত এই সংক্ষিপ্ত বিশ্রাম সময়সূচি তার তীব্র রুটিনের ইঙ্গিত দেয়।"
+  ],
+  "image_prompt": "A nighttime indoor scene showing a clock at midnight, clothes laid out, a shower, and a person heading to bed",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/entertainment/tv/2nbv7js066",
+  "source_title": "ঘুমানোর জন্য দুই থেকে তিন ঘণ্টা থাকে...",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/entertainment/tv/2nbv7js066",
+    "title": "ঘুমানোর জন্য দুই থেকে তিন ঘণ্টা থাকে..."
+   }
+  ],
+  "published": "2026-11-16T06:00:00+00:00",
+  "added": "2026-11-16T06:56:33.068295+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2c0ad2d3c5e7",
+  "headline": "Three Universities Schedule Entrance Exams on Same Day, Sparking Student Anxiety",
+  "summary": "Students express anxiety and disappointment as three universities confirm identical exam dates, Prothom Alo reports.",
+  "body": [
+   "According to Prothom Alo, three universities have confirmed that their entrance examinations will be held on the same day. The overlapping schedule affects candidates seeking admission to these institutions.",
+   "The concurrent dates have led to anxiety and disappointment among prospective students, who now face the challenge of preparing for multiple exams simultaneously."
+  ],
+  "headline_bn": "একই দিনে তিনটি বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষা, শিক্ষার্থীদের উদ্বেগ",
+  "summary_bn": "প্রবেশিক পরীক্ষার তারিখ একই হওয়ায় শিক্ষার্থীরা উদ্বেগ ও হতাশা প্রকাশ করেছে, প্রোথোম আলো জানায়।",
+  "body_bn": [
+   "প্রোথোম আলোর মতে, তিনটি বিশ্ববিদ্যালয় একই দিনে ভর্তি পরীক্ষা অনুষ্ঠিত হবে বলে তারিখ নিশ্চিত করেছে। এই সমন্বয় প্রার্থীদের জন্য একাধিক পরীক্ষার প্রস্তুতি কঠিন করে তুলছে।",
+   "একই সময়ে পরীক্ষা হওয়ায় শিক্ষার্থীদের মধ্যে উদ্বেগ ও হতাশা দেখা দিয়েছে, কারণ তারা একসাথে দুটি বা ততোধিক পরীক্ষার জন্য প্রস্তুত হতে বাধ্য।"
+  ],
+  "image_prompt": "illustration of students with exam books and calendars showing overlapping dates, generic academic setting",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/education/admission/sopv7g6sp3",
+  "source_title": "একই দিনে তিন বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা, বিপাকে ভর্তি–ইচ্ছুকেরা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/education/admission/sopv7g6sp3",
+    "title": "একই দিনে তিন বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা, বিপাকে ভর্তি–ইচ্ছুকেরা"
+   }
+  ],
+  "published": "2026-11-16T06:00:00+00:00",
+  "added": "2026-11-16T06:56:40.702108+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2afc0f112f85",
+  "headline": "Megaspeed confirms Chinese executive Alice Huang left in August 2025 amid Nvidia scandal",
+  "summary": "The Singapore-based firm said Alice Huang, alleged Chinese spy linked to former Nvidia CEO Jensen Huang, officially departed in August 2025, deepening the ongoing scandal.",
+  "body": [
+   "Megaspeed, a Singapore-based firm, announced that Alice Huang left the company in August 2025, a statement that aligns with reporting by Al Jazeera English.",
+   "France 24 reported that Huang, described as an alleged Chinese spy who had an affair with former Nvidia CEO Jensen Huang, was under investigation for chip smuggling. The scandal has raised questions about U.S. government awareness, with claims that Trump was warned about the affair but did not act, as noted by analyst Laïla Mörch, CEO of Shael and tech investor in Paris."
+  ],
+  "headline_bn": "মেগাস্পিড নিশ্চিত করেছে, চীনা নির্বাহী অ্যালিস হুয়াং আগস্ট ২০২৫-এ ত্যাগ করেছেন, এনভিডিয়া কেলেঙ্কারিতে",
+  "summary_bn": "সিঙ্গাপুর-ভিত্তিক কোম্পানি জানিয়েছে, জেনসেন হুয়াংয়ের সঙ্গে সম্পর্কযুক্ত সন্দেহভাজন চীনা গুপ্তচর অ্যালিস হুয়াং আগস্ট ২০২৫-এ অফিসিয়ালি পদত্যাগ করেছেন, কেলেঙ্কারিকে আরও তীব্র করেছে।",
+  "body_bn": [
+   "মেগাস্পিড, সিঙ্গাপুরে অবস্থিত একটি ফার্ম, আল জাজিরা ইংলিশের মতে অ্যালিস হুয়াং আগস্ট ২০২৫-এ কোম্পানি ছেড়েছেন বলে জানিয়েছে।",
+   "ফ্রান্স ২৪ রিপোর্ট করেছে যে হুয়াং, যাকে চীনা গুপ্তচর হিসেবে সন্দেহ করা হয় এবং প্রাক্তন এনভিডিয়া সিইও জেনসেন হুয়াংয়ের সঙ্গে রোমান্টিক সম্পর্ক ছিল, চিপ চোরাচালানের জন্য তদন্তের মুখে ছিলেন। স্ক্যান্ডেলটি যুক্তরাষ্ট্রের সরকারের জ্ঞান নিয়ে প্রশ্ন তুলেছে; ট্রাম্পকে সম্পর্কের বিষয়ে সতর্ক করা হয়েছিল কিন্তু তিনি কোনো পদক্ষেপ নেননি, বিশ্লেষক লায়লা মর্চের মন্তব্যে উল্লেখ করা হয়েছে।"
+  ],
+  "image_prompt": "Corporate office building with abstract tech symbols and a departing silhouette, no faces, flags, logos or text",
+  "category": "Technology",
+  "source": "Al Jazeera English, France 24",
+  "source_url": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss",
+  "source_title": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss",
+    "title": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/chinese-spy-chip-sales-trump-ties-the-nvidia-scandal-deepens",
+    "title": "Chinese spy, chip sales, Trump ties... The Nvidia scandal deepens"
+   }
+  ],
+  "published": "2026-11-16T04:46:49+00:00",
+  "added": "2026-11-16T06:55:41.989505+00:00",
+  "hidden": false,
+  "image": "data/img/2afc0f112f85.jpg"
+ },
+ {
+  "id": "4f2e859acfa6",
+  "headline": "Hundreds of Thousands Protest Czech Plan to State‑Fund Public Media",
+  "summary": "Thousands gathered in Prague on Sunday to oppose a government move to replace licence fees with direct state funding, citing threats to media independence.",
+  "body": [
+   "On Sunday, hundreds of thousands of Czechs assembled in Prague to demonstrate against a proposed change to public‑media financing. The government intends to replace the current licence‑fee system with direct funding from the state, a move critics argue could compromise the independence of broadcasters.",
+   "Organisers claim the turnout surpassed a March protest that attracted more than 200,000 participants, potentially making the rally the largest public demonstration since the 1989 Velvet Revolution. The concern expressed by demonstrators aligns with reports from Al Jazeera, which highlighted fears that state‑controlled financing may increase governmental influence over media outlets."
+  ],
+  "headline_bn": "প্রাগে শত‑হাজার মানুষ গণমাধ্যমের রাষ্ট্র‑অর্থায়ন পরিকল্পনার বিরোধে প্রতিবাদ",
+  "summary_bn": "প্রাগে হাজারো মানুষ রবিবার লাইসেন্স ফি বদলে সরাসরি রাষ্ট্রের তহবিলের পরিকল্পনা বিরোধে একত্রিত হয়ে মিডিয়ার স্বাধীনতা ঝুঁকির কথা তুলে ধরেছে।",
+  "body_bn": [
+   "রবিবার প্রাগে শত‑হাজারেরও বেশি চেক নাগরিক গণমাধ্যমের অর্থায়ন পদ্ধতি পরিবর্তনের বিরোধে সমাবেশ করেন। সরকার বর্তমান লাইসেন্স ফি ব্যবস্থা বাতিল করে সরাসরি রাষ্ট্রের তহবিল প্রদান করার পরিকল্পনা করেছে, যা সমালোচকরা মিডিয়া সংস্থার স্বাধীনতাকে হুমকি হিসেবে দেখছেন।",
+   "আয়োজকরা দাবি করেন, এই প্রতিবাদে অংশগ্রহণের সংখ্যা মার্চে ২০০,০০০ের বেশি অংশগ্রহণকারী প্রতিবাদকে ছাড়িয়ে গেছে, এবং ১৯৮৯ সালের ভেলভেট বিপ্লবের পর সর্ববৃহৎ প্রতিবাদ হতে পারে। আল জাজিরা ইংরেজি প্রতিবেদনের মতে, রাষ্ট্রের তহবিলের দিকে স্থানান্তর সরকারী প্রভাব বাড়াতে পারে বলে উদ্বেগ প্রকাশ করা হয়েছে।"
+  ],
+  "image_prompt": "large crowd of protesters in a city square holding banners, with buildings in background, no faces, flags, logos or text",
+  "category": "Politics",
+  "source": "France 24, Al Jazeera English",
+  "source_url": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan",
+  "source_title": "Hundreds of thousands of Czechs protest in Prague over public media funding plan",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan",
+    "title": "Hundreds of thousands of Czechs protest in Prague over public media funding plan"
+   },
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+    "title": "Czechs rally against gov’t threat to media independence"
+   }
+  ],
+  "published": "2026-11-16T02:28:13+00:00",
+  "added": "2026-11-16T06:55:50.547151+00:00",
+  "hidden": false
+ },
+ {
   "id": "8668d6d7cd9f",
   "headline": "Musk, Uber co‑founder join 158,000‑strong petition to reinstate Nvidia CEO Jensen Huang",
   "summary": "More than 158,000 signatories, including Elon Musk, demand Jensen Huang’s return pending an independent probe.",
@@ -15317,102 +15574,6 @@
   "source_title": "Bolsonaro says police demand passports after Brazil election defeat",
   "published": "2026-10-26T23:53:45+00:00",
   "added": "2026-10-27T03:30:07.381834+00:00",
-  "hidden": false
- },
- {
-  "id": "88016e2dab13",
-  "headline": "Jordanian airstrikes hit southern Syria following church attack",
-  "summary": "Jordan's air force launched multiple strikes in southern Syria. The military action came as a direct response to a church attack that occurred on Friday.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-  "source_title": "Jordan attacks Syria in response to Karak church attack",
-  "published": "2026-10-26T23:48:51+00:00",
-  "added": "2026-10-27T01:05:12.956125+00:00",
-  "hidden": false
- },
- {
-  "id": "7794675dac04",
-  "headline": "Harry Kane and Alexia Putellas claim Ballon d'Or honors",
-  "summary": "Harry Kane has won the Ballon d'Or following a 73-goal season, becoming the first English victor in 25 years. Meanwhile, Alexia Putellas secured her third women's award after leading Barcelona to Champions League victory.",
-  "category": "Sports",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas",
-  "source_title": "Harry Kane ends England's 25-year Ballon d'Or drought, Putellas wins third crown",
-  "published": "2026-10-26T23:45:07+00:00",
-  "added": "2026-10-27T01:05:46.368605+00:00",
-  "hidden": false
- },
- {
-  "id": "e8d380bb4d54",
-  "headline": "Major European NATO nations commit to enhanced security role",
-  "summary": "Five leading European NATO states announced plans in Paris to assume greater responsibility for regional defense. Defense ministers from Britain, France, Germany, Italy, and Poland also confirmed their commitment to maintaining a strong partnership with the United States.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/europe/20261026-europe-nato-defence-responsibility-us-alliance",
-  "source_title": "Europe's top NATO powers pledge greater defence role, reaffirm US alliance",
-  "published": "2026-10-26T23:33:06+00:00",
-  "added": "2026-10-27T01:06:19.724862+00:00",
-  "hidden": false
- },
- {
-  "id": "8f76b61143d9",
-  "headline": "Mecca pact nations hold diplomatic talks with Iran",
-  "summary": "Senior officials from Saudi Arabia, Turkey, and Pakistan met in Iran on Monday. The diplomatic effort aims to prevent a new war in the Middle East following warnings of renewed hostilities.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
-  "source_title": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
-  "published": "2026-10-26T23:24:17+00:00",
-  "added": "2026-10-27T01:07:26.001429+00:00",
-  "hidden": false
- },
- {
-  "id": "4a01c051dc06",
-  "headline": "Players clash following Istanbul football derby",
-  "summary": "A large fight broke out involving members of the Turkish football clubs Galatasaray and Fenerbahce. The violent incident followed the conclusion of the Istanbul derby match.",
-  "category": "Sports",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
-  "source_title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
-  "published": "2026-10-26T23:18:31+00:00",
-  "added": "2026-10-27T01:07:59.710089+00:00",
-  "hidden": false
- },
- {
-  "id": "d609dc92324a",
-  "headline": "Harry Kane Claims Ballon d'Or After Record-Breaking Season",
-  "summary": "England captain Harry Kane has won the Ballon d'Or, ending a 25-year drought for English players. He secured the prestigious honor by scoring 73 goals for his club and country, overcoming competition from finalists Lamine Yamal and Kylian Mbappe.",
-  "category": "Sports",
-  "source": "DW",
-  "source_url": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf",
-  "source_title": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
-  "published": "2026-10-26T23:06:00+00:00",
-  "added": "2026-10-27T01:08:32.944320+00:00",
-  "hidden": false
- },
- {
-  "id": "62d1259e06d4",
-  "headline": "Viral videos misrepresent youth protests across Europe",
-  "summary": "Old footage from Poland, Portugal, and Argentina is circulating online as recent evidence of unrest regarding European school conditions and living costs. Fact-checkers reveal how recycled videos are used to spread false claims and generate clicks.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
-  "source_title": "Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
-  "published": "2026-10-26T22:18:34+00:00",
-  "added": "2026-10-27T01:09:06.256900+00:00",
-  "hidden": false
- },
- {
-  "id": "23d2793d96c1",
-  "headline": "Jordanian military launches strikes in Syria following church attack",
-  "summary": "Jordanian forces targeted militant hideouts in Syria connected to a recent fatal church attack within the kingdom. Meanwhile, Syrian authorities presented a differing version of the events.",
-  "category": "World",
-  "source": "DW",
-  "source_url": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
-  "source_title": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
-  "published": "2026-10-26T22:15:00+00:00",
-  "added": "2026-10-27T03:31:51.119142+00:00",
   "hidden": false
  }
 ]
