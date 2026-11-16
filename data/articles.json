@@ -1,5 +1,250 @@
 [
  {
+  "id": "d9d15d9b143f",
+  "headline": "Nvidia controversy highlights US-China AI rivalry",
+  "summary": "The dispute over Nvidia and former CEO Jensen Huang draws attention to the accelerating AI competition between the United States and China.",
+  "body": [
+   "According to DW, a controversy involving Nvidia and its former chief executive Jensen Huang has drawn attention to the accelerating artificial‑intelligence competition between the United States and China. The dispute places the broader struggle over advanced chip technology in the spotlight, illustrating how the two powers are locked in a race to dominate AI capabilities. Observers note that the episode reflects the heightened strategic importance of semiconductor expertise as each side seeks to secure a technological edge. The development underscores the growing geopolitical dimension of the global AI landscape."
+  ],
+  "headline_bn": "Nvidia বিতর্কে যুক্ত হয়েছে যুক্তরাষ্ট্র-চীন এআই প্রতিযোগিতা",
+  "summary_bn": "Nvidia এবং প্রাক্তন সিইও জেনসেন হুয়াংয়ের বিতর্ক যুক্তরাষ্ট্র ও চীনের তীব্র এআই প্রতিযোগিতার দিকে দৃষ্টি আকর্ষণ করেছে।",
+  "body_bn": [
+   "DW অনুযায়ী, Nvidia এবং তার প্রাক্তন সিইও জেনসেন হুয়াংকে ঘিরে একটি বিতর্ক যুক্তরাষ্ট্র ও চীনের মধ্যে তীব্র কৃত্রিম বুদ্ধিমত্তা প্রতিযোগিতার দিকে দৃষ্টি আকর্ষণ করেছে। এই বিরোধ উন্নত চিপ প্রযুক্তির উপর বিস্তৃত সংগ্রামকে আলোকিত করে, যা দেখায় কীভাবে দুই দেশ এআই ক্ষমতার আধিপত্যের জন্য প্রতিযোগিতা করছে। বিশ্লেষকরা উল্লেখ করেন যে এই ঘটনা অর্ধ-সেমিকন্ডাক্টর দক্ষতার কৌশলগত গুরুত্বকে তুলে ধরে, যেখানে প্রতিটি পক্ষ প্রযুক্তিগত সুবিধা সুরক্ষিত করতে চায়। এই উন্নয়ন বৈশ্বিক এআই দৃশ্যপটের বাড়তে থাকা ভূ-রাজনৈতিক মাত্রাকে প্রকাশ করে।"
+  ],
+  "image_prompt": "abstract illustration of AI chips and US-China rivalry, symbolic competition, no faces or logos",
+  "category": "Technology",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-all-1573-rdf",
+    "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race"
+   }
+  ],
+  "published": "2026-11-16T16:32:00+00:00",
+  "added": "2026-11-16T16:36:02.583723+00:00",
+  "hidden": false,
+  "image": "data/img/d9d15d9b143f.jpg"
+ },
+ {
+  "id": "a37132c7a971",
+  "headline": "Tesla to invest €3 billion in Brandenburg plant for Cybercab production",
+  "summary": "Tesla plans a €3 billion expansion of its German factory to build Cybercabs, welcomed by Brandenburg’s state leader.",
+  "body": [
+   "Tesla, the electric‑vehicle maker owned by Elon Musk, announced a €3 billion investment to expand its sole European production facility in Brandenburg, Germany. The funding will be used to add capacity for the upcoming Cybercab model. The expansion will make the Brandenburg plant the central hub for the company's European Cybercab output.",
+   "Brandenburg’s state leader praised the decision, saying it strengthens the region’s automotive sector and creates jobs. The move follows Tesla’s strategy to broaden its manufacturing footprint in Europe. Production is set to begin later this year."
+  ],
+  "headline_bn": "টেসলা জার্মানিতে সাইবারক্যাব উৎপাদনের জন্য ৩ বিলিয়ন ইউরো বিনিয়োগ করবে",
+  "summary_bn": "টেসলা তার ব্র্যান্ডেনবুর্গ কারখানার সম্প্রসারণে ৩ বিলিয়ন ইউরো ব্যয় করবে, যা রাজ্যের নেতা স্বাগত জানিয়েছেন।",
+  "body_bn": [
+   "ইলন মাস্কের মালিকানাধীন ইলেকট্রিক গাড়ি নির্মাতা টেসলা ব্র্যান্ডেনবুর্গ, জার্মানিতে অবস্থিত তার একমাত্র ইউরোপীয় উৎপাদন সুবিধা সম্প্রসারণের জন্য ৩ বিলিয়ন ইউরো বিনিয়োগের পরিকল্পনা প্রকাশ করেছে। এই তহবিল সাইবারক্যাব মডেলের জন্য উৎপাদন ক্ষমতা বাড়াতে ব্যবহার করা হবে। সম্প্রসারণের ফলে ব্র্যান্ডেনবুর্গ কারখানাটি কোম্পানির ইউরোপীয় সাইবারক্যাব উৎপাদনের কেন্দ্রস্থল হয়ে উঠবে।",
+   "ব্র্যান্ডেনবুর্গের রাজ্য নেতা এই সিদ্ধান্তকে প্রশংসা করে বলেছেন, এটি অঞ্চলের গাড়ি শিল্পকে শক্তিশালী করবে এবং কর্মসংস্থান সৃষ্টি করবে। টেসলা ইউরোপে তার উৎপাদন নেটওয়ার্ক বিস্তারের কৌশল চালিয়ে যাচ্ছে, এবং উৎপাদন এই বছর শেষের দিকে শুরু হওয়ার কথা।"
+  ],
+  "image_prompt": "Illustration of a modern electric car factory in Europe with assembly lines and Cybercab vehicles, no people or logos",
+  "category": "Business",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/tesla-planning-€3bn-investment-in-german-factory-to-produce-cybercabs/a-79961416?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Tesla planning €3BN investment in German factory to produce Cybercabs",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/tesla-planning-€3bn-investment-in-german-factory-to-produce-cybercabs/a-79961416?maca=en-rss-en-all-1573-rdf",
+    "title": "Tesla planning €3BN investment in German factory to produce Cybercabs"
+   }
+  ],
+  "published": "2026-11-16T16:25:00+00:00",
+  "added": "2026-11-16T16:36:11.878737+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4b998bc722ed",
+  "headline": "US Agency DFSC to Fund Bangladesh’s Development Projects",
+  "summary": "Prothom Alo reports DFSC will support Bangladesh’s development needs via private investment, building on its South‑Asian investments in energy, infrastructure and technology.",
+  "body": [
+   "According to Prothom Alo, the United States agency DFSC announced that it will begin providing financing to Bangladesh. The funding is intended to meet the country's development requirements through private investment mechanisms.",
+   "The agency has previously directed investments into South Asia's energy, infrastructure and technology sectors, indicating a continuation of its regional focus."
+  ],
+  "headline_bn": "যুক্তরাষ্ট্রের ডিএফএসি এখন বাংলাদেশে উন্নয়ন প্রকল্পে অর্থায়ন করবে",
+  "summary_bn": "প্রথম আলো জানিয়েছে, ডিএফএসি বেসরকারি বিনিয়োগের মাধ্যমে বাংলাদেশের উন্নয়ন চাহিদা পূরণে সহায়তা করবে, যা জ্বালানি, অবকাঠামো ও প্রযুক্তি খাতে ইতিমধ্যে বিনিয়োগ রয়েছে।",
+  "body_bn": [
+   "প্রথম আলোর মতে, যুক্তরাষ্ট্রের সংস্থা ডিএফসি ঘোষণা করেছে যে এখন থেকে বাংলাদেশকে অর্থায়ন প্রদান করবে। এই তহবিল বেসরকারি বিনিয়োগের মাধ্যমে দেশের উন্নয়ন চাহিদা পূরণে লক্ষ্য রাখবে।",
+   "সংস্থা ইতিমধ্যে দক্ষিণ এশিয়ার জ্বালানি, অবকাঠামো ও প্রযুক্তি খাতে বিনিয়োগ করেছে, যা এর আঞ্চলিক ফোকাসের ধারাবাহিকতা নির্দেশ করে।"
+  ],
+  "image_prompt": "Illustration showing Bangladesh map with arrows of financial flow toward symbols of energy, infrastructure and technology, representing development funding.",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/business/economics/assgy900td",
+  "source_title": "এখন থেকে যুক্তরাষ্ট্রের সংস্থা ডিএফসির অর্থায়ন পাবে বাংলাদেশ",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/business/economics/assgy900td",
+    "title": "এখন থেকে যুক্তরাষ্ট্রের সংস্থা ডিএফসির অর্থায়ন পাবে বাংলাদেশ"
+   }
+  ],
+  "published": "2026-11-16T16:24:21+00:00",
+  "added": "2026-11-16T16:36:20.836302+00:00",
+  "hidden": false
+ },
+ {
+  "id": "285bb3da3166",
+  "headline": "AfD Linked to Ethnonationalist and Neo‑Nazi Networks, DW Reports",
+  "summary": "DW says many Alternative for Germany members and staff have connections to ethnonationalist or neo‑Nazi groups, highlighting the party’s far‑right ties.",
+  "body": [
+   "The Alternative for Germany (AfD) has emerged as a focal point for far‑right politics in Germany, Deutsche Welle reports.",
+   "According to DW, many AfD members and staff hold ties to ethnonationalist or neo‑Nazi organisations, indicating a close relationship between the party and extremist networks. The affiliations span both current officials and grassroots activists within the party.",
+   "These connections raise questions about the party’s influence on mainstream politics and its potential impact on Germany’s democratic landscape, DW adds."
+  ],
+  "headline_bn": "AfD-কে নৃজাতীয় ও নীয়ো-নাজি নেটওয়ার্কের সঙ্গে যুক্ত, DW রিপোর্ট",
+  "summary_bn": "DW জানায়, অ্যালটারনেটিভ ফর জার্মানি’র অনেক সদস্য ও কর্মী নৃজাতীয় বা নীয়ো-নাজি গোষ্ঠীর সঙ্গে সম্পর্ক রাখে, যা পার্টির ডানপন্থী সংযোগকে তুলে ধরে।",
+  "body_bn": [
+   "অ্যালটারনেটিভ ফর জার্মানি (AfD) জার্মানিতে ডানপন্থী রাজনীতির কেন্দ্রবিন্দু হয়ে উঠেছে, ডয়েচে ওয়েলেন (DW) রিপোর্ট করেছে।",
+   "DW অনুযায়ী, পার্টির অনেক সদস্য ও কর্মী নৃজাতীয় বা নীয়ো-নাজি সংগঠনের সঙ্গে সংযুক্ত, যা বর্তমান কর্মকর্তাদের পাশাপাশি পার্টির তলস্তরের সক্রিয়দের সম্পর্ককে অন্তর্ভুক্ত করে।",
+   "এই সংযোগগুলি পার্টির মূলধারার রাজনীতিতে প্রভাব ও জার্মানির গণতান্ত্রিক কাঠামোর ওপর সম্ভাব্য প্রভাব সম্পর্কে প্রশ্ন উত্থাপন করে, DW যোগ করেছে।"
+  ],
+  "image_prompt": "illustration of a political meeting with abstract far‑right symbols, no faces, flags, or text",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/the-afd-and-neo-nazi-networks-how-close-are-the-connections/a-79961920?maca=en-rss-en-all-1573-rdf",
+  "source_title": "The AfD and neo-Nazi networks: how close are the connections?",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/the-afd-and-neo-nazi-networks-how-close-are-the-connections/a-79961920?maca=en-rss-en-all-1573-rdf",
+    "title": "The AfD and neo-Nazi networks: how close are the connections?"
+   }
+  ],
+  "published": "2026-11-16T16:23:00+00:00",
+  "added": "2026-11-16T16:36:29.212831+00:00",
+  "hidden": false
+ },
+ {
+  "id": "6af9e316c359",
+  "headline": "India aims to outpace Pakistan in SAF football final, coach says",
+  "summary": "India's coach Nawshad Musa rejects Pakistan as favorite and seeks a speed advantage in the upcoming final.",
+  "body": [
+   "India is preparing to face Pakistan in the final of the South Asian Football (SAF) tournament, according to Prothom Alo. Coach Nawshad Musa expressed dissatisfaction with the perception that Pakistan is the favorite team.",
+   "Musa emphasized that India intends to create a difference through greater speed on the field, believing the tactical focus will be decisive as the final decides the tournament winner. Musa said the team will work on rapid ball movement and quick transitions to outpace the opposition."
+  ],
+  "headline_bn": "ভারত চায় গতি দিয়ে পাকিস্তানকে ছাপাতে, কোচ নওশাদ মুসা",
+  "summary_bn": "ভারতের কোচ নওশাদ মুসা পাকিস্তানকে ফেভারিট বলে অস্বীকার করে, গতি পার্থক্য গড়তে চায়।",
+  "body_bn": [
+   "প্রথম আলো অনুযায়ী, ভারত পাকিস্তানের বিরুদ্ধে সাফ ফুটবলের ফাইনালে মুখোমুখি হবে। কোচ নওশাদ মুসা পাকিস্তানকে ফেভারিট হিসেবে দেখার ওপর অসন্তোষ প্রকাশ করেছেন।",
+   "মুসা উল্লেখ করেছেন যে ভারত গতি পার্থক্য গড়ে তুলতে চায়, দ্রুত বল চলাচল ও দ্রুত ট্রানজিশনের ওপর জোর দিয়ে প্রতিপক্ষকে ছাপাতে চায়। ফাইনাল টুর্নামেন্টের বিজয় নির্ধারণ করবে।"
+  ],
+  "image_prompt": "illustration of two football teams competing on a field, emphasizing speed and rivalry",
+  "category": "Sports",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/sports/football/m7i7jiyp1l",
+  "source_title": "পাকিস্তানের বিপক্ষে গতিতেই পার্থক্য গড়তে চায় ভারত",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/sports/football/m7i7jiyp1l",
+    "title": "পাকিস্তানের বিপক্ষে গতিতেই পার্থক্য গড়তে চায় ভারত"
+   }
+  ],
+  "published": "2026-11-16T16:11:57+00:00",
+  "added": "2026-11-16T16:36:38.571419+00:00",
+  "hidden": false
+ },
+ {
+  "id": "020f9500556b",
+  "headline": "Educated Young Iranians Weigh Emigration Amid Conflict and Uncertainty",
+  "summary": "Conflict and uncertainty in Iran are prompting increasing numbers of educated young people to consider leaving, according to DW.",
+  "body": [
+   "Conflict and uncertainty are driving more educated young Iranians to contemplate leaving the country, according to DW. The trend reflects a growing sense of insecurity among the nation’s talent pool.",
+   "DW reports that the exodus of young talent is accelerating as the domestic environment becomes less predictable, prompting many to explore opportunities abroad."
+  ],
+  "headline_bn": "সংঘাত ও অনিশ্চয়তায় ইরানের শিক্ষিত তরুণরা প্রস্থানের কথা ভাবছে",
+  "summary_bn": "সংঘাত ও অনিশ্চয়তা ইরানে শিক্ষিত তরুণদের দেশ ত্যাগের ইচ্ছা বাড়াচ্ছে, DW জানায়।",
+  "body_bn": [
+   "সংঘাত ও অনিশ্চয়তা ইরানের শিক্ষিত তরুণদের দেশ ত্যাগের কথা ভাবতে বাধ্য করছে, DW জানায়। এই প্রবণতা দেশের প্রতিভা স্তরে নিরাপত্তাহীনতার বৃদ্ধি নির্দেশ করে।",
+   "DW জানিয়েছে যে দেশীয় পরিবেশের অনিশ্চয়তা বাড়ার সঙ্গে সঙ্গে তরুণ প্রতিভা বিদেশে সুযোগ খোঁজার দিকে ঝুঁকছে, ফলে মেধাবী মানুষের প্রস্থান দ্রুত বাড়ছে।"
+  ],
+  "image_prompt": "A thoughtful young professional standing before a symbolic road split by shadows of conflict and uncertainty, representing emigration, no faces or logos",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/iran-s-growing-exodus-of-young-talent/a-79960368?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Iran's growing exodus of young talent",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/iran-s-growing-exodus-of-young-talent/a-79960368?maca=en-rss-en-all-1573-rdf",
+    "title": "Iran's growing exodus of young talent"
+   }
+  ],
+  "published": "2026-11-16T16:08:00+00:00",
+  "added": "2026-11-16T16:36:45.933888+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4af78e35b819",
+  "headline": "National Nabanna Festival Celebrated with Dance, Music and Rice Harvest Displays",
+  "summary": "The festival’s morning and evening sessions ran from 9:30 am and 4 pm to 8:30 pm, organized by the National Nabanna Festival Celebration Committee.",
+  "body": [
+   "The National Nabanna Festival Celebration Committee organized a cultural event that highlighted traditional dance, music and rice‑harvest displays known as pithapuli. It is part of a nationwide series of events marking the rice harvest season.",
+   "The program was divided into a morning session that ran until 9:30 am and an afternoon session from 4 pm to 8:30 pm, as reported by Prothom Alo. The timing allowed participants to experience both daytime and evening cultural programs.",
+   "Held at Rabindra Sarobar, the gathering attracted attendees who enjoyed the performances and the display of pithapuli."
+  ],
+  "headline_bn": "জাতীয় নবান্ন উৎসবে নাচ-গান ও পিঠাপুলি",
+  "summary_bn": "প্রাতঃসকাল সেশন ৯:৩০ এএম পর্যন্ত এবং বিকাল সেশন ৪ পিএম থেকে ৮:৩০ পিএম পর্যন্ত, জাতীয় নবান্ন উৎসব উদ্‌যাপন পর্ষদ আয়োজন করেছে।",
+  "body_bn": [
+   "জাতীয় নবান্ন উৎসব উদ্‌যাপন পর্ষদ একটি সাংস্কৃতিক অনুষ্ঠান আয়োজন করেছে, যেখানে ঐতিহ্যবাহী নাচ, গান এবং পিঠাপুলি নামে পরিচিত ধান সংগ্রহের প্রদর্শনী অন্তর্ভুক্ত ছিল। এটি ধান ফসলের মৌসুম চিহ্নিত করতে দেশের বিভিন্ন স্থানে অনুষ্ঠিত সিরিজের অংশ।",
+   "প্রোগ্রামটি দুই ভাগে বিভক্ত ছিল; প্রাতঃসকাল সেশন ৯:৩০এএম পর্যন্ত চলেছিল এবং বিকাল সেশন ৪পিএম থেকে ৮:৩০পিএম পর্যন্ত চলেছিল, প্রথাম আলো অনুসারে। সময়সূচি অংশগ্রহণকারীদেরকে দিন ও রাতের সাংস্কৃতিক প্রোগ্রাম উপভোগের সুযোগ দিয়েছে।",
+   "উৎসবটি রবীন্দ্রসরোবরে সুন্দর পরিবেশে অনুষ্ঠিত হয়, যেখানে উপস্থিতরা নাচ-গান এবং পিঠাপুলির প্রদর্শনী উপভোগ করেছে।"
+  ],
+  "image_prompt": "illustration of a cultural harvest festival with dancing, music and traditional rice baskets, daytime and evening scenes",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/s2lthycy0z",
+  "source_title": "রবীন্দ্রসরোবরে নাচ–গান ও পিঠাপুলিতে নবান্ন উৎসব",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/s2lthycy0z",
+    "title": "রবীন্দ্রসরোবরে নাচ–গান ও পিঠাপুলিতে নবান্ন উৎসব"
+   }
+  ],
+  "published": "2026-11-16T15:56:49+00:00",
+  "added": "2026-11-16T16:36:57.510159+00:00",
+  "hidden": false
+ },
+ {
+  "id": "91a4a698c206",
+  "headline": "BASAD–Marxist Forms 13-Member Committee, Names Masud Rana as General Secretary",
+  "summary": "The split from Bangladesh's Socialist Party in April 2013 led to the creation of BASAD–Marxist, which now has a 13‑member committee headed by Masud Rana, according to Prothom Alo.",
+  "body": [
+   "In April 2013, the Bangladesh Socialist Party split, leading to the formation of a new faction called BASAD–Marxist, Prothom Alo reported.",
+   "The new organization has established a 13‑member committee and appointed Masud Rana as its general secretary; the party’s founding general secretary was veteran left‑wing leader Mubinul Haider Chowdhury.",
+   "The establishment of BASAD–Marxist marks a reorganization of leftist politics in Bangladesh, with Masud Rana taking over leadership from the founding secretary Mubinul Haider Chowdhury."
+  ],
+  "headline_bn": "বাসদ–মার্ক্সবাদী গঠন, ১৩ সদস্যের কমিটি, নতুন সাধারণ সম্পাদক মাসুদ রানা",
+  "summary_bn": "প্রথম আলোর মতে, বাসদ–মার্ক্সবাদী ১৩ সদস্যের কমিটি গঠন করে মাসুদ রানাকে নতুন সাধারণ সম্পাদক নিয়োগ করেছে।",
+  "body_bn": [
+   "২০১৩ সালের এপ্রিলে, বাংলাদেশ সমাজতান্ত্রিক দল ভেঙে বাসদ–মার্ক্সবাদী নামে একটি নতুন গোষ্ঠী গঠন করা হয়, প্রথম আলো রিপোর্ট করেছে।",
+   "এই সংগঠনের ১৩ সদস্যের কমিটি গঠন করা হয়েছে এবং নতুন সাধারণ সম্পাদক হিসেবে মাসুদ রানা নিয়োগ করা হয়েছে; প্রতিষ্ঠাতা সাধারণ সম্পাদক ছিলেন প্রবীণ বামপন্থী নেতা মুবিনুল হায়দার চৌধুরী।",
+   "বাসদ–মার্ক্সবাদীর গঠন বামপন্থী রাজনীতির পুনর্গঠনের সূচক হিসেবে দেখা হচ্ছে, যেখানে মাসুদ রানা নেতৃত্ব গ্রহণ করেছেন মুবিনুল হায়দার চৌধুরীর পর।"
+  ],
+  "image_prompt": "Illustration of a political committee meeting in a conference room, with a group of people seated around a table and documents on the surface",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/politics/n8eony24dd",
+  "source_title": "বাসদ–মার্ক্সবাদীর ১৩ সদস্যের কমিটি, নতুন সাধারণ সম্পাদক মাসুদ রানা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/politics/n8eony24dd",
+    "title": "বাসদ–মার্ক্সবাদীর ১৩ সদস্যের কমিটি, নতুন সাধারণ সম্পাদক মাসুদ রানা"
+   }
+  ],
+  "published": "2026-11-16T15:52:52+00:00",
+  "added": "2026-11-16T16:37:06.035639+00:00",
+  "hidden": false
+ },
+ {
   "id": "fe7d15a5c1bf",
   "headline": "Modi to attend ASEAN meeting and Quad summit in Manila",
   "summary": "India's Prime Minister Narendra Modi is traveling to Manila for the ASEAN gathering and is expected to join the Quad leaders' summit, DW reports.",
@@ -15478,102 +15723,6 @@
   "source_title": "US seeks new charges against former FBI chief James Comey",
   "published": "2026-10-27T01:39:00+00:00",
   "added": "2026-10-27T03:19:06.268639+00:00",
-  "hidden": false
- },
- {
-  "id": "62467ba41f3e",
-  "headline": "Bolsonaro party accepts election after Trump claims vote was rigged",
-  "summary": "Following claims by Donald Trump that the Brazilian presidential election was rigged, the party of Jair Bolsonaro has accepted the vote. Trump promoted unfounded allegations about the contest while stating he did not take sides.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
-  "source_title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
-  "published": "2026-10-27T01:32:54+00:00",
-  "added": "2026-10-27T03:19:39.531047+00:00",
-  "hidden": false
- },
- {
-  "id": "f60c569888c8",
-  "headline": "Harry Kane Claims Ballon d'Or Trophy",
-  "summary": "Bayern Munich and England forward Harry Kane has secured his first Ballon d'Or award. This victory concludes a 25-year drought for English players following a historic, record-setting season for the striker.",
-  "category": "Sports",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss",
-  "source_title": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
-  "published": "2026-10-27T01:20:56+00:00",
-  "added": "2026-10-27T03:20:12.867364+00:00",
-  "hidden": false
- },
- {
-  "id": "44b1298bd817",
-  "headline": "Students Celebrate Election Victory in Belgrade",
-  "summary": "Thousands of people gathered in Belgrade for a second consecutive evening. The crowds assembled to celebrate the triumph of a student-led movement following recent elections.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
-  "source_title": "Serbia’s ‘students’ celebrate for a second night after election victory",
-  "published": "2026-10-27T01:06:50+00:00",
-  "added": "2026-10-27T03:20:46.599751+00:00",
-  "hidden": false
- },
- {
-  "id": "2a9ee5a8c24f",
-  "headline": "US appeals court rules against Trump administration in California voting dispute",
-  "summary": "A federal appeals court has blocked the government's attempt to prevent California from processing ballots from a list of alleged non-citizens. The ruling marks a legal setback for the Trump administration's voting initiative.",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss",
-  "source_title": "US court rules against Trump administration in California voting case",
-  "published": "2026-10-27T01:01:53+00:00",
-  "added": "2026-10-27T03:21:19.841032+00:00",
-  "hidden": false
- },
- {
-  "id": "a46dcda1cdf5",
-  "headline": "Romania Alleges Russian-Run Sabotage Network Sparked Fire",
-  "summary": "Romanian authorities report that a sabotage network directed by Russia ignited a fire near a weapons facility in September. Officials state this incident forms part of a wider operation targeting European nations aiding Ukraine.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
-  "source_title": "Romania says Russia-run sabotage network set fire near weapons factory",
-  "published": "2026-10-27T00:33:06+00:00",
-  "added": "2026-10-27T03:21:53.379922+00:00",
-  "hidden": false
- },
- {
-  "id": "040fb06b22bb",
-  "headline": "Iran Criticizes US Dialogue Sincerity Amid Maritime Fire Near Iraq",
-  "summary": "Iranian officials stated the United States lacks seriousness regarding ongoing talks. Meanwhile, maritime authorities reported a vessel burning off the Iraqi coast.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
-  "source_title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
-  "published": "2026-10-27T00:00:00+00:00",
-  "added": "2026-10-27T03:29:34.244991+00:00",
-  "hidden": false
- },
- {
-  "id": "1c505228c4ea",
-  "headline": "Flavio Bolsonaro vows opposition after travel ban",
-  "summary": "Brazilian presidential candidate Flavio Bolsonaro announced that a Supreme Court justice restricted him from leaving the nation following his narrow defeat to incumbent Luiz Inacio Lula da Silva. Bolsonaro, who declined to concede, criticized the restriction as intimidation and promised to contest the electoral outcome.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
-  "source_title": "Flavio Bolsonaro vows to lead opposition after Brazil court imposes travel ban",
-  "published": "2026-10-26T23:56:24+00:00",
-  "added": "2026-10-27T01:03:23.376334+00:00",
-  "hidden": false
- },
- {
-  "id": "efb0551b57b5",
-  "headline": "Bolsonaro reports police demand passports following Brazil election",
-  "summary": "Flavio Bolsonaro shared a video on social media stating that law enforcement instructed him to surrender his passports. The development follows Brazil's recent election defeat.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
-  "source_title": "Bolsonaro says police demand passports after Brazil election defeat",
-  "published": "2026-10-26T23:53:45+00:00",
-  "added": "2026-10-27T03:30:07.381834+00:00",
   "hidden": false
  }
 ]
