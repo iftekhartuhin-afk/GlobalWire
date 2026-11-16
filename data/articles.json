@@ -1,5 +1,264 @@
 [
  {
+  "id": "8668d6d7cd9f",
+  "headline": "Musk, Uber co‑founder join 158,000‑strong petition to reinstate Nvidia CEO Jensen Huang",
+  "summary": "More than 158,000 signatories, including Elon Musk, demand Jensen Huang’s return pending an independent probe.",
+  "body": [
+   "According to France 24, Elon Musk and an Uber co‑founder were among over 158,000 people who signed a petition on Sunday calling for the reinstatement of Jensen Huang as chief executive of Nvidia. The petition urges that Huang be restored to his position while an independent investigation proceeds.",
+   "Huang resigned on Thursday after reports disclosed two extramarital affairs, one involving a subordinate and another with a woman alleged to have spied for China. The revelations ended his 33‑year tenure at the chipmaker."
+  ],
+  "headline_bn": "মাস্ক ও উবার সহ-প্রতিষ্ঠাতা জেনসেন হুয়াংকে পুনঃস্থাপনের জন্য ১,৫৮,০০০ স্বাক্ষরকারীর মধ্যে যোগদান",
+  "summary_bn": "১,৫৮,০০০‑এর বেশি স্বাক্ষরকারীর মধ্যে এলন মাস্কসহ, জেনসেন হুয়াংকে স্বাধীন তদন্তের সময় পুনঃস্থাপন চাওয়া হয়েছে।",
+  "body_bn": [
+   "ফ্রান্স ২৪ অনুযায়ী, এলন মাস্ক এবং উবারের সহ-প্রতিষ্ঠাতা রবিবার ১,৫৮,০০০ের বেশি স্বাক্ষরকারীর মধ্যে ছিলেন, যারা এনভিডিয়ার সিইও জেনসেন হুয়াংকে পুনঃস্থাপনের জন্য আবেদনপত্রে স্বাক্ষর করেছেন। আবেদনপত্রে হুয়াংকে স্বাধীন তদন্ত চলাকালীন তার পদে ফিরে আসার আহ্বান জানানো হয়েছে।",
+   "হুয়াং বৃহস্পতিবার পদত্যাগ করেন, যখন প্রকাশিত হয় যে তিনি দুইটি বৈবাহিক সম্পর্কের মধ্যে জড়িত ছিলেন; একটি অধীনস্থের সঙ্গে এবং অন্যটি চীনের গোপনচর হিসেবে অভিযুক্ত এক নারীর সঙ্গে। এই প্রকাশ তার ৩৩ বছরব্যাপী কোম্পানিতে কাজের শেষ করে দেয়।"
+  ],
+  "image_prompt": "A stylized petition document with many signatures and corporate icons, representing a tech CEO reinstatement request, no faces or logos",
+  "category": "Business",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
+  "source_title": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
+    "title": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief"
+   }
+  ],
+  "published": "2026-11-15T23:31:15+00:00",
+  "added": "2026-11-16T00:04:34.573962+00:00",
+  "hidden": false
+ },
+ {
+  "id": "936ba9688655",
+  "headline": "Anti-Houthi forces retreat as Houthis advance toward Aden",
+  "summary": "Government and Saudi-aligned troops are pulling back while Iran-backed Houthis move closer to Aden, prompting efforts to tighten control of the interim capital.",
+  "body": [
+   "In Yemen, forces aligned with the internationally recognized government and Saudi Arabia are pulling back as Iran‑backed Houthi rebels advance toward the interim capital Aden. The shift reflects growing pressure on anti‑Houthi positions as the rebels close in on the city.",
+   "According to DW, the anti‑Houthi side is seeking to strengthen its hold over Aden in response to the Houthi approach, aiming to maintain control of the strategic port and administrative hub."
+  ],
+  "headline_bn": "হৌথি বাহিনী অগ্রসর হওয়ায় বিরোধী বাহিনী পিছু হটে",
+  "summary_bn": "সরকারি ও সৌদি সমর্থিত সৈন্যরা পিছু হটে, ইরান-সমর্থিত হৌথি গোষ্ঠী আদেনের দিকে এগিয়ে যাওয়ায় interim রাজধানীকে শক্তিশালী করার চেষ্টা করছে।",
+  "body_bn": [
+   "ইয়েমেনে, সরকার ও সৌদি আরবের সমর্থিত বাহিনী হৌথি গোষ্ঠীর অগ্রগতির ফলে পিছু হটে।",
+   "DW অনুসারে, ইরান-সমর্থিত হৌথি যখন আদেনের নিকটে আসছে, তখন বিরোধী বাহিনী interim রাজধানীর নিয়ন্ত্রণ দৃঢ় করার চেষ্টা করছে।"
+  ],
+  "image_prompt": "A war-torn cityscape with military vehicles, smoke and distant explosions, representing a contested capital, no identifiable faces or logos",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Yemen: Anti-Houthi forces pull back as rebels advance",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf",
+    "title": "Yemen: Anti-Houthi forces pull back as rebels advance"
+   }
+  ],
+  "published": "2026-11-15T23:29:00+00:00",
+  "added": "2026-11-16T00:04:42.307791+00:00",
+  "hidden": false
+ },
+ {
+  "id": "a198c7b6263b",
+  "headline": "Founder of Mexico’s Guadalajara Cartel, Miguel Angel Felix Gallardo, Dies at 80",
+  "summary": "France 24 reports the cartel founder died in hospital from organ failure after being moved from prison.",
+  "body": [
+   "Miguel Angel Felix Gallardo, identified as a founder of the Guadalajara cartel and dubbed the “boss of bosses,” died on Sunday at the age of 80, according to France 24.",
+   "The Jalisco state security ministry said he succumbed to multiple organ failure while receiving treatment in a hospital. Gallardo had been incarcerated since 1989 and was transferred to the medical facility two days before his death.",
+   "His death marks the end of a figure who played a central role in Mexico’s drug trade for decades, authorities noted."
+  ],
+  "headline_bn": "মিগুয়েল অ্যাঞ্জেল ফেলিক্স গ্যালার্ডো, গুয়াদালাজার কার্টেল প্রতিষ্ঠাতা, ৮০ বছর বয়সে মারা গেছেন",
+  "summary_bn": "France 24 জানায়, কার্টেল প্রতিষ্ঠাতা হাসপাতালে অঙ্গ ব্যর্থতার কারণে মৃত্যুবরণ করেছেন।",
+  "body_bn": [
+   "মিগুয়েল অ্যাঞ্জেল ফেলিক্স গ্যালার্ডো, গুয়াদালাজার কার্টেল প্রতিষ্ঠাতা এবং “বস অফ বসেস” নামে পরিচিত, রবিবার ৮০ বছর বয়সে মারা গেছেন, France 24 রিপোর্ট করেছে।",
+   "জালিস্কো রাজ্যের নিরাপত্তা মন্ত্রণালয় জানায়, তিনি হাসপাতালে বহু অঙ্গের ব্যর্থতার কারণে মৃত্যু বরণ করেন। গ্যালার্ডো ১৯৮৯ সাল থেকে কারাগারে ছিলেন এবং মৃত্যুর দুই দিন আগে তাকে হাসপাতালে স্থানান্তর করা হয়েছিল।",
+   "তার মৃত্যু মেক্সিকোর মাদক ব্যবসার দীর্ঘ ইতিহাসে একটি গুরুত্বপূর্ণ ব্যক্তিত্বের শেষের সূচক, কর্তৃপক্ষ উল্লেখ করেছে।"
+  ],
+  "image_prompt": "Illustration of a hospital scene with a medical bed and a symbolic broken chain, representing a former drug cartel leader's death",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies",
+  "source_title": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies aged 80",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies",
+    "title": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies aged 80"
+   }
+  ],
+  "published": "2026-11-15T22:48:31+00:00",
+  "added": "2026-11-16T00:04:50.593154+00:00",
+  "hidden": false
+ },
+ {
+  "id": "5347c05b78ad",
+  "headline": "England defeat Spain 3-2, ending La Roja's 43-game unbeaten streak",
+  "summary": "England beat Spain 3-2 in Madrid, handing La Roja its first loss since March 2024 and ending a 43‑match unbeaten run, reports Al Jazeera English.",
+  "body": [
+   "England stunned Spain with a 3-2 victory in Madrid, ending La Roja's 43-game unbeaten streak. According to Al Jazeera English, the result marked Spain's first defeat since March 2024.",
+   "The match concluded with a grandstand finish, and the win gave England a notable triumph over the long‑dominant Spanish side.",
+   "The 3-2 scoreline reflects England's offensive performance, while Spain's unbeaten run of 43 matches ended.",
+   "The defeat ends a streak that began after March 2024. Observers note the match could influence upcoming international fixtures."
+  ],
+  "headline_bn": "ইংল্যান্ড ৩-২ স্কোরে স্পেনকে পরাজিত করে, লা রোজার ৪৩ ম্যাচের অপ্রতিদ্বন্দ্বী শৃঙ্খল শেষ",
+  "summary_bn": "ইংল্যান্ডের জয় স্পেনের প্রথম পরাজয় মার্চ ২০২৪ থেকে, ৪৩ ম্যাচের অপ্রতিদ্বন্দ্বী শৃঙ্খল শেষ করেছে, আল জাজিরা ইংলিশের মতে।",
+  "body_bn": [
+   "ইংল্যান্ড স্পেনকে ৩-২ স্কোরে পরাজিত করে, মাদ্রিদে লা রোজার ৪৩ ম্যাচের অপ্রতিদ্বন্দ্বী শৃঙ্খল শেষ করেছে। আল জাজিরা ইংলিশের মতে, এই ফলাফল স্পেনের মার্চ ২০২৪ থেকে প্রথম পরাজয় নির্দেশ করে।",
+   "ম্যাচটি গ্র্যান্ডস্ট্যান্ড ফিনিশে শেষ হয়েছে, এবং এই জয় ইংল্যান্ডকে দীর্ঘ সময়ের শাসনকারী স্প্যানিশ দলের ওপর উল্লেখযোগ্য বিজয় এনে দিয়েছে।",
+   "৩-২ স্কোর লাইন ইংল্যান্ডের আক্রমণাত্মক পারফরম্যান্সকে প্রতিফলিত করে, আর স্পেনের ৪৩ ম্যাচের অপ্রতিদ্বন্দ্বী শৃঙ্খল শেষ হয়েছে।",
+   "এই পরাজয় মার্চ ২০২৪ থেকে শুরু হওয়া শৃঙ্খল শেষ করে। পর্যবেক্ষকরা উল্লেখ করেন যে, এই ম্যাচটি আসন্ন আন্তর্জাতিক প্রতিযোগিতায় প্রভাব ফেলতে পারে।"
+  ],
+  "image_prompt": "Illustration of a football stadium with two teams playing, a scoreboard showing 3-2, and cheering crowds, no faces or logos",
+  "category": "Sports",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
+  "source_title": "England stun Spain to end La Roja’s 43-game unbeaten run",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
+    "title": "England stun Spain to end La Roja’s 43-game unbeaten run"
+   }
+  ],
+  "published": "2026-11-15T22:40:01+00:00",
+  "added": "2026-11-16T00:05:00.179388+00:00",
+  "hidden": false
+ },
+ {
+  "id": "5680d7505325",
+  "headline": "Mystery of Surah Al‑Fatiha’s Structure: Balanced Seven‑Verse Circle",
+  "summary": "Prothom Alo notes readers wonder why belief, law and history converge in the same tone.",
+  "body": [
+   "Prothom Alo reports that a common question arises among ordinary readers of the Quran regarding the composition of Surah Al‑Fatiha. The inquiry focuses on why belief, legal injunctions and historical references appear together in a single melodic line.",
+   "The outlet highlights the chapter’s seven verses as a balanced circle that merges these elements, describing the arrangement as a structural mystery that invites further reflection and underscores the seamless integration of faith, legislation and history within the concise text."
+  ],
+  "headline_bn": "সুরা ফাতেহার গঠন‑রহস্য: সাত আয়াতের সুষম বৃত্ত",
+  "summary_bn": "প্রথম আলো জানায়, পাঠকরা প্রশ্ন করে কেন একই সুরে বিশ্বাস, বিধান ও ইতিহাস একসঙ্গে আসে।",
+  "body_bn": [
+   "প্রথম আলো জানায় যে কোরআন পাঠের সময় সাধারণ পাঠকদের মধ্যে সুরা ফাতেহার গঠন নিয়ে একটি সাধারণ প্রশ্ন উঠে। এই প্রশ্নটি জিজ্ঞাসা করে কেন বিশ্বাস, বিধান এবং ঐতিহাসিক উল্লেখ একই সুরে একত্রিত হয়।",
+   "মাধ্যমটি সাতটি আয়াতকে একটি সুষম বৃত্ত হিসেবে তুলে ধরে, যেখানে এই উপাদানগুলো মিশে থাকে এবং এই গঠনকে একটি রহস্য হিসেবে উপস্থাপন করে, যা পাঠকদের আরও চিন্তা করার আহ্বান জানায়।"
+  ],
+  "image_prompt": "illustration of an open Quran with seven highlighted verses forming a balanced circle, abstract, no faces or text",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/religion/islam/ehk7wvc0cf",
+  "source_title": "সুরা ফাতেহার গঠন-রহস্য: সাত আয়াতের সুষম বৃত্ত",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/religion/islam/ehk7wvc0cf",
+    "title": "সুরা ফাতেহার গঠন-রহস্য: সাত আয়াতের সুষম বৃত্ত"
+   }
+  ],
+  "published": "2026-11-15T22:30:00+00:00",
+  "added": "2026-11-16T00:05:07.817886+00:00",
+  "hidden": false
+ },
+ {
+  "id": "25181e535952",
+  "headline": "Trump, Xi and Putin set to meet at APEC summit in Shenzhen",
+  "summary": "NPR World previews the upcoming discussions among U.S., Chinese and Russian leaders at the Asia‑Pacific Economic Cooperation summit in Shenzhen this week.",
+  "body": [
+   "President Donald Trump is scheduled to meet Chinese President Xi Jinping and Russian President Vladimir Putin at the Asia‑Pacific Economic Cooperation (APEC) summit in Shenzhen, China, later this week.",
+   "According to NPR World, the gathering will be closely watched for indications of how the three leaders will address bilateral and multilateral issues, with the summit providing a platform for dialogue among the United States, China and Russia."
+  ],
+  "headline_bn": "ট্রাম্প, শি এবং পুতিন শেনঝেনে এপেক শীর্ষ সম্মেলনে মিলিত হবেন",
+  "summary_bn": "NPR World এই সপ্তাহে শেনঝেনের এশিয়া‑প্রশান্তিক অর্থনৈতিক সহযোগিতা শীর্ষ সম্মেলনে যুক্তরাষ্ট্র, চীন ও রাশিয়ার নেতাদের আলোচনার পূর্বাভাস দিয়েছে।",
+  "body_bn": [
+   "প্রেসিডেন্ট ডোনাল্ড ট্রাম্প শেনঝেন, চীনে অনুষ্ঠিত এশিয়া‑প্রশান্তিক অর্থনৈতিক সহযোগিতা (APEC) শীর্ষ সম্মেলনে চীনের প্রেসিডেন্ট শি জিনপিং এবং রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের সঙ্গে সাক্ষাৎ করবেন।",
+   "NPR World জানিয়েছে, এই তিন নেতার মধ্যে দ্বিপাক্ষিক ও বহুপাক্ষিক বিষয়গুলো কীভাবে আলোচনা হবে তা বিশ্ব নজরে থাকবে, এবং সম্মেলনটি যুক্তরাষ্ট্র, চীন ও রাশিয়ার মধ্যে সংলাপের মঞ্চ সরবরাহ করবে।"
+  ],
+  "image_prompt": "Illustration of an international summit with three symbolic leader figures at a conference table in a modern conference hall",
+  "category": "World",
+  "source": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+  "source_title": "What to expect from Trump and Xi's upcoming meeting in China",
+  "sources": [
+   {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+    "title": "What to expect from Trump and Xi's upcoming meeting in China"
+   }
+  ],
+  "published": "2026-11-15T22:11:26+00:00",
+  "added": "2026-11-16T00:05:53.871049+00:00",
+  "hidden": false
+ },
+ {
+  "id": "917b9a52c807",
+  "headline": "Sydney Sweeney's jeans spark questions on factory conditions",
+  "summary": "American Eagle Outfitters praises Sydney Sweeney's jeans while concerns arise about the working conditions in Pakistan and Bangladesh garment factories.",
+  "body": [
+   "American Eagle Outfitters notes that actress Sydney Sweeney is wearing great jeans, according to NPR World.",
+   "The brand’s comment prompts questions about the origins of the denim and the labor environment in garment factories in Pakistan and Bangladesh."
+  ],
+  "headline_bn": "সিডনি সুইনি'র জিন্সে উত্থাপিত ফ্যাক্টরি শর্তের প্রশ্ন",
+  "summary_bn": "American Eagle Outfitters সিডনি সুইনি'র জিন্সের প্রশংসা করে, তবে পাকিস্তান ও বাংলাদেশে গার্মেন্ট ফ্যাক্টরির কাজের পরিবেশ নিয়ে উদ্বেগ দেখা দেয়।",
+  "body_bn": [
+   "American Eagle Outfitters উল্লেখ করেছে যে অভিনেত্রী সিডনি সুইনি চমৎকার জিন্স পরেছেন, NPR World অনুযায়ী।",
+   "ব্র্যান্ডের এই মন্তব্য গার্মেন্ট ফ্যাক্টরিগুলোর উৎপত্তি এবং পাকিস্তান ও বাংলাদেশে শ্রমিকদের কাজের পরিবেশ সম্পর্কে প্রশ্ন উত্থাপন করে।"
+  ],
+  "image_prompt": "illustration of denim jeans beside silhouettes of garment factories and a map highlighting Pakistan and Bangladesh",
+  "category": "World",
+  "source": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+  "source_title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)",
+  "sources": [
+   {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+    "title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)"
+   }
+  ],
+  "published": "2026-11-15T22:07:55+00:00",
+  "added": "2026-11-16T00:06:01.210980+00:00",
+  "hidden": false
+ },
+ {
+  "id": "5f695e82cc55",
+  "headline": "Estonia to shut all Russia border crossings after drone factory arson",
+  "summary": "Estonia will close every crossing with Russia from Dec 1, citing a suspected sabotage attack on a Viimsi drone factory.",
+  "body": [
+   "Estonia announced that it will close all of its border crossing points with Russia starting on December 1. The move follows a suspected sabotage incident in which a drone factory in Viimsi was set on fire. The foreign minister disclosed the decision on Sunday, linking it to the alleged arson.",
+   "Tallinn has accused Moscow of conducting hybrid warfare, saying the fire was part of a broader effort to undermine Estonian defence capabilities. The closure was reported by Al Jazeera English, Deutsche Welle and France 24, which all cited the suspected sabotage as the trigger.",
+   "The government says the border shutdown is intended to enhance national security and respond to the alleged attack, reinforcing Estonia’s defensive posture amid heightened regional tensions."
+  ],
+  "headline_bn": "এস্তোনিয়া রাশিয়ার সব সীমান্ত পারাপার বন্ধ করবে ড্রোন কারখানার অগ্নিকাণ্ডের পর",
+  "summary_bn": "এস্তোনিয়া ১ ডিসেম্বর থেকে রাশিয়ার সঙ্গে সব সীমান্ত পারাপার বন্ধ করবে, ভিমসিতে ড্রোন কারখানায় সন্দেহজনক অগ্নিকাণ্ডের পর",
+  "body_bn": [
+   "এস্তোনিয়া ঘোষণা করেছে যে ১ ডিসেম্বর থেকে রাশিয়ার সঙ্গে সব সীমান্ত পারাপার পয়েন্ট বন্ধ করা হবে। এই পদক্ষেপটি ভিমসিতে একটি ড্রোন কারখানা অগ্নিকাণ্ডে জ্বলে যাওয়ার সন্দেহজনক ঘটনা অনুসরণে নেওয়া হয়েছে। বিদেশ মন্ত্রী রবিবার এই সিদ্ধান্ত প্রকাশ করেন, যা অগ্নিকাণ্ডের সঙ্গে যুক্ত।",
+   "তালিন মস্কোকে হাইব্রিড যুদ্ধের অংশ হিসেবে অভিযুক্ত করেছে, বলছে আগুনটি এস্তোনিয়ার প্রতিরক্ষা সক্ষমতাকে দুর্বল করার বৃহত্তর প্রচেষ্টার অংশ। আল জাজিরা ইংলিশ, ডি ডব্লিউ এবং ফ্রান্স ২৪ এই বন্ধের খবর জানিয়েছে, যা সন্দেহজনক অগ্নিকাণ্ডকে ট্রিগার হিসেবে উল্লেখ করেছে।",
+   "সরকার বলছে সীমান্ত বন্ধটি জাতীয় নিরাপত্তা শক্তিশালী করতে এবং অভিযোগিত হামলায় প্রতিক্রিয়া জানাতে নেওয়া হয়েছে, যা আঞ্চলিক উত্তেজনা বাড়িয়ে তুলেছে।"
+  ],
+  "image_prompt": "Illustration of a closed border checkpoint with fences and warning signs, snowy landscape, no people, flags, or logos",
+  "category": "World",
+  "source": "Al Jazeera English, DW, France 24",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+  "source_title": "Estonia to close border crossings with Russia after alleged arson attack",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+    "title": "Estonia to close border crossings with Russia after alleged arson attack"
+   },
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf",
+    "title": "Estonia closes border to Russia after suspected drone factory arson"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
+    "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory"
+   }
+  ],
+  "published": "2026-11-15T20:31:18+00:00",
+  "added": "2026-11-16T00:04:24.624838+00:00",
+  "hidden": false,
+  "image": "data/img/5f695e82cc55.jpg"
+ },
+ {
   "id": "f80f4ab7f995",
   "headline": "Bangladesh trade minister warns of $17.5bn export loss if status changes",
   "summary": "Minister says 84% of exports are garments and losing preferential trade schemes could cut $17.5bn from earnings.",
@@ -15154,54 +15413,6 @@
   "source_title": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
   "published": "2026-10-26T22:15:00+00:00",
   "added": "2026-10-27T03:31:51.119142+00:00",
-  "hidden": false
- },
- {
-  "id": "60348af62200",
-  "headline": "Former FBI Director James Comey Faces New Charges",
-  "summary": "Former FBI director James Comey has been accused of unlawfully sharing national security information. This marks the third set of charges brought against him under President Trump.",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
-  "source_title": "Former FBI director James Comey hit with third set of charges under Trump",
-  "published": "2026-10-26T22:03:26+00:00",
-  "added": "2026-10-27T03:32:24.329389+00:00",
-  "hidden": false
- },
- {
-  "id": "8a6a1da62f8e",
-  "headline": "Anthropic files for US IPO revealing revenue surge and heavy losses",
-  "summary": "Artificial intelligence firm Anthropic has filed for a US initial public offering, disclosing $16.3 billion in revenue alongside net losses exceeding $80 billion for the first half of 2026. The regulatory filing also detailed numerous investment risks.",
-  "category": "Technology",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/tv-shows/business/20261026-anthropic-s-ipo-filing-shows-soaring-sales-and-steep-losses",
-  "source_title": "Anthropic's IPO filing shows soaring sales and steep losses",
-  "published": "2026-10-26T22:01:25+00:00",
-  "added": "2026-10-27T03:32:57.518972+00:00",
-  "hidden": false
- },
- {
-  "id": "17d80dcd0084",
-  "headline": "Serbia student movement wins parliamentary elections",
-  "summary": "Serbia's student-led protest movement achieved a historic parliamentary victory, defeating the party of outgoing President Aleksandar Vucic on October 25. Supporters successfully organized massive mobilization efforts to monitor polling stations and combat electoral fraud.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/europe/20261026-serbia-elections-tracking-fraud-had-an-impact-on-results-vote-fraud",
-  "source_title": "Serbia’s elections: 'Tracking fraud for sure had an impact on the results'",
-  "published": "2026-10-26T21:49:17+00:00",
-  "added": "2026-10-27T03:33:30.656237+00:00",
-  "hidden": false
- },
- {
-  "id": "56e164ae8df4",
-  "headline": "Africa food security threatened by Iran conflict, officials warn",
-  "summary": "Trade officials report that the conflict involving Iran is increasing fuel and fertilizer expenses throughout Africa. This rise in costs places significant pressure on the continent's food security.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
-  "source_title": "Africa food security under threat due to Iran war, trade officials warn",
-  "published": "2026-10-26T21:42:18+00:00",
-  "added": "2026-10-27T03:34:03.767760+00:00",
   "hidden": false
  }
 ]
