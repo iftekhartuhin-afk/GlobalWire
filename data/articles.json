@@ -1,5 +1,262 @@
 [
  {
+  "id": "a34e81dbcf99",
+  "headline": "African Nations Increase Use of Chinese Yuan, Challenging Dollar Dominance",
+  "summary": "NPR World reports that growing yuan adoption by African countries may shift the continent's financial balance away from the dollar.",
+  "body": [
+   "The United States dollar has traditionally dominated Africa's financial systems, serving as the primary currency for trade and reserves across the continent. However, recent reports indicate a growing number of African nations are increasingly using China's yuan for transactions.",
+   "According to NPR World, this shift toward the yuan could alter the balance of economic power in Africa, reducing reliance on the dollar and potentially reshaping trade relationships with global partners.",
+   "Observers note that the yuan's increasing presence reflects China's expanding economic outreach in the region, though the long‑term impact on African markets remains uncertain."
+  ],
+  "headline_bn": "আফ্রিকান দেশগুলো চীনা ইউয়ানের ব্যবহার বাড়াচ্ছে, ডলারের আধিপত্য চ্যালেঞ্জে",
+  "summary_bn": "NPR World জানায়, আফ্রিকায় ইউয়ান গ্রহণ বাড়লে আর্থিক ভারসাম্য ডলারের থেকে সরে যেতে পারে।",
+  "body_bn": [
+   "যুক্তরাষ্ট্রের ডলার ঐতিহ্যগতভাবে আফ্রিকান আর্থিক ব্যবস্থাকে শাসন করেছে, যা মহাদেশের বাণিজ্য ও মুদ্রা সংরক্ষণের প্রধান মাধ্যম ছিল। তবে সাম্প্রতিক প্রতিবেদনে দেখা যাচ্ছে, বেশ কিছু আফ্রিকান দেশ ক্রমশ চীনের ইউয়ান ব্যবহার করছে।",
+   "NPR World অনুযায়ী, ইউয়ানের দিকে এই পরিবর্তন আফ্রিকায় অর্থনৈতিক শক্তির ভারসাম্য পরিবর্তন করতে পারে, ডলারের ওপর নির্ভরতা কমিয়ে এবং বৈশ্বিক অংশীদারদের সঙ্গে বাণিজ্যিক সম্পর্ককে পুনর্গঠন করতে পারে।",
+   "বিশ্লেষকরা উল্লেখ করছেন, ইউয়ানের বাড়তি উপস্থিতি চীনের এই অঞ্চলে অর্থনৈতিক প্রভাবের বিস্তারকে প্রতিফলিত করে, যদিও আফ্রিকান বাজারে এর দীর্ঘমেয়াদী প্রভাব এখনও অনিশ্চিত।"
+  ],
+  "image_prompt": "A stylized map showing African trade routes with yuan and dollar symbols, indicating a shift toward yuan, without faces or logos",
+  "category": "World",
+  "source": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
+  "source_title": "Africa: Trading in yuan",
+  "sources": [
+   {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
+    "title": "Africa: Trading in yuan"
+   }
+  ],
+  "published": "2026-11-16T23:49:35+00:00",
+  "added": "2026-11-17T00:35:13.264677+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2eb2a7f1e3b3",
+  "headline": "Germany defeats Netherlands 5-0 to secure Nations League quarter-final spot",
+  "summary": "Florian Wirtz netted a brace as Germany's 5-0 win over the Netherlands clinched a quarter-final place.",
+  "body": [
+   "Germany defeated the Netherlands 5-0 on Monday in a Nations League group match, a result that qualified the German side for the quarter-finals, DW reported.",
+   "Florian Wirtz scored twice, accounting for two of the five goals, as Germany cruised to a comfortable win that secured its progression in the tournament.",
+   "The victory places Germany among the eight teams remaining in the competition, highlighting its strong performance in the current edition."
+  ],
+  "headline_bn": "জার্মানি নেদারল্যান্ডসকে ৫-০ গোলে পরাজিত করে ন্যাশনস লীগ কোয়ার্টার ফাইনালের স্থান নিশ্চিত",
+  "summary_bn": "ফ্লোরিয়ান উইর্টজের দু'গোলের মাধ্যমে জার্মানির জয় নেদারল্যান্ডসকে পরাজিত করে কোয়ার্টার ফাইনালের প্রবেশ নিশ্চিত করেছে।",
+  "body_bn": [
+   "ডব্লিউ অনুযায়ী, জার্মানি সোমবার ন্যাশনস লীগ গ্রুপ ম্যাচে নেদারল্যান্ডসকে ৫-০ পরাজিত করে কোয়ার্টার ফাইনালের স্থান নিশ্চিত করেছে।",
+   "ফ্লোরিয়ান উইর্টজ দুইটি গোল করে পাঁচটি গোলের মধ্যে দু'টি যোগ করে, জার্মানির আরামদায়ক জয়কে শক্তিশালী করেছে।",
+   "এই জয় জার্মানিকে টুর্নামেন্টের বাকি আটটি দলের মধ্যে স্থান করে দিয়েছে, যা বর্তমান সংস্করণে তাদের শক্তিশালী পারফরম্যান্সকে নির্দেশ করে।"
+  ],
+  "image_prompt": "Illustration of a soccer stadium with a scoreboard displaying 5-0, abstract players celebrating, no faces or logos",
+  "category": "Sports",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/germany-beat-netherlands-5-0-to-win-nations-league-group/a-79964394?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Germany beat Netherlands 5-0 to win Nations League group",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/germany-beat-netherlands-5-0-to-win-nations-league-group/a-79964394?maca=en-rss-en-all-1573-rdf",
+    "title": "Germany beat Netherlands 5-0 to win Nations League group"
+   }
+  ],
+  "published": "2026-11-16T23:48:00+00:00",
+  "added": "2026-11-17T00:35:21.888980+00:00",
+  "hidden": false
+ },
+ {
+  "id": "5af00c545ae7",
+  "headline": "Paraguayan ex-president Santiago Peña transferred to military jail amid special‑treatment claims",
+  "summary": "Santiago Peña, accused of corruption tied to Ueno Bank’s collapse, was moved to a military detention facility, reports say.",
+  "body": [
+   "Paraguay’s former president Santiago Peña was transferred to a military jail on Tuesday, according to Al Jazeera English. The move follows accusations of corruption that emerged after the collapse of Ueno Bank earlier this month.",
+   "Authorities have not disclosed the specific charges, but the relocation has been described as part of a special‑treatment process, prompting public scrutiny of the former leader’s legal status."
+  ],
+  "headline_bn": "প্যারাগুয়ের প্রাক্তন প্রেসিডেন্ট সান্তিয়াগো পেনা সামরিক কারাগারে স্থানান্তরিত, বিশেষ আচরণের দাবি",
+  "summary_bn": "সান্তিয়াগো পেনা, উএনো ব্যাংকের পতনের পর দুর্নীতির অভিযোগে, সামরিক জেলায় পাঠানো হয়েছে, সূত্র জানায়।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের রিপোর্ট অনুযায়ী, প্যারাগুয়ের প্রাক্তন প্রেসিডেন্ট সান্তিয়াগো পেনা মঙ্গলবার সামরিক কারাগারে স্থানান্তরিত হয়েছেন।",
+   "এই পদক্ষেপটি উএনো ব্যাংক এই মাসের শুরুর দিকে ধসে যাওয়ার পর প্রকাশিত দুর্নীতির অভিযোগের পর নেওয়া হয়েছে।",
+   "অধিকারেরা নির্দিষ্ট অভিযোগ প্রকাশ না করলেও, এই স্থানান্তরটি বিশেষ আচরণের অংশ হিসেবে বিবেচিত হচ্ছে, যা জনসাধারণের নজর কাড়ছে।"
+  ],
+  "image_prompt": "A generic military prison building with barred windows and a shadowed figure, no faces, neutral tones",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+  "source_title": "Paraguay ex-president moved to military jail amid special treatment reports",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+    "title": "Paraguay ex-president moved to military jail amid special treatment reports"
+   }
+  ],
+  "published": "2026-11-16T23:44:32+00:00",
+  "added": "2026-11-17T00:35:31.247394+00:00",
+  "hidden": false
+ },
+ {
+  "id": "886263f064d5",
+  "headline": "Trump heads to Manila for ASEAN summit with Xi and Putin",
+  "summary": "Donald Trump is traveling to the Philippines to address ASEAN leaders in Manila, alongside Chinese President Xi and Russian President Putin, Al Jazeera reports.",
+  "body": [
+   "Donald Trump is departing for the Philippines where he will attend an ASEAN summit in Manila. According to Al Jazeera English, he is scheduled to speak at a meeting of ASEAN leaders.",
+   "The summit also includes Chinese President Xi Jinping and Russian President Vladimir Putin, underscoring the gathering of major world leaders."
+  ],
+  "headline_bn": "ট্রাম্প ম্যানিলায় এশিয়ান শীর্ষ সম্মেলনে অংশ নিতে যাচ্ছেন, জি ও পুতিনের সঙ্গে",
+  "summary_bn": "অ্যাল জাজিরা অনুসারে, ডোনাল্ড ট্রাম্প এশিয়ান লিডারদের মিটিংয়ে ম্যানিলায় বক্তৃতা দেবেন, যেখানে চীন ও রাশিয়ার নেতারা অংশ নেবেন।",
+  "body_bn": [
+   "ডোনাল্ড ট্রাম্প ফিলিপাইনে যাচ্ছেন, যেখানে তিনি ম্যানিলায় এশিয়ান লিডারদের (ASEAN) বৈঠকে অংশ নেবেন। অ্যাল জাজিরা ইংরেজি জানিয়েছে, তিনি এই বৈঠকে বক্তৃতা দেবেন।",
+   "এই শীর্ষ সম্মেলনে চীনের প্রেসিডেন্ট শি জিনপিং এবং রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনও অংশগ্রহণ করবেন, যা প্রধান আন্তর্জাতিক নেতাদের সমাবেশকে নির্দেশ করে।"
+  ],
+  "image_prompt": "illustration of an international summit hall with flags of Philippines, USA, China, Russia, no faces",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+  "source_title": "Trump departs for ASEAN on summit with Xi and Putin",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+    "title": "Trump departs for ASEAN on summit with Xi and Putin"
+   }
+  ],
+  "published": "2026-11-16T23:42:03+00:00",
+  "added": "2026-11-17T00:35:39.169743+00:00",
+  "hidden": false
+ },
+ {
+  "id": "77f80985372f",
+  "headline": "Ukraine drones strike key Crimea bridge, France 24 reports",
+  "summary": "France 24 says Ukrainian drones hit the main bridge linking Crimea to Russia, with officials suggesting it is a retaliatory message.",
+  "body": [
+   "Ukraine deployed drones to strike the main bridge that links Crimea with the Russian mainland, France 24 reported. The crossing is a critical supply route for Russian forces, and the attack marks a direct hit on a strategic target.",
+   "Gulliver Cragg, speaking from Kyiv, said the operation seems intended to convey that Ukrainian forces can retaliate against Russian infrastructure when Russian attacks damage Ukrainian bridges.",
+   "The strike highlights the ongoing tit‑for‑tat dynamic in the conflict, showing how each side targets the other's transport links."
+  ],
+  "headline_bn": "ইউক্রেনের ড্রোন ক্রিমিয়া সেতুতে আক্রমণ, ফ্রান্স ২৪ রিপোর্ট",
+  "summary_bn": "ফ্রান্স ২৪ জানায়, ইউক্রেনের ড্রোন ক্রিমিয়া-রাশিয়া সংযোগকারী প্রধান সেতুতে আঘাত হানা, যা প্রতিক্রিয়ার বার্তা পাঠাতে চায়।",
+  "body_bn": [
+   "ইউক্রেন ড্রোন ব্যবহার করে ক্রিমিয়াকে রাশিয়ার মূল ভূখণ্ডের সঙ্গে যুক্ত করা প্রধান সেতুতে আক্রমণ করেছে, ফ্রান্স ২৪ রিপোর্ট করেছে। এই সেতুটি রাশিয়ান সেনাবাহিনীর জন্য গুরুত্বপূর্ণ সরবরাহ পথ এবং আক্রমণটি কৌশলগত লক্ষ্যকে সরাসরি লক্ষ্যবস্তু করেছে।",
+   "কিয়েভ থেকে কথা বলা গুলিভার ক্র্যাগ বলেছেন, এই অভিযানটি রাশিয়ান সেতুতে আঘাতের প্রতিক্রিয়ায় ইউক্রেনীয় বাহিনী রাশিয়ান অবকাঠামোকে লক্ষ্য করতে পারে এমন বার্তা পাঠাতে চায়।",
+   "এই আক্রমণটি সংঘাতের চলমান পারস্পরিক প্রতিশোধের গতিবিধি তুলে ধরে, যেখানে উভয় পক্ষই অপর পক্ষের পরিবহন সংযোগকে লক্ষ্যবস্তু করে।"
+  ],
+  "image_prompt": "Illustration of drones flying over a large bridge spanning water, with explosions near the structure, no people, flags, logos, or text",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
+  "source_title": "Ukraine hits key Crimea bridge with drones",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
+    "title": "Ukraine hits key Crimea bridge with drones"
+   }
+  ],
+  "published": "2026-11-16T23:13:06+00:00",
+  "added": "2026-11-17T00:35:48.672533+00:00",
+  "hidden": false
+ },
+ {
+  "id": "3faf6674009c",
+  "headline": "United Airlines fixes system outage that caused flight delays",
+  "summary": "United Airlines announced the resolution of a technical glitch that delayed departures, following a nationwide five‑hour flight halt last week, DW reports.",
+  "body": [
+   "United Airlines confirmed that a recent system outage affecting its departure schedule has been fully resolved, according to a statement from the carrier. The technical issue had caused delays across several flights, prompting the airline to suspend departures until the problem was fixed.",
+   "The incident follows a broader disruption that occurred the previous week, when a separate stoppage halted all flights to and within the United States for five hours. The earlier outage highlighted the vulnerability of airline operations to technical failures, and the latest resolution aims to restore normal service."
+  ],
+  "headline_bn": "ইউনাইটেড এয়ারলাইনস প্রযুক্তি ত্রুটি সমাধান, ফ্লাইটে বিলম্ব শেষ",
+  "summary_bn": "DW অনুসারে, ইউনাইটেড এয়ারলাইনস সিস্টেম ত্রুটি সমাধান করেছে, যা গত সপ্তাহের পাঁচ ঘণ্টার জাতীয় ফ্লাইট বন্ধের পর ডিপার্চার বিলম্ব ঘটিয়েছিল।",
+  "body_bn": [
+   "ইউনাইটেড এয়ারলাইনস জানিয়েছে যে সাম্প্রতিক সিস্টেম ত্রুটি, যা তার ডিপার্চার সময়সূচি ব্যাহত করেছিল, সম্পূর্ণভাবে সমাধান হয়েছে। এই প্রযুক্তিগত সমস্যার ফলে বেশ কিছু ফ্লাইটে বিলম্ব ঘটেছিল এবং সমস্যা সমাধান না হওয়া পর্যন্ত এয়ারলাইনস ডিপার্চার স্থগিত করেছিল।",
+   "এই ঘটনা গত সপ্তাহে ঘটিত বৃহত্তর ব্যাঘাতের পরবর্তী, যখন একটি পৃথক বন্ধের ফলে যুক্তরাষ্ট্রে এবং তার মধ্যে সব ফ্লাইট পাঁচ ঘণ্টা বন্ধ ছিল। পূর্বের ত্রুটি বিমান চলাচলের প্রযুক্তিগত দুর্বলতা প্রকাশ করেছিল, এবং বর্তমান সমাধান স্বাভাবিক সেবা পুনরায় চালু করার লক্ষ্য রাখে।"
+  ],
+  "image_prompt": "airport terminal with empty gates and digital screens showing delayed flights",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-rdf",
+  "source_title": "United Airlines resolves tech outage that delayed flights",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-rdf",
+    "title": "United Airlines resolves tech outage that delayed flights"
+   }
+  ],
+  "published": "2026-11-16T23:13:00+00:00",
+  "added": "2026-11-17T00:35:57.461759+00:00",
+  "hidden": false
+ },
+ {
+  "id": "bcf74afa2471",
+  "headline": "EU to revive cooperation agreement with Syria after Assad government's collapse",
+  "summary": "The EU decided to restore its cooperation framework with Damascus after the Syrian government fell in December 2024.",
+  "body": [
+   "The European Union has decided to revive its cooperation agreement with Syria, as reported by Al Jazeera English. The move is intended to strengthen the bloc’s relationship with Damascus after the Syrian government collapsed in December 2024.",
+   "According to the report, the EU’s decision follows the fall of President Bashar al‑Assad’s administration, prompting the bloc to seek renewed diplomatic engagement with the new authorities in Syria.",
+   "The revived framework is expected to bolster ties between the EU and Syria, aiming to re‑establish channels of communication and cooperation in the wake of the political upheaval."
+  ],
+  "headline_bn": "ইইউ সিরিয়ার সাথে সহযোগিতা চুক্তি পুনরুজ্জীবিত করবে, আসাদ সরকারের পতনের পর",
+  "summary_bn": "ইউরোপীয় ইউনিয়ন দমাস্কাসের সঙ্গে সম্পর্ক শক্তিশালী করতে, ডিসেম্বর ২০২৪-এ আসাদ সরকারের পতনের পর সহযোগিতা চুক্তি পুনরায় চালু করার সিদ্ধান্ত নিয়েছে।",
+  "body_bn": [
+   "ইউরোপীয় ইউনিয়ন সিরিয়ার সঙ্গে সহযোগিতা চুক্তি পুনরুজ্জীবিত করার সিদ্ধান্ত নিয়েছে, আল জাজিরা ইংলিশের রিপোর্ট অনুযায়ী। এই পদক্ষেপটি দমাস্কাসের সঙ্গে সম্পর্ক শক্তিশালী করার উদ্দেশ্যে, যা ডিসেম্বর ২০২৪-এ সিরিয়ার সরকার পতনের পর নেওয়া হয়েছে।",
+   "রিপোর্টে বলা হয়েছে, আসাদ সরকারের পতনের পর ইউইউ এই সিদ্ধান্ত নিয়েছে, যা নতুন সিরিয়ান কর্তৃপক্ষের সঙ্গে পুনরায় কূটনৈতিক সম্পৃক্ততা খোঁজার দিকে ইঙ্গিত করে।",
+   "পুনরুজ্জীবিত কাঠামোটি ইইউ এবং সিরিয়ার মধ্যে সম্পর্ক বাড়াতে, রাজনৈতিক অস্থিরতার পর যোগাযোগ ও সহযোগিতা পুনঃস্থাপন করার লক্ষ্য রাখে।"
+  ],
+  "image_prompt": "Illustration of EU and Syrian symbols connected by a diplomatic document, showing cooperation, without faces, flags, logos or text",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+  "source_title": "EU agrees to resurrect cooperation deal with Syria",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+    "title": "EU agrees to resurrect cooperation deal with Syria"
+   }
+  ],
+  "published": "2026-11-16T23:00:36+00:00",
+  "added": "2026-11-17T00:36:08.972556+00:00",
+  "hidden": false
+ },
+ {
+  "id": "6484e2741451",
+  "headline": "UEFA backs French FA chief Philippe Diallo to challenge Infantino in FIFA election",
+  "summary": "UEFA gives unanimous support to Diallo as he prepares to run against incumbent Gianni Infantino in March's FIFA presidential vote.",
+  "body": [
+   "UEFA announced on Monday that it gives unanimous backing to French Football Federation chief Philippe Diallo to stand against incumbent Gianni Infantino in the FIFA presidential election scheduled for March, according to France 24.",
+   "The move makes Diallo the second candidate to challenge Infantino, as reported by DW, and reflects UEFA's criticism of Infantino's July announcement to sell World Cup stakes to private investors.",
+   "UEFA President Aleksander Ceferin has led the opposition to Infantino since that announcement, underscoring the governing body's broader concerns about the proposed commercial changes."
+  ],
+  "headline_bn": "ইউইএফএ ফ্রেঞ্চ এফএ প্রধান ফিলিপ ডায়ালোরকে ইনফ্যান্টিনোর বিরুদ্ধে ফিফা নির্বাচনে সমর্থন জানায়",
+  "summary_bn": "ইউইএফএ ডায়ালোরকে একমত সমর্থন দেয়, যিনি মার্চের ফিফা প্রেসিডেন্টি ভোটে বর্তমান গিয়ানি ইনফ্যান্টিনোর মোকাবেলা করবেন।",
+  "body_bn": [
+   "ইউইএফএ সোমবার একটি বিবৃতিতে জানিয়েছে যে ফরাসি ফুটবল ফেডারেশন প্রধান ফিলিপ ডায়ালোকে একমত সমর্থন দেয়, যাতে তিনি বর্তমান গিয়ানি ইনফ্যান্টিনোর বিরুদ্ধে মার্চে নির্ধারিত ফিফা প্রেসিডেন্টি নির্বাচনে প্রতিদ্বন্দ্বিতা করেন, ফ্রান্স ২৪ রিপোর্ট করেছে।",
+   "ডায়ালো ইনফ্যান্টিনোর দ্বিতীয় প্রতিদ্বন্দ্বী, এই তথ্য ডিডাব্লিউ জানিয়েছে, এবং ইউইএফএর সমালোচনা ইনফ্যান্টিনোর জুলাই মাসে বিশ্বকাপের শেয়ার বেসরকারি বিনিয়োগকারীদের কাছে বিক্রি করার প্রকল্পের উপর ভিত্তি করে।",
+   "ইউইএফএ প্রেসিডেন্ট আলেকজান্ডার সেফেরিনের নেতৃত্বে এই প্রকল্পের বিরোধিতা করা হয়েছে, যা ফিফার সম্ভাব্য বাণিজ্যিক পরিবর্তন নিয়ে উদ্বেগ প্রকাশ করে।"
+  ],
+  "image_prompt": "illustration of a football stadium with a FIFA logo and UEFA emblem, showing a ballot box and two candidate silhouettes",
+  "category": "Sports",
+  "source": "DW, France 24",
+  "source_url": "https://www.dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-rdf",
+  "source_title": "France's Philippe Diallo to challenge Infantino for FIFA presidency",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-rdf",
+    "title": "France's Philippe Diallo to challenge Infantino for FIFA presidency"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/uefa-backs-france-s-diallo-to-stand-against-infantino-in-fifa-election",
+    "title": "UEFA backs France's Diallo to stand against Infantino in FIFA election"
+   }
+  ],
+  "published": "2026-11-16T20:24:00+00:00",
+  "added": "2026-11-17T00:34:19.399222+00:00",
+  "hidden": false,
+  "image": "data/img/6484e2741451.jpg"
+ },
+ {
   "id": "d9d15d9b143f",
   "headline": "Nvidia controversy highlights US-China AI rivalry",
   "summary": "The dispute over Nvidia and former CEO Jensen Huang draws attention to the accelerating AI competition between the United States and China.",
@@ -15627,102 +15884,6 @@
   "source_title": "Carrick stays on as Manchester United manager for crucial Chelsea match",
   "published": "2026-10-27T14:56:40+00:00",
   "added": "2026-10-27T15:32:06.418016+00:00",
-  "hidden": false
- },
- {
-  "id": "03444a092d87",
-  "headline": "Israelis cast ballots in critical general election",
-  "summary": "Citizens in Israel are heading to the polls Tuesday for a crucial election. The nation faces ongoing conflicts, the aftermath of the 2023 Hamas assault, and deep internal divisions regarding leadership and the country's future direction.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/video/20261027-israel-s-unique-political-system-what-happens-after-polls-close",
-  "source_title": "Israel votes in decisive election: What happens after polls close?",
-  "published": "2026-10-27T14:55:49+00:00",
-  "added": "2026-10-27T15:33:02.313050+00:00",
-  "hidden": false
- },
- {
-  "id": "52edc24febb8",
-  "headline": "Canadian Artist Peaches Celebrates 60th Birthday",
-  "summary": "Canadian electroclash musician Peaches has spent thirty years entertaining audiences with theatrical live performances. Known for extravagant costumes, her concerts provide a welcoming environment for diverse genders and sexualities.",
-  "category": "Culture",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/tv-shows/arts24/20261027-canadian-dance-punk-legend-peaches-reaches-the-ripe-age-of-60",
-  "source_title": "Canadian dance-punk legend Peaches reaches the ripe age of 60",
-  "published": "2026-10-27T14:50:03+00:00",
-  "added": "2026-10-27T15:33:57.248275+00:00",
-  "hidden": false
- },
- {
-  "id": "7d1585723c9f",
-  "headline": "Israelis Vote in Record Numbers Amid Deep Divisions Over Netanyahu",
-  "summary": "Israeli citizens participated in Tuesday's election with turnout reaching levels not seen in decades. The deeply divided electorate is voting on Prime Minister Benjamin Netanyahu in the country's initial electoral test since the October 7, 2023 assault.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/turnout-high-as-israeli-voters-deliver-verdict-on-netanyahu",
-  "source_title": "Turnout high as Israeli voters deliver verdict on Netanyahu",
-  "published": "2026-10-27T14:45:08+00:00",
-  "added": "2026-10-27T15:36:05.406969+00:00",
-  "hidden": false
- },
- {
-  "id": "2529340fb010",
-  "headline": "Qatar seeks defense autonomy through resilience and diversification",
-  "summary": "Qatar requires a new approach for defense independence. This strategy should focus on building national resilience and establishing varied security guarantees.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news-analysis/2026/10/27/qatars-path-to-defence-autonomy?traffic_source=rss",
-  "source_title": "Qatar’s path to defence autonomy",
-  "published": "2026-10-27T07:55:01+00:00",
-  "added": "2026-10-27T08:15:06.403175+00:00",
-  "hidden": false
- },
- {
-  "id": "bf6ef63acf66",
-  "headline": "Russia pauses Kherson strikes following local ceasefire agreement",
-  "summary": "Military attacks near Kherson have stopped as a localized ceasefire takes effect in Oleshky. Secured by US First Lady Melania Trump, the pause enables humanitarian aid deliveries and civilian evacuations.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
-  "source_title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-  "published": "2026-10-27T02:29:00+00:00",
-  "added": "2026-10-27T03:28:48.112361+00:00",
-  "hidden": false
- },
- {
-  "id": "28b7c31febcc",
-  "headline": "US warns EU that Airbus loan threatens trade truce",
-  "summary": "A US trade official stated that a multibillion-dollar European loan to Airbus could endanger the existing tariff truce between Washington and Brussels. The trade office urged the European Union to resolve the financing issue swiftly after receiving no details regarding the June announcement.",
-  "category": "Business",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump",
-  "source_title": "US-EU trade truce at risk over $3.4 billion Airbus loan, Trump official warns",
-  "published": "2026-10-27T02:20:28+00:00",
-  "added": "2026-10-27T03:18:00.090951+00:00",
-  "hidden": false
- },
- {
-  "id": "fcfb15232074",
-  "headline": "Trump proposes renaming Atlantic Ocean at Republican rally",
-  "summary": "During a Republican rally, United States President Donald Trump floated the idea of changing the name of the Atlantic Ocean to the 'American Ocean'.",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
-  "source_title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
-  "published": "2026-10-27T02:17:06+00:00",
-  "added": "2026-10-27T03:18:33.115031+00:00",
-  "hidden": false
- },
- {
-  "id": "565e4a8ef407",
-  "headline": "US Pursues New Legal Charges Against Former FBI Director Comey",
-  "summary": "The Trump administration is attempting to bring new charges against former FBI director James Comey for allegedly leaking classified information ten years ago. Comey maintains his innocence, and his legal team contends the prosecution is legally flawed and untimely.",
-  "category": "Politics",
-  "source": "DW",
-  "source_url": "https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-rdf",
-  "source_title": "US seeks new charges against former FBI chief James Comey",
-  "published": "2026-10-27T01:39:00+00:00",
-  "added": "2026-10-27T03:19:06.268639+00:00",
   "hidden": false
  }
 ]
