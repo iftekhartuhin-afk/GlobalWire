@@ -1,5 +1,256 @@
 [
  {
+  "id": "2fea232f1506",
+  "headline": "Kuwait Intercepts Hostile Drones as Bahrain Alerts Public to Threat",
+  "summary": "Al Jazeera English reports Kuwait has intercepted hostile drone attacks while Bahrain warns of a potential threat and urges citizens to stay calm.",
+  "body": [
+   "Al Jazeera English reports that Kuwait's security forces intercepted drone attacks described as hostile, occurring within Kuwait's airspace.",
+   "Bahrain's authorities issued a warning about a potential threat and urged the public to remain calm, according to the same outlet.",
+   "The incidents underscore regional tension and the need for vigilance, Al Jazeera English noted."
+  ],
+  "headline_bn": "কুয়েত শত্রুতাপূর্ণ ড্রোন আটক করেছে, বাহরাইন সতর্কতা ও শান্ত থাকার আহ্বান",
+  "summary_bn": "আল জাজিরা ইংরেজি জানিয়েছে কুয়েত শত্রুতাপূর্ণ ড্রোন আটক করেছে, আর বাহরাইন সম্ভাব্য হুমকি নিয়ে সতর্ক করে নাগরিকদের শান্ত থাকতে বলেছে।",
+  "body_bn": [
+   "আল জাজিরা ইংরেজি অনুসারে, কুয়েতের নিরাপত্তা বাহিনী শত্রুতাপূর্ণ ড্রোন আক্রমণ আটক করেছে। এই ধরা পড়া কুয়েতের আকাশে ঘটেছে।",
+   "একই সূত্রে জানানো হয়েছে যে, বাহরাইন কর্তৃপক্ষ সম্ভাব্য হুমকি সম্পর্কে সতর্কতা জারি করে জনগণকে শান্ত থাকতে আহ্বান জানিয়েছে।",
+   "এই ঘটনাগুলো আঞ্চলিক উত্তেজনা ও সতর্কতার প্রয়োজনীয়তা তুলে ধরেছে, আল জাজিরা ইংরেজি উল্লেখ করেছে।"
+  ],
+  "image_prompt": "illustration of radar screens and drones being intercepted over a desert landscape, no people or logos",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+  "source_title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+    "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks"
+   }
+  ],
+  "published": "2026-11-18T00:00:27+00:00",
+  "added": "2026-11-18T00:33:04.354355+00:00",
+  "hidden": false
+ },
+ {
+  "id": "be875ec6f7e0",
+  "headline": "Kuwait Military Repels Drone Attacks Amid Iran-US Tensions in Gulf",
+  "summary": "Kuwait says its air defence intercepted drones as Iran and the US exchanged strikes on Qeshm and Bahrain.",
+  "body": [
+   "Kuwait's military announced that its air defence systems were engaged in repelling drone incursions as hostilities unfolded across the Gulf region.",
+   "According to Al Jazeera English, the drone activity coincided with Iran and the United States striking each other on the Iranian island of Qeshm and in Bahrain, reflecting escalating tensions between the two powers."
+  ],
+  "headline_bn": "কুয়েতের সামরিক বাহিনী গাল্ফে ইরান-ইউএস উত্তেজনার মধ্যে ড্রোন আক্রমণ প্রতিহত করেছে",
+  "summary_bn": "কুয়েতের বায়ু প্রতিরক্ষা ড্রোন বাধা দিয়েছে, যখন ইরান ও যুক্তরাষ্ট্র কুয়েশম ও বাহরাইনে পারস্পরিক হামলা চালাচ্ছে।",
+  "body_bn": [
+   "কুয়েতের সামরিক বাহিনী জানিয়েছে যে গাল্ফে বাড়তে থাকা উত্তেজনার মধ্যে তাদের বায়ু প্রতিরক্ষা ড্রোন আক্রমণ প্রতিহত করেছে।",
+   "আল জাজিরা ইংলিশের মতে, ইরান ও যুক্তরাষ্ট্র কুয়েশম দ্বীপ ও বাহরাইনে পারস্পরিক হামলা চালিয়ে গাল্ফের নিরাপত্তা পরিস্থিতি তীব্রতর করেছে।"
+  ],
+  "image_prompt": "illustration of drones over Gulf waters with military radar and missiles, no people, flags, logos or text",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+  "source_title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+    "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain"
+   }
+  ],
+  "published": "2026-11-17T23:38:38+00:00",
+  "added": "2026-11-18T00:33:11.505813+00:00",
+  "hidden": false
+ },
+ {
+  "id": "5fecc68cc8f8",
+  "headline": "Israel's Knesset elects Matan Kahana as speaker, signaling shift in domestic agenda",
+  "summary": "Matan Kahana, ally of Gadi Eisenkot, was chosen as speaker, with Eisenkot’s bloc pledging to reverse several of Netanyahu’s policies.",
+  "body": [
+   "Israel’s parliament, the Knesset, voted to install Matan Kahana as its new speaker, according to Al Jazeera English.",
+   "Kahana is identified as an ally of Defence Minister Gadi Eisenkot, whose bloc has said it will work to undo a number of Prime Minister Benjamin Netanyahu’s most contentious domestic policies following the election.",
+   "The move is seen as part of a broader effort to reshape the government’s internal agenda."
+  ],
+  "headline_bn": "ইসরায়েল কনেসেট মাটান কাহানা-কে নতুন স্পিকার হিসেবে নির্বাচন করেছে",
+  "summary_bn": "গাদি আইসেনকোটের মিত্র মাটান কাহানা স্পিকার হয়েছেন; আইসেনকোটের দল নেটানিয়াহুর কিছু বিতর্কিত নীতি উল্টানোর প্রতিশ্রুতি দিয়েছে।",
+  "body_bn": [
+   "ইসরায়েল পার্লামেন্ট, কনেসেট, মাটান কাহানাকে নতুন স্পিকার হিসেবে নির্বাচিত করেছে, আল জাজিরা ইংরেজি রিপোর্ট করেছে।",
+   "কাহানা গাদি আইসেনকোটের মিত্র হিসেবে পরিচিত; আইসেনকোটের দল নেটানিয়াহুর সবচেয়ে বিতর্কিত গৃহস্থালি নীতিগুলি উল্টানোর পরিকল্পনা প্রকাশ করেছে।",
+   "এই পদক্ষেপটি সরকারের অভ্যন্তরীণ এজেন্ডা পুনর্গঠন করার বৃহত্তর প্রচেষ্টার অংশ হিসেবে দেখা হচ্ছে।"
+  ],
+  "image_prompt": "illustration of a parliamentary chamber with a gavel and empty seats, symbolic of a speaker election",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+  "source_title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+    "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker"
+   }
+  ],
+  "published": "2026-11-17T23:28:54+00:00",
+  "added": "2026-11-18T00:33:20.921847+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2465872bda54",
+  "headline": "US top spy agency hit by network outage, latest technical failure",
+  "summary": "Al Jazeera English reports that a network outage at a leading US intelligence agency adds to a string of recent technical problems in the country.",
+  "body": [
+   "A leading United States intelligence agency has experienced a network outage, according to a report by Al Jazeera English. The outlet’s coverage, presented by Emma Withrow, confirms the disruption without providing further technical details. The report notes that a series of unfortunate events has plagued the United States, with this network failure adding to the list of recent setbacks."
+  ],
+  "headline_bn": "US-এর শীর্ষ গোয়েন্দা সংস্থার নেটওয়ার্কে ব্যাঘাত, নতুন প্রযুক্তিগত ব্যর্থতা",
+  "summary_bn": "Al Jazeera English জানায়, যুক্তরাষ্ট্রের শীর্ষ গোয়েন্দা সংস্থার নেটওয়ার্ক বন্ধ হয়ে দেশের সাম্প্রতিক প্রযুক্তিগত সমস্যার তালিকায় যোগ হয়েছে।",
+  "body_bn": [
+   "Al Jazeera English জানায় যে যুক্তরাষ্ট্রের শীর্ষ গোয়েন্দা সংস্থার নেটওয়ার্কে ব্যাঘাত ঘটেছে। এই প্রতিবেদনটি এমা উইথ্রো উপস্থাপন করেছেন, তবে প্রযুক্তিগত বিশদ উল্লেখ করা হয়নি।",
+   "এই ব্যাঘাতকে যুক্তরাষ্ট্রে সাম্প্রতিক সময়ে ঘটেছে এমন একাধিক প্রযুক্তিগত ব্যর্থতার ধারার সর্বশেষ উদাহরণ হিসেবে উল্লেখ করা হয়েছে। প্রতিবেদনে বলা হয়েছে যে দুর্ভাগ্যজনক ঘটনাবলীর ধারায় এই নেটওয়ার্ক ব্যর্থতা নতুন একটি ধাপ যোগ করেছে।"
+  ],
+  "image_prompt": "A dim server room with darkened monitors and inactive blinking lights, symbolizing a network outage at an intelligence agency",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+  "source_title": "Top spy agency suffers network outage, the latest US technical failure",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+    "title": "Top spy agency suffers network outage, the latest US technical failure"
+   }
+  ],
+  "published": "2026-11-17T23:19:12+00:00",
+  "added": "2026-11-18T00:33:30.456017+00:00",
+  "hidden": false
+ },
+ {
+  "id": "c9ade3318038",
+  "headline": "Haitians Demonstrate Backing of El Salvador's Anti-Gang Troop Deployment",
+  "summary": "Protesters in Haiti rally for El Salvador's anti-gang troops, while officials say forces will withdraw after rescued technicians are freed.",
+  "body": [
+   "Haitian citizens gathered in the capital to demonstrate support for the deployment of Salvadoran troops aimed at combating gangs, according to Al Jazeera English. The protest reflects solidarity with El Salvador's security strategy, which has involved sending soldiers across borders to assist in anti‑gang operations.",
+   "El Salvador's security minister has stated that the foreign troops will be withdrawn once the kidnapped technicians are rescued, indicating the deployment is intended as a temporary measure tied to the specific hostage situation. The minister emphasized that the rescue operation remains the priority for the joint effort."
+  ],
+  "headline_bn": "হাইতি নাগরিকরা এল সালভাদরের গ্যাংবিরোধী সেনা মোতায়েনের পক্ষে প্রতিবাদে সমবেত",
+  "summary_bn": "হাইতিতে প্রতিবাদকারীরা এল সালভাদরের গ্যাংবিরোধী সেনা সমর্থন করে, যখন সরকারী সূত্রে বলা হয়েছে দখলকৃত প্রযুক্তিবিদদের মুক্তির পর সেনা প্রত্যাহার হবে।",
+  "body_bn": [
+   "আল জাজিরা ইংরেজি অনুসারে, হাইতির রাজধানীতে গ্যাংবিরোধী কার্যক্রমে সহায়তা করার জন্য এল সালভাদরের সেনা মোতায়েনের পক্ষে হাইতি নাগরিকরা সমাবেশ করে প্রতিবাদ জানায়। এই প্রতিবাদটি দেশের নিরাপত্তা কৌশলকে সমর্থন করার ইঙ্গিত দেয়, যেখানে সীমান্ত অতিক্রম করে সৈন্য পাঠানো হয়েছে।",
+   "এল সালভাদরের নিরাপত্তা মন্ত্রী জানান, দখলকৃত প্রযুক্তিবিদদের মুক্তি পাওয়া পর্যন্ত বিদেশি সেনা প্রত্যাহার করা হবে, যা এই মোতায়েনকে অস্থায়ী ব্যবস্থা হিসেবে চিহ্নিত করে। মন্ত্রী আরও জোর দিয়ে বলেন, মুক্তি অপারেশনকে যৌথ প্রচেষ্টার প্রধান অগ্রাধিকার হিসেবে বিবেচনা করা হচ্ছে।"
+  ],
+  "image_prompt": "illustration of a street protest with banners and military vehicles, no faces or logos",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+  "source_title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+    "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment"
+   }
+  ],
+  "published": "2026-11-17T23:09:00+00:00",
+  "added": "2026-11-18T00:33:39.264145+00:00",
+  "hidden": false
+ },
+ {
+  "id": "580314b27682",
+  "headline": "Trump and Xi set to meet in Shenzhen as China pledges to host 100,000 U.S. students",
+  "summary": "The leaders will convene in Shenzhen, with Xi reiterating a promise from September to welcome 100,000 American exchange students, NPR reports.",
+  "body": [
+   "According to NPR World, U.S. President Donald Trump and Chinese President Xi Jinping are scheduled to meet in Shenzhen. The meeting follows their September summit where Xi announced a plan to receive 100,000 American students for exchange programs.",
+   "The student initiative is presented as a confidence‑building measure amid ongoing tensions, though the report provides no further details on how the exchanges will be implemented."
+  ],
+  "headline_bn": "ট্রাম্প ও শি শেনঝেনে সাক্ষাৎ, চীন ১০০,০০০ আমেরিকান শিক্ষার্থীকে স্বাগত জানাবে",
+  "summary_bn": "নিপিআর জানায়, শেনঝেনে দু'নেতা মিলবে; শি সেপ্টেম্বরের শীর্ষসভার সময় ১০০,০০০ আমেরিকান শিক্ষার্থীকে আদর্শ বিনিময় বলে ঘোষণা করেছেন।",
+  "body_bn": [
+   "নিপিআর ওয়ার্ল্ডের মতে, যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ও চীনের প্রেসিডেন্ট শি জিনপিং শেনঝেনে সাক্ষাৎ করতে যাচ্ছেন। সেপ্টেম্বরের শীর্ষসভার সময় শি ১০০,০০০ আমেরিকান শিক্ষার্থীকে বিনিময় প্রোগ্রামের জন্য স্বাগত জানাবার প্রতিশ্রুতি দিয়েছিলেন।",
+   "শি এই শিক্ষার্থী উদ্যোগকে চলমান উত্তেজনা সত্ত্বেও সম্পর্ক উন্নয়নের একটি উপায় হিসেবে উপস্থাপন করেছেন, যদিও বাস্তবায়নের বিশদ তথ্য প্রতিবেদনে উল্লেখ নেই।"
+  ],
+  "image_prompt": "Illustration of two generic leaders shaking hands over a globe backdrop, symbolizing diplomatic talks",
+  "category": "World",
+  "source": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
+  "source_title": "Xi said China would welcome American students for exchanges. What's the reality?",
+  "sources": [
+   {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
+    "title": "Xi said China would welcome American students for exchanges. What's the reality?"
+   }
+  ],
+  "published": "2026-11-17T22:41:53+00:00",
+  "added": "2026-11-18T00:34:25.889200+00:00",
+  "hidden": false
+ },
+ {
+  "id": "554209990cc4",
+  "headline": "Russian Military Plane Crash in Siberia Kills 19, Equipment Failure Suspected",
+  "summary": "Al Jazeera English reports Russia's defence ministry says equipment failure likely caused the Siberian crash that killed 19.",
+  "body": [
+   "A Russian military aircraft crashed in Siberia, resulting in the deaths of 19 personnel, according to Al Jazeera English. The incident occurred in the remote region, prompting an immediate response from emergency services.",
+   "Russia's Defence Ministry, cited by Al Jazeera English, said preliminary investigations point to equipment failure as the probable cause of the crash."
+  ],
+  "headline_bn": "সাইবেরিয়ায় রাশিয়ার সামরিক বিমান ধসে ১৯ জনের মৃত্যু, সরঞ্জাম ব্যর্থতা সন্দেহ",
+  "summary_bn": "আল জাজিরা ইংরেজি জানায় রাশিয়ার প্রতিরক্ষা মন্ত্রণালয়ের মতে সরঞ্জাম ব্যর্থতা সম্ভবত কারণ।",
+  "body_bn": [
+   "আল জাজিরা ইংরেজি অনুসারে রাশিয়ার সামরিক বিমান সাইবেরিয়ায় ধসে ১৯ জনের মৃত্যু ঘটেছে। দূরবর্তী এই অঞ্চলে দুর্ঘটনা ঘটার পর জরুরি সেবাগুলি দ্রুত পদক্ষেপ নেয়।",
+   "আল জাজিরা ইংরেজি উল্লেখ করেছে যে রাশিয়ার প্রতিরক্ষা মন্ত্রণালয়ের প্রাথমিক তদন্তে সরঞ্জাম ব্যর্থতা দুর্ঘটনার সম্ভাব্য কারণ হিসেবে চিহ্নিত হয়েছে।"
+  ],
+  "image_prompt": "illustration of a crashed military aircraft in a snowy Siberian landscape, no people, no flags, no text",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+  "source_title": "Russian military plane crash in Siberia kills 19",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+    "title": "Russian military plane crash in Siberia kills 19"
+   }
+  ],
+  "published": "2026-11-17T22:21:16+00:00",
+  "added": "2026-11-18T00:34:32.810765+00:00",
+  "hidden": false
+ },
+ {
+  "id": "0bf4639870be",
+  "headline": "US, Mexico, Bolivia lose measles‑free status as cases surge",
+  "summary": "The United States, Mexico and Bolivia have lost measles elimination status amid the fastest spread of the disease in three decades, health officials say.",
+  "body": [
+   "International health officials announced on Tuesday that the United States, Mexico and Bolivia have lost their measles‑free status. The Pan American Health Organization said the United States ended a 26‑year period without endemic transmission.",
+   "The loss comes as measles is spreading across the Americas at the fastest rate in more than three decades. Vaccination coverage has been declining for several diseases in the United States and worldwide, contributing to the resurgence.",
+   "Health authorities warned that the decline in immunisation increases the risk of outbreaks and underscores the need for renewed vaccination efforts across the region."
+  ],
+  "headline_bn": "যুক্তরাষ্ট্র, মেক্সিকো ও বোলিভিয়া মেজলস‑মুক্ত অবস্থান হারালো",
+  "summary_bn": "আন্তর্জাতিক স্বাস্থ্য সংস্থা জানিয়েছে, টিকাদান হ্রাসের ফলে আমেরিকায় মেজলসের দ্রুত বিস্তার ঘটছে।",
+  "body_bn": [
+   "আন্তর্জাতিক স্বাস্থ্য কর্মকর্তারা মঙ্গলবার জানিয়েছেন যে যুক্তরাষ্ট্র, মেক্সিকো এবং বোলিভিয়া মেজলস‑মুক্ত অবস্থান হারিয়েছে। প্যান আমেরিকান হেলথ অর্গানাইজেশন অনুযায়ী যুক্তরাষ্ট্র ২৬ বছর পর মেজলসের স্বদেশীয় সংক্রমণ থেকে মুক্তি হারিয়েছে।",
+   "এই ক্ষতি ঘটে যখন মেজলস ২০২৪ সাল থেকে আমেরিকায় তিন দশকের মধ্যে সর্বোচ্চ গতিতে ছড়িয়ে পড়ছে। যুক্তরাষ্ট্র এবং বিশ্বব্যাপী টিকাদানের হার বিভিন্ন রোগে হ্রাস পেয়েছে, যা রোগের পুনরুত্থানে ভূমিকা রাখছে।",
+   "স্বাস্থ্য কর্তৃপক্ষ সতর্ক করেছে যে টিকাদানের হ্রাস রোগের বিস্তার বাড়িয়ে দেয় এবং অঞ্চলে টিকাদান প্রচার পুনরায় জোরদার করার প্রয়োজনীয়তা তুলে ধরেছে।"
+  ],
+  "image_prompt": "Illustration of a virus symbol and a declining vaccination chart over a map of the Americas",
+  "category": "Health",
+  "source": "France 24, DW",
+  "source_url": "https://www.france24.com/en/americas/20261117-us-mexico-and-bolivia-lose-measles-free-status-as-deaths-mount",
+  "source_title": "US, Mexico and Bolivia lose measles-free status as deaths mount",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20261117-us-mexico-and-bolivia-lose-measles-free-status-as-deaths-mount",
+    "title": "US, Mexico and Bolivia lose measles-free status as deaths mount"
+   },
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-rdf",
+    "title": "US and Mexico lose measles-free status"
+   }
+  ],
+  "published": "2026-11-17T21:30:23+00:00",
+  "added": "2026-11-18T00:32:56.258427+00:00",
+  "hidden": false,
+  "image": "data/img/0bf4639870be.jpg"
+ },
+ {
   "id": "d214fe0f4e38",
   "headline": "Fire Breaks Out at Former Liberation War Minister Mozammel Haque's Former Home in Gazipur",
   "summary": "Two fire service units are battling a blaze at the ex‑minister’s old house in Jorapukur, Gazipur, reports Prothom Alo.",
@@ -16087,102 +16338,6 @@
   "source_title": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
   "published": "2026-10-28T15:40:04+00:00",
   "added": "2026-10-28T16:16:23.837356+00:00",
-  "hidden": false
- },
- {
-  "id": "73d644e1ee75",
-  "headline": "At least 64 dead in Spanish high-speed train collision",
-  "summary": "At least 64 individuals lost their lives following a collision between two high-speed trains in Spain on Wednesday. Emergency personnel are currently searching the wreckage for additional victims in what marks the nation's second fatal rail incident of the year.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/video/20261028-at-least-64-dead-in-spain-s-high-speed-train-crash",
-  "source_title": "At least 64 dead in Spain’s high-speed train crash",
-  "published": "2026-10-28T15:37:14+00:00",
-  "added": "2026-10-28T16:17:12.299124+00:00",
-  "hidden": false
- },
- {
-  "id": "b6bfe8e8fa10",
-  "headline": "Kylian Mbappe Sparks Controversy in China Over Comments",
-  "summary": "Real Madrid forward Kylian Mbappe faces backlash in China following remarks about Mao Zedong. The criticism arose from a key financial market for sports organizations.",
-  "category": "Sports",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
-  "source_title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
-  "published": "2026-10-28T15:36:39+00:00",
-  "added": "2026-10-28T16:18:02.094286+00:00",
-  "hidden": false
- },
- {
-  "id": "91559bca2245",
-  "headline": "Lebanon anticipates stability in Israeli policy following elections",
-  "summary": "As votes are counted in Israel without a definitive victor, citizens in Lebanon believe the ongoing Middle East conflict will yield minimal shifts in government strategy.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/video/20261028-israeli-election-lebanon-expects-little-change-in-israeli-policy",
-  "source_title": "Israeli election: Lebanon expects little change in Israeli policy",
-  "published": "2026-10-28T15:36:07+00:00",
-  "added": "2026-10-28T16:18:44.773418+00:00",
-  "hidden": false
- },
- {
-  "id": "4b2a4f309abd",
-  "headline": "Netanyahu Rejects Coalition With Arab Parties",
-  "summary": "Israeli Prime Minister Benjamin Netanyahu has described the possibility of partnering with Arab factions to establish a government as disgraceful and shameful. His comments address potential coalition formations.",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
-  "source_title": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
-  "published": "2026-10-28T02:26:27+00:00",
-  "added": "2026-10-28T02:56:57.228927+00:00",
-  "hidden": false
- },
- {
-  "id": "2b0a18923e9c",
-  "headline": "U.S. to Issue Visas to Flávio Bolsonaro Amid Brazil Probe",
-  "summary": "Washington has agreed to grant visas to Flávio Bolsonaro and his family. The departure from Brazil comes while he faces an ongoing money-laundering investigation.",
-  "category": "World",
-  "source": "NPR World",
-  "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
-  "source_title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
-  "published": "2026-10-28T01:58:08+00:00",
-  "added": "2026-10-28T02:57:31.460584+00:00",
-  "hidden": false
- },
- {
-  "id": "62f7c8ee285c",
-  "headline": "Arab Parties Projected to Secure 18 Seats in Israel Election",
-  "summary": "Early exit polls indicate that Arab parties in Israel are on track to win a record-breaking 18 seats. This projection follows exceptionally high voter turnout among Palestinian citizens, which reached approximately 80 percent according to initial indications.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-  "source_title": "Arab parties could win record 18 seats in Israel election, exit polls show",
-  "published": "2026-10-28T00:43:56+00:00",
-  "added": "2026-10-28T02:58:06.337627+00:00",
-  "hidden": false
- },
- {
-  "id": "dd96394efbe7",
-  "headline": "Israeli Opposition and Government Camps Clash Over Election Results",
-  "summary": "Opposition leaders maintained that recent election outcomes represented a defeat for the current administration, even though exit polls showed closer margins. Leaders from both the Netanyahu and Eisenkot factions strongly disagreed on the interpretation of the projected figures.",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
-  "source_title": "Netanyahu, Eisenkot camps clash over Israel election projections",
-  "published": "2026-10-28T00:43:02+00:00",
-  "added": "2026-10-28T02:58:39.745979+00:00",
-  "hidden": false
- },
- {
-  "id": "851c0fa45f38",
-  "headline": "Israeli opposition leader says public voted for change",
-  "summary": "Opposition figure Gadi Eisenkot stated that millions of Israelis cast ballots seeking change. He criticized Prime Minister Benjamin Netanyahu during his remarks.",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
-  "source_title": "Israel’s Eisenkot says country voted for change",
-  "published": "2026-10-28T00:30:22+00:00",
-  "added": "2026-10-28T02:59:13.121914+00:00",
   "hidden": false
  }
 ]
