@@ -1,5 +1,259 @@
 [
  {
+  "id": "429db1c8f118",
+  "headline": "Beluga whales filter feed with baleen plates, not teeth",
+  "summary": "Prothom Alo reports beluga whales lack teeth and use baleen plates to filter seawater for small fish, krill and plankton.",
+  "body": [
+   "Beluga whales do not have teeth in their mouths. Instead, they possess a unique filter structure known as a baleen plate, according to Prothom Alo. The baleen plate works like a sieve, allowing the animal to strain seawater and capture tiny prey. By filtering the water, the whales feed on small fish, krill and plankton that pass through the plates. This feeding method distinguishes beluga whales from toothed marine mammals and highlights their adaptation to a plankton-rich environment."
+  ],
+  "headline_bn": "বেলিন তিমি দাঁত না, ছাঁকনি দিয়ে শিকার",
+  "summary_bn": "প্রথম আলো জানায় বেলিন তিমির দাঁত নেই, ছাঁকনি দিয়ে সামুদ্রিক পানি ছেঁকে ছোট মাছ, ক্রিল ও প্ল্যাঙ্কটন খায়।",
+  "body_bn": [
+   "বেলিন তিমির মুখে দাঁত থাকে না। এর বদলে থাকে চিরুনির মতো বিশেষ একধরনের ছাঁকনি, যাকে বেলিন প্লেট বলা হয়, প্রথম আলো রিপোর্ট করেছে। এই প্লেট দিয়ে সামুদ্রিক পানি ছেঁকে ছোট মাছ, ক্রিল ও প্ল্যাঙ্কটন শোষণ করা হয়। ছাঁকনি ব্যবহার করে শিকার করার এই পদ্ধতি বেলিন তিমিকে অন্যান্য দাঁতযুক্ত সামুদ্রিক স্তন্যপায়ী থেকে আলাদা করে এবং প্ল্যাঙ্কটন সমৃদ্ধ পরিবেশে তাদের অভিযোজনকে প্রকাশ করে।"
+  ],
+  "image_prompt": "Illustration of a beluga whale swimming with water flowing through its baleen plates, showing small fish and plankton being filtered",
+  "category": "Science",
+  "source": "Prothom Alo",
+  "source_url": "https://www.kishoralo.com/feature/wolaeapok0",
+  "source_title": "ডলফিনের সঙ্গে তিমির যে সম্পর্ক আছে",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.kishoralo.com/feature/wolaeapok0",
+    "title": "ডলফিনের সঙ্গে তিমির যে সম্পর্ক আছে"
+   }
+  ],
+  "published": "2026-11-19T04:00:00+00:00",
+  "added": "2026-11-19T04:21:14.779904+00:00",
+  "hidden": false
+ },
+ {
+  "id": "51e5f6f159c2",
+  "headline": "Cyclone Akvan approaches Odisha, triggers cloudy skies and rain across Bangladesh",
+  "summary": "Bangladesh sees cloudy skies, intermittent rain and rough seas as Cyclone Akvan moves toward Odisha, prompting ports to display signal 3.",
+  "body": [
+   "Cyclone Akvan, a strong tropical system, is moving toward the Indian state of Odisha, according to Prothom Alo. The storm has already affected Bangladesh, where the sky is overcast and showers are expected to occur intermittently across most regions.",
+   "The cyclone is also stirring up the Bay of Bengal, creating rough sea conditions. In response, authorities have instructed all seaports in Bangladesh to raise a level‑3 local warning signal. The advisory aims to enhance safety for maritime operations as the weather system progresses."
+  ],
+  "headline_bn": "সাইক্লোন আকভান ওডিশার দিকে এগিয়ে, বাংলাদেশে মেঘলা আকাশ ও বৃষ্টির পূর্বাভাস",
+  "summary_bn": "সাইক্লোনের প্রভাবে বাংলাদেশে মেঘলা আকাশ, ছিটা বৃষ্টি ও উত্তাল সাগর, বন্দরগুলোকে ৩ নম্বর সতর্ক সংকেত দেখাতে বলা হয়েছে।",
+  "body_bn": [
+   "প্রোথোম আলো জানায়, শক্তিশালী ঘূর্ণিঝড় আকভান ওডিশার দিকে এগিয়ে চলেছে। ঘূর্ণিঝড়ের প্রভাবে বাংলাদেশে আকাশ মেঘলা হয়েছে এবং দেশের বেশিরভাগ অঞ্চলে থেমে থেমে বৃষ্টি হতে পারে।",
+   "বায়ু সাগরকে উত্তাল করে তুলেছে, ফলে সমুদ্রের পরিস্থিতি খারাপ। এ অবস্থায় দেশের সমুদ্রবন্দরগুলোকে স্থানীয় ৩ নম্বর সতর্ক সংকেত দেখাতে নির্দেশ দেওয়া হয়েছে, যাতে নৌচালনা নিরাপদ থাকে।"
+  ],
+  "image_prompt": "Illustration of a tropical cyclone over the Bay of Bengal with cloudy skies and rough sea, showing warning signal 3 at a generic port",
+  "category": "Environment",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/environment/ykf5ydakut",
+  "source_title": "প্রবল ঘূর্ণিঝড় ‘আকভান’ ওডিশার দিকে এগোচ্ছে, দেশজুড়ে মেঘলা আকাশ–বৃষ্টি, বন্দরে সতর্কসংকেত",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/environment/ykf5ydakut",
+    "title": "প্রবল ঘূর্ণিঝড় ‘আকভান’ ওডিশার দিকে এগোচ্ছে, দেশজুড়ে মেঘলা আকাশ–বৃষ্টি, বন্দরে সতর্কসংকেত"
+   }
+  ],
+  "published": "2026-11-19T03:59:03+00:00",
+  "added": "2026-11-19T04:21:22.826667+00:00",
+  "hidden": false
+ },
+ {
+  "id": "01b661b82e8d",
+  "headline": "Miami Court Convicts US-Haitian Pastor Over 2021 Haitian President Assassination",
+  "summary": "Al Jazeera English reports a Miami court convicted US-Haitian pastor Christian Emmanuel Sanon for the 2021 killing of President Moise, whom prosecutors say he aimed to replace.",
+  "body": [
+   "According to Al Jazeera English, a Miami court convicted Christian Emmanuel Sanon, a US‑Haitian pastor, for involvement in the 2021 assassination of then‑President Moise. Prosecutors alleged Sanon sought to replace the Haitian leader after the killing.",
+   "Prosecutors argued that Sanon’s motive was to assume the presidency, and the verdict underscores concerns about political violence linked to figures in the Haitian diaspora."
+  ],
+  "headline_bn": "মিয়ামি আদালত ২০২১ সালের হাইতি রাষ্ট্রপতি হত্যার মামলায় মার্কিন-হাইতিয়ান পাস্টরকে দোষী সাব্যস্ত করেছে",
+  "summary_bn": "আল জাজিরা ইংরেজি রিপোর্ট করেছে, মিয়ামি আদালত ক্রিশ্চিয়ান এমমানুয়েল স্যাননকে ২০২১ সালের রাষ্ট্রপতি মোইসের হত্যার জন্য দোষী সাব্যস্ত করেছে, যাকে তিনি বদলাতে চেয়েছিলেন বলে প্রসিকিউশন দাবি করেছে।",
+  "body_bn": [
+   "আল জাজিরা ইংরেজি অনুসারে, মিয়ামি আদালত ক্রিশ্চিয়ান এমমানুয়েল স্যাননকে, একজন মার্কিন-হাইতিয়ান পাস্টর, ২০২১ সালে তখনকার রাষ্ট্রপতি মোইসের হত্যার সঙ্গে যুক্ত হওয়ার জন্য দোষী সাব্যস্ত করেছে। প্রসিকিউশন দাবি করেছে স্যানন মৃত্যুর পর রাষ্ট্রপদ দখল করতে চেয়েছিলেন।",
+   "প্রসিকিউশনের মতে স্যাননের লক্ষ্য ছিল রাষ্ট্রপদে অধিষ্ঠিত হওয়া, এবং এই রায় হাইতি ডায়াস্পোরার সঙ্গে যুক্ত ব্যক্তিদের দ্বারা রাজনৈতিক সহিংসতার উদ্বেগকে তুলে ধরে।"
+  ],
+  "image_prompt": "A courtroom scene with a gavel, legal books and a scale of justice, no faces, flags, logos or text",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+  "source_title": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+    "title": "Miami court convicts US-Haitian pastor over 2021 assassination of president"
+   }
+  ],
+  "published": "2026-11-19T03:58:10+00:00",
+  "added": "2026-11-19T04:21:31.552387+00:00",
+  "hidden": false
+ },
+ {
+  "id": "d7661845ae20",
+  "headline": "Three Burned in Residential Fire in Dhaka's Kathaulbagan, Hospitalized",
+  "summary": "A fire, suspected to have started from a gas cylinder leak, injured three people who were taken to hospital, reports Prothom Alo.",
+  "body": [
+   "A fire broke out in a residential building in Kathaulbagan, a neighbourhood of the capital, on [date not given]. According to Prothom Alo, three occupants were rescued from the blaze and transferred to a hospital for treatment. Officials suspect that the fire may have originated from a leaking gas cylinder, though investigations are ongoing. Emergency services responded to the incident and extinguished the flames. The condition of the injured persons has not been detailed, and no further casualties have been reported."
+  ],
+  "headline_bn": "ঢাকার কাঁঠালবাগানে আগুনে তিনজন দগ্ধ, হাসপাতালে পাঠানো",
+  "summary_bn": "প্রথম আলো অনুযায়ী গ্যাস সিলিন্ডার লিকেজের সম্ভাবনা নিয়ে আগুনে তিনজন আহত হয়ে হাসপাতালে ভর্তি হয়েছেন।",
+  "body_bn": [
+   "ঢাকার কাঁঠালবাগানে একটি আবাসিক ভবনে আগুন লেগে তিনজন বাসিন্দা দগ্ধ হয়ে হাসপাতালে ভর্তি হয়েছেন। প্রথম আলো অনুযায়ী, দগ্ধ ব্যক্তিদের উদ্ধার করে জরুরি সেবা দল হাসপাতালে পাঠিয়েছে। আগুনের মূল কারণ গ্যাস সিলিন্ডার লিকেজের সম্ভাবনা রয়েছে বলে অনুমান করা হচ্ছে, তবে তদন্ত চলমান। দমকল কর্মীরা দ্রুত ঘটনাস্থলে পৌঁছে অগ্নি নিভিয়ে নিয়েছে। আহতদের স্বাস্থ্যের অবস্থা সম্পর্কে বিস্তারিত জানানো হয়নি এবং অতিরিক্ত কোনো ক্ষতি রিপোর্ট করা হয়নি।"
+  ],
+  "image_prompt": "A residential building engulfed in flames with smoke, fire trucks and firefighters working, no visible faces or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/capital/408uo489e1",
+  "source_title": "রাজধানীর কাঁঠালবাগানে আবাসিক ভবনে আগুন, তিনজন দগ্ধ",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/capital/408uo489e1",
+    "title": "রাজধানীর কাঁঠালবাগানে আবাসিক ভবনে আগুন, তিনজন দগ্ধ"
+   }
+  ],
+  "published": "2026-11-19T03:52:54+00:00",
+  "added": "2026-11-19T04:21:40.418930+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4aff804730a2",
+  "headline": "Crimean Bridge attacked again amid upcoming Putin‑Trump‑Xi summit in China",
+  "summary": "The Russian‑installed governor of Crimea says the bridge was hit again as Putin readies a meeting with Trump and Xi in China.",
+  "body": [
+   "According to DW, the Crimean Bridge was attacked again, a claim made by the Russian‑installed governor of Crimea. The official announced the new incident but did not provide further specifics about the nature of the attack or any resulting damage.",
+   "The governor noted that the strike occurred as Russian President Vladimir Putin is preparing to sit down with former U.S. President Donald Trump and Chinese President Xi Jinping for joint talks in China. The timing of the attack underscores the heightened geopolitical focus on the region during the upcoming summit."
+  ],
+  "headline_bn": "চক্রবর্তী সেতুতে আবার হামলা, পুতিন‑ট্রাম্প‑শি শীর্ষ বৈঠকের প্রস্তুতি চলেছে",
+  "summary_bn": "ক্রিমিয়ার রাশিয়ান-নিয়ুক্ত শাসক ডিডব্লিউ অনুসারে সেতুতে আবার আঘাত, পুতিন চীনায় ট্রাম্প ও শির সঙ্গে বৈঠকের প্রস্তুতি নিচ্ছেন।",
+  "body_bn": [
+   "ডিডব্লিউ অনুযায়ী, ক্রিমিয়ার রাশিয়ান-নিয়ুক্ত শাসক বলছেন চক্রবর্তী সেতুতে আবার হামলা হয়েছে। তিনি অতিরিক্ত কোনো তথ্য বা ক্ষতির উল্লেখ করেননি।",
+   "শাসক জানান এই আক্রমণ ঘটে যখন রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন চীনায় ডোনাল্ড ট্রাম্প এবং শি জিনপিংয়ের সঙ্গে যৌথ বৈঠকের প্রস্তুতি নিচ্ছেন। আক্রমণের সময়সূচি আসন্ন শীর্ষ বৈঠকের প্রেক্ষাপটে অঞ্চলের কূটনৈতিক গুরুত্বকে তুলে ধরে।"
+  ],
+  "image_prompt": "Illustration of a bridge under attack with smoke, set against a coastal background, no people or flags",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Crimean Bridge has been attacked again, Russian official says",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf",
+    "title": "Crimean Bridge has been attacked again, Russian official says"
+   }
+  ],
+  "published": "2026-11-19T03:43:00+00:00",
+  "added": "2026-11-19T04:21:51.565201+00:00",
+  "hidden": false
+ },
+ {
+  "id": "69430d4ad939",
+  "headline": "Bollywood's Whitening Trend Overshadowed by Dusky Star Simon Ashley's Rise",
+  "summary": "While Bollywood actors pursue skin whitening, Prothom Alo notes that dusky actress Simon Ashley of Brijerton shines on her own terms.",
+  "body": [
+   "Bollywood celebrities are reported to be engaged in a competition to lighten their skin, seeking a whiter appearance, according to Prothom Alo. The outlet highlights the ongoing focus on skin whitening within the industry.",
+   "In contrast, Prothom Alo points out that dusky beauty Simon Ashley, a star of Brijerton, is gaining attention for her own radiant presence, standing out without conforming to the whitening trend."
+  ],
+  "headline_bn": "বলৌডি সাদা হওয়ার প্রতিযোগিতা, তবে ডাস্কি তারকা সিমন অ্যাশলির উজ্জ্বলতা আলাদা",
+  "summary_bn": "প্রথম আলো জানায়, বলিউডের স্কিন হোয়াইটেনিং প্রবণতার মধ্যে ডাস্কি ব্রিজারটন তারকা সিমন অ্যাশলি নিজের আলোর ঝলকে উঁচুতে।",
+  "body_bn": [
+   "প্রথম আলোতে বলা হয়েছে, বলিউডের তারকারা সাদা চেহারার জন্য স্কিন হোয়াইটেনিং করে প্রতিযোগিতায় মত্ত।",
+   "এর বিপরীতে, একই সূত্রে উল্লেখ করা হয়েছে যে ডাস্কি বিউটি ব্রিজারটন তারকা সিমন অ্যাশলি নিজের আলোয় ঝলমল করে উঠছেন, সাদা হওয়ার প্রবণতার বাইরে।"
+  ],
+  "image_prompt": "illustration of a film set with spotlights highlighting actors of varied skin tones, emphasizing contrast between whitening trend and natural glow",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.haal.fashion/celeb/look/8biosohid1",
+  "source_title": "বলিউড নায়িকাদের সাদা হওয়ার প্রতিযোগিতার মাঝে আপন আলোয় ঝলমল করে উঠলেন এই 'ডাস্কি বিউটি'",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.haal.fashion/celeb/look/8biosohid1",
+    "title": "বলিউড নায়িকাদের সাদা হওয়ার প্রতিযোগিতার মাঝে আপন আলোয় ঝলমল করে উঠলেন এই 'ডাস্কি বিউটি'"
+   }
+  ],
+  "published": "2026-11-19T03:30:30+00:00",
+  "added": "2026-11-19T04:22:36.954873+00:00",
+  "hidden": false
+ },
+ {
+  "id": "3295cab8832b",
+  "headline": "US, China and Russia leaders to convene in Shenzhen for historic trilateral summit",
+  "summary": "Trump, Xi and Putin will meet in Shenzhen during the APEC summit, a first‑ever three‑way dialogue aimed at safeguarding world peace.",
+  "body": [
+   "According to Al Jazeera English, the presidents of the United States, China and Russia are scheduled to hold talks in Shenzhen. The meeting, described as historic, will take place on the sidelines of the APEC summit.",
+   "France 24 notes that the gathering, featuring Donald Trump, Xi Jinping and Vladimir Putin, is the first trilateral summit of its kind and is presented by Beijing as an effort to safeguard world peace. Observers have expressed concern that the talks could lead to a division of global influence into separate spheres."
+  ],
+  "headline_bn": "শেনঝেনে যুক্তরাষ্ট্র, চীন ও রাশিয়ার নেতাদের ঐতিহাসিক ত্রিপাক্ষিক শীর্ষসভা",
+  "summary_bn": "ট্রাম্প, শি এবং পুতিন শেনঝেনে এপেক শীর্ষকোণে প্রথমবারের মতো বৈঠক করে বিশ্ব শান্তি রক্ষার লক্ষ্যে।",
+  "body_bn": [
+   "আল জাজিরা ইংরেজি অনুযায়ী, যুক্তরাষ্ট্র, চীন এবং রাশিয়ার নেতারা শেনঝেনে আলোচনা করবেন। এপেক শীর্ষকোণের পাশে এই বৈঠককে ঐতিহাসিক বলা হচ্ছে।",
+   "ফ্রান্স ২৪ জানিয়েছে, ডোনাল্ড ট্রাম্প, শি জিনপিং এবং ভ্লাদিমির পুতিনের অংশগ্রহণে এই প্রথম ত্রিপাক্ষিক সভা \"বিশ্ব শান্তি রক্ষা\" হিসেবে বেইজিং উপস্থাপন করেছে। বিশ্লেষকরা উদ্বেগ প্রকাশ করেছেন যে এটি বিশ্বকে প্রভাবের ক্ষেত্রগুলোতে ভাগ করতে পারে।"
+  ],
+  "image_prompt": "Illustration of three symbolic leader silhouettes gathered around a globe in a conference setting",
+  "category": "World",
+  "source": "Al Jazeera English, France 24",
+  "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+  "source_title": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+    "title": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
+    "title": "Xi-Trump-Putin talks live: China, US and Russia leaders to hold landmark three-way meeting"
+   }
+  ],
+  "published": "2026-11-19T03:30:26+00:00",
+  "added": "2026-11-19T04:21:07.584757+00:00",
+  "hidden": false
+ },
+ {
+  "id": "83f222c106fa",
+  "headline": "Xi greets Trump and Putin at APEC ahead of historic trilateral summit",
+  "summary": "Leaders of the US, Russia and China will meet for a first‑ever three‑way summit in China during the APEC meeting.",
+  "body": [
+   "Chinese President Xi Jinping greeted U.S. President Donald Trump and Russian President Vladimir Putin at the APEC summit, according to Al Jazeera English.",
+   "President Trump is scheduled to meet both leaders on Thursday in what NPR World describes as a historic joint meeting.",
+   "DW reports that the three‑way summit, the first ever held in China, is set for today, with live coverage planned."
+  ],
+  "headline_bn": "এপেক শীর্ষ সম্মেলনে শি ট্রাম্প ও পুতিনকে স্বাগত জানালেন",
+  "summary_bn": "যুক্তরাষ্ট্র, রাশিয়া ও চীনের নেতারা চীনে প্রথম ত্রিপক্ষীয় শীর্ষ সম্মেলনের জন্য মিলিত হবেন।",
+  "body_bn": [
+   "আল জাজিরা ইংরেজি অনুযায়ী, এপেক শীর্ষ সম্মেলনে চীনের প্রেসিডেন্ট শি জিনপিং যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প এবং রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনকে স্বাগত জানিয়েছেন।",
+   "এনপিআর ওয়ার্ল্ডের মতে, প্রেসিডেন্ট ট্রাম্প বৃহস্পতিবার উভয় নেতার সঙ্গে ঐতিহাসিক যৌথ বৈঠকের জন্য নির্ধারিত আছেন।",
+   "ডিডাব্লিউ জানিয়েছে, চীনে প্রথমবারের মতো অনুষ্ঠিত হতে যাচ্ছে ত্রিপক্ষীয় শীর্ষ সম্মেলন, যা আজ অনুষ্ঠিত হবে এবং সরাসরি সম্প্রচার হবে।"
+  ],
+  "image_prompt": "Illustration of three national flags on a conference table with microphones, representing a historic trilateral summit, no faces or logos",
+  "category": "World",
+  "source": "Al Jazeera English, NPR World, DW",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+  "source_title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+    "title": "China’s Xi greets Putin and Trump at APEC before historic summit"
+   },
+   {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+    "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting"
+   },
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/apec-summit-xi-trump-and-putin-to-hold-first-ever-trilateral-in-china/live-79964719?maca=en-rss-en-all-1573-rdf",
+    "title": "APEC summit: Xi, Trump and Putin to hold first-ever trilateral in China"
+   }
+  ],
+  "published": "2026-11-19T03:01:27+00:00",
+  "added": "2026-11-19T04:20:59.384306+00:00",
+  "hidden": false,
+  "image": "data/img/83f222c106fa.jpg"
+ },
+ {
   "id": "aee112598660",
   "headline": "US Treasury imposes new sanctions on Hezbollah over charity front allegations",
   "summary": "The US Treasury says Hezbollah exploits charitable groups to raise funds, prompting fresh sanctions.",
@@ -16710,102 +16964,6 @@
   "source_title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
   "published": "2026-10-30T21:00:51+00:00",
   "added": "2026-10-30T21:14:10.584373+00:00",
-  "hidden": false
- },
- {
-  "id": "b797a5975f9e",
-  "headline": "Canadian Prime Minister Mark Carney discusses EU ties and US trade",
-  "summary": "In a DW interview, Canadian Prime Minister Mark Carney stated that Canada aims to enhance European Union partnerships to reduce its reliance on the United States. Despite facing pushback from Germany, Carney expressed support for establishing an 'associate membership' status.",
-  "category": "World",
-  "source": "DW",
-  "source_url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
-  "source_title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
-  "published": "2026-10-30T20:55:00+00:00",
-  "added": "2026-10-31T01:01:14.126993+00:00",
-  "hidden": false
- },
- {
-  "id": "239acc8c2b34",
-  "headline": "Canada Seeks Closer European Union Ties",
-  "summary": "Prime Minister Mark Carney stated that Canada has recognized its overdependence on the United States. To diversify partnerships beyond the Americas, Carney expressed support for pursuing an associate membership with the European Union, despite initial pushback from Germany.",
-  "category": "World",
-  "source": "DW",
-  "source_url": "https://www.dw.com/en/mark-carney-canada-has-learned-we-are-overdependent-on-the-us/a-79811469?maca=en-rss-en-all-1573-rdf",
-  "source_title": "Mark Carney: Canada has 'learned we are overdependent on the US'",
-  "published": "2026-10-30T20:55:00+00:00",
-  "added": "2026-10-30T21:14:44.333232+00:00",
-  "hidden": false
- },
- {
-  "id": "2b090a2ac6c8",
-  "headline": "UN Nature Summit Approves Two Biodiversity Agreements",
-  "summary": "Nearly 200 countries reached a consensus on two separate agreements aimed at halting biodiversity loss by the end of the decade. The approval followed nearly two weeks of intensive talks that extended beyond the scheduled final day.",
-  "category": "Environment",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/environment/20261030-un-nature-summit-approves-two-key-agreements-after-marathon-negotiations",
-  "source_title": "UN nature summit approves two key agreements after marathon negotiations",
-  "published": "2026-10-30T20:52:22+00:00",
-  "added": "2026-10-30T21:15:18.181781+00:00",
-  "hidden": false
- },
- {
-  "id": "7c66173dee57",
-  "headline": "US appeals court rejects Trump request to discard California ballots",
-  "summary": "A federal appeals court has dismissed a legal challenge aimed at excluding 20,000 ballots from California's electoral totals. The 9th Circuit Court determined that the petition seeking to remove these votes was unconstitutional.",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
-  "source_title": "US appeals court again rejects Trump bid to set aside California ballots",
-  "published": "2026-10-30T20:39:50+00:00",
-  "added": "2026-10-30T21:15:52.259184+00:00",
-  "hidden": false
- },
- {
-  "id": "0256683fc3eb",
-  "headline": "G20 Cancels Group Photo Amid Rifts Over Russian Foreign Minister",
-  "summary": "European officials declined to appear alongside sanctioned Russian Foreign Minister Sergei Lavrov, leading organizers to scrap the traditional G20 group photograph. The summit in Atlanta faced deep divisions over the war in Ukraine, the conflict involving Iran, and disruptions in the Strait of Hormuz.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
-  "source_title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
-  "published": "2026-10-30T20:37:20+00:00",
-  "added": "2026-10-30T21:16:26.418505+00:00",
-  "hidden": false
- },
- {
-  "id": "9b118c5e42df",
-  "headline": "Rubio leads G20 discussions amid diplomatic tensions over Lavrov",
-  "summary": "US Secretary of State Marco Rubio convened G20 officials to address economic threats cooperatively. The meeting faced underlying tensions due to the attendance of Russian Foreign Minister Sergey Lavrov.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
-  "source_title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
-  "published": "2026-10-30T20:13:36+00:00",
-  "added": "2026-10-30T21:17:04.060568+00:00",
-  "hidden": false
- },
- {
-  "id": "af37e332c1a2",
-  "headline": "Port Sudan residents struggle with water shortages and high costs",
-  "summary": "Families in Port Sudan are facing severe water shortages and soaring prices. Ongoing conflict and population displacement continue to strain local supplies despite repair efforts.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
-  "source_title": "Port Sudan families can barely afford water as shortages persist",
-  "published": "2026-10-30T20:10:22+00:00",
-  "added": "2026-10-30T21:17:37.976797+00:00",
-  "hidden": false
- },
- {
-  "id": "b12581a6a7b1",
-  "headline": "Humanitarian Convoy Evacuates Residents from Oleshky",
-  "summary": "An aid convoy arrived in the Russian-occupied Ukrainian city of Oleshky under a local ceasefire. Twenty-five buses delivered humanitarian supplies and evacuated fleeing residents amid ongoing food shortages.",
-  "category": "World",
-  "source": "DW",
-  "source_url": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-rdf",
-  "source_title": "Ukraine: Oleshky residents evacuate war-ravaged city",
-  "published": "2026-10-30T20:09:00+00:00",
-  "added": "2026-10-30T21:18:19.114103+00:00",
   "hidden": false
  }
 ]
