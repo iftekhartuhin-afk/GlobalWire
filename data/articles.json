@@ -1,5 +1,255 @@
 [
  {
+  "id": "c69d30e30328",
+  "headline": "Ukraine's Allies Convene 'Coalition of the Willing' Summit in Berlin",
+  "summary": "Leaders of Germany, France and Britain hosted President Zelensky in Berlin to reaffirm wartime aid and seek a European role in future peace talks, France 24 reports.",
+  "body": [
+   "According to France 24, on Thursday Ukraine's allies gathered in Berlin for a summit dubbed the \"Coalition of the Willing\". The meeting was co‑hosted by the leaders of Germany, France and Britain and included President Volodymyr Zelensky, who used the forum to underscore continued wartime support for Kyiv.",
+   "The summit followed the unprecedented three‑way talks in China that brought together U.S. President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping. Organisers aimed to press for a European contribution to any prospective peace negotiations, reinforcing the alliance’s commitment to Ukraine’s defense."
+  ],
+  "headline_bn": "উক্রেনের মিত্ররা বার্লিনে 'কোয়ালিশন অফ দ্য উইলিং' শীর্ষ সম্মেলন আয়োজন",
+  "summary_bn": "ফ্রান্স ২৪ জানায়, জার্মানি, ফ্রান্স ও ব্রিটেনের নেতারা বার্লিনে জেলেন্স্কিকে স্বাগত জানিয়ে যুদ্ধকালীন সহায়তা নিশ্চিত ও শান্তি আলোচনায় ইউরোপীয় ভূমিকা চেয়েছেন।",
+  "body_bn": [
+   "ফ্রান্স ২৪ অনুযায়ী, বৃহস্পতিবার উক্রেনের মিত্ররা বার্লিনে 'কোয়ালিশন অফ দ্য উইলিং' শীর্ষ সম্মেলনের জন্য একত্রিত হন। জার্মানি, ফ্রান্স ও ব্রিটেনের নেতারা সম্মেলনটি সহ-আয়োজিত করেন এবং প্রেসিডেন্ট ভলোদিমির জেলেন্স্কি উপস্থিত ছিলেন, যিনি কিয়েভের জন্য অব্যাহত যুদ্ধকালীন সহায়তা জোর দিয়ে প্রকাশ করেন।",
+   "এই সম্মেলনটি চীনে যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প, রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন ও চীনের প্রেসিডেন্ট শি জিনপিংয়ের ত্রিপক্ষীয় আলোচনার পর অনুষ্ঠিত হয়। অংশগ্রহণকারীরা ভবিষ্যৎ শান্তি আলোচনায় ইউরোপের ভূমিকা নিশ্চিত করার পাশাপাশি উক্রেনের প্রতিরক্ষা প্রতিশ্রুতি পুনর্বলনের লক্ষ্য রাখেন।"
+  ],
+  "image_prompt": "Illustration of an international diplomatic summit in a conference hall with flags of Germany, France, Britain and Ukraine, no faces, generic silhouettes",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/video/20261120-coalition-of-the-willing-ukraine-s-allies-meet-in-berlin-after-trump-putin-xi-talks",
+  "source_title": "'Coalition of the Willing': Ukraine's allies meet in Berlin after Trump-Putin-Xi talks",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261120-coalition-of-the-willing-ukraine-s-allies-meet-in-berlin-after-trump-putin-xi-talks",
+    "title": "'Coalition of the Willing': Ukraine's allies meet in Berlin after Trump-Putin-Xi talks"
+   }
+  ],
+  "published": "2026-11-20T10:41:25+00:00",
+  "added": "2026-11-20T10:42:28.528027+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2bc3db1a33a4",
+  "headline": "Spain's Prime Minister and Conservative Rival Clash in Election Debate",
+  "summary": "In a televised debate ahead of next week’s vote, Pedro Sanchez and his main opponent spar over economy, housing, immigration and corruption.",
+  "body": [
+   "On Thursday, ahead of an election scheduled for next week that could bring the far right close to power, Spain's Socialist Prime Minister Pedro Sanchez faced his main conservative challenger in a live televised debate. Both leaders exchanged accusations and defended their records as the nation watched the high‑stakes showdown.",
+   "The candidates sparred over the economy, housing, immigration, corruption, foreign policy and policies affecting women, repeatedly interrupting each other throughout the confrontation."
+  ],
+  "headline_bn": "স্পেনের প্রধানমন্ত্রী ও রক্ষণশীল প্রতিদ্বন্দ্বীর মধ্যে নির্বাচনী বিতর্কে তীব্র সংঘর্ষ",
+  "summary_bn": "টেলিভিশনে সম্প্রচারিত বিতর্কে পেদ্রো সানচেজ ও প্রধান প্রতিপক্ষ অর্থনীতি, বাসস্থান, অভিবাসন ও দুর্নীতির বিষয়গুলোতে তীব্র মতবিরোধে লিপ্ত হন।",
+  "body_bn": [
+   "বৃহস্পতিবার, পরবর্তী সপ্তাহে নির্ধারিত নির্বাচনের আগে স্পেনের সমাজতান্ত্রিক প্রধানমন্ত্রী পেদ্রো সানচেজ এবং তার প্রধান রক্ষণশীল প্রতিদ্বন্দ্বী একটি সরাসরি টেলিভিশন বিতর্কে মুখোমুখি হন, যেখানে ডানপন্থী চরমপন্থা শাসনের কাছাকাছি আসার সম্ভাবনা উল্লিখিত হয়েছে।",
+   "বিতর্কে অর্থনীতি, বাসস্থান, অভিবাসন, দুর্নীতি, বৈদেশিক নীতি এবং নারীদের নীতি সহ বিভিন্ন বিষয় নিয়ে তীব্র আলোচনা হয়, উভয় পক্ষই একে অপরকে বারবার বাধা দেন।"
+  ],
+  "image_prompt": "Illustration of a political debate stage with microphones and podiums, empty audience, neutral colors",
+  "category": "Politics",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/video/20261120-spain-s-leaders-clash-over-corruption-economy-in-tense-election-debate",
+  "source_title": "Spain's leaders clash over corruption, economy in tense election debate",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261120-spain-s-leaders-clash-over-corruption-economy-in-tense-election-debate",
+    "title": "Spain's leaders clash over corruption, economy in tense election debate"
+   }
+  ],
+  "published": "2026-11-20T10:39:58+00:00",
+  "added": "2026-11-20T10:42:36.412856+00:00",
+  "hidden": false
+ },
+ {
+  "id": "54fe0fe1ea9a",
+  "headline": "Poland reports Russian missile landed in southeast region, no casualties",
+  "summary": "A Russian missile struck southeast Poland during a Ukraine attack, leaving no injuries, authorities said.",
+  "body": [
+   "Poland announced Friday that a Russian missile landed in its southeast territory amid a broader strike on Ukraine. The impact caused no injuries, according to Polish officials.",
+   "Earlier, Polish authorities were investigating reports of at least two unidentified objects that had fallen near the border with Ukraine. The incident underscores the risk of spill‑over from the conflict into neighboring NATO members."
+  ],
+  "headline_bn": "পোল্যান্ডে রুশ ক্ষেপণাস্ত্রের আঘাত, কোনো আহত নেই",
+  "summary_bn": "ইউক্রেনের আক্রমণের সময় রুশ ক্ষেপণাস্ত্র দক্ষিণ-পূর্ব পোল্যান্ডে পড়ে, কোনো আহত হয়নি।",
+  "body_bn": [
+   "পোল্যান্ড শুক্রবার জানিয়েছে যে রুশ ক্ষেপণাস্ত্র ইউক্রেনের আক্রমণের সময় দেশের দক্ষিণ-পূর্ব অংশে আঘাত করেছে। সরকারি সূত্রে উল্লেখ করা হয়েছে যে কোনো আহত ঘটেনি।",
+   "পূর্বে পোল্যান্ডের কর্তৃপক্ষ ইউক্রেন সীমান্তের কাছে ন্যূনতম দুইটি অজানা বস্তু পড়ে যাওয়ার রিপোর্ট তদন্ত করছিল। এই ঘটনা অঞ্চলে সংঘাতের বিস্তার রোধে সতর্কতা বাড়িয়ে তুলেছে।"
+  ],
+  "image_prompt": "illustration of a missile impact in a rural border area with smoke and debris, no people, flags or logos",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine",
+  "source_title": "Poland says Russian missile hit its territory during attack on Ukraine",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine",
+    "title": "Poland says Russian missile hit its territory during attack on Ukraine"
+   }
+  ],
+  "published": "2026-11-20T10:38:51+00:00",
+  "added": "2026-11-20T10:42:43.768568+00:00",
+  "hidden": false
+ },
+ {
+  "id": "c7f3e6d0cf8c",
+  "headline": "Iraq reaches compromise with Iran-backed Kataib Hezbollah militia",
+  "summary": "According to France 24, Iraq and the Iran-backed Kataib Hezbollah militia have agreed on a deal to avoid a clash as forces prepare to enter Jurf al‑Sakhar.",
+  "body": [
+   "Iraqi authorities say a compromise has been reached with the powerful Iran‑backed militia Kataib Hezbollah after Prime Minister Ali al‑Zaidi readied security forces for a possible operation. The group had been accused by officials of operating a smuggling network that diverted hundreds of millions of dollars in state‑owned oil.",
+   "The agreement, brokered by senior Shi'ite political leaders, aims to avert a confrontation. Under the deal, government forces are expected to move into the militia’s stronghold of Jurf al‑Sakhar on Friday, according to France 24."
+  ],
+  "headline_bn": "ইরাকের ইরান‑সমর্থিত কাতাইব হেজবোল্লাহ মিলিশিয়ার সঙ্গে চুক্তি",
+  "summary_bn": "ফ্রান্স ২৪ অনুসারে, ইরাক ও ইরান‑সমর্থিত কাতাইব হেজবোল্লাহ মিলিশিয়া সংঘর্ষ এড়াতে চুক্তি করেছে, যখন নিরাপত্তা বাহিনী জুর্ফ আল‑সাখারে প্রবেশের প্রস্তুতি নিচ্ছে।",
+  "body_bn": [
+   "ইরাকি কর্তৃপক্ষ জানিয়েছে যে ইরান‑সমর্থিত শক্তিশালী কাতাইব হেজবোল্লাহ মিলিশিয়ার সঙ্গে একটি সমঝোতা হয়েছে, প্রধানমন্ত্রী আলি আল‑যাদি নিরাপত্তা বাহিনীকে সম্ভাব্য অভিযান জন্য প্রস্তুত করার পর। সরকারী কর্মকর্তারা গ্রুপকে রাষ্ট্রের তেল থেকে শত কোটি ডলার চুরি করা একটি গোপন চালান নেটওয়ার্ক চালানোর অভিযোগ করেছে।",
+   "বয়স্ক শিয়া রাজনৈতিক নেতাদের দ্বারা মধ্যস্থতা করা এই চুক্তি সংঘর্ষ রোধের লক্ষ্য রাখে। ফ্রান্স ২৪ অনুসারে, চুক্তির অধীনে সরকারী বাহিনী শুক্রবার জুর্ফ আল‑সাখার, মিলিশিয়ার শক্তিশালী ঘাঁটি, প্রবেশের পরিকল্পনা করছে।"
+  ],
+  "image_prompt": "illustration of Iraqi officials and militia leaders discussing a peace deal, with oil barrels and a map of Jurf al‑Sakhar",
+  "category": "Politics",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/video/20261120-iraqi-forces-strike-compromise-with-powerful-pro-iran-militia",
+  "source_title": "Iraqi forces strike compromise with powerful pro-Iran militia",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261120-iraqi-forces-strike-compromise-with-powerful-pro-iran-militia",
+    "title": "Iraqi forces strike compromise with powerful pro-Iran militia"
+   }
+  ],
+  "published": "2026-11-20T10:36:47+00:00",
+  "added": "2026-11-20T10:42:52.191976+00:00",
+  "hidden": false
+ },
+ {
+  "id": "6a8f26ac2e7f",
+  "headline": "Outcry as UN climate draft omits fossil fuels",
+  "summary": "Australia’s draft for COP31 drops fossil fuel references, sparking criticism from environmental groups.",
+  "body": [
+   "On Thursday, Australia, co‑host of the UN climate talks, presented a draft agreement for COP31 that omits any reference to fossil fuels, according to France 24.",
+   "The omission has provoked criticism from environmental campaign groups, who say the draft ignores the primary source of global warming.",
+   "The nearly 200 parties to the conference in Turkey have until Friday to finalize the text, while negotiations continue amid a record El Niño, climate‑related disasters across Europe to Nepal, and a global energy shock linked to the war in Iran."
+  ],
+  "headline_bn": "ইউএন জলবায়ু চুক্তির খসড়া থেকে ফসিল জ্বালানি বাদে তীব্র প্রতিক্রিয়া",
+  "summary_bn": "অস্ট্রেলিয়া উপস্থাপিত খসড়া ফসিল জ্বালানির উল্লেখ না থাকায় পরিবেশ গোষ্ঠীর নিন্দা পেয়েছে।",
+  "body_bn": [
+   "বৃহস্পতিবার, ইউএন জলবায়ু আলোচনার সহ-আয়োজক অস্ট্রেলিয়া, তুরস্কে অনুষ্ঠিত COP31-এর জন্য একটি নতুন খসড়া চুক্তি উপস্থাপন করে, যেখানে ফসিল জ্বালানির কোনো উল্লেখ নেই, ফ্রান্স ২৪ জানিয়েছে।",
+   "এই বাদ দেওয়া বিষয়টি পরিবেশ সংস্থাগুলোর তীব্র নিন্দার মুখে পড়েছে, যারা দাবি করে যে খসড়া গ্লোবাল উষ্ণায়নের প্রধান চালককে উপেক্ষা করছে।",
+   "প্রায় ২০০টি দেশ সমন্বিত আলোচনায় শুক্রবারের মধ্যে চূড়ান্ত চুক্তি সম্পন্ন করার সময়সীমা নির্ধারিত, তবে আলোচনাগুলি রেকর্ড‑ব্রেকিং এল নিনো, ইউরোপ থেকে নেপাল পর্যন্ত জলবায়ু‑সংশ্লিষ্ট দুর্যোগ এবং ইরান যুদ্ধের ফলে সৃষ্ট বৈশ্বিক জ্বালানি সংকটের প্রেক্ষাপটে চলছে।"
+  ],
+  "image_prompt": "Illustration of a conference table with climate symbols and draft documents, no faces, flags, logos or text",
+  "category": "Environment",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/video/20261120-outcry-as-fossil-fuels-scrubbed-from-draft-un-climate-deal",
+  "source_title": "Outcry as fossil fuels scrubbed from draft UN climate deal",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261120-outcry-as-fossil-fuels-scrubbed-from-draft-un-climate-deal",
+    "title": "Outcry as fossil fuels scrubbed from draft UN climate deal"
+   }
+  ],
+  "published": "2026-11-20T10:33:20+00:00",
+  "added": "2026-11-20T10:43:00.279514+00:00",
+  "hidden": false
+ },
+ {
+  "id": "3ba11184ba63",
+  "headline": "UK Prime Minister Burnham to Meet EU Leaders in Brussels for Post‑Brexit Reset",
+  "summary": "Burnham will discuss cooperation with von der Leyen and Costa in Brussels on Friday, aiming to reset UK‑EU ties after Brexit.",
+  "body": [
+   "British Prime Minister Andy Burnham is scheduled to meet European Commission President Ursula von der Leyen and European Council President Antonio Costa in Brussels on Friday, according to France 24. The summit is described as an effort to reset relations that have been strained since the United Kingdom left the EU.",
+   "Both parties intend to negotiate several agreements, with the discussions expected to lay groundwork for deeper cooperation in the future, France 24’s Brussels correspondent Dave Keating said."
+  ],
+  "headline_bn": "ব্রুসেলসে যুক্তরাজ্যের প্রধানমন্ত্রী বার্নহাম ইউই নেতা ভোন ডার লেইন ও কস্টার সঙ্গে পুনঃসেট আলোচনা করবেন",
+  "summary_bn": "বার্নহাম শুক্রবার ব্রুসেলসে ভোন ডার লেইন ও কস্টারকে মিলিয়ে ব্রেক্সিটের পর যুক্তরাজ্য‑ইইউ সম্পর্ক পুনঃসেটের লক্ষ্য নিয়ে আলোচনা করবেন।",
+  "body_bn": [
+   "ফ্রান্স ২৪ অনুযায়ী, যুক্তরাজ্যের প্রধানমন্ত্রী অ্যান্ডি বার্নহাম শুক্রবার ইউরোপীয় কমিশন প্রেসিডেন্ট উরসুলা ভোন ডার লেইন এবং ইউরোপীয় কাউন্সিল প্রেসিডেন্ট অ্যান্টোনিও কস্টারকে ব্রুসেলসে সাক্ষাৎ করবেন। ব্রেক্সিটের পর থেকে টানাপোড়েন সম্পর্ক পুনঃসেট করার উদ্যোগের অংশ হিসেবে এই শীর্ষ সম্মেলন অনুষ্ঠিত হবে।",
+   "উভয় পক্ষ বহু চুক্তি স্বাক্ষরের লক্ষ্য রাখছে এবং আলোচনাগুলি ভবিষ্যতে আরও ঘনিষ্ঠ সহযোগিতার ভিত্তি স্থাপন করবে, ফ্রান্স ২৪ের ব্রুসেলস প্রতিবেদক ডেভ কিটিং জানান।"
+  ],
+  "image_prompt": "Illustration of EU and UK symbols meeting over Brussels skyline with diplomatic documents, no faces or logos",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/video/20261120-brussels-london-eye-reset-deal-at-burnham-s-eu-summit",
+  "source_title": "Brussels, London eye 'reset' deal at Burnham's EU summit",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/video/20261120-brussels-london-eye-reset-deal-at-burnham-s-eu-summit",
+    "title": "Brussels, London eye 'reset' deal at Burnham's EU summit"
+   }
+  ],
+  "published": "2026-11-20T10:28:09+00:00",
+  "added": "2026-11-20T10:43:08.599954+00:00",
+  "hidden": false
+ },
+ {
+  "id": "edfff9a9eb06",
+  "headline": "France 24 Press Review Highlights Shenzhen Summit, COP31 Draft and GTA VI Release",
+  "summary": "On Nov 20, France 24 reviewed reactions to the Shenzhen summit of Trump, Putin and Xi, COP31 draft changes, a Guardian piece on power slapping, and GTA VI launch.",
+  "body": [
+   "The press review on Friday, November 20, noted reactions to a historic summit in Shenzhen that brought together Donald Trump, Vladimir Putin and Xi Jinping, as reported by France 24.",
+   "It also observed that COP31 is entering its final phase and that references to fossil fuels have disappeared from the draft agreement, while the Guardian published a long‑read feature titled “Power Slapping.”",
+   "Finally, the review mentioned the release of the video‑game title Grand Theft Auto VI as a new cultural development."
+  ],
+  "headline_bn": "ফ্রান্স ২৪ প্রেস রিভিউতে শেনঝেন শীর্ষ সম্মেলন, COP31 ড্রাফ্ট ও GTA VI প্রকাশের সংবাদ",
+  "summary_bn": "২০ নভেম্বর ফ্রান্স ২৪ শেনঝেন শীর্ষ সম্মেলন, COP31 ড্রাফ্ট পরিবর্তন, গার্ডিয়ান প্রবন্ধ ও GTA VI মুক্তি সম্পর্কে সংক্ষিপ্ত পর্যালোচনা করেছে।",
+  "body_bn": [
+   "২০ নভেম্বরের প্রেস রিভিউতে ফ্রান্স ২৪ শেনঝেনের ঐতিহাসিক শীর্ষ সম্মেলনে ডোনাল্ড ট্রাম্প, ভ্লাদিমির পুতিন ও শি জিনপিংয়ের অংশগ্রহণের প্রতিক্রিয়া তুলে ধরেছে।",
+   "এতে উল্লেখ করা হয়েছে যে COP31 শেষ পর্যায়ে প্রবেশ করেছে এবং খসড়া চুক্তি থেকে জীবাশ্ম জ্বালানির উল্লেখ বাদ দেওয়া হয়েছে, পাশাপাশি গার্ডিয়ান \"পাওয়ার স্ল্যাপিং\" শীর্ষক দীর্ঘ প্রবন্ধ প্রকাশ করেছে।",
+   "রিভিউতে গ্র্যান্ড থেফট অটো VI গেমের প্রকাশকে একটি নতুন সাংস্কৃতিক ঘটনা হিসেবে উল্লেখ করা হয়েছে।"
+  ],
+  "image_prompt": "Illustration showing a conference hall with silhouettes of leaders, a climate treaty draft, a video game controller and newspaper headlines, no faces or logos",
+  "category": "World",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/tv-shows/press-review/20261120-the-far-right-is-missing-the-butt-of-the-gta-vi-joke-it-s-them",
+  "source_title": "The far right is 'missing the butt' of the GTA VI joke: It's them!",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/tv-shows/press-review/20261120-the-far-right-is-missing-the-butt-of-the-gta-vi-joke-it-s-them",
+    "title": "The far right is 'missing the butt' of the GTA VI joke: It's them!"
+   }
+  ],
+  "published": "2026-11-20T10:11:52+00:00",
+  "added": "2026-11-20T10:43:55.161429+00:00",
+  "hidden": false
+ },
+ {
+  "id": "1bbad78b030f",
+  "headline": "Cincinnati Zoo hippo Fiona dies after swallowing visitor's hat",
+  "summary": "Fiona, born premature in 2017 and named after a Shrek character, died at the Cincinnati Zoo after ingesting a visitor's hat.",
+  "body": [
+   "Fiona, a hippopotamus born six weeks premature in 2017, quickly attracted worldwide attention after zoo staff named her after the character from the film \"Shrek\". She spent her life at the Cincinnati Zoo in the United States, where she became one of the most recognized zoo residents.",
+   "The zoo confirmed that Fiona died after she swallowed a visitor's hat, an incident reported by Al Jazeera English and Deutsche Welle. Her death marks the end of a decade‑long public fascination with the premature hippo."
+  ],
+  "headline_bn": "সিনসিনাটি চিড়িয়াখানার হিপ্পো ফিওনা টুপি গিলে মারা গেছেন",
+  "summary_bn": "প্রিম্যাচিউর জন্মের পর বিশ্বসুখে পরিচিত ফিওনা, দর্শকের টুপি গিলে মৃত্যুবরণ করেছেন।",
+  "body_bn": [
+   "ফিওনা, একটি হিপ্পো, ২০১৭ সালে ছয় সপ্তাহ আগে জন্ম নেওয়ার পর দ্রুত বিশ্বব্যাপী মনোযোগ পায়, কারণ চিড়িয়াখানা কর্মীরা তাকে \"শ্রেক\" চলচ্চিত্রের চরিত্রের নাম দিয়েছিলেন। তিনি যুক্তরাষ্ট্রের সিনসিনাটি চিড়িয়াখানায় তার জীবনের বেশিরভাগ সময় কাটিয়েছেন এবং সেখানে সবচেয়ে পরিচিত প্রাণীদের মধ্যে এক ছিলেন।",
+   "চিড়িয়াখানা জানায়, ফিওনা দর্শকের টুপি গিলে মারা গেছেন, এই ঘটনা আল জাজিরা ইংলিশ ও ডি ডব্লিউ রিপোর্ট করেছে। তার মৃত্যু দশ বছরব্যাপী জনসাধারণের আকর্ষণের সমাপ্তি চিহ্নিত করে।"
+  ],
+  "image_prompt": "illustration of a hippo at a zoo with a hat nearby, no faces or logos",
+  "category": "World",
+  "source": "Al Jazeera English, DW",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
+  "source_title": "Hippo Fiona dies days after swallowing visitor’s hat",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
+    "title": "Hippo Fiona dies days after swallowing visitor’s hat"
+   },
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-rdf",
+    "title": "Cincinnati's famous hippo Fiona dies after eating visitor's hat"
+   }
+  ],
+  "published": "2026-11-20T02:51:44+00:00",
+  "added": "2026-11-20T10:42:18.264193+00:00",
+  "hidden": false,
+  "image": "data/img/1bbad78b030f.jpg"
+ },
+ {
   "id": "b9b421391175",
   "headline": "Government cites Awami League violence as provocation, delays strict action",
   "summary": "Sources from the government and BNP say the administration views the Awami League's ongoing violence as a trigger, not a reason for immediate crackdown.",
@@ -17319,102 +17569,6 @@
   "source_title": "জাপানের সাবেক প্রধানমন্ত্রী তারো আসোর সঙ্গে ব্যবসায়ী মোজিবুল হকের সাক্ষাৎ",
   "published": "2026-10-31T17:04:30+00:00",
   "added": "2026-10-31T17:30:38.126507+00:00",
-  "hidden": false
- },
- {
-  "id": "5d1ffac44468",
-  "headline": "Iran's Supreme Leader cautions US and Israel over potential military strikes",
-  "summary": "Iran's Supreme Leader Mojtaba Khamenei has cautioned the United States and Israel regarding potential new military strikes. The warning follows recent threats of further action from US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu amid growing regional tensions.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
-  "source_title": "Iran's Khamenei warns US and Israel against new attacks",
-  "published": "2026-10-31T17:00:36+00:00",
-  "added": "2026-10-31T17:31:27.852044+00:00",
-  "hidden": false
- },
- {
-  "id": "949909e3ac3d",
-  "headline": "Flavio Bolsonaro leaves Brazil citing persecution",
-  "summary": "Defeated right-wing presidential candidate Flavio Bolsonaro announced in a social media video that he fled to the United States due to alleged persecution. He did not provide specifics regarding his departure following Sunday's election runoff defeat to President Luiz Inacio Lula da Silva.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/americas/20261031-flavio-bolsonaro-posts-video-says-he-fled-brazil-due-to-persecution",
-  "source_title": "Flavio Bolsonaro posts video, says he fled Brazil due to ‘persecution’",
-  "published": "2026-10-31T06:25:07+00:00",
-  "added": "2026-10-31T06:27:14.764760+00:00",
-  "hidden": false
- },
- {
-  "id": "4c00f01dbb2a",
-  "headline": "LeBron James and Tyrese Maxey Lead 76ers Past Knicks in NBA Cup",
-  "summary": "LeBron James contributed 20 points, including a crucial late fadeaway, while Tyrese Maxey scored 27. Their performances powered the 76ers to a thrilling victory against the Knicks during the NBA Cup.",
-  "category": "Sports",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss",
-  "source_title": "LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller",
-  "published": "2026-10-31T06:11:53+00:00",
-  "added": "2026-10-31T06:27:48.366076+00:00",
-  "hidden": false
- },
- {
-  "id": "61fa7006f1ad",
-  "headline": "Indian opposition fights voter exclusion amid selective solidarity",
-  "summary": "India's opposition parties are challenging voter exclusion during ongoing protests. However, reports indicate these efforts fail to address the systemic discrimination against Muslims that was highlighted in 2019.",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss",
-  "source_title": "The selective solidarity at the heart of India’s voter protests",
-  "published": "2026-10-31T06:08:19+00:00",
-  "added": "2026-10-31T06:28:27.730079+00:00",
-  "hidden": false
- },
- {
-  "id": "1dce4f6558e8",
-  "headline": "Wild Turkeys Attack Residents and Postal Workers in Wisconsin",
-  "summary": "Residents and postal workers in Janesville, Wisconsin, faced attacks by wild turkeys. The birds targeted people living in the area and mail carriers.",
-  "category": "World",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/fun/smv5b4y61d",
-  "source_title": "রিপলি’স বিলিভ ইট অর নট!",
-  "published": "2026-10-31T06:05:03+00:00",
-  "added": "2026-10-31T06:29:01.200715+00:00",
-  "hidden": false
- },
- {
-  "id": "6a289b7739e7",
-  "headline": "HSC pass rate stands at 51.62% with 35,948 GPA-5 achievers",
-  "summary": "Across nine education boards in the country, the HSC pass rate has been recorded at 51.62 percent. Additionally, a total of 35,948 students successfully obtained the top GPA-5 grade.",
-  "category": "World",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/bangladesh/eicessite-paaser-haar-51-62-jipie-5-35-haajaar",
-  "source_title": "এইচএসসিতে পাসের হার ৫১.৬২%, জিপিএ-৫ ৩৫ হাজার",
-  "published": "2026-10-31T06:04:49+00:00",
-  "added": "2026-10-31T06:29:34.419751+00:00",
-  "hidden": false
- },
- {
-  "id": "0aa9853cf2ac",
-  "headline": "Al Jazeera Reflects on Three Decades of Broadcasting Costs",
-  "summary": "AJLabs has examined the financial and human toll required to keep Al Jazeera broadcasting for thirty years. The network highlighted its commitment to reporting from difficult or inaccessible regions.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/31/what-has-it-cost-to-keep-al-jazeera-on-air-for-30-years?traffic_source=rss",
-  "source_title": "What has it cost to keep Al Jazeera on air for 30 years?",
-  "published": "2026-10-31T06:03:54+00:00",
-  "added": "2026-10-31T06:30:07.637738+00:00",
-  "hidden": false
- },
- {
-  "id": "a52627aef7a6",
-  "headline": "Travelers find relief in the scenic waters of Kaptai Lake",
-  "summary": "Escape the fatigue of urban life by spending time surrounded by hills, clouds, and the blue-green waters of Kaptai Lake. This scenic destination offers a peaceful retreat into nature.",
-  "category": "Culture",
-  "source": "Prothom Alo",
-  "source_url": "https://www.haal.fashion/travel/domestic/0ncu2otxrw",
-  "source_title": "কাপ্তাই হ্রদের শান্ত জলে ক্লান্তি বিসর্জন",
-  "published": "2026-10-31T06:00:00+00:00",
-  "added": "2026-10-31T06:30:40.806669+00:00",
   "hidden": false
  }
 ]
