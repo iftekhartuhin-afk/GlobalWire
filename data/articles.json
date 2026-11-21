@@ -1,5 +1,250 @@
 [
  {
+  "id": "4cc04d8d1c85",
+  "headline": "Indian national sentenced to over 19 years for plot to kill Sikh separatist in US",
+  "summary": "An Indian man received a prison term exceeding 19 years after being convicted of a murder plot against a Sikh separatist, according to Al Jazeera English.",
+  "body": [
+   "An Indian citizen has been handed a prison sentence of more than 19 years by a U.S. court after being found guilty of planning the assassination of a Sikh separatist. The conviction and sentencing were reported by Al Jazeera English, which noted that the case involved a plot to kill the separatist on U.S. soil. The lengthy term reflects the seriousness of the offense under U.S. law."
+  ],
+  "headline_bn": "ভারতে নাগরিককে সিক ধর্মীয় বিচ্ছিন্নতাবাদীর হত্যার ষড়যন্ত্রে ১৯ বছরের বেশি কারাদণ্ড",
+  "summary_bn": "আল জাজিরা ইংরেজির মতে, একটি ভারতীয় নাগরিককে সিক বিচ্ছিন্নতাবাদীর বিরুদ্ধে হত্যার পরিকল্পনার জন্য ১৯ বছরের বেশি কারাদণ্ড দেওয়া হয়েছে।",
+  "body_bn": [
+   "একজন ভারতীয় নাগরিককে যুক্তরাষ্ট্রের আদালত ১৯ বছরের বেশি কারাদণ্ড দিয়েছে, কারণ তাকে সিক বিচ্ছিন্নতাবাদীর হত্যার ষড়যন্ত্রে দোষী সাব্যস্ত করা হয়েছে। আল জাজিরা ইংরেজি এই দোষারোপ ও শাস্তি সম্পর্কে জানিয়েছে, যেখানে উল্লেখ করা হয়েছে যে এই পরিকল্পনা যুক্তরাষ্ট্রের ভূখণ্ডে সংঘটিত হওয়ার উদ্দেশ্যে ছিল। দীর্ঘ শাস্তি এই অপরাধের গম্ভীরতা এবং যুক্তরাষ্ট্রের আইন অনুসারে তার গুরুত্বকে প্রতিফলিত করে।"
+  ],
+  "image_prompt": "courtroom scene with a judge's gavel, legal documents and prison bars, no people visible",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+  "source_title": "Indian man jailed over plot to kill Sikh separatist in US",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+    "title": "Indian man jailed over plot to kill Sikh separatist in US"
+   }
+  ],
+  "published": "2026-11-21T21:09:18+00:00",
+  "added": "2026-11-21T21:18:00.783457+00:00",
+  "hidden": false,
+  "image": "data/img/4cc04d8d1c85.jpg"
+ },
+ {
+  "id": "98d5d76471e0",
+  "headline": "Brazil's ex-president Jair Bolsonaro in intensive care for bowel obstruction",
+  "summary": "Al Jazeera reports the former Brazilian president, serving a coup‑plot sentence, is stable in intensive care with a bowel obstruction, breathing unaided.",
+  "body": [
+   "Former Brazilian President Jair Bolsonaro, currently serving a prison term for plotting a coup, has been placed in intensive care after developing a bowel obstruction, according to Al Jazeera English.",
+   "Hospital staff say he is stable and breathing unaided, suggesting his condition is being managed without immediate ventilation support.",
+   "The update arrives as Bolsonaro continues to serve his sentence, highlighting the intersection of legal and medical developments in this high‑profile case. The hospital confirmed that he remains under observation and that no further complications have been reported."
+  ],
+  "headline_bn": "ব্রাজিলের প্রাক্তন প্রেসিডেন্ট জায়ার বলসোনারো বাওয়েল অবস্ট্রাকশন নিয়ে ইনটেনসিভ কেয়ারে",
+  "summary_bn": "আল জাজিরা রিপোর্ট করেছে, কুপ পরিকল্পনার শাস্তি পাচ্ছেন প্রাক্তন প্রেসিডেন্ট, বাওয়েল অবস্ট্রাকশন নিয়ে ইনটেনসিভ কেয়ারে স্থিতিশীল, স্বয়ংশ্বাস নিচ্ছেন।",
+  "body_bn": [
+   "প্রাক্তন ব্রাজিলের প্রেসিডেন্ট জায়ার বলসোনারো, যিনি কুপ পরিকল্পনার জন্য কারাদণ্ডে আছেন, বাওয়েল অবস্ট্রাকশন হওয়ায় ইনটেনসিভ কেয়ারে ভর্তি হয়েছেন, আল জাজিরা ইংলিশ জানায়।",
+   "হাসপাতালের কর্মীরা জানান তিনি স্থিতিশীল এবং স্বয়ংশ্বাস নিচ্ছেন, যা তাত্ক্ষণিক ভেন্টিলেটর ব্যবহার না করেও অবস্থা নিয়ন্ত্রণে আছে বলে নির্দেশ করে।",
+   "এই আপডেটটি আসে যখন বলসোনারো তার শাস্তি চালিয়ে যাচ্ছেন, যা এই উচ্চপ্রোফাইল মামলায় আইনি ও চিকিৎসা দিকের সংযোগকে তুলে ধরে। হাসপাতাল নিশ্চিত করেছে যে তিনি পর্যবেক্ষণে আছেন এবং অতিরিক্ত কোনো জটিলতা রিপোর্ট করা হয়নি।"
+  ],
+  "image_prompt": "illustration of a hospital intensive care unit with medical equipment and an empty bed, no people",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+  "source_title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+    "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction"
+   }
+  ],
+  "published": "2026-11-21T21:02:18+00:00",
+  "added": "2026-11-21T21:18:11.058540+00:00",
+  "hidden": false
+ },
+ {
+  "id": "dd194f367fab",
+  "headline": "Iran Says Talks with Qatar Pave Way to Reopen Strait if US Accepts Conditions",
+  "summary": "Iran's foreign minister claims reopening the strait is feasible pending U.S. agreement on reasonable terms, per Al Jazeera English.",
+  "body": [
+   "Iran's foreign minister announced that the country has held discussions with Qatari mediators regarding the reopening of the strategic strait. The minister stated that the process is \"not difficult\" provided the United States accepts what Tehran describes as reasonable conditions.",
+   "The remarks were reported by Al Jazeera English, which noted that Iran is urging the United States to agree to the outlined conditions to facilitate the strait's reopening."
+  ],
+  "headline_bn": "ইরান বলছে কাতার মধ্যস্থতায় আলোচনা, যুক্তরাষ্ট্রের শর্তে স্ট্রেট পুনরায় খোলা সম্ভব",
+  "summary_bn": "ইরানের পররাষ্ট্র মন্ত্রী যুক্তরাষ্ট্রের যুক্তিসঙ্গত শর্তে স্ট্রেট পুনরায় খোলার সম্ভাবনা উল্লেখ করেছেন, আল জাজিরা ইংরেজি জানায়।",
+  "body_bn": [
+   "ইরানের পররাষ্ট্র মন্ত্রী জানিয়েছেন যে দেশ কাতারীয় মধ্যস্থতাকারীদের সঙ্গে কৌশলগত স্ট্রেটের পুনরায় খোলার বিষয়ে আলোচনা করেছে। মন্ত্রী বলেন, যুক্তরাষ্ট্র যুক্তিসঙ্গত শর্ত গ্রহণ করলে প্রক্রিয়াটি \"কঠিন নয়\"।",
+   "আল জাজিরা ইংরেজি এই মন্তব্যগুলো তুলে ধরেছে, যেখানে ইরান যুক্তরাষ্ট্রকে নির্ধারিত শর্তে সম্মত হতে আহ্বান জানিয়ে স্ট্রেটের পুনরায় খোলার পথ সুগম করার ইচ্ছা প্রকাশ করেছে।"
+  ],
+  "image_prompt": "illustration of diplomatic talks over a maritime strait with maps and symbolic flags, no faces or logos",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+  "source_title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+    "title": "Iran says held talks with Qatari mediators, urges US to accept conditions"
+   }
+  ],
+  "published": "2026-11-21T20:56:35+00:00",
+  "added": "2026-11-21T21:18:17.653739+00:00",
+  "hidden": false
+ },
+ {
+  "id": "48afc3f93eae",
+  "headline": "Eisenkot Invites Netanyahu's Likud to Start Coalition Talks on Sunday",
+  "summary": "Opposition leader Gadi Eisenkot says his Yashar party will host marathon talks with Likud from Sunday to build the broadest possible government after the October election.",
+  "body": [
+   "Israeli opposition figure Gadi Eisenkot announced that his centrist Yashar party has invited caretaker Prime Minister Benjamin Netanyahu's Likud party to begin a series of coalition negotiations. The talks, described as a 'marathon series,' are set to start on Sunday, according to France 24.",
+   "Eisenkot said the initiative reflects a commitment to assemble the broadest possible government after the October election failed to produce a clear winner. The move aims to bridge right‑wing and centrist forces in pursuit of a stable governing coalition."
+  ],
+  "headline_bn": "আইসেনকোট লিকুডকে আমন্ত্রণ জানালেন, কোয়ালিশন আলোচনার সূচনা রবিবার",
+  "summary_bn": "বিপক্ষের নেতা গাদি আইসেনকোটের মতে, ইয়াশার পার্টি রবিবার থেকে লিকুডের সঙ্গে মারাথন আলোচনার মাধ্যমে অক্টোবরের অমীমাংসিত নির্বাচনের পর সর্বোচ্চ বিস্তৃত সরকার গঠন করতে চায়।",
+  "body_bn": [
+   "ইসরায়েলি বিরোধী নেতা গাদি আইসেনকোট জানিয়েছেন, তার কেন্দ্রপন্থী ইয়াশার পার্টি অস্থায়ী প্রধানমন্ত্রী বেনজামিন নেটানিয়াহু নেতৃত্বাধীন লিকুড পার্টিকে কোয়ালিশন আলোচনার জন্য আমন্ত্রণ জানিয়েছে। ফ্রান্স ২৪ অনুযায়ী, এই 'ম্যারাথন সিরিজ' রবিবার থেকে শুরু হবে।",
+   "আইসেনকোটের মতে, এই উদ্যোগ অক্টোবরের নির্বাচনে স্পষ্ট বিজয়ী না পাওয়ার পর সর্বোচ্চ বিস্তৃত সরকার গঠনের প্রতিশ্রুতি প্রকাশ করে। এটি ডানপন্থী ও কেন্দ্রপন্থী শক্তিগুলোর মধ্যে সমন্বয় সাধন করে স্থিতিশীল শাসন নিশ্চিত করার লক্ষ্য রাখে।"
+  ],
+  "image_prompt": "A neutral conference room with a large table, papers and abstract political symbols, representing coalition talks, no people, flags, or logos",
+  "category": "Politics",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+  "source_title": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+    "title": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks"
+   }
+  ],
+  "published": "2026-11-21T20:49:04+00:00",
+  "added": "2026-11-21T21:18:26.575042+00:00",
+  "hidden": false
+ },
+ {
+  "id": "c902a31706b5",
+  "headline": "Thousands protest in France and Portugal over living costs and housing",
+  "summary": "Demonstrations follow earlier youth-led protests on education and economic hardship across Europe, reports Al Jazeera English.",
+  "body": [
+   "Thousands of demonstrators gathered in France and Portugal to protest rising living costs and housing challenges, according to Al Jazeera English.",
+   "The rallies follow a wave of youth‑led protests across Europe that highlighted concerns over education and broader economic hardship, prompting wider public participation.",
+   "Organisers called for policy measures to improve affordability and access to education, urging governments to address the mounting pressures on households."
+  ],
+  "headline_bn": "ইউরোপে হাজারো মানুষ জীবনের খরচ ও বাসস্থানের জন্য প্রতিবাদে রওনা",
+  "summary_bn": "ফ্রান্স ও পর্তুগালে বাসস্থানের সমস্যার মোকাবিলায় বৃহৎ প্রতিবাদ, পূর্বের যুব-নেতৃত্বাধীন শিক্ষার প্রতিবাদে অনুপ্রাণিত।",
+  "body_bn": [
+   "ফ্রান্স ও পর্তুগালে হাজারো demonstrator জীবনের খরচ ও বাসস্থানের সমস্যার বিরুদ্ধে প্রতিবাদে রওনা দিলেন, Al Jazeera English রিপোর্ট করেছে।",
+   "এই প্রতিবাদগুলো ইউরোপ জুড়ে শিক্ষার ও আর্থিক কষ্টের ওপর যুব-নেতৃত্বাধীন পূর্বের প্রতিবাদগুলোর পরবর্তী ধাপ হিসেবে দেখা হচ্ছে, যা বৃহত্তর জনসাধারণের অংশগ্রহণকে উস্কে দিয়েছে।",
+   "সংগঠকরা সাশ্রয়ীতা ও শিক্ষার প্রবেশযোগ্যতা বাড়াতে নীতি পরিবর্তনের আহ্বান জানিয়ে সরকারকে বাড়তি গৃহস্থালীর চাপ মোকাবিলায় পদক্ষেপ নিতে বলছেন।"
+  ],
+  "image_prompt": "illustration of a diverse crowd protesting on city streets with signs about cost of living and housing, no faces, logos or text",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+  "source_title": "Thousands protest across Europe over living costs and housing",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+    "title": "Thousands protest across Europe over living costs and housing"
+   }
+  ],
+  "published": "2026-11-21T20:47:50+00:00",
+  "added": "2026-11-21T21:18:33.711638+00:00",
+  "hidden": false
+ },
+ {
+  "id": "9cd1984b9ee6",
+  "headline": "Fire breaks out in Benchar Char village, Kalia Upazila",
+  "summary": "A fire started around 4 p.m. on Friday in Benchar Char village, Naraile, according to Kalia Upazila fire service officer Humayun Kabir.",
+  "body": [
+   "A fire erupted in Benchar Char village in Naraile on Friday afternoon. The blaze was reported to have started at around 4 p.m., according to Humayun Kabir, an officer of the Kalia Upazila Fire Service Station.",
+   "Kalia fire service officials confirmed the incident to journalists, but further details on the cause or damage were not provided in the report."
+  ],
+  "headline_bn": "ক্যালিয়া উপজেলা ফায়ার সার্ভিসে বেন্দারচর গ্রামে অগ্নিকাণ্ড",
+  "summary_bn": "শুক্রবার বিকেল চারটায় নড়াইলের বেন্দারচর গ্রামে অগ্নিকাণ্ডের সূচনা, ক্যালিয়া ফায়ার সার্ভিসের হুমায়ুন কবির জানান।",
+  "body_bn": [
+   "নড়াইলের বেন্দারচর গ্রামে শুক্রবার বিকেল চারটায় অগ্নিকাণ্ড ঘটেছে। ক্যালিয়া উপজেলা ফায়ার সার্ভিস স্টেশন কর্মকর্তা হুমায়ুন কবির জানান, আগুনটি প্রায় ঐ সময়ে শুরু হয়।",
+   "অগ্নিকাণ্ডের কারণ বা ক্ষতির ব্যাপারে অতিরিক্ত তথ্য প্রকাশিত হয়নি।"
+  ],
+  "image_prompt": "Rural village scene with a building on fire, smoke rising, fire trucks nearby, no people faces or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/1yjc43zwk8",
+  "source_title": "নড়াইলের বেন্দারচর গ্রামে যা দেখা গেল",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/1yjc43zwk8",
+    "title": "নড়াইলের বেন্দারচর গ্রামে যা দেখা গেল"
+   }
+  ],
+  "published": "2026-11-21T20:45:00+00:00",
+  "added": "2026-11-21T21:18:41.782689+00:00",
+  "hidden": false
+ },
+ {
+  "id": "10d20ce6a18b",
+  "headline": "AOC faces activist challenge over support for Jeffries amid AIPAC concerns",
+  "summary": "Al Jazeera English reports an activist questioned AOC’s backing of Hakeem Jeffries because of his AIPAC links.",
+  "body": [
+   "U.S. Representative Alexandria Ocasio‑Cortez was confronted by an activist who criticized her endorsement of Hakeem Jeffries as the next Democratic leader.",
+   "The activist highlighted Jeffries’ longstanding ties to the American Israel Public Affairs Committee, arguing that the relationship could shape policy priorities within the party, the report said.",
+   "The exchange underscores ongoing scrutiny of external influence on internal party decisions, as reported by Al Jazeera English."
+  ],
+  "headline_bn": "এওসি-কে চ্যালেঞ্জ, জেফ্রিসের এআইপিএসি সংযোগের কারণে সমর্থন প্রশ্নবিদ্ধ",
+  "summary_bn": "আল জাজিরা ইংলিশের মতে, একজন কর্মী এওসির হেকিম জেফ্রিসের সমর্থনকে এআইপিএসি সংযোগের ভিত্তিতে প্রশ্ন তুলেছেন।",
+  "body_bn": [
+   "মার্কিন প্রতিনিধি আলেক্সান্দ্রিয়া ওকাসিও‑কোর্টেজকে একজন কর্মী চ্যালেঞ্জ করেন, হেকিম জেফ্রিসকে ডেমোক্র্যাটিক নেতৃত্বের সম্ভাব্য প্রার্থী হিসেবে সমর্থনকে সমালোচনা করেন।",
+   "কর্মী জেফ্রিসের আমেরিকান ইসরাইল পাবলিক অ্যাফেয়ার্স কমিটি (এআইপিএসি) সঙ্গে দীর্ঘস্থায়ী সংযোগের দিকে ইঙ্গিত করে, যা পার্টির নীতি দিকনির্দেশনা প্রভাবিত করতে পারে বলে দাবি করেন, আল জাজিরা ইংলিশের রিপোর্টে উল্লেখ আছে।",
+   "এই বিতর্ক পার্টির অভ্যন্তরে বাহ্যিক প্রভাবের ওপর বাড়তে থাকা নজরদারিকে প্রতিফলিত করে, রিপোর্টটি জানায়।"
+  ],
+  "image_prompt": "illustration of a congressional chamber with abstract figures debating political influence",
+  "category": "Politics",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+  "source_title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+    "title": "AOC challenged over AIPAC’s influence on Democratic leadership"
+   }
+  ],
+  "published": "2026-11-21T20:38:20+00:00",
+  "added": "2026-11-21T21:18:50.342081+00:00",
+  "hidden": false
+ },
+ {
+  "id": "a1879be9874c",
+  "headline": "Dhaka University administration opens Mujib Hall pocket gate after student protests",
+  "summary": "The gate, previously slated for temporary closure for security, was reopened following protests, according to Prothom Alo.",
+  "body": [
+   "On Tuesday, Dhaka University held a coordination meeting where the administration decided to keep the pocket gate next to Sheikh Mujibur Rahman Hall temporarily closed for security reasons, Prothom Alo reported.",
+   "Later, amid student protests, the administration reversed the earlier decision and opened the gate, as reflected in the outlet's headline."
+  ],
+  "headline_bn": "ঢাবির মুজিব হলের পকেট গেট ছাত্র বিক্ষোভের পর খুলে দিল প্রশাসন",
+  "summary_bn": "নিরাপত্তার জন্য সাময়িকভাবে বন্ধ রাখার সিদ্ধান্তের পর বিক্ষোভের মুখে গেটটি আবার খোলা হয়, প্রথাম আলো জানায়।",
+  "body_bn": [
+   "গত মঙ্গলবার বিশ্ববিদ্যালয়ের সমন্বয় সভায় নিরাপত্তার স্বার্থে শেখ মুজিবুর রহমান হলসংলগ্ন পকেট গেটটি সাময়িকভাবে বন্ধ রাখার সিদ্ধান্ত নেওয়া হয়, প্রথাম আলো রিপোর্ট করেছে।",
+   "বিক্ষোভের মুখে প্রশাসন পূর্বের সিদ্ধান্ত প্রত্যাহার করে গেটটি খুলে দেয়, যা প্রকাশনাটির শিরোনামে উল্লেখ আছে।"
+  ],
+  "image_prompt": "illustration of a university gate with protest signs, empty streets, security barriers, no faces or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/capital/h28nloculk",
+  "source_title": "শিক্ষার্থীদের বিক্ষোভের মুখে ঢাবির মুজিব হলের পকেট গেট খুলে দিল প্রশাসন",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/capital/h28nloculk",
+    "title": "শিক্ষার্থীদের বিক্ষোভের মুখে ঢাবির মুজিব হলের পকেট গেট খুলে দিল প্রশাসন"
+   }
+  ],
+  "published": "2026-11-21T20:31:22+00:00",
+  "added": "2026-11-21T21:18:57.741272+00:00",
+  "hidden": false
+ },
+ {
   "id": "3a49e8fbc0df",
   "headline": "Club deliberates Dulike's future after Safa setback, decision pending",
   "summary": "Prothom Alo reports the team missed the final and the trophy remains out of reach, prompting a pending decision on Dulike.",
@@ -18073,102 +18318,6 @@
   "source_title": "বৃহত্তর জাতীয় সরকার গঠনের আহ্বান নেতানিয়াহুর, আজ বৈঠকে বসছেন বিরোধীরা",
   "published": "2026-11-02T22:29:46+00:00",
   "added": "2026-11-02T23:48:28.828429+00:00",
-  "hidden": false
- },
- {
-  "id": "1a21c24265e6",
-  "headline": "US Voters Head to Polls for Midterms That Could Flip Congress",
-  "summary": "American voters participate in Tuesday midterm elections that may shift control of congressional houses from Republicans to Democrats. The outcome could alter the national political landscape and impact efforts to oversee President Donald Trump.",
-  "category": "Politics",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/americas/20261102-what-changes-if-democrats-win-a-majority-in-congress",
-  "source_title": "What changes if Democrats win a majority in Congress?",
-  "published": "2026-11-02T16:29:53+00:00",
-  "added": "2026-11-02T16:40:50.925696+00:00",
-  "hidden": false
- },
- {
-  "id": "7cd59040fa94",
-  "headline": "Police Vehicle Arson Linked to Alif Molla in Mirpur",
-  "summary": "Authorities report that Alif Molla was behind the arson attack on a police vehicle in Mirpur. According to the Detective Branch of the DMP, suspects questioned in the case revealed his involvement.",
-  "category": "World",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/bangladesh/crime/d1xsi62za1",
-  "source_title": "মিরপুরে পুলিশের গাড়ি পোড়ানোর ছবি-ভিডিও যায় আলিফের মুঠোফোনে, আসে টাকা",
-  "published": "2026-11-02T16:22:26+00:00",
-  "added": "2026-11-02T16:41:24.867241+00:00",
-  "hidden": false
- },
- {
-  "id": "a20a6bdb8f5f",
-  "headline": "Seven Migrants Die on Canary Islands-Bound Boat Amid Storm",
-  "summary": "At least seven people have died on a vessel traveling toward the Canary Islands. The boat, carrying 139 individuals, encountered severe storm conditions.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/at-least-seven-migrants-die-on-boat-bound-for-canary-islands-amid-storm?traffic_source=rss",
-  "source_title": "At least seven migrants die on boat bound for Canary Islands amid storm",
-  "published": "2026-11-02T16:13:21+00:00",
-  "added": "2026-11-02T16:41:58.319457+00:00",
-  "hidden": false
- },
- {
-  "id": "4943fee36d76",
-  "headline": "Renowned sports organizer Harunur Rashid in ICU",
-  "summary": "National Sports Award winner Harunur Rashid is currently receiving treatment in the intensive care unit. He previously served as the general secretary of the Bangladesh Football Federation for five terms.",
-  "category": "Sports",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/sports/other-sports/1yjen9ftoh",
-  "source_title": "আইসিইউতে বরেণ্য ক্রীড়া সংগঠক হারুনুর রশীদ",
-  "published": "2026-11-02T16:07:12+00:00",
-  "added": "2026-11-02T16:42:31.679258+00:00",
-  "hidden": false
- },
- {
-  "id": "eac7e8b39262",
-  "headline": "European Punk Bands Embark on Continental Tours",
-  "summary": "Iceage vocalist Elias Bender Rønnenfelt is performing a solo set in Paris at the Pitchfork festival during his European tour. Meanwhile, South London band Fat Dog are currently touring France and Europe following the release of their second album, Cancel Me (I'm Tired).",
-  "category": "Culture",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/tv-shows/arts24/20261102-a-musical-overview-of-trans-european-punk",
-  "source_title": "A musical overview of trans-European punk",
-  "published": "2026-11-02T16:05:15+00:00",
-  "added": "2026-11-02T16:43:05.057587+00:00",
-  "hidden": false
- },
- {
-  "id": "3ee5bec9d02b",
-  "headline": "China increases diplomatic engagement with Iran and Oman",
-  "summary": "Beijing has dispatched an envoy to the Gulf region to advocate for talks regarding the US-Iran conflict. Additionally, Chinese leadership hosted the first state visit by an Omani leader since 1978.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
-  "source_title": "China steps up Middle East diplomacy with Iran and Oman meetings",
-  "published": "2026-11-02T16:03:52+00:00",
-  "added": "2026-11-02T16:43:38.262536+00:00",
-  "hidden": false
- },
- {
-  "id": "519b9812c45f",
-  "headline": "WHO warns Ethiopia's northern health system nears collapse",
-  "summary": "Renewed clashes between the government and Tigray rebels have broken a 2022 peace agreement. The World Health Organization reports that the ongoing violence is driving the regional healthcare network toward total failure.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
-  "source_title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
-  "published": "2026-11-02T16:03:40+00:00",
-  "added": "2026-11-02T16:44:11.505829+00:00",
-  "hidden": false
- },
- {
-  "id": "5e226440b874",
-  "headline": "ACC approves three cases against Salman F Rahman over fund embezzlement",
-  "summary": "Bangladesh Anti-Corruption Commission has greenlit three cases against Salman F Rahman regarding the embezzlement of 1,121 crore taka. Investigations revealed that loans and EDF facilities were granted to newly formed entities whose directors lacked business experience.",
-  "category": "Politics",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/bangladesh/crime/2qicj662cd",
-  "source_title": "১১২১ কোটি টাকা আত্মসাৎ: সালমান এফ রহমানের বিরুদ্ধে ৩ মামলার অনুমোদন দুদকের",
-  "published": "2026-11-02T16:02:29+00:00",
-  "added": "2026-11-02T16:44:44.838155+00:00",
   "hidden": false
  }
 ]
