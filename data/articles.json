@@ -1,5 +1,215 @@
 [
  {
+  "id": "1d0b44634f75",
+  "headline": "COP31 Climate Summit Extends Into Second Day of Overtime",
+  "summary": "After weeks of talks, nations remain split on climate action as they work toward a third and final draft text, DW reports.",
+  "body": [
+   "According to DW, the United Nations climate summit COP31 has entered a second day of overtime after weeks of negotiations. The extended session reflects the difficulty of reaching consensus among participating countries.",
+   "Countries remain divided on how to combat global warming, and delegates are now focusing on a third and final draft text to conclude the talks."
+  ],
+  "headline_bn": "COP31 জলবায়ু শীর্ষ সম্মেলন অতিরিক্ত সময়ে দ্বিতীয় দিন চালু",
+  "summary_bn": "সপ্তাহের আলোচনার পর, দেশগুলো জলবায়ু পদক্ষেপে বিভক্ত রয়ে গিয়ে তৃতীয় ও শেষ খসড়া পাঠ্যের দিকে মনোযোগ দিচ্ছে, DW জানায়।",
+  "body_bn": [
+   "DW অনুযায়ী, জাতিসংঘের জলবায়ু শীর্ষ সম্মেলন COP31 অতিরিক্ত সময়ে দ্বিতীয় দিন চালু হয়েছে, সপ্তাহব্যাপী আলোচনার পর।",
+   "দেশগুলো গ্লোবাল উষ্ণায়নের মোকাবিলায় মতভেদ বজায় রেখেছে এবং তৃতীয় ও শেষ খসড়া পাঠ্যের দিকে মনোযোগ দিচ্ছে।"
+  ],
+  "image_prompt": "Illustration of a global climate summit with tables, documents and charts, showing delegates in silhouette, no faces, flags, logos or text",
+  "category": "Environment",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-second-day-of-overtime/live-79999516?maca=en-rss-en-all-1573-rdf",
+  "source_title": "COP31: UN Climate summit runs into second day of overtime",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-second-day-of-overtime/live-79999516?maca=en-rss-en-all-1573-rdf",
+    "title": "COP31: UN Climate summit runs into second day of overtime"
+   }
+  ],
+  "published": "2026-11-22T01:12:00+00:00",
+  "added": "2026-11-22T01:27:33.975226+00:00",
+  "hidden": false
+ },
+ {
+  "id": "d740827d88ad",
+  "headline": "Earthquake in Peru prompts cinema patrons to flee",
+  "summary": "Al Jazeera English reports a quake in Peru caused moviegoers to exit theaters.",
+  "body": [
+   "According to Al Jazeera English, an earthquake struck Peru, leading moviegoers to head for the exits of cinemas. The report described patrons leaving the venues as the tremor was felt, prompting an immediate evacuation from the screening rooms. No further information on the quake’s magnitude, location within the country, or any injuries was provided. The coverage did not specify the quake’s magnitude, the exact location within Peru, or any damage to infrastructure. No official statements from local authorities were included in the report."
+  ],
+  "headline_bn": "পেরুর ভূমিকম্পে সিনেমা দর্শকরা পালিয়ে গেলেন",
+  "summary_bn": "Al Jazeera English রিপোর্ট করেছে, পেরুর ভূমিকম্পে সিনেমা দর্শকরা হল থেকে বেরিয়ে গেলেন।",
+  "body_bn": [
+   "Al Jazeera English অনুযায়ী, পেরুতে একটি ভূমিকম্প ঘটেছে, যার ফলে সিনেমা দর্শকরা হল থেকে বেরিয়ে যাওয়ার পথে গিয়েছেন। প্রতিবেদনে বলা হয়েছে যে, দর্শকরা শো চলাকালীন কম্পন অনুভব করে তৎক্ষণাৎ হল থেকে বেরিয়ে গেছেন। প্রতিবেদনে ভূমিকম্পের তীব্রতা, নির্দিষ্ট স্থান বা কোনো ক্ষতির তথ্য উল্লেখ করা হয়নি। এছাড়াও, স্থানীয় কর্তৃপক্ষের কোনো আনুষ্ঠানিক মন্তব্য প্রতিবেদনে অন্তর্ভুক্ত করা হয়নি।"
+  ],
+  "image_prompt": "Illustration of a cinema interior with people exiting as the ground shakes, showing seismic waves",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+  "source_title": "Moviegoers head for the exits as quake strikes Peru",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+    "title": "Moviegoers head for the exits as quake strikes Peru"
+   }
+  ],
+  "published": "2026-11-22T01:07:19+00:00",
+  "added": "2026-11-22T01:27:43.419797+00:00",
+  "hidden": false
+ },
+ {
+  "id": "d48c783b6b7f",
+  "headline": "Drone strike ignites fire on Russian cargo ship Spartа-2 in Baltic Sea",
+  "summary": "Finnish officials suspect Ukraine behind the drone attack that set fire to the Russian vessel, while all 16 crew members were evacuated safely.",
+  "body": [
+   "A drone attack caused a fire on the Russian cargo ship Spartа-2 in the Baltic Sea. The vessel, which is linked to the Russian military, was hit by an unmanned aerial vehicle, according to Prothom Alo.",
+   "Finnish authorities believe the attack may have been carried out by Ukraine. All 16 crew members were reported to have evacuated the ship safely."
+  ],
+  "headline_bn": "বাল্টিক সাগরে ড্রোন হামলায় রুশ পণ্যবাহী জাহাজ স্পার্টা-২-এ আগুন",
+  "summary_bn": "ফিনল্যান্ডের কর্মকর্তারা ইউক্রেনকে দায়ী মনে করছেন, সব ১৬ নাবিক নিরাপদে সরে গেছেন।",
+  "body_bn": [
+   "বাল্টিক সাগরে রুশ সামরিক সংযুক্ত পণ্যবাহী জাহাজ স্পার্টা-২-এ ড্রোন হামলার ফলে আগুন লেগে গেছে, প্রথম আলো প্রতিবেদনের মতে।",
+   "ফিনল্যান্ডের কর্মকর্তারা বলছেন, এই হামলার পেছনে সম্ভবত ইউক্রেনের জড়িতি রয়েছে। জাহাজের ১৬ নাবিক নিরাপদে সরে গেছেন।"
+  ],
+  "image_prompt": "A burning cargo ship in the Baltic Sea with a drone silhouette overhead, no people, flags or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/europe/z165rqc1hk",
+  "source_title": "বাল্টিক সাগরে ড্রোন হামলায় রুশ পণ্যবাহী জাহাজে আগুন",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/europe/z165rqc1hk",
+    "title": "বাল্টিক সাগরে ড্রোন হামলায় রুশ পণ্যবাহী জাহাজে আগুন"
+   }
+  ],
+  "published": "2026-11-22T01:04:23+00:00",
+  "added": "2026-11-22T01:27:51.764464+00:00",
+  "hidden": false
+ },
+ {
+  "id": "568ca67d921e",
+  "headline": "Drinking Water Before Meals Touted as Weight‑Loss Aid, Says Prothom Alo",
+  "summary": "Prothom Alo notes that many adopt exercise, portion control and calorie tracking alongside the habit of a pre‑meal glass of water.",
+  "body": [
+   "According to Prothom Alo, losing weight has become a widespread objective beyond simple health maintenance, leading many people to follow regular physical activity, control portion sizes, count calories and experiment with various dietary patterns.",
+   "The outlet highlights a specific habit of drinking a glass of water before meals and questions how effective this practice is as part of weight‑loss strategies. While no statistical evidence is provided, the article suggests the habit may help increase satiety and reduce overall calorie intake."
+  ],
+  "headline_bn": "খাবারের আগে এক গ্লাস পানি: ওজন কমানোর নতুন অভ্যাস, প্রথাম আলো জানায়",
+  "summary_bn": "প্রথাম আলো উল্লেখ করেছে, অনেকেই ব্যায়াম, পরিমাণ নিয়ন্ত্রণ ও ক্যালরি হিসাবের সঙ্গে খাবারের আগে পানি পানকে গুরুত্ব দিচ্ছেন।",
+  "body_bn": [
+   "প্রথাম আলোর মতে, ওজন কমানো এখন কেবল স্বাস্থ্যের জন্য নয়, বরং একটি ব্যাপক লক্ষ্য, যা অনেককে নিয়মিত শারীরিক ব্যায়াম, খাবারের পরিমাণ নিয়ন্ত্রণ, ক্যালরি হিসাব এবং বিভিন্ন ডায়েট অনুসরণে উদ্বুদ্ধ করছে।",
+   "প্রতিবেদনটি খাবারের আগে এক গ্লাস পানি পান করার অভ্যাসকে তুলে ধরে এবং এই পদ্ধতির কার্যকারিতা সম্পর্কে প্রশ্ন উত্থাপন করে। যদিও কোনো পরিসংখ্যানিক প্রমাণ দেওয়া হয়নি, তবে এই অভ্যাসটি তৃপ্তি বৃদ্ধি এবং মোট ক্যালরি গ্রহণ কমাতে সহায়ক হতে পারে বলে ইঙ্গিত করা হয়েছে।"
+  ],
+  "image_prompt": "illustration of a glass of water placed beside a plate of food, simple kitchen setting, no people, no logos",
+  "category": "Health",
+  "source": "Prothom Alo",
+  "source_url": "https://www.haal.fashion/lifestyle/well-being/nrvp4uhqrf",
+  "source_title": "ওজন কমাতে খাবারের আগে এক গ্লাস পানি, কতটা কার্যকর এই অভ্যাস?",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.haal.fashion/lifestyle/well-being/nrvp4uhqrf",
+    "title": "ওজন কমাতে খাবারের আগে এক গ্লাস পানি, কতটা কার্যকর এই অভ্যাস?"
+   }
+  ],
+  "published": "2026-11-22T01:00:00+00:00",
+  "added": "2026-11-22T01:27:59.171945+00:00",
+  "hidden": false
+ },
+ {
+  "id": "d930d868a69e",
+  "headline": "Health Risks of Snow Spray at Birthday Parties Highlighted",
+  "summary": "Prothom Alo warns that careless use of snow spray during birthday celebrations can lead to accidents and health hazards.",
+  "body": [
+   "Prothom Alo reports that snow spray, a popular party accessory, can become a source of danger if used without care. It is often employed by friends to add fun to birthday gatherings.",
+   "The outlet emphasizes that simple negligence can turn the novelty into a serious health risk, urging participants to follow basic safety measures to avoid unintended accidents."
+  ],
+  "headline_bn": "বার্থডে পার্টিতে স্নো স্প্রে ব্যবহার: স্বাস্থ্যঝুঁকি সতর্কতা",
+  "summary_bn": "প্রথম আলো জানাচ্ছে, অযত্নে স্নো স্প্রে ব্যবহার করলে জন্মদিনের পার্টিতে দুর্ঘটনা ও স্বাস্থ্যঝুঁকি হতে পারে।",
+  "body_bn": [
+   "প্রথম আলো অনুসারে, স্নো স্প্রে জন্মদিনের পার্টিতে মজা যোগাতে জনপ্রিয়, তবে অযত্নে ব্যবহার করলে তা বিপদে পরিণত হতে পারে।",
+   "প্রতিবেদনটি সতর্ক করে যে, সহজ অযত্নে এই মজার জিনিসটি বড় দুর্ঘটনা ও স্বাস্থ্যঝুঁকি সৃষ্টি করতে পারে; তাই ব্যবহার করার সময় যথাযথ সতর্কতা অবলম্বন করা প্রয়োজন।"
+  ],
+  "image_prompt": "Illustration of a birthday party with colorful snow spray cans and decorative confetti, no people faces, generic scene",
+  "category": "Health",
+  "source": "Prothom Alo",
+  "source_url": "https://www.kishoralo.com/lifestyle/l6qlqq1ffn",
+  "source_title": "বার্থডে পার্টির স্নো স্প্রের কি কোনো স্বাস্থ্যঝুঁকি আছে",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.kishoralo.com/lifestyle/l6qlqq1ffn",
+    "title": "বার্থডে পার্টির স্নো স্প্রের কি কোনো স্বাস্থ্যঝুঁকি আছে"
+   }
+  ],
+  "published": "2026-11-22T01:00:00+00:00",
+  "added": "2026-11-22T01:28:06.954709+00:00",
+  "hidden": false
+ },
+ {
+  "id": "b5553ff19c00",
+  "headline": "French police clash with protesters during sixth weekend of demonstrations",
+  "summary": "Police used charges to disperse crowds on Saturday, marking France's sixth consecutive weekend of protests, Al Jazeera reports.",
+  "body": [
+   "On Saturday night, French police charged to disperse crowds as demonstrations erupted across multiple cities throughout the country, Al Jazeera English reported.",
+   "The confrontations marked the sixth consecutive weekend of public protests in France, with authorities employing charges to clear streets and attempt to restore order.",
+   "Demonstrators gathered in various locations, prompting police intervention on Saturday, which continued a pattern of nightly clashes that have persisted for six weekends.",
+   "According to the report, the ongoing unrest highlights the challenges faced by French authorities in managing repeated large‑scale demonstrations."
+  ],
+  "headline_bn": "ফরাসি পুলিশ ছয় সপ্তাহের ধারাবাহিক প্রতিবাদে সারা দেশে সশস্ত্রভাবে হস্তক্ষেপ",
+  "summary_bn": "আল জাজিরা ইংরেজি অনুযায়ী, শনিবার পুলিশ গুলিবর্ষণ করে ভিড়কে ছড়িয়ে দেয়, যা ফ্রান্সে ছয়তম সপ্তাহের প্রতিবাদ চিহ্নিত করে।",
+  "body_bn": [
+   "শনিবার রাতে, আল জাজিরা ইংরেজি রিপোর্ট করেছে যে ফরাসি পুলিশ দেশব্যাপী একাধিক শহরে সশস্ত্রভাবে হস্তক্ষেপ করে ভিড়কে ছড়িয়ে দেয়।",
+   "এই সংঘর্ষগুলো ফ্রান্সে ছয় ধারাবাহিক সপ্তাহের জনসমাবেশের চিহ্ন, যেখানে কর্তৃপক্ষ গুলিবর্ষণ ব্যবহার করে রাস্তা পরিষ্কার করতে এবং শৃঙ্খলা বজায় রাখতে চেয়েছে।",
+   "বিভিন্ন স্থানে প্রতিবাদকারীরা জমায়েত হয়, যা শনিবার পুলিশ হস্তক্ষেপের দিকে নিয়ে যায়; এটি ছয় সপ্তাহ ধরে চলমান রাতের সংঘর্ষের ধারাবাহিকতা।",
+   "রিপোর্ট অনুযায়ী, চলমান অশান্তি ফরাসি কর্তৃপক্ষের বড় পরিসরের পুনরাবৃত্তি প্রতিবাদ পরিচালনায় মুখোমুখি চ্যালেঞ্জগুলোকে তুলে ধরে।"
+  ],
+  "image_prompt": "A nighttime street scene in France with police barricades, flashing lights and protest crowds, no faces or logos",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+  "source_title": "Clashes erupt across France in another night of protest",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+    "title": "Clashes erupt across France in another night of protest"
+   }
+  ],
+  "published": "2026-11-22T00:37:32+00:00",
+  "added": "2026-11-22T01:28:17.849648+00:00",
+  "hidden": false
+ },
+ {
+  "id": "1453db92e2f8",
+  "headline": "Bahrain Condemns Iranian Strikes Targeting US Bases",
+  "summary": "চলমান আঞ্চলিক উত্তেজনার মধ্যে উপসাগরীয় দেশে মার্কিন সামরিক স্থাপনায় হামলার নিন্দা জানিয়েছে বাহরাইন।",
+  "body": [
+   "Bahrain has issued a condemnation against Iran following strikes directed at American military assets located within the Gulf nation, according to Al Jazeera English. The attacks come as ongoing regional instability persists, with Houthi strikes continuing to keep Saudi Arabia on edge."
+  ],
+  "headline_bn": "যুক্তরাষ্ট্রের ঘাঁটিতে ইরানি হামলার তীব্র নিন্দা বাহরাইনের",
+  "summary_bn": "",
+  "body_bn": [
+   "আল জাজিরা ইংরেজির তথ্য অনুযায়ী, উপসাগরীয় দেশের ভেতরে মার্কিন সামরিক সম্পদ লক্ষ্য করে ইরানের চালানো হামলার নিন্দা জানিয়েছে বাহরাইন। আঞ্চলিক অস্থিরতা অব্যাহত থাকার প্রেক্ষাপটে এই হামলাগুলো ঘটেছে, যেখানে হুতিদের হামলার কারণে সৌদি আরবও সতর্ক অবস্থায় রয়েছে।"
+  ],
+  "image_prompt": "Generic geopolitical news background showing a map of the Gulf region and a military base silhouette.",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+  "source_title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+    "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue"
+   }
+  ],
+  "published": "2026-11-21T23:59:03+00:00",
+  "added": "2026-11-22T01:28:53.924590+00:00",
+  "hidden": false
+ },
+ {
   "id": "4cc04d8d1c85",
   "headline": "Indian national sentenced to over 19 years for plot to kill Sikh separatist in US",
   "summary": "An Indian man received a prison term exceeding 19 years after being convicted of a murder plot against a Sikh separatist, according to Al Jazeera English.",
@@ -243,6 +453,44 @@
   "published": "2026-11-21T20:31:22+00:00",
   "added": "2026-11-21T21:18:57.741272+00:00",
   "hidden": false
+ },
+ {
+  "id": "efe791339806",
+  "headline": "Mexico captures top FBI fugitive ‘El Chapo Isidro’ after deadly firefight",
+  "summary": "Military forces seized Fausto Isidro Meza Flores in northern Mexico, killing 11 in the clash.",
+  "body": [
+   "According to France 24, Mexico’s military announced on Saturday that they had captured Fausto Isidro Meza Flores, also known as “El Chapo Isidro,” one of the FBI’s ten most‑wanted fugitives, in the country’s northwest region.",
+   "The operation turned into a violent confrontation in which seven suspected attackers and four soldiers were killed, bringing the death toll to eleven.",
+   "NPR World reported that the arrest has sparked further violence in the area, and the captured cartel leader was subsequently flown to Mexico City for processing."
+  ],
+  "headline_bn": "উত্তর-মেক্সিকোতে ‘এল চাপো ইসিদ্রো’ ধরা পড়া, ১১ জনের গুলিবর্ষণ",
+  "summary_bn": "সৈন্য বাহিনী ফাউস্টো ইসিদ্রো মেজা ফ্লোরেসকে গ্রেপ্তার করে, সংঘর্ষে ১১ জন নিহত",
+  "body_bn": [
+   "ফ্রান্স ২৪ অনুসারে, মেক্সিকোর সামরিক বাহিনী শনিবার ঘোষণা করেছে যে তারা ফাউস্টো ইসিদ্রো মেজা ফ্লোরেস, যাকে “এল চাপো ইসিদ্রো” নামেও পরিচিত, ফেডারেল ব্যুরো অফ ইনভেস্টিগেশনের দশজন সর্বাধিক বিচ্ছিন্ন অপরাধীর একজন, দেশের উত্তর‑পশ্চিমে গ্রেপ্তার করেছে।",
+   "অপারেশনটি একটি রক্তাক্ত গুলিবর্ষণে রূপ নেয়, যেখানে সাতজন সন্দেহভাজন আক্রমণকারী এবং চারজন সৈনিক নিহত হয়, মোট মৃত্যু সংখ্যা এগারো জনে পৌঁছায়।",
+   "এনপিআর ওয়ার্ল্ড জানায়, এই গ্রেপ্তার অঞ্চলটিতে অতিরিক্ত সহিংসতা সৃষ্টি করেছে, এবং ধরা পড়া কার্টেল নেতা পরে মেক্সিকো সিটিতে পরিবহন করা হয়।"
+  ],
+  "image_prompt": "illustration of a desert firefight in northern Mexico with military vehicles and a wanted poster, no faces, flags, logos",
+  "category": "World",
+  "source": "NPR World, France 24",
+  "source_url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+  "source_title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+  "sources": [
+   {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+    "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead"
+   },
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20261121-mexico-captures-drug-cartel-boss-el-chapo-isidro-after-deadly-firefight",
+    "title": "Mexico captures drug cartel boss ‘El Chapo Isidro’ after deadly firefight"
+   }
+  ],
+  "published": "2026-11-21T18:08:55+00:00",
+  "added": "2026-11-22T01:27:26.203223+00:00",
+  "hidden": false,
+  "image": "data/img/efe791339806.jpg"
  },
  {
   "id": "3a49e8fbc0df",
@@ -18222,102 +18470,6 @@
   "source_title": "একটি আক্ষেপ নিয়ে আন্তর্জাতিক ক্রিকেট ছাড়লেন ম্যাক্সওয়েল",
   "published": "2026-11-03T03:08:09+00:00",
   "added": "2026-11-03T04:33:16.373962+00:00",
-  "hidden": false
- },
- {
-  "id": "8b5bcac4a657",
-  "headline": "Trump Criticizes Democrats Ahead of US Midterm Elections",
-  "summary": "Ahead of the midterms, US President Donald Trump characterized Democratic candidates as the most extreme and dangerous in the nation's history. He additionally sought to lower expectations by asserting that incumbent presidents typically do not win these elections.",
-  "category": "Politics",
-  "source": "DW",
-  "source_url": "https://www.dw.com/en/us-trump-labels-democrats-dangerous-ahead-of-midterms/a-79834945?maca=en-rss-en-all-1573-rdf",
-  "source_title": "US: Trump labels Democrats 'dangerous' ahead of midterms",
-  "published": "2026-11-02T23:37:00+00:00",
-  "added": "2026-11-02T23:44:33.415281+00:00",
-  "hidden": false
- },
- {
-  "id": "00087368bb4f",
-  "headline": "Supreme Court declines Trump request to halt California ballots",
-  "summary": "The Supreme Court turned down an appeal from the Trump administration. The administration had sought to block over 20,000 ballots in California by arguing the list contains non-US citizens.",
-  "category": "Politics",
-  "source": "DW",
-  "source_url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf",
-  "source_title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
-  "published": "2026-11-02T23:18:00+00:00",
-  "added": "2026-11-02T23:45:07.047090+00:00",
-  "hidden": false
- },
- {
-  "id": "24c079a60f8b",
-  "headline": "Trump approval rating nears record low ahead of US midterms",
-  "summary": "A recent Reuters/Ipsos poll indicates that just 32 percent of voters support Donald Trump's job performance. This low rating comes immediately prior to the United States midterm elections.",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
-  "source_title": "Trump approval rating near record low on eve of US midterm elections: Poll",
-  "published": "2026-11-02T23:05:30+00:00",
-  "added": "2026-11-02T23:45:40.932675+00:00",
-  "hidden": false
- },
- {
-  "id": "af94d71ee5c8",
-  "headline": "Powerful tornado strikes southern Italian beach resort",
-  "summary": "Surveillance video recorded a strong tornado hitting a restaurant at a beach resort in Castellaneta Marina. The severe weather caused damage along Italy's southern coast.",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
-  "source_title": "Powerful storm tears through beach resort on Italy’s southern coast",
-  "published": "2026-11-02T22:59:41+00:00",
-  "added": "2026-11-02T23:46:14.648950+00:00",
-  "hidden": false
- },
- {
-  "id": "eb2207a14e5e",
-  "headline": "US midterms 2026: Polling insights on voter priorities",
-  "summary": "Recent polls indicate the main issues concerning American voters ahead of the 2026 US midterm elections. The surveys highlight key areas of agreement and disagreement between Democratic and Republican voters regarding the economy, cost of living, and immigration.",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
-  "source_title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
-  "published": "2026-11-02T22:40:06+00:00",
-  "added": "2026-11-02T23:46:48.367774+00:00",
-  "hidden": false
- },
- {
-  "id": "9a1277f14af4",
-  "headline": "Cyberattacks on Russian and Ukraine emergency systems spark trust concerns",
-  "summary": "Recent cyberattacks on emergency alert systems in Russia and Ukraine broadcast false nuclear strike warnings. Security experts note these incidents aim to erode public trust in government safety measures.",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
-  "source_title": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
-  "published": "2026-11-02T22:30:09+00:00",
-  "added": "2026-11-02T23:47:21.769637+00:00",
-  "hidden": false
- },
- {
-  "id": "9ad1e0497acd",
-  "headline": "Five Islamic practices taught for increasing income",
-  "summary": "Islamic teachings outline five daily practices intended to bring abundance and blessings to personal earnings. These tested methods are suggested for believers seeking financial improvement in everyday life.",
-  "category": "Culture",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/religion/islam/3qvhbrldf3",
-  "source_title": "আয়–উপার্জনে বরকত পেতে নবীজির শেখানো ৫ আমল",
-  "published": "2026-11-02T22:30:00+00:00",
-  "added": "2026-11-02T23:47:55.067497+00:00",
-  "hidden": false
- },
- {
-  "id": "c2f0f29e69ba",
-  "headline": "Netanyahu calls for grand national government as opponents meet",
-  "summary": "Israeli leader Benjamin Netanyahu has urged the formation of a broad national government. He noted that voters selected his Likud party as the largest group and chose him to lead the next administration. Meanwhile, opposition parties are scheduled to hold meetings.",
-  "category": "World",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/world/middle-east/odvw6ri9v6",
-  "source_title": "বৃহত্তর জাতীয় সরকার গঠনের আহ্বান নেতানিয়াহুর, আজ বৈঠকে বসছেন বিরোধীরা",
-  "published": "2026-11-02T22:29:46+00:00",
-  "added": "2026-11-02T23:48:28.828429+00:00",
   "hidden": false
  }
 ]
