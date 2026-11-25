@@ -1,5 +1,250 @@
 [
  {
+  "id": "353be2ca0bc0",
+  "headline": "Hack on CIA analysis system reveals unclassified data, reports France 24",
+  "summary": "A recent cyberattack on a CIA analysis platform exposed unclassified information, marking the latest in a wave of attacks on U.S. government agencies and corporations.",
+  "body": [
+   "A recent intrusion into a CIA analysis system has revealed unclassified material, according to France 24, which reported the breach on Tuesday. The hack was identified only days ago, and the exposed data has not been classified as sensitive, but its public disclosure highlights vulnerabilities in the agency’s digital infrastructure.",
+   "The incident follows a series of cyber attacks that have struck U.S. government departments and major corporations in recent weeks, underscoring a broader pattern of targeting critical American digital assets."
+  ],
+  "headline_bn": "সিআইএ বিশ্লেষণ সিস্টেমে হ্যাক, অপ্রকাশিত তথ্য ফাঁস, ফ্রান্স ২৪ রিপোর্ট",
+  "summary_bn": "সিআইএ বিশ্লেষণ প্ল্যাটফর্মে সাম্প্রতিক সাইবার আক্রমণ অপ্রকাশিত তথ্য প্রকাশ করেছে, যা যুক্তরাষ্ট্রের সরকারি সংস্থা ও কর্পোরেশনকে লক্ষ্য করা সাম্প্রতিক আক্রমণের ধারার অংশ।",
+  "body_bn": [
+   "ফ্রান্স ২৪ জানিয়েছে, সিআইএ বিশ্লেষণ সিস্টেমে সম্প্রতি সনাক্ত করা একটি হ্যাক অপ্রকাশিত তথ্য ফাঁস করেছে। হ্যাকটি মঙ্গলবার প্রকাশিত হয় এবং ডেটা সংবেদনশীল না হলেও প্রকাশের মাধ্যমে এজেন্সির ডিজিটাল নিরাপত্তায় দুর্বলতা প্রকাশ পেয়েছে।",
+   "এই ঘটনা সাম্প্রতিক সপ্তাহে যুক্তরাষ্ট্রের সরকারি বিভাগ ও বড় কোম্পানিগুলোকে লক্ষ্য করা একাধিক সাইবার আক্রমণের ধারার অংশ, যা গুরুত্বপূর্ণ ডিজিটাল সম্পদকে ঝুঁকিতে ফেলছে।"
+  ],
+  "image_prompt": "Illustration of a digital network with red warning symbols and scrolling code representing a cyberattack on a government computer system",
+  "category": "Technology",
+  "source": "France 24",
+  "source_url": "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
+  "source_title": "Cyberattack exposes unclassified information from CIA system, US media reports",
+  "sources": [
+   {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
+    "title": "Cyberattack exposes unclassified information from CIA system, US media reports"
+   }
+  ],
+  "published": "2026-11-25T10:48:10+00:00",
+  "added": "2026-11-25T10:52:36.855125+00:00",
+  "hidden": false
+ },
+ {
+  "id": "93cead74a150",
+  "headline": "DW fact-check: AI deepfakes and US withdrawal claims circulate before Taiwan local elections",
+  "summary": "DW reports a rise in AI‑generated deepfakes targeting DPP mayoral hopeful Puma Shen and false claims that the United States is abandoning Taiwan ahead of the vote.",
+  "body": [
+   "DW notes that, ahead of Taiwan's local elections, AI‑generated falsehoods have increased against Democratic Progressive Party mayoral candidate Puma Shen.",
+   "The outlet also highlights disinformation circulating online that the United States is pulling back its support for the island."
+  ],
+  "headline_bn": "DW ফ্যাক্ট-চেক: তাইওয়ানের স্থানীয় নির্বাচনের আগে এআই ডিপফেক ও যুক্তরাষ্ট্রের ত্যাগের মিথ্যা ছড়াচ্ছে",
+  "summary_bn": "DW জানায়, পুমা শেনের বিরুদ্ধে এআই ডিপফেক বাড়ছে এবং যুক্তরাষ্ট্রের ত্যাগের মিথ্যা তথ্য ছড়াচ্ছে",
+  "body_bn": [
+   "DW অনুসারে, তাইওয়ানের স্থানীয় নির্বাচনের আগে ডেমোক্র্যাটিক প্রোগ্রেসিভ পার্টির মেয়র প্রার্থী পুমা শেনকে লক্ষ্য করে এআই‑উৎপন্ন ডিপফেকের সংখ্যা বাড়ছে।",
+   "একই সময়ে, যুক্তরাষ্ট্রের তাইওয়ানের প্রতি সমর্থন প্রত্যাহার করার মিথ্যা দাবি সামাজিক মাধ্যমে ছড়িয়ে পড়ছে।"
+  ],
+  "image_prompt": "Illustration showing digital deepfake icons and a stylized map of Taiwan with election symbols, no faces or logos",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-all-1573-rdf",
+    "title": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote"
+   }
+  ],
+  "published": "2026-11-25T10:35:00+00:00",
+  "added": "2026-11-25T10:52:44.513107+00:00",
+  "hidden": false
+ },
+ {
+  "id": "ddd665079218",
+  "headline": "Houthis claim fresh attacks on Saudi refinery and Riyadh financial district",
+  "summary": "DW reports Iran-backed Yemeni Houthis said they set fire to Ras Tanura refinery and struck Riyadh’s financial district for a second time this week.",
+  "body": [
+   "According to DW, Iran-backed Yemeni Houthis said they carried out fresh retaliatory attacks in Saudi Arabia. They reported a fire at the Ras Tanura oil refinery. The attacks were described by the Houthis as retaliatory.",
+   "The group also said it hit Riyadh’s financial district, marking the second strike on that area within a week. The statements came after earlier strikes on the same financial district earlier in the week. The statements were made by the Houthis, who have been engaged in cross‑border operations against Saudi targets."
+  ],
+  "headline_bn": "হৌতি গোষ্ঠী দাবি করেছে সৌদি রিফাইনারি ও রিয়াদ আর্থিক জেলা লক্ষ্যবস্তুতে নতুন আক্রমণ",
+  "summary_bn": "DW অনুযায়ী, ইরান সমর্থিত ইয়েমেনি হৌতি গোষ্ঠী রাস তানুরা তেল রিফাইনারিতে অগ্নিকাণ্ড এবং রিয়াদের আর্থিক জেলায় দ্বিতীয়বার আক্রমণ ঘটিয়েছে।",
+  "body_bn": [
+   "DW রিপোর্টে বলা হয়েছে, ইরান-সমর্থিত ইয়েমেনি হৌতি গোষ্ঠী সৌদিতে নতুন প্রতিশোধমূলক আক্রমণ চালিয়েছে। তারা রাস তানুরা তেল রিফাইনারিতে অগ্নিকাণ্ড ঘটার কথা জানিয়েছে। হৌতি গোষ্ঠী এই আক্রমণগুলোকে প্রতিশোধ হিসেবে বর্ণনা করেছে।",
+   "গোষ্ঠী রিয়াদের আর্থিক জেলায় আক্রমণ চালিয়ে একই সপ্তাহে দ্বিতীয়বার এই এলাকায় আঘাত হানে। একই আর্থিক জেলায় পূর্বে আক্রমণ হওয়ার পর এই বিবৃতি প্রকাশ পেয়েছে। হৌতি গোষ্ঠী ক্রস-বর্ডার অপারেশনে যুক্ত এবং সৌদি লক্ষ্যবস্তুতে নিয়মিত আক্রমণ চালিয়ে যাচ্ছে।"
+  ],
+  "image_prompt": "illustration of a burning oil refinery and a city financial district skyline with smoke, representing attacks in Saudi Arabia",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Houthis claim attacks on Saudi refinery, financial district",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-all-1573-rdf",
+    "title": "Houthis claim attacks on Saudi refinery, financial district"
+   }
+  ],
+  "published": "2026-11-25T10:35:00+00:00",
+  "added": "2026-11-25T10:52:53.611076+00:00",
+  "hidden": false
+ },
+ {
+  "id": "94ff8296e797",
+  "headline": "Garment Workers' Wages Adjusted Across Grades, Reports Prothom Alo",
+  "summary": "Prothom Alo reports that wage rates for garment workers have been revised, with varying increases across employee grades.",
+  "body": [
+   "Prothom Alo published a report on wage revisions for garment sector employees, indicating that the pay scale has been updated.",
+   "The changes affect workers in different grade categories, each receiving a distinct increase, reflecting an effort to align compensation with industry standards.",
+   "According to the outlet, the revision applies across all grades, from entry‑level positions to senior roles, with each grade receiving a tailored raise.",
+   "The article does not disclose the exact amounts of increase for each grade, leaving the precise figures undisclosed."
+  ],
+  "headline_bn": "গার্মেন্ট শ্রমিকদের মজুরি গ্রেড অনুযায়ী বাড়ানো, প্রথম আলো রিপোর্ট",
+  "summary_bn": "প্রথম আলো জানিয়েছে গার্মেন্ট শ্রমিকদের বেতন পুনর্বিবেচনা করা হয়েছে, বিভিন্ন গ্রেডে ভিন্ন বৃদ্ধি পেয়েছে।",
+  "body_bn": [
+   "প্রথম আলো গার্মেন্ট সেক্টরের শ্রমিকদের বেতন সংশোধন সম্পর্কিত একটি প্রতিবেদন প্রকাশ করেছে, যেখানে বেতন কাঠামো আপডেট করা হয়েছে বলে জানানো হয়েছে।",
+   "এই পরিবর্তনগুলো বিভিন্ন গ্রেডের শ্রমিকদের প্রভাবিত করে, প্রতিটি গ্রেডে ভিন্ন বৃদ্ধি পেয়েছে, যা শিল্প মানদণ্ডের সঙ্গে বেতন সামঞ্জস্য করার প্রচেষ্টাকে প্রতিফলিত করে।",
+   "আউটলেটের মতে, এই সংশোধন সব গ্রেডে প্রযোজ্য, নবীন থেকে সিনিয়র পদ পর্যন্ত, প্রতিটি গ্রেডকে তার নিজস্ব বৃদ্ধি প্রদান করা হয়েছে।",
+   "প্রতিবেদনটি প্রতিটি গ্রেডের নির্দিষ্ট বৃদ্ধির পরিমাণ প্রকাশ করেনি, ফলে সুনির্দিষ্ট সংখ্যা অজানা রয়ে গেছে।"
+  ],
+  "image_prompt": "Illustration of a garment factory interior with workers and a chart showing wage increases, no identifiable faces",
+  "category": "Business",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/business/industry/poshaakshrmikder-mjuri-kon-gredde-kt-baadd-l",
+  "source_title": "পোশাকশ্রমিকদের মজুরি: কোন গ্রেডে কত বাড়ল",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/business/industry/poshaakshrmikder-mjuri-kon-gredde-kt-baadd-l",
+    "title": "পোশাকশ্রমিকদের মজুরি: কোন গ্রেডে কত বাড়ল"
+   }
+  ],
+  "published": "2026-11-25T10:28:35+00:00",
+  "added": "2026-11-25T10:53:03.137586+00:00",
+  "hidden": false
+ },
+ {
+  "id": "ee2e81c9abc1",
+  "headline": "PM advisor Mahdi Amin announces new garment workers' minimum wage on Facebook",
+  "summary": "Mahdi Amin said the new minimum wage for garment workers matches fair expectations, posting the comment on his verified Facebook page.",
+  "body": [
+   "Prime Minister's labour and employment adviser Mahdi Amin used his verified Facebook page to share his view on the minimum wage for garment workers. In the post, he stated that a new wage structure has been set that aligns with fair expectations. The statement was reported by Prothom Alo, which noted the advisor’s comment was made today. No additional details about the wage amount or implementation timeline were provided."
+  ],
+  "headline_bn": "প্রধানমন্ত্রীর শ্রম উপদেষ্টা মাহদী আমিন গার্মেন্ট শ্রমিকদের নতুন ন্যূনতম মজুরি ঘোষণা",
+  "summary_bn": "মাহদী আমিনের ফেসবুক পোস্টে বলা হয়েছে, গার্মেন্ট শ্রমিকদের নতুন ন্যূনতম মজুরি ন্যায্য প্রত্যাশার সঙ্গে সঙ্গতিপূর্ণ।",
+  "body_bn": [
+   "প্রধানমন্ত্রীর শ্রম ও কর্মসংস্থান উপদেষ্টা মাহদী আমিন আজ তার ভেরিফায়েড ফেসবুক পেজে গার্মেন্ট শ্রমিকদের ন্যূনতম মজুরি সম্পর্কে মতামত প্রকাশ করেছেন। পোস্টে তিনি জানিয়েছেন, নতুন মজুরিকাঠামো ন্যায্য প্রত্যাশার সঙ্গে সংগতিপূর্ণ হয়েছে। এই তথ্য প্রথম আলোতে প্রকাশিত হয়েছে, যেখানে উল্লেখ করা হয়েছে যে আজ উপদেষ্টা এই মন্তব্য করেছেন। মজুরির পরিমাণ বা বাস্তবায়নের সময়সূচি সম্পর্কে অতিরিক্ত কোনো তথ্য দেওয়া হয়নি।"
+  ],
+  "image_prompt": "illustration of a garment factory with workers and a wage document, neutral colors, no faces or logos",
+  "category": "Business",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/business/analysis/rjpncdwh1o",
+  "source_title": "ন্যায্য প্রত্যাশার সঙ্গে সংগতিপূর্ণ নতুন মজুরিকাঠামো নির্ধারণ হয়েছে: মাহদী আমিন",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/business/analysis/rjpncdwh1o",
+    "title": "ন্যায্য প্রত্যাশার সঙ্গে সংগতিপূর্ণ নতুন মজুরিকাঠামো নির্ধারণ হয়েছে: মাহদী আমিন"
+   }
+  ],
+  "published": "2026-11-25T10:26:39+00:00",
+  "added": "2026-11-25T10:53:11.725357+00:00",
+  "hidden": false
+ },
+ {
+  "id": "b524645b4669",
+  "headline": "Deepan Stands Before Rusted Gate Wrapped in Dry Bogenveller Branches",
+  "summary": "Prothom Alo reports Deepan encountered a rusted iron gate tangled with dry bogenveller branches, appearing untouched for days.",
+  "body": [
+   "According to Prothom Alo, Deepan crossed the road and came to a stop in front of a rusted iron gate. The gate, described as corroded, formed the focal point of his brief observation.",
+   "The report adds that from one side, dry branches of a bogenveller plant have wrapped around the gate in a manner suggesting that the structure has not been touched for an extended period."
+  ],
+  "headline_bn": "দীপন দাঁড়াল মরচে ধরা গেটের সামনে, বোগেনভেলিয়ার শুষ্ক ডালপালা জড়িয়ে",
+  "summary_bn": "প্রথম আলো জানায়, দীপন রাস্তা পার হয়ে মরচে গেটের সামনে দাঁড়িয়ে দেখলেন শুষ্ক ডালপালা দিয়ে জড়িয়ে থাকা গেট।",
+  "body_bn": [
+   "প্রথম আলো অনুযায়ী, দীপন রাস্তা পার হয়ে মরচে ধরা লোহার গেটের সামনে এসে থেমে ছিলেন। গেটটি ক্ষয়প্রাপ্ত এবং তার উপস্থিতি তার নজর কেড়েছে।",
+   "রিপোর্টে উল্লেখ করা হয়েছে যে গেটের এক পাশে বোগেনভেলিয়ার শুষ্ক ডালপালা জড়িয়ে রয়েছে, যেন বহুদিন কেউ সেটি স্পর্শ করেনি।"
+  ],
+  "image_prompt": "illustration of a rusted iron gate overgrown with dry branches on an empty street, no people, no flags, no logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.kishoralo.com/golpo/vmjsglo5zh",
+  "source_title": "ডিউক জনের ভৌতিক গল্প—ফেরা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.kishoralo.com/golpo/vmjsglo5zh",
+    "title": "ডিউক জনের ভৌতিক গল্প—ফেরা"
+   }
+  ],
+  "published": "2026-11-25T10:25:52+00:00",
+  "added": "2026-11-25T10:53:19.097854+00:00",
+  "hidden": false
+ },
+ {
+  "id": "3201e17eb16c",
+  "headline": "BGB Boosts Night Patrols in Satkhira’s Wire‑Free Border Zone",
+  "summary": "BGB has intensified night surveillance in Satkhira’s border area using extra troops, boat patrols and modern technology to curb illegal entry and smuggling.",
+  "body": [
+   "According to Prothom Alo, the Bangladesh Border Guard (BGB) has increased its night patrols in a border sector of Satkhira that lacks barbed wire fencing. The move aims to strengthen monitoring of the area.",
+   "The agency has deployed additional personnel, introduced boat patrols and employed modern surveillance technology to prevent illegal crossings and smuggling activities, officials said. The enhanced presence is intended to deter both unauthorized entry and the transport of contraband across the frontier. Officials noted that the combination of manpower, waterborne units and technology represents a coordinated effort to secure the border."
+  ],
+  "headline_bn": "সাতক্ষীরার কাঁটাতারহীন সীমান্তে বি.জি.বি. বাড়িয়েছে রাতের টহল",
+  "summary_bn": "সাতক্ষীরার সীমান্তে অবৈধ অনুপ্রবেশ ও চোরাচালান রোধে অতিরিক্ত জনবল, নৌটহল ও আধুনিক প্রযুক্তি ব্যবহার করে বি.জি.বি. টহল বাড়িয়েছে।",
+  "body_bn": [
+   "প্রথম আলোর প্রতিবেদনে বলা হয়েছে, বাংলাদেশ সীমানা গার্ড (বিজিবি) সাতক্ষীরার কাঁটাতারহীন সীমান্তে রাতের টহল বাড়িয়েছে। এই পদক্ষেপটি এলাকায় নজরদারি শক্তিশালী করার উদ্দেশ্যে নেওয়া হয়েছে।",
+   "এ জন্য অতিরিক্ত জনবল মোতায়েন করা হয়েছে, নৌটহল চালু করা হয়েছে এবং আধুনিক নজরদারি প্রযুক্তি ব্যবহার করা হয়েছে, যাতে অবৈধ অনুপ্রবেশ ও চোরাচালান রোধ করা যায়।",
+   "কর্মকর্তারা জানান, জনবল, নৌটহল এবং প্রযুক্তির সমন্বয় সীমান্তে অননুমোদিত প্রবেশ ও অবৈধ পণ্য পরিবহনকে নিরুৎসাহিত করবে।"
+  ],
+  "image_prompt": "border patrol scene at night with boats, surveillance drones and equipment, no people faces, flags or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/gf9z1mzn1d",
+  "source_title": "সাতক্ষীরার কাঁটাতারহীন এলাকায় রাতে টহল বাড়িয়েছে বিজিবি",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/gf9z1mzn1d",
+    "title": "সাতক্ষীরার কাঁটাতারহীন এলাকায় রাতে টহল বাড়িয়েছে বিজিবি"
+   }
+  ],
+  "published": "2026-11-25T10:25:00+00:00",
+  "added": "2026-11-25T10:53:28.405928+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4699b427d721",
+  "headline": "Senior students scare peer with spider, she hospitalized",
+  "summary": "Three senior students locked a room and placed a spider near a junior's feet, causing her to scream, fall ill and be taken to hospital, Prothom Alo reports.",
+  "body": [
+   "According to Prothom Alo, three senior university students entered a classroom, shut the door and deliberately placed a spider at the feet of a junior female student. The act was intended as a prank.",
+   "The sudden sight of the spider caused the student to scream in fear. She subsequently felt unwell, and medical staff admitted her to a hospital for observation and care, the report says.",
+   "The incident was reported by the news outlet Prothom Alo, highlighting concerns about student behavior on campuses."
+  ],
+  "headline_bn": "সিনিয়র ছাত্রদের মাকড়সা চালনা, বিশ্ববিদ্যালয়ের ছাত্রী হাসপাতালে",
+  "summary_bn": "তিনজন সিনিয়র শিক্ষার্থী দরজা বন্ধ করে ছাত্রীয়ের পায়ের কাছে মাকড়সা রাখেন; ছাত্রী চিৎকার করে ভয়ে অসুস্থ হয়ে হাসপাতালে ভর্তি হয়।",
+  "body_bn": [
+   "প্রথম আলো অনুসারে, তিনজন সিনিয়র বিশ্ববিদ্যালয় শিক্ষার্থী একটি ক্লাসরুমে প্রবেশ করে দরজা বন্ধ করেন এবং ছাত্রীয়ের পায়ের কাছে একটি মাকড়সা রাখেন।",
+   "মাকড়সা দেখেই ছাত্রী চিৎকার করে ভয়ে অসুস্থ হয়ে পড়ে; পরে তাকে হাসপাতালে ভর্তি করা হয় পর্যবেক্ষণ ও চিকিৎসার জন্য, প্রতিবেদনে উল্লেখ আছে।",
+   "এই ঘটনা শিক্ষার্থীদের মধ্যে এমন ধরনের প্র্যাঙ্কের উপযুক্ততা নিয়ে প্রশ্ন তুলেছে, যদিও প্রতিবেদনে অতিরিক্ত কোনো বিশদ দেওয়া হয়নি।"
+  ],
+  "image_prompt": "a dim university hallway with a closed door and a spider on the floor, no people visible",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/d12pjkq7xc",
+  "source_title": "কক্ষে মাকড়সা ছেড়ে দরজা বন্ধ করে দেন সিনিয়ররা, অসুস্থ হয়ে হাসপাতালে বিশ্ববিদ্যালয়ের ছাত্রী",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/d12pjkq7xc",
+    "title": "কক্ষে মাকড়সা ছেড়ে দরজা বন্ধ করে দেন সিনিয়ররা, অসুস্থ হয়ে হাসপাতালে বিশ্ববিদ্যালয়ের ছাত্রী"
+   }
+  ],
+  "published": "2026-11-25T10:12:01+00:00",
+  "added": "2026-11-25T10:54:46.218635+00:00",
+  "hidden": false
+ },
+ {
   "id": "ecc097be75c1",
   "headline": "Israel's Eisenkot Gains First Coalition Partner as Yashar Party Signs Pact with Our Home",
   "summary": "According to Al Jazeera English, the Yashar party has agreed to a coalition pact with Avigdor Lieberman's Our Home party, giving Prime Minister candidate Eisenkot a partner.",
@@ -18369,253 +18614,6 @@
   ],
   "published": "2026-11-05T00:00:00+00:00",
   "added": "2026-11-05T01:33:58.556340+00:00",
-  "hidden": false
- },
- {
-  "id": "024cb93509f4",
-  "headline": "Democratic Leaders Celebrate Midterm Victory",
-  "summary": "Top Democrats in both houses of Congress praised the party's decisive win in the recent midterm elections, according to Al Jazeera English.",
-  "body": [
-   "Democratic leaders in both the House of Representatives and the Senate have publicly praised their party's performance in the recent midterm elections. The leaders described the outcome as a resounding victory for the Democrats, emphasizing the significance of the results for the party's legislative agenda.",
-   "According to Al Jazeera English, the celebration reflects the party's confidence heading into the next congressional session, with leaders highlighting broad voter support and signaling readiness to advance key policy priorities."
-  ],
-  "headline_bn": "ডেমোক্র্যাট নেতারা মধ্যমেয়াদি জয় উদযাপন",
-  "summary_bn": "অ্যাল জাজিরা ইংরেজি অনুযায়ী, কংগ্রেসের উভয় চেম্বারে শীর্ষ ডেমোক্র্যাটরা পার্টির বিজয়কে প্রশংসা করেছেন।",
-  "body_bn": [
-   "হাউস অফ রিপ্রেজেন্টেটিভস ও সেনেটে শীর্ষ ডেমোক্র্যাট নেতারা সাম্প্রতিক মধ্যমেয়াদি নির্বাচনে পার্টির পারফরম্যান্সকে প্রশংসা করেছেন। তারা ফলাফলকে ডেমোক্র্যাটদের জন্য একটি বিশাল জয় হিসেবে বর্ণনা করেছেন এবং এটি পার্টির আইনসভার এজেন্ডার জন্য গুরুত্বপূর্ণ বলে উল্লেখ করেছেন।",
-   "অ্যাল জাজিরা ইংরেজি জানায়, এই উদযাপন পার্টির আত্মবিশ্বাসকে প্রতিফলিত করে এবং পরবর্তী সেশনে মূল নীতি অগ্রাধিকার বাস্তবায়নের প্রস্তুতি নির্দেশ করে।"
-  ],
-  "image_prompt": "Illustration of the US Capitol with celebratory symbols and Democratic motifs, no faces or logos",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
-  "source_title": "Democrat leaders hail midterm election success",
-  "sources": [
-   {
-    "name": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
-    "title": "Democrat leaders hail midterm election success"
-   }
-  ],
-  "published": "2026-11-04T20:50:31+00:00",
-  "added": "2026-11-04T21:00:33.792539+00:00",
-  "hidden": false,
-  "image": "data/img/024cb93509f4.jpg"
- },
- {
-  "id": "588402d59d7b",
-  "headline": "Ukraine raises death toll from Zaporizhia strike to 40",
-  "summary": "At least 40 killed and dozens possibly trapped as rescue continues amid drone interference.",
-  "body": [
-   "According to Al Jazeera English, Ukraine has increased the death toll from a Russian strike on the Zaporizhia region to 40 people. The attack hit the settlement of Komyshuvakha, leaving many casualties.",
-   "Rescue teams continue to search for survivors, but drones operated by Russian forces have disrupted their work. Officials say dozens may still be buried under the rubble.",
-   "The increased death toll underscores the severity of the strike and the challenges faced by emergency responders in the conflict zone."
-  ],
-  "headline_bn": "ইউক্রেন জাপোরিজিয়া হামলায় মৃত সংখ্যা ৪০-এ বাড়িয়ে দিল",
-  "summary_bn": "দশকোটি মানুষ সম্ভবত ধ্বংসাবশেষে আটকে, ড্রোনের বাধা সত্ত্বেও উদ্ধার কাজ চলছে।",
-  "body_bn": [
-   "আল জাজিরা ইংরেজি অনুসারে, ইউক্রেন জাপোরিজিয়া অঞ্চলে রাশিয়ার আক্রমণের ফলে মৃত সংখ্যা ৪০-এ বাড়িয়ে দিয়েছে। এই হামলা কোমিশুভাখা গ্রামকে লক্ষ্য করে, যেখানে বহু প্রাণহানি ঘটেছে।",
-   "উদ্ধার দল এখনও বেঁচে থাকা লোকদের সন্ধানে কাজ চালিয়ে যাচ্ছে, তবে রাশিয়ান ড্রোনের হস্তক্ষেপে তাদের কাজ বাধাপ্রাপ্ত হচ্ছে। কর্মকর্তারা জানান, ধ্বংসাবশেষের নিচে এখনও কয়েকজন আটকে থাকতে পারেন।",
-   "মৃত্যের সংখ্যা বৃদ্ধি এই আক্রমণের তীব্রতা এবং সংঘর্ষপূর্ণ অঞ্চলে জরুরি সেবাদাতাদের মুখোমুখি চ্যালেঞ্জকে তুলে ধরছে।"
-  ],
-  "image_prompt": "illustration of collapsed building with rescue workers and hovering drones in a war zone",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-  "source_title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-  "sources": [
-   {
-    "name": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-    "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people"
-   }
-  ],
-  "published": "2026-11-04T20:31:56+00:00",
-  "added": "2026-11-04T21:00:42.285006+00:00",
-  "hidden": false
- },
- {
-  "id": "8db21a1017e0",
-  "headline": "US Midterms See Democrats Take Congress as Trump‑backed Republicans Lose",
-  "summary": "DW reports that Trump’s Republicans were soundly defeated while Democrats gained control of Congress.",
-  "body": [
-   "According to DW, the Tuesday midterm elections delivered a crushing defeat for the Republican candidates aligned with former President Donald Trump. The vote shifted control of both the House of Representatives and the Senate to the Democratic Party.",
-   "The change gives Democrats a majority in Congress, a development that could influence legislative priorities and the United States’ role on the global stage, as highlighted by the outlet.",
-   "Observers note that the new balance of power may affect upcoming policy debates and international cooperation, reflecting the broader significance of the election results."
-  ],
-  "headline_bn": "মিডটার্মে ডেমোক্র্যাটস কংগ্রেস দখল, ট্রাম্পের রিপাবলিকানদের বড় পরাজয়",
-  "summary_bn": "DW জানিয়েছে, ট্রাম্পের রিপাবলিকানরা তীব্র পরাজয় মুখোমুখি, আর ডেমোক্র্যাটস কংগ্রেসের নিয়ন্ত্রণ নেয়।",
-  "body_bn": [
-   "DW অনুযায়ী, মঙ্গলবারের মিডটার্ম নির্বাচনগুলোতে ডোনাল্ড ট্রাম্পের সমর্থক রিপাবলিকানদের একটি বিশাল পরাজয় ঘটেছে। ভোটের ফলাফল হাউস ও সেনেট উভয়ই ডেমোক্র্যাটিক পার্টির হাতে চলে যায়।",
-   "এই পরিবর্তন ডেমোক্র্যাটদের কংগ্রেসে সংখ্যাগরিষ্ঠতা দেয়, যা আইনসভার অগ্রাধিকার এবং যুক্তরাষ্ট্রের আন্তর্জাতিক ভূমিকা প্রভাবিত করতে পারে, outlet উল্লেখ করেছে।",
-   "বিশ্লেষকরা বলেন, নতুন ক্ষমতার ভারসাম্য নীতি আলোচনা এবং আন্তর্জাতিক সহযোগিতার ওপর প্রভাব ফেলতে পারে, যা নির্বাচনের বিস্তৃত গুরুত্বকে তুলে ধরে।"
-  ],
-  "image_prompt": "illustration of a ballot box with abstract voting symbols and US colors, representing a midterm election",
-  "category": "Politics",
-  "source": "DW",
-  "source_url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-all-1573-rdf",
-  "source_title": "Winners, losers, the EU: Five takeaways from the US midterms",
-  "sources": [
-   {
-    "name": "DW",
-    "url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-all-1573-rdf",
-    "title": "Winners, losers, the EU: Five takeaways from the US midterms"
-   }
-  ],
-  "published": "2026-11-04T20:27:00+00:00",
-  "added": "2026-11-04T21:00:52.422445+00:00",
-  "hidden": false
- },
- {
-  "id": "eaa6b52280c8",
-  "headline": "Tehran Announces Maximum Deterrence Plan Amid US Attack Speculation",
-  "summary": "Tehran says it is prepared with a maximum deterrence plan as US attack possibilities are discussed.",
-  "body": [
-   "According to Al Jazeera English, speculation about a possible resumption of US attacks on Iran has prompted Tehran to declare readiness. The Iranian capital stated it has a \"maximum deterrence plan\" prepared to respond.",
-   "The statement underscores heightened tensions between the United States and Iran, though no specific details of the plan were disclosed. Observers note that such declarations aim to signal deterrence and influence diplomatic calculations."
-  ],
-  "headline_bn": "ইরানের তেহরান সর্বোচ্চ নিরুৎসাহ পরিকল্পনা ঘোষণা, যুক্তরাষ্ট্রের আক্রমণ সম্ভাবনা নিয়ে আলোচনা",
-  "summary_bn": "ইরান সর্বোচ্চ নিরুৎসাহ পরিকল্পনা প্রস্তুত রয়েছে, যুক্তরাষ্ট্রের আক্রমণ সম্ভাবনা বাড়ার পরিপ্রেক্ষিতে।",
-  "body_bn": [
-   "আল জাজিরা ইংরেজি অনুসারে, যুক্তরাষ্ট্রের ইরানের উপর পুনরায় আক্রমণ করতে পারে এমন অনুমানের ফলে তেহরান প্রস্তুতির কথা জানিয়েছে। ইরানের রাজধানী বলেছে যে সে \"সর্বোচ্চ নিরুৎসাহ পরিকল্পনা\" প্রস্তুত রেখেছে।",
-   "এই ঘোষণাটি যুক্তরাষ্ট্র ও ইরানের মধ্যে বাড়তি উত্তেজনা নির্দেশ করে, যদিও পরিকল্পনার কোনো বিশদ প্রকাশ করা হয়নি। বিশ্লেষকরা উল্লেখ করেন, এমন ঘোষণা নিরুৎসাহের সংকেত দিতে এবং কূটনৈতিক গণনা প্রভাবিত করতে পারে।"
-  ],
-  "image_prompt": "illustration of abstract map showing US and Iran with warning symbols and a shield representing deterrence",
-  "category": "World",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-  "source_title": "Will the US resume its attacks on Iran?",
-  "sources": [
-   {
-    "name": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-    "title": "Will the US resume its attacks on Iran?"
-   }
-  ],
-  "published": "2026-11-04T20:25:50+00:00",
-  "added": "2026-11-04T21:01:01.119710+00:00",
-  "hidden": false
- },
- {
-  "id": "592077daafce",
-  "headline": "Detective Branch arrests Iqbal Sobhan, releases Rajib Ghosh in July murder case",
-  "summary": "According to Prothom Alo, the Detective Branch detained former channel chairman Iqbal Sobhan Chowdhury and special representative Rajib Ghosh, later releasing Ghosh at midnight.",
-  "body": [
-   "The Detective Branch seized former channel chairman and Prime Minister Sheikh Hasina’s information adviser Iqbal Sobhan Chowdhury along with special representative Rajib Ghosh from the DB office in Mahakhali in the afternoon, linking them to a July murder investigation.",
-   "Sobhan remains in custody on the murder charge, while Ghosh was released at midnight, as reported by Prothom Alo."
-  ],
-  "headline_bn": "ডিটেকটিভ শাখা ইকবাল সোবহানকে গ্রেপ্তার, রাজীব ঘোষকে মধ্যরাতে মুক্তি",
-  "summary_bn": "প্রথম আলো অনুযায়ী, ডিটেকটিভ শাখা চ্যানেলের প্রাক্তন চেয়ারম্যান ইকবাল সোবহান চৌধুরী ও বিশেষ প্রতিনিধি রাজীব ঘোষকে গ্রেপ্তার করে, পরে ঘোষকে মধ্যরাতে ছেড়ে দেয়।",
-  "body_bn": [
-   "ডিটেকটিভ শাখা ঢাকা শহরের মহাখালীর অফিস থেকে দুপুরে চ্যানেলের প্রাক্তন চেয়ারম্যান, প্রধানমন্ত্রী শেখ হাসিনার তথ্য উপদেষ্টা ইকবাল সোবহান চৌধুরীকে এবং বিশেষ প্রতিনিধি রাজীব ঘোষকে আটক করে।",
-   "ইকবাল সোবহানকে জুলাইয়ের হত্যার মামলায় গ্রেপ্তার করা হয়, আর রাজীব ঘোষকে মধ্যরাতে ছেড়ে দেওয়া হয়।"
-  ],
-  "image_prompt": "Illustration of police officers in uniform detaining two figures outside an office building, with a night scene showing one released at midnight",
-  "category": "Politics",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/bangladesh/bbqyoqtqo0",
-  "source_title": "মধ্যরাতে ছেড়ে দেওয়া হলো রাজীব ঘোষকে, ইকবাল সোবহান জুলাইয়ের হত্যা মামলায় গ্রেপ্তার",
-  "sources": [
-   {
-    "name": "Prothom Alo",
-    "url": "https://www.prothomalo.com/bangladesh/bbqyoqtqo0",
-    "title": "মধ্যরাতে ছেড়ে দেওয়া হলো রাজীব ঘোষকে, ইকবাল সোবহান জুলাইয়ের হত্যা মামলায় গ্রেপ্তার"
-   }
-  ],
-  "published": "2026-11-04T20:06:53+00:00",
-  "added": "2026-11-04T21:01:09.928218+00:00",
-  "hidden": false
- },
- {
-  "id": "75ac0d7674c0",
-  "headline": "Prothom Alo office in Dhaka welcomed flowers, cake and goodwill messages",
-  "summary": "The newspaper’s Karwan Bazar headquarters received floral arrangements, sweets and congratulatory notes.",
-  "body": [
-   "Prothom Alo reported that its main office in Karwan Bazar, the capital city, was visited by well-wishers who presented flowers, cake and sweets along with messages of goodwill.",
-   "The gestures were described as expressions of positive sentiment toward the newspaper, with the items displayed at the office entrance. No further details were provided.",
-   "The event reflects the support the publication enjoys among its readers and colleagues, according to the outlet's own coverage."
-  ],
-  "headline_bn": "প্রথম আলোর কারওয়ান বাজার অফিসে ফুল, কেক ও শুভেচ্ছা বার্তা",
-  "summary_bn": "অফিসে ফুলের সাজসজ্জা, মিষ্টি ও শুভেচ্ছা নোট রাখা হয়েছে।",
-  "body_bn": [
-   "প্রথম আলো জানিয়েছে, রাজধানীর কারওয়ান বাজারে প্রধান কার্যালয়ে শুভাকাঙ্ক্ষীরা ফুল, কেক ও মিষ্টি সহ শুভেচ্ছা বার্তা উপস্থাপন করেছেন।",
-   "এই উপহারগুলোকে প্রকাশনা সংস্থার প্রতি ইতিবাচক অনুভূতির প্রকাশ হিসেবে উল্লেখ করা হয়েছে, এবং সেগুলো অফিসের প্রবেশদ্বারে সাজিয়ে রাখা হয়েছে।",
-   "প্রতিবেদন অনুযায়ী, এই অনুষ্ঠানটি পাঠক ও সহকর্মীদের সমর্থনকে প্রতিফলিত করে।"
-  ],
-  "image_prompt": "illustration of a newspaper office interior with flowers, a cake, sweets and greeting cards on a desk",
-  "category": "World",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/bangladesh/fvahxheplx",
-  "source_title": "শুভাকাঙ্ক্ষীদের শুভেচ্ছায় সিক্ত প্রথম আলো",
-  "sources": [
-   {
-    "name": "Prothom Alo",
-    "url": "https://www.prothomalo.com/bangladesh/fvahxheplx",
-    "title": "শুভাকাঙ্ক্ষীদের শুভেচ্ছায় সিক্ত প্রথম আলো"
-   }
-  ],
-  "published": "2026-11-04T20:00:47+00:00",
-  "added": "2026-11-04T21:01:18.203171+00:00",
-  "hidden": false
- },
- {
-  "id": "e8d44099fee5",
-  "headline": "Iranians Celebrate US Midterm Democratic Wins, Trump Blames Iran War",
-  "summary": "Iranians marked the US midterm Democratic victories, while President Trump said the Republican loss was partly due to the war on Iran, Al Jazeera reports.",
-  "body": [
-   "Iranians celebrated the outcome of the recent US midterm elections, which saw Democratic candidates win a majority of contested seats, according to Al Jazeera English.",
-   "In a separate statement, US President Donald Trump acknowledged that the Republican Party’s heavy defeat was partially linked to the ongoing war on Iran, the outlet added."
-  ],
-  "headline_bn": "ইরানিরা মার্কিন মিডটার্মে ডেমোক্র্যাট জয় উদযাপন, ট্রাম্প ইরানের যুদ্ধকে দায়িত্বে টেনেছেন",
-  "summary_bn": "ইরানিরা ডেমোক্র্যাট জয় উদযাপন করেছে, আর ট্রাম্পের মতে রিপাবলিকান পরাজয়ের কারণ partly ইরান যুদ্ধ, আল জাজিরা জানায়।",
-  "body_bn": [
-   "আল জাজিরা ইংলিশের মতে, সাম্প্রতিক মার্কিন মিডটার্ম নির্বাচনে ডেমোক্র্যাটদের জয় নিয়ে ইরানিরা উল্লাস প্রকাশ করেছে।",
-   "একই প্রতিবেদনে উল্লেখ করা হয়েছে, যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প স্বীকার করেছেন যে রিপাবলিকানদের বিশাল পরাজয় আংশিকভাবে ইরানের বিরুদ্ধে চলমান যুদ্ধের ফল।"
-  ],
-  "image_prompt": "Illustration of crowds celebrating democratic victory with symbolic US election icons, abstract background, no faces, flags, logos, or text",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-  "source_title": "Iranians celebrate Democrat victory in US midterms",
-  "sources": [
-   {
-    "name": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-    "title": "Iranians celebrate Democrat victory in US midterms"
-   }
-  ],
-  "published": "2026-11-04T19:59:14+00:00",
-  "added": "2026-11-04T21:01:26.920785+00:00",
-  "hidden": false
- },
- {
-  "id": "af0331329a4f",
-  "headline": "Progressive Democrat Randy Villegas Secures Victory in California's Central Valley",
-  "summary": "Randy Villegas earned a win in California’s Central Valley after running a campaign addressing living costs and pushback against ICE raids.",
-  "body": [
-   "According to a report by Al Jazeera English, progressive candidate Randy Villegas has notched a victory in California's Central Valley, delivering an electoral win for the Democratic Party's progressive faction.",
-   "Villegas anchored his campaign around everyday economic pressures, focusing extensively on cost of living issues affecting the area. His platform also centered on widespread backlash surrounding Immigration and Customs Enforcement (ICE) raids, a strategy that ultimately proved successful in securing his election victory."
-  ],
-  "headline_bn": "ক্যালিফোর্নিয়ার সেন্ট্রাল ভ্যালিতে প্রগতিশীল ডেমোক্র্যাট র‍্যান্ডি ভিলেগাসের জয়",
-  "summary_bn": "জীবনযাত্রার ব্যয় ও আইসিই অভিযানের বিরুদ্ধে জনরোষকে মূল ইস্যু করে ক্যালিফোর্নিয়ার সেন্ট্রাল ভ্যালিতে জয় পেয়েছেন প্রগতিশীল র‍্যান্ডি ভিলেগাস।",
-  "body_bn": [
-   "আল জাজিরা ইংরেজির প্রতিবেদন অনুযায়ী, যুক্তরাষ্ট্রের ক্যালিফোর্নিয়া অঙ্গরাজ্যের সেন্ট্রাল ভ্যালিতে জয় পেয়েছেন প্রগতিশীল ডেমোক্র্যাট প্রার্থী র‍্যান্ডি ভিলেগাস। এই ফলের মধ্য দিয়ে অঞ্চলটিতে ডেমোক্র্যাটিক পার্টির প্রগতিশীল অংশের একটি গুরুত্বপূর্ণ সাফল্য অর্জিত হলো।",
-   "ভিলেগাসের নির্বাচনী প্রচারণায় স্থানীয় জীবনযাত্রার ব্যয় সংক্রান্ত সমস্যাগুলো অন্যতম মূল বিষয় হিসেবে গুরুত্ব পেয়েছিল। একই সঙ্গে ইমিগ্রেশন অ্যান্ড কাস্টমস এনফোর্সমেন্টের (আইসিই) পরিচালিত অভিযানের বিরুদ্ধে সাধারণ মানুষের ক্ষোভকে কেন্দ্র করেও তাঁর প্রচারণা পরিচালিত হয়, যা শেষ পর্যন্ত তাঁর বিজয়ে ভূমিকা রাখে।"
-  ],
-  "image_prompt": "A voting ballot box resting on a wooden table inside an empty community hall, bathed in warm natural sunlight.",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
-  "source_title": "Democratic progressive wing notches win in California Central Valley",
-  "sources": [
-   {
-    "name": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
-    "title": "Democratic progressive wing notches win in California Central Valley"
-   }
-  ],
-  "published": "2026-11-04T19:50:37+00:00",
-  "added": "2026-11-04T21:01:44.722306+00:00",
   "hidden": false
  }
 ]
