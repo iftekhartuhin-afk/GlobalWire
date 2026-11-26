@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-26T02:56:56.831129+00:00",
+ "last_run": "2026-11-26T11:47:39.017390+00:00",
  "sources": {
   "UN News": {
    "ok": true,
@@ -23,11 +23,11 @@
   },
   "Prothom Alo": {
    "ok": true,
-   "items": 34
+   "items": 91
   }
  },
  "added": 8,
  "paused": false,
  "images": 1,
- "facebook": "error 400 {\"error\":{\"message\":\"Error validating access token: Session has expired on Tuesday, 03-Nov-26 07:00:00 PST. The current time is Wednesday, 25-Nov-26 1"
+ "facebook": "error 400 {\"error\":{\"message\":\"Error validating access token: Session has expired on Tuesday, 03-Nov-26 07:00:00 PST. The current time is Thursday, 26-Nov-26 03"
 }
