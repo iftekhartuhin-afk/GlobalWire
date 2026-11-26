@@ -1,5 +1,256 @@
 [
  {
+  "id": "619d3fe5594a",
+  "headline": "Storm forces first postponement of Macy's Thanksgiving Parade",
+  "summary": "A major storm moving up the East Coast has prompted travel delays and forced the first-ever postponement of Macy's Thanksgiving Day Parade, DW reports.",
+  "body": [
+   "A major storm is forecast to move up the U.S. East Coast, bringing heavy rain and strong winds that are expected to cause travel delays and disruptions across the region.",
+   "In response, authorities issued weather warnings that led to the postponement of the Macy's Thanksgiving Day Parade, the first such delay in the parade's 100‑year history, DW reported.",
+   "The postponement affects the traditional start of Thanksgiving celebrations, as the parade is a central event for many viewers and participants nationwide."
+  ],
+  "headline_bn": "বিপর্যয়কর ঝড়ে মেসির থ্যাঙ্কসগিভিং প্যারেডের প্রথম স্থগিত",
+  "summary_bn": "একটি বড় ঝড়ের পূর্বাভাস ইস্ট কোস্টে ভ্রমণ বিলম্ব ও মেসির থ্যাঙ্কসগিভিং প্যারেডের প্রথম স্থগিতের কারণ হয়েছে, DW রিপোর্ট করেছে।",
+  "body_bn": [
+   "একটি বড় ঝড় ইস্ট কোস্টে উপরের দিকে অগ্রসর হতে পূর্বাভাস দেওয়া হয়েছে, যা ভারী বৃষ্টিপাত ও শক্তিশালী বাতাস নিয়ে আসবে এবং অঞ্চল জুড়ে ভ্রমণ বিলম্বের সম্ভাবনা তৈরি করবে।",
+   "এতে, কর্তৃপক্ষের জারি করা আবহাওয়া সতর্কতা মেসির থ্যাঙ্কসগিভিং ডে প্যারেডের স্থগিতের দিকে নিয়ে যায়, যা প্যারেডের ১০০ বছরের ইতিহাসে প্রথমবারের মতো ঘটেছে, DW জানিয়েছে।",
+   "প্যারেডের এই স্থগিত দেশের প্রচলিত থ্যাঙ্কসগিভিং উদযাপনের সূচনা প্রভাবিত করবে, কারণ এটি বহু দর্শক ও অংশগ্রহণকারীর জন্য কেন্দ্রীয় অনুষ্ঠান।"
+  ],
+  "image_prompt": "Stormy sky over an East Coast city with rain, wind and a silhouette of a parade float delayed",
+  "category": "World",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Extreme weather threatens Thanksgiving festivities in US",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf",
+    "title": "Extreme weather threatens Thanksgiving festivities in US"
+   }
+  ],
+  "published": "2026-11-26T02:47:00+00:00",
+  "added": "2026-11-26T02:57:16.649387+00:00",
+  "hidden": false,
+  "image": "data/img/619d3fe5594a.jpg"
+ },
+ {
+  "id": "a55057776313",
+  "headline": "Author notes four-decade transformation of Canary Islands, likens to Bangladesh's progress",
+  "summary": "After 40 years, a writer observes major changes in the Canary Islands and draws parallels with Bangladesh's development, as reported by Prothom Alo.",
+  "body": [
+   "A writer, reflecting on four decades, reports significant changes in the Canary Islands. The observations were published by Prothom Alo, highlighting the extent of transformation observed over the period.",
+   "The author compares these changes to the development trajectory of Bangladesh, suggesting that similar progress may be possible. The comparison is presented as a reflection on broader patterns of growth."
+  ],
+  "headline_bn": "লেখক ৪০ বছর পর ক্যানারি দ্বীপপুঞ্জের পরিবর্তন লক্ষ্য, বাংলাদেশের উন্নয়নের সঙ্গে তুলনা",
+  "summary_bn": "৪০ বছর পর লেখক ক্যানারি দ্বীপপুঞ্জের উল্লেখযোগ্য পরিবর্তন দেখেন এবং তা বাংলাদেশের উন্নয়নের সঙ্গে তুলনা করেন, প্রথাম আলোতে প্রকাশিত।",
+  "body_bn": [
+   "প্রথাম আলোতে প্রকাশিত প্রতিবেদনে লেখক উল্লেখ করেন যে, চতুর্দশ দশক পর ক্যানারি দ্বীপপুঞ্জে উল্লেখযোগ্য পরিবর্তন ঘটেছে। তিনি এই পরিবর্তনগুলোকে স্পষ্টভাবে বর্ণনা করেছেন।",
+   "লেখক এই পরিবর্তনগুলোকে বাংলাদেশের উন্নয়নের সঙ্গে তুলনা করে সম্ভাব্য সমান্তরাল নির্দেশ করেন। তুলনাটি দেশের অগ্রগতির দৃষ্টিকোণ থেকে করা হয়েছে।"
+  ],
+  "image_prompt": "panoramic view of a transformed island landscape with modern infrastructure and natural scenery",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://nagorik.prothomalo.com/durporobash/8xmojwr56w",
+  "source_title": "৪০ বছরে একটি দ্বীপপুঞ্জের যে পরিবর্তন দেখলাম, বাংলাদেশে গেলে কি তা পাব",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://nagorik.prothomalo.com/durporobash/8xmojwr56w",
+    "title": "৪০ বছরে একটি দ্বীপপুঞ্জের যে পরিবর্তন দেখলাম, বাংলাদেশে গেলে কি তা পাব"
+   }
+  ],
+  "published": "2026-11-26T02:33:16+00:00",
+  "added": "2026-11-26T02:57:24.415749+00:00",
+  "hidden": false
+ },
+ {
+  "id": "0f280ef37376",
+  "headline": "University and Subject Choice: Balancing Decisions After Higher Secondary",
+  "summary": "Prothom Alo notes that balancing university and subject selection after high school is a wise move for students.",
+  "body": [
+   "According to Prothom Alo, students deciding on further studies after completing higher secondary education are advised to balance the choice between the university and the field of study. The outlet emphasizes that giving equal consideration to both aspects helps create a more thoughtful decision.",
+   "The guidance suggests that focusing solely on an institution's reputation or only on a particular subject can lead to an unbalanced outcome. By weighing both factors, students can align their academic interests with a university's strengths, which is presented as a prudent approach."
+  ],
+  "headline_bn": "বিশ্ববিদ্যালয় ও বিষয় নির্বাচন: উচ্চমাধ্যমিকের পর ভারসাম্যপূর্ণ সিদ্ধান্তের গুরুত্ব",
+  "summary_bn": "প্রথম আলো অনুযায়ী, উচ্চমাধ্যমিকের পরে বিশ্ববিদ্যালয় ও বিষয়ের সমন্বিত নির্বাচন শিক্ষার্থীর জন্য বুদ্ধিমানের কাজ।",
+  "body_bn": [
+   "প্রথম আলো অনুযায়ী, উচ্চমাধ্যমিক শেষ করার পর উচ্চশিক্ষা নিয়ে সিদ্ধান্ত নেওয়া শিক্ষার্থীদের জন্য বিশ্ববিদ্যালয় ও বিষয়ের নির্বাচন সমন্বয় করা গুরুত্বপূর্ণ। উভয় দিককে সমানভাবে বিবেচনা করা আরও সুচিন্তিত সিদ্ধান্তে সহায়তা করে।",
+   "শুধুমাত্র প্রতিষ্ঠানের খ্যাতি বা নির্দিষ্ট বিষয়ের ওপর জোর দিলে সিদ্ধান্তে ভারসাম্যহীনতা দেখা দিতে পারে। উভয় উপাদানকে সমানভাবে মূল্যায়ন করে শিক্ষার্থীরা তাদের একাডেমিক আগ্রহ ও বিশ্ববিদ্যালয়ের শক্তি মিলিয়ে নিতে পারে, যা বুদ্ধিমানের কাজ বলে প্রকাশিত হয়েছে।"
+  ],
+  "image_prompt": "Student reviewing university catalogs and subject guides, weighing options in a quiet study room",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/education/admission/nldct8ptyt",
+  "source_title": "বিশ্ববিদ্যালয়ে ভর্তি পরামর্শ-৮: বিশ্ববিদ্যালয় না বিষয়, কোনটিকে গুরুত্ব দিতে হবে",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/education/admission/nldct8ptyt",
+    "title": "বিশ্ববিদ্যালয়ে ভর্তি পরামর্শ-৮: বিশ্ববিদ্যালয় না বিষয়, কোনটিকে গুরুত্ব দিতে হবে"
+   }
+  ],
+  "published": "2026-11-26T02:31:31+00:00",
+  "added": "2026-11-26T02:57:32.049952+00:00",
+  "hidden": false
+ },
+ {
+  "id": "e7f97319b29f",
+  "headline": "Weavers in Thakurgaon’s Keshur Bari Village Shift to New Jobs as Looms Fall Silent",
+  "summary": "Prothom Alo reports that the traditional loom sound is fading in Keshur Bari, Thakurgaon, as local weavers move to other occupations, with a loom left on a balcony.",
+  "body": [
+   "According to Prothom Alo, the rhythmic clatter of looms is diminishing in the village of Kismat Keshur Bari in Thakurgaon district. The decline reflects a shift among local weavers who are seeking alternative livelihoods.",
+   "Observers note that a loom lies abandoned on the balcony of Raghunath’s house, which is situated beside an unpaved road in the village. The scene underscores the broader transition away from traditional weaving in the area.",
+   "The presence of the idle loom on Raghunath’s balcony, visible from the unpaved road, serves as a visual reminder of the occupational shift among the village’s weavers."
+  ],
+  "headline_bn": "থাকুরগাঁয়ের কেশুরবাড়ি গ্রামে তাঁত থেমে, তাঁতিরা নতুন পেশায় রূপান্তরিত",
+  "summary_bn": "প্রথম আলো জানায়, থাকুরগাঁয়ের কেশুরবাড়ি গ্রামে ঐতিহ্যবাহী তাঁতের শব্দ কমে যাচ্ছে, স্থানীয় তাঁতিরা অন্য পেশায় পরিবর্তন করছেন, একটি তাঁত রঘুনাথের বাড়ির বারান্দায় ফেলে রাখা আছে।",
+  "body_bn": [
+   "প্রথম আলো অনুসারে, থাকুরগাঁয়ের কিসমত কেশুরবাড়ি গ্রামে তাঁতের খটখট শব্দ ধীরে ধীরে থেমে যাচ্ছে। এই পরিবর্তন স্থানীয় তাঁতিরা নতুন পেশা অনুসরণ করার ইঙ্গিত দেয়।",
+   "গ্রামটির একটি কাঁচা রাস্তার পাশে রঘুনাথের বাড়ির বারান্দায় একটি ব্যবহারহীন তাঁত ফেলে রাখা দেখা যায়। বাড়িটি এবং অপ্রস্তুত রাস্তা এই পরিবর্তনের দৃশ্যমান প্রমাণ।",
+   "রঘুনাথের বাড়ির বারান্দায় ফাঁকা অবস্থায় থাকা তাঁতটি, গ্রামবাসীর পেশাগত পরিবর্তনের স্পষ্ট চিত্র উপস্থাপন করে।"
+  ],
+  "image_prompt": "a quiet rural street with an abandoned loom on a balcony beside an unpaved road",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/5ahxpni7of",
+  "source_title": "খটখট শব্দ থেমে যাচ্ছে, তাঁতিরা ছুটছেন অন্য পেশায়",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/5ahxpni7of",
+    "title": "খটখট শব্দ থেমে যাচ্ছে, তাঁতিরা ছুটছেন অন্য পেশায়"
+   }
+  ],
+  "published": "2026-11-26T02:30:00+00:00",
+  "added": "2026-11-26T02:57:42.130292+00:00",
+  "hidden": false
+ },
+ {
+  "id": "f323adace086",
+  "headline": "Gap launches Chief Entertainment Officer role to boost clothing sales",
+  "summary": "Gap Inc. creates a Chief Entertainment Officer position, appointing Pam Coffman to drive sales.",
+  "body": [
+   "Gap Inc. has introduced a new executive position titled Chief Entertainment Officer as part of a strategy to increase apparel sales, according to Prothom Alo.",
+   "The role has been filled by Pam Coffman, who brings extensive experience from the entertainment sector. The appointment signals Gap's effort to blend entertainment insights with its retail operations."
+  ],
+  "headline_bn": "গ্যাপের নতুন চিফ এন্টারটেইনমেন্ট অফিসার পদ বিক্রয় বাড়াতে",
+  "summary_bn": "গ্যাপ ইনকরপোরেটেড প্যাম কফম্যানকে চিফ এন্টারটেইনমেন্ট অফিসার হিসেবে নিয়োগ করেছে",
+  "body_bn": [
+   "প্রথম আলো অনুসারে, গ্যাপ ইনকরপোরেটেড বিক্রয় বাড়ানোর কৌশলের অংশ হিসেবে চিফ এন্টারটেইনমেন্ট অফিসার নামে একটি নতুন নির্বাহী পদ তৈরি করেছে।",
+   "এই পদে দীর্ঘ সময়ের বিনোদন শিল্পের অভিজ্ঞতা সম্পন্ন প্যাম কফম্যানকে নিয়োগ করা হয়েছে, যা গ্যাপের রিটেইল কার্যক্রমে বিনোদনমূলক দৃষ্টিভঙ্গি সংযোজনের ইঙ্গিত দেয়।"
+  ],
+  "image_prompt": "illustration of a corporate office with entertainment icons and clothing displays",
+  "category": "Business",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/business/world-business/nl5h0ys911",
+  "source_title": "পোশাক বিক্রি বাড়াতে ‘বিনোদন কর্মকর্তা’ নিয়োগ, গ্যাপের নতুন ব্যবসা কৌশল",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/business/world-business/nl5h0ys911",
+    "title": "পোশাক বিক্রি বাড়াতে ‘বিনোদন কর্মকর্তা’ নিয়োগ, গ্যাপের নতুন ব্যবসা কৌশল"
+   }
+  ],
+  "published": "2026-11-26T02:30:00+00:00",
+  "added": "2026-11-26T02:57:49.851614+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4b4af1f4284c",
+  "headline": "Kim Jong Un urges broader tactical nuclear deployment, warns denial equals war",
+  "summary": "North Korea's leader says denying its nuclear status will be treated as an open declaration of war.",
+  "body": [
+   "Kim Jong Un announced that North Korea should expand the deployment of its tactical nuclear weapons. He made the statement in a speech reported by Al Jazeera English.",
+   "He warned that any attempts to deny the country's nuclear status would be interpreted as an open declaration of war. The remarks underscore the regime's stance on its nuclear capabilities amid ongoing international scrutiny.",
+   "Both the call for broader tactical nuclear deployment and the warning about denial were delivered in the same address."
+  ],
+  "headline_bn": "কিম জং উন ট্যাকটিক্যাল পারমাণবিক অস্ত্রের বিস্তার বাড়াতে আহ্বান, অস্বীকৃতিকে যুদ্ধ ঘোষণা হিসেবে সতর্ক করেছেন",
+  "summary_bn": "উত্তর কোরিয়ার নেতা বলছেন দেশের পারমাণবিক অবস্থান অস্বীকার করলে তা যুদ্ধের উন্মুক্ত ঘোষণার সমান হবে।",
+  "body_bn": [
+   "কিম জং উন ঘোষণা করেছেন যে উত্তর কোরিয়া তার ট্যাকটিক্যাল পারমাণবিক অস্ত্রের মোতায়েন বিস্তৃত করা উচিত। আল জাজিরা ইংলিশের রিপোর্ট অনুযায়ী তিনি এই বক্তব্য একটি ভাষণে দিয়েছেন।",
+   "তিনি সতর্ক করেছেন যে দেশের পারমাণবিক অবস্থান অস্বীকারের কোনো প্রচেষ্টা উন্মুক্ত যুদ্ধ ঘোষণার সমান হিসেবে বিবেচিত হবে।",
+   "বিস্তৃত ট্যাকটিক্যাল পারমাণবিক মোতায়েনের আহ্বান এবং অস্বীকৃতির বিরুদ্ধে সতর্কতা একই ভাষণে উপস্থাপিত হয়েছে।"
+  ],
+  "image_prompt": "Illustration of tactical nuclear missiles spreading across a map, symbolic representation of deployment, without people, flags, logos or text",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+  "source_title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+    "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes"
+   }
+  ],
+  "published": "2026-11-26T02:03:03+00:00",
+  "added": "2026-11-26T02:57:59.293911+00:00",
+  "hidden": false
+ },
+ {
+  "id": "93ea63714cd5",
+  "headline": "Subila Nur's Royal Contrast Bridal Look Inspires Alternative Wedding Fashion",
+  "summary": "Prothom Alo reports Subila Nur's royal contrast bridal ensemble offers a fresh alternative to traditional red benarsi for the upcoming wedding season.",
+  "body": [
+   "Prothom Alo highlighted a new bridal style presented by Subila Nur, featuring a royal contrast look that diverges from the customary red benarsi attire.",
+   "The design is positioned as inspiration for couples seeking distinctive wedding outfits during the upcoming season, showcasing how contrast colors can create a glamorous appearance.",
+   "Such alternatives reflect a growing interest in varied bridal aesthetics, expanding options beyond conventional choices.",
+   "As the wedding season approaches, the look may influence designers and brides looking for fresh visual statements."
+  ],
+  "headline_bn": "সাবিলা নূরের রয়্যাল কনট্রাস্ট ব্রাইডাল লুক, ঐতিহ্যবাহী লাল বেনারসির বিকল্প",
+  "summary_bn": "প্রথম আলো জানায়, সাবিলা নূরের রয়্যাল কনট্রাস্ট ব্রাইডাল গ্ল্যাম লুক আসন্ন বিয়ের মৌসুমে লাল বেনারসির বদলে নতুন বিকল্প প্রদান করে।",
+  "body_bn": [
+   "প্রথম আলোতে সাবিলা নূরের একটি রয়্যাল কনট্রাস্ট ব্রাইডাল লুকের বিবরণ প্রকাশিত হয়েছে, যা ঐতিহ্যবাহী লাল বেনারসির পরিবর্তে ভিন্নধর্মী স্টাইল উপস্থাপন করে।",
+   "এই লুকটি আসন্ন বিয়ের মৌসুমে ভিন্নধর্মী ও কনট্রাস্ট ব্রাইডাল সাজ খুঁজছেন দম্পতিদের জন্য অনুপ্রেরণা হিসেবে কাজ করতে পারে।",
+   "এতে দেখা যায় কনট্রাস্ট রঙের ব্যবহার কীভাবে গ্ল্যামারাস চেহারা তৈরি করে, যা ঐতিহ্যবাহী পছন্দের বাইরে নতুন দৃষ্টিকোণ প্রদান করে।",
+   "বিবাহের মৌসুমের কাছাকাছি আসার সঙ্গে সঙ্গে, এই ধরণের স্টাইল ডিজাইনার ও নবদম্পতিদের মধ্যে জনপ্রিয়তা অর্জন করতে পারে।"
+  ],
+  "image_prompt": "illustration of a bride in a royal contrast wedding dress with vibrant colors, elegant setting, no faces, flags, logos or text",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.haal.fashion/celeb/look/yhcjzjhrq0",
+  "source_title": "রয়্যাল কনট্রাস্ট ব্রাইডাল গ্ল্যাম লুকে সাবিলা নূর",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.haal.fashion/celeb/look/yhcjzjhrq0",
+    "title": "রয়্যাল কনট্রাস্ট ব্রাইডাল গ্ল্যাম লুকে সাবিলা নূর"
+   }
+  ],
+  "published": "2026-11-26T02:00:00+00:00",
+  "added": "2026-11-26T02:58:08.895492+00:00",
+  "hidden": false
+ },
+ {
+  "id": "bee104159c56",
+  "headline": "Actress Mimi Chakraborty's Passion for Adventure Takes Her From Sky to Sea",
+  "summary": "Beyond acting and politics, Mimi Chakraborty finds joy in travel, highlighted by a daring jump from the sky into the ocean.",
+  "body": [
+   "Mimi Chakraborty, known for her work in acting and politics, also maintains a strong enthusiasm for travel, which she regards as a key part of her life.",
+   "A recent adventure saw her jump from the sky into the sea, illustrating the depth of her love for exploration."
+  ],
+  "headline_bn": "অভিনেত্রী মিমি চক্রবর্তীকে ঘিরে ভ্রমণের ঝড়, আকাশ থেকে সমুদ্রের গভীরে ঝাঁপ",
+  "summary_bn": "অভিনয় ও রাজনীতির পাশাপাশি মিমি চক্রবর্তী ভ্রমণকে পছন্দ করেন, যা আকাশ থেকে সমুদ্রের গভীরে ঝাঁপ দিয়ে প্রকাশ পেয়েছে।",
+  "body_bn": [
+   "মিমি চক্রবর্তীর পরিচয়, তিনি অভিনেত্রী ও রাজনীতিবিদ, তবে তার জীবনে ভ্রমণ একটি গুরুত্বপূর্ণ অংশ।",
+   "সাম্প্রতিক সময়ে তিনি আকাশ থেকে সমুদ্রের গভীরে ঝাঁপ দিয়ে তার অভিযানের প্রতি ভালোবাসা প্রকাশ করেছেন।"
+  ],
+  "image_prompt": "A silhouette leaping from a skyward cloud into deep blue ocean, representing adventurous travel, no faces, flags, or text.",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/entertainment/tollywood/qgxj9jb936",
+  "source_title": "আকাশ থেকে ঝাঁপ দেওয়ার পর সমুদ্রের গভীরে, অ্যাডভেঞ্চারার মিমির গল্প",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/entertainment/tollywood/qgxj9jb936",
+    "title": "আকাশ থেকে ঝাঁপ দেওয়ার পর সমুদ্রের গভীরে, অ্যাডভেঞ্চারার মিমির গল্প"
+   }
+  ],
+  "published": "2026-11-26T02:00:00+00:00",
+  "added": "2026-11-26T02:59:24.178396+00:00",
+  "hidden": false
+ },
+ {
   "id": "89eb16b80cec",
   "headline": "74-year-old Alzheimer’s patient rescued after 11 days lost in Brazil’s Amazon",
   "summary": "Al Jazeera English reports that a 74-year-old man with Alzheimer’s was found alive after disappearing for 11 days in Brazil’s Amazon rainforest.",
@@ -18366,267 +18617,5 @@
   "published": "2026-11-05T14:43:59+00:00",
   "added": "2026-11-05T16:56:14.744277+00:00",
   "hidden": false
- },
- {
-  "id": "c5fd360d614e",
-  "headline": "Emirates Airlines to Hire Cabin Crew in Bangladesh",
-  "summary": "The airline seeks 21‑year‑old candidates with higher secondary education and fluent English via online applications.",
-  "body": [
-   "Emirates Airlines announced that it will recruit cabin crew members in Bangladesh. The recruitment drive targets individuals who meet specific eligibility criteria.",
-   "Applicants must be at least 21 years old, have passed the higher secondary examination and be fluent in English. Interested candidates can submit their applications online, according to Prothom Alo."
-  ],
-  "headline_bn": "এমিরেটস এয়ারলাইনস বাংলাদেশে কেবিন ক্রু নিয়োগ করবে",
-  "summary_bn": "২১ বছর বয়স, উচ্চমাধ্যমিক পাশ ও ইংরেজিতে দক্ষ প্রার্থীরা অনলাইনে আবেদন করতে পারবেন।",
-  "body_bn": [
-   "এমিরেটস এয়ারলাইনস বাংলাদেশে কেবিন ক্রু নিয়োগের পরিকল্পনা প্রকাশ করেছে। নিয়োগে নির্দিষ্ট যোগ্যতার মানদণ্ড পূরণকারী প্রার্থীদের লক্ষ্য করা হয়েছে।",
-   "প্রার্থীদের কমপক্ষে ২১ বছর বয়স, উচ্চমাধ্যমিক পাশ এবং ইংরেজিতে দক্ষতা থাকতে হবে। প্রার্থীরা অনলাইনে আবেদন জমা দিতে পারবেন, প্রথম আলো অনুযায়ী।"
-  ],
-  "image_prompt": "illustration of airline cabin crew recruitment desk with application forms and airplane silhouette, no faces",
-  "category": "Business",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/chakri/employment/4ztpy5prvb",
-  "source_title": "এমিরেটস নেবে কেবিন ক্রু, বাংলাদেশিদের আবেদনের সুযোগ",
-  "sources": [
-   {
-    "name": "Prothom Alo",
-    "url": "https://www.prothomalo.com/chakri/employment/4ztpy5prvb",
-    "title": "এমিরেটস নেবে কেবিন ক্রু, বাংলাদেশিদের আবেদনের সুযোগ"
-   }
-  ],
-  "published": "2026-11-05T08:27:08+00:00",
-  "added": "2026-11-05T08:42:13.379603+00:00",
-  "hidden": false
- },
- {
-  "id": "c5f10232b031",
-  "headline": "Cleanest and Most Polluted Air Spots Identified in Dhaka",
-  "summary": "Prothom Alo reports Nikunja has the cleanest air in Dhaka while Uttara’s Khalpara records the highest pollution levels.",
-  "body": [
-   "A recent assessment of air quality in Bangladesh’s capital identified distinct variations across neighborhoods. According to Prothom Alo, the area of Nikunja recorded the lowest levels of pollutants, making it the cleanest part of Dhaka.",
-   "Conversely, the survey found that the Khalpara locality in Uttara exhibited the highest concentration of airborne contaminants, marking it as the most polluted area in the city.",
-   "The contrast underscores the uneven distribution of air quality across Dhaka, informing residents and policymakers about local environmental conditions."
-  ],
-  "headline_bn": "ঢাকায় সবচেয়ে পরিষ্কার ও সবচেয়ে দূষিত বাতাসের এলাকা নির্ধারিত",
-  "summary_bn": "প্রথম আলো অনুযায়ী নিকুঞ্জে সবচেয়ে পরিষ্কার বাতাস, উত্তরা খালপাড়ে সর্বোচ্চ দূষণ রেকর্ড হয়েছে।",
-  "body_bn": [
-   "ঢাকার বিভিন্ন এলাকার বায়ু গুণমানের সাম্প্রতিক সমীক্ষা দেখায় পার্থক্য। প্রথম আলো জানায় নিকুঞ্জে দূষকের মাত্রা সর্বনিম্ন, তাই এটি শহরের সবচেয়ে পরিষ্কার স্থান।",
-   "অন্যদিকে, উত্তরা অঞ্চলের খালপাড়ে বায়ুতে দূষকের ঘনত্ব সর্বোচ্চ, যা এটিকে সবচেয়ে দূষিত এলাকা করে তুলেছে।",
-   "এই বৈপরীত্য শহরের বায়ু গুণমানের অসম বণ্টন প্রকাশ করে, যা বাসিন্দা ও নীতিনির্ধারকদের জন্য গুরুত্বপূর্ণ তথ্য।"
-  ],
-  "image_prompt": "illustration of a city map highlighting clean and polluted neighborhoods, with abstract air quality symbols, no people or logos",
-  "category": "Environment",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/bangladesh/environment/2hwsmp4hr2",
-  "source_title": "ঢাকায় কোন এলাকার বাতাস সবচেয়ে নির্মল, দূষিত কোথায়",
-  "sources": [
-   {
-    "name": "Prothom Alo",
-    "url": "https://www.prothomalo.com/bangladesh/environment/2hwsmp4hr2",
-    "title": "ঢাকায় কোন এলাকার বাতাস সবচেয়ে নির্মল, দূষিত কোথায়"
-   }
-  ],
-  "published": "2026-11-05T08:21:13+00:00",
-  "added": "2026-11-05T08:42:21.945131+00:00",
-  "hidden": false
- },
- {
-  "id": "4c28f5ccaee5",
-  "headline": "Three Awami League members detained after early-morning Dhaka march, police say",
-  "summary": "Police reported detaining three Awami League participants from a prohibited early‑morning rally in Dhaka.",
-  "body": [
-   "Police announced that three members of the Awami League were arrested after taking part in an early‑morning march in Dhaka, which authorities classified as a prohibited political activity.",
-   "According to Prothom Alo, the police statement indicated that the rally violated a ban on political gatherings, and the three individuals were identified as members of the party.",
-   "The detentions highlight ongoing tensions between law enforcement and political groups over restrictions on public demonstrations."
-  ],
-  "headline_bn": "ঢাকায় ভোরের মিছিল থেকে আটক হলেন তিনজন আওয়ামী লীগ সদস্য, পুলিশ",
-  "summary_bn": "পুলিশের মতে, নিষিদ্ধ রাজনৈতিক সমাবেশে অংশ নেওয়া তিনজন সদস্যকে গ্রেফতার করা হয়েছে।",
-  "body_bn": [
-   "পুলিশ জানিয়েছে যে ঢাকা শহরে ভোরের মিছিলের সময় আওয়ামী লীগের তিনজন সদস্যকে আটক করা হয়েছে, যা কর্তৃপক্ষ নিষিদ্ধ রাজনৈতিক কার্যক্রম হিসেবে চিহ্নিত করেছে।",
-   "প্রথম আলো অনুযায়ী, পুলিশ বিবৃতিতে উল্লেখ করা হয়েছে যে এই সমাবেশটি রাজনৈতিক সমাবেশের নিষেধাজ্ঞা লঙ্ঘন করেছে এবং তিনজনকে দলের সদস্য হিসেবে চিহ্নিত করা হয়েছে।",
-   "এই গ্রেফতারগুলো জনসমাবেশের ওপর বিধিনিষেধের প্রয়োগে আইন প্রয়োগকারী সংস্থা ও রাজনৈতিক গোষ্ঠীর মধ্যে চলমান উত্তেজনাকে প্রকাশ করে।"
-  ],
-  "image_prompt": "illustration of police officers detaining protesters during a morning march in a city, generic background, no faces, flags, logos or text",
-  "category": "Politics",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/bangladesh/capital/t46dcya3ku",
-  "source_title": "ঢাকায় ভোরে আ.লীগের মিছিল থেকে আটক ৩: পুলিশ",
-  "sources": [
-   {
-    "name": "Prothom Alo",
-    "url": "https://www.prothomalo.com/bangladesh/capital/t46dcya3ku",
-    "title": "ঢাকায় ভোরে আ.লীগের মিছিল থেকে আটক ৩: পুলিশ"
-   }
-  ],
-  "published": "2026-11-05T08:18:29+00:00",
-  "added": "2026-11-05T08:42:29.146533+00:00",
-  "hidden": false
- },
- {
-  "id": "06c80adcb310",
-  "headline": "Supermarket fridge hack sparks worries over IoT device security",
-  "summary": "A recent hack of a supermarket refrigerator has raised alarms about the safety of internet‑connected equipment from factories to homes, reports Prothom Alo.",
-  "body": [
-   "A supermarket refrigerator that was linked to the internet was reportedly compromised, prompting security concerns.",
-   "According to Prothom Alo, the breach illustrates how devices ranging from industrial machinery to everyday household appliances could be vulnerable to similar attacks."
-  ],
-  "headline_bn": "সুপারমার্কেটের ফ্রিজ হ্যাকিংয়ে ইন্টারনেট‑সংযুক্ত যন্ত্রের নিরাপত্তা উদ্বেগ",
-  "summary_bn": "একটি সুপারমার্কেটের ফ্রিজ হ্যাক হওয়ায় শিল্প যন্ত্র থেকে গৃহস্থালী সরঞ্জাম পর্যন্ত ইন্টারনেট‑সংযুক্ত পণ্যের নিরাপত্তা নিয়ে উদ্বেগ বাড়ছে, প্রোথোম আলো জানায়।",
-  "body_bn": [
-   "একটি সুপারমার্কেটের ফ্রিজ ইন্টারনেটের সঙ্গে সংযুক্ত থাকায় হ্যাক হওয়ায় নিরাপত্তা ঝুঁকি প্রকাশ পেয়েছে।",
-   "প্রোথোম আলো অনুসারে, এই ঘটনা শিল্পকারখানার যন্ত্রপাতি থেকে গৃহস্থালী সরঞ্জাম পর্যন্ত সব ধরনের ইন্টারনেট‑সংযুক্ত পণ্যকে একই ধরনের হুমকির মুখে ফেলতে পারে।"
-  ],
-  "image_prompt": "illustration of a hacked smart refrigerator in a supermarket with digital warning symbols, no people, flags, logos or text",
-  "category": "Technology",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/technology/cyberworld/xsy3jh8ys3",
-  "source_title": "সুপারমার্কেটের ফ্রিজ হ্যাকড হলে অন্যান্য প্রযুক্তিপণ্য কতটা ঝুঁকিপূর্ণ",
-  "sources": [
-   {
-    "name": "Prothom Alo",
-    "url": "https://www.prothomalo.com/technology/cyberworld/xsy3jh8ys3",
-    "title": "সুপারমার্কেটের ফ্রিজ হ্যাকড হলে অন্যান্য প্রযুক্তিপণ্য কতটা ঝুঁকিপূর্ণ"
-   }
-  ],
-  "published": "2026-11-05T08:17:02+00:00",
-  "added": "2026-11-05T08:42:36.552879+00:00",
-  "hidden": false
- },
- {
-  "id": "7788bd6af3dd",
-  "headline": "Bangladesh Dollar Rate Stays Steady at 124.35 Taka",
-  "summary": "Bangladesh Bank data shows the US dollar price unchanged at 124.35 taka, per Prothom Alo.",
-  "body": [
-   "The latest figures released by Bangladesh Bank indicate that the exchange rate for the US dollar has not changed. The average market price remains at 124 taka and 35 paisa per dollar, according to a report by Prothom Alo. The data reflects the current level of the local currency against the dollar, with no variation observed in the latest monitoring period. Market participants can refer to these figures for pricing and transaction decisions.",
-   "Financial analysts typically monitor such stability to gauge economic trends, though no additional commentary was provided in the release."
-  ],
-  "headline_bn": "ডলারের হার ১২৪ টাকায় ৩৫ পয়সায় স্থিতিশীল",
-  "summary_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী, ডলারের গড় দাম অপরিবর্তিত, প্রথাম অলোর রিপোর্টে জানানো হয়েছে।",
-  "body_bn": [
-   "বাংলাদেশ ব্যাংকের সর্বশেষ তথ্য প্রকাশে দেখা গেছে, মার্কিন ডলারের বিনিময় হার কোনো পরিবর্তন না করে একই রকম রয়েছে। প্রথাম অলোর প্রতিবেদন অনুযায়ী, বাজারে গড় দাম এখন ১২৪ টাকা ৩৫ পয়সা।",
-   "এই তথ্য স্থানীয় মুদ্রার বর্তমান স্তরকে প্রতিফলিত করে এবং ডলারের সাথে কোনো পার্থক্য দেখা যায়নি। আর্থিক বিশ্লেষকরা সাধারণত এমন স্থিতিশীলতা অর্থনৈতিক প্রবণতা মূল্যায়নে ব্যবহার করেন, যদিও প্রকাশে অতিরিক্ত কোনো মন্তব্য নেই।"
-  ],
-  "image_prompt": "A generic currency exchange board displaying USD to BDT rate, with numbers and symbols, no faces, flags, logos, or text",
-  "category": "Business",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/business/bank/3botkah7g4",
-  "source_title": "আজকের বিনিময় হার",
-  "sources": [
-   {
-    "name": "Prothom Alo",
-    "url": "https://www.prothomalo.com/business/bank/3botkah7g4",
-    "title": "আজকের বিনিময় হার"
-   }
-  ],
-  "published": "2026-11-05T08:15:30+00:00",
-  "added": "2026-11-05T08:42:45.030538+00:00",
-  "hidden": false
- },
- {
-  "id": "4a3742a9f8b8",
-  "headline": "Bus pushes motorcycle, dragging three riders 50 meters; teen dies, public sets fire",
-  "summary": "A bus forced a motorcycle with three occupants to move about 50 m, resulting in a teenager’s death and prompting locals to set fire, reports Prothom Alo.",
-  "body": [
-   "According to Prothom Alo, a bus applied pressure to a motorcycle carrying three passengers, pulling the bike roughly 50 metres along the road. The maneuver caused the vehicle to be dragged for the distance before it stopped.",
-   "The incident led to the death of a teenager, after which members of the public set fire in response, as reported by the outlet."
-  ],
-  "headline_bn": "বাস চাপা দিয়ে মোটরসাইকেল টেনে ৫০ মিটার, কিশোরের মৃত্যুতে জনতা আগুন দিল",
-  "summary_bn": "প্রথম আলো অনুযায়ী, তিনজন আরোহীসহ মোটরসাইকেলকে বাস চাপা দিয়ে টেনে নিয়ে গিয়ে কিশোরের মৃত্যু ঘটায়, ফলে জনতা আগুন জ্বালায়।",
-  "body_bn": [
-   "প্রথম আলো জানায়, একটি বাস তিনজন আরোহীসহ মোটরসাইকেলে চাপা দিয়ে প্রায় ৫০ মিটার টেনে নিয়ে যায়। এই চালনা শেষে গাড়িটি থেমে যায়।",
-   "এই ঘটনার ফলে কিশোরের মৃত্যু হয়, এরপর জনতা উত্তেজনা প্রকাশ করে আগুন জ্বালায়, প্রথম আলো রিপোর্ট করেছে।"
-  ],
-  "image_prompt": "illustration of a bus pushing a motorcycle, flames nearby on a street, no faces or logos",
-  "category": "World",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/bangladesh/district/4vcpq3o9d9",
-  "source_title": "চাপা দিয়ে মোটরসাইকেলকে টেনে নিয়ে যায় বাস, কিশোরের মৃত্যুর ঘটনায় আগুন দিল জনতা",
-  "sources": [
-   {
-    "name": "Prothom Alo",
-    "url": "https://www.prothomalo.com/bangladesh/district/4vcpq3o9d9",
-    "title": "চাপা দিয়ে মোটরসাইকেলকে টেনে নিয়ে যায় বাস, কিশোরের মৃত্যুর ঘটনায় আগুন দিল জনতা"
-   }
-  ],
-  "published": "2026-11-05T08:06:17+00:00",
-  "added": "2026-11-05T08:42:52.568480+00:00",
-  "hidden": false
- },
- {
-  "id": "49462b821307",
-  "headline": "Keisha Lance Becomes Georgia’s First Female and Black Governor",
-  "summary": "She won the governorship, ending a history of white‑male leadership in the state.",
-  "body": [
-   "In Georgia, Keisha Lance defeated a Republican opponent to claim the governorship, according to Prothom Alo. Her victory marks a shift in the state’s political landscape.",
-   "Lance’s election makes her the first woman and the first Black individual to hold the governor’s office in Georgia, a position previously occupied exclusively by white men."
-  ],
-  "headline_bn": "কেইশা ল্যান্স জর্জিয়ার প্রথম নারী ও কৃষ্ণাঙ্গ গভর্নর হলেন",
-  "summary_bn": "প্রজাতন্ত্রের প্রথম নারী ও কৃষ্ণাঙ্গ শাসক, শ্বেতাঙ্গ পুরুষদের দীর্ঘ শাসন শেষ করলেন",
-  "body_bn": [
-   "জর্জিয়ায় কেইশা ল্যান্স রিপাবলিকান প্রতিপক্ষকে পরাজিত করে গভর্নর পদ অর্জন করেছেন, প্রথাম আলোর রিপোর্ট অনুযায়ী। তার জয় রাজ্যের রাজনৈতিক দৃশ্যপটে পরিবর্তন আনে।",
-   "ল্যান্সের নির্বাচনে তিনি জর্জিয়ার প্রথম নারী ও প্রথম কৃষ্ণাঙ্গ গভর্নর হয়েছেন, যা আগে শুধুমাত্র শ্বেতাঙ্গ পুরুষদের দখলে ছিল।"
-  ],
-  "image_prompt": "illustration of a state capitol building with a silhouette of a woman and a dark figure representing diversity, no faces or logos",
-  "category": "Politics",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/world/usa/6w92qa6op7",
-  "source_title": "বাবার কারাবাস থেকে হোয়াইট হাউস হয়ে ক্ষমতার প্রাসাদে: কে এই কেইশা ল্যান্স",
-  "sources": [
-   {
-    "name": "Prothom Alo",
-    "url": "https://www.prothomalo.com/world/usa/6w92qa6op7",
-    "title": "বাবার কারাবাস থেকে হোয়াইট হাউস হয়ে ক্ষমতার প্রাসাদে: কে এই কেইশা ল্যান্স"
-   }
-  ],
-  "published": "2026-11-05T08:05:53+00:00",
-  "added": "2026-11-05T08:43:00.049992+00:00",
-  "hidden": false
- },
- {
-  "id": "7a57011ecd6c",
-  "headline": "Hong Kong activist Joshua Wong receives 10-year sentence for foreign collusion",
-  "summary": "Wong was convicted under the national security law for seeking foreign sanctions, adding to his previous imprisonment.",
-  "body": [
-   "Joshua Wong, a prominent Hong Kong pro‑democracy figure, was handed a ten‑year prison term after a court found him guilty of colluding with foreign powers, according to Al Jazeera English.",
-   "The conviction marks his second under the Beijing‑imposed national security legislation; critics say it underscores the broader suppression of the city’s pro‑democracy movement, NPR reported.",
-   "Wong, now 30, had pleaded guilty in September to attempting to obtain foreign sanctions against Hong Kong and China, a detail noted by France 24, and he has already spent nearly six years in detention since 2020."
-  ],
-  "headline_bn": "হংকংয়ের কর্মী জোশুয়া ওয়ংকে বিদেশি সহায়তার অভিযোগে ১০ বছর কারাদণ্ড",
-  "summary_bn": "ওয়ংকে জাতীয় নিরাপত্তা আইনে বিদেশি নিষেধাজ্ঞা চাওয়ার জন্য দোষী সাব্যস্ত করা হয়েছে, যা তার পূর্বের কারাদণ্ডে যোগ হয়েছে।",
-  "body_bn": [
-   "হংকংয়ের প্রখ্যাত গণতান্ত্রিক কর্মী জোশুয়া ওয়ংকে বিদেশি শক্তির সঙ্গে সহযোগিতার অভিযোগে দশ বছরের কারাদণ্ড দেওয়া হয়েছে, আল জাজিরা ইংলিশের মতে।",
-   "এটি তার জাতীয় নিরাপত্তা আইনের অধীনে দ্বিতীয় দোষী সাব্যস্ত, এবং সমালোচকরা এটিকে শহরের গণতান্ত্রিক আন্দোলনের উপর চাপের চিহ্ন হিসেবে দেখছেন, এনপিআর জানিয়েছে।",
-   "৩০ বছর বয়সী ওয়ং সেপ্টেম্বর মাসে হংকং ও চীনের ওপর বিদেশি নিষেধাজ্ঞা আনার চেষ্টা স্বীকার করে, ফ্রান্স ২৪ রিপোর্ট করেছে; তিনি ২০২০ সাল থেকে প্রায় ছয় বছর কারাগারে কাটিয়েছেন।"
-  ],
-  "image_prompt": "courtroom scene with gavel, legal books and scales of justice, abstract Hong Kong skyline in background",
-  "category": "Politics",
-  "source": "Al Jazeera English, DW, NPR World, France 24",
-  "source_url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
-  "source_title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
-  "sources": [
-   {
-    "name": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
-    "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail"
-   },
-   {
-    "name": "DW",
-    "url": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf",
-    "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 more years"
-   },
-   {
-    "name": "NPR World",
-    "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
-    "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison"
-   },
-   {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion",
-    "title": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion"
-   }
-  ],
-  "published": "2026-11-05T07:50:44+00:00",
-  "added": "2026-11-05T08:42:06.546925+00:00",
-  "hidden": false,
-  "image": "data/img/7a57011ecd6c.jpg"
  }
 ]
