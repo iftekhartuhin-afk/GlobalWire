@@ -1,5 +1,243 @@
 [
  {
+  "id": "576aa84d89d9",
+  "headline": "Prothom Alo launches morning roundup of five top domestic and international stories",
+  "summary": "The Bengali daily offers a concise morning brief of five highlighted news items and analysis from Bangladesh and abroad.",
+  "body": [
+   "Prothom Alo, a leading Bengali newspaper, has introduced a daily morning feature titled \"সকালেই পড়ুন আলোচিত ৫ খবর\". The segment invites readers to begin their day by accessing five selected news stories that span both domestic and international developments, accompanied by brief analysis. The outlet positions the roundup as a quick way to stay informed about the most discussed issues without having to scan multiple sources. By curating a limited set of stories, Prothom Alo aims to provide a focused snapshot of current events for its audience each morning."
+  ],
+  "headline_bn": "প্রথম আলো প্রকাশ করেছে সকালেই পড়ুন আলোচিত ৫ খবর",
+  "summary_bn": "বাংলাদেশ ও বিদেশের পাঁচটি প্রধান সংবাদ ও বিশ্লেষণসহ একটি সংক্ষিপ্ত সকালবেলার সংকলন",
+  "body_bn": [
+   "প্রথম আলো, একটি প্রধান বাংলা সংবাদপত্র, \"সকালেই পড়ুন আলোচিত ৫ খবর\" শিরোনামের একটি দৈনিক সকালবেলার সংকলন চালু করেছে। এই অংশে পাঠকদের দেশ-বিদেশের পাঁচটি নির্বাচিত সংবাদ ও সংক্ষিপ্ত বিশ্লেষণ সঙ্গে দিন শুরু করার আহ্বান জানানো হয়েছে। প্রকাশনা এই সংকলনকে একাধিক সূত্র স্ক্যান না করে গুরুত্বপূর্ণ বিষয়গুলো দ্রুত জানার উপায় হিসেবে উপস্থাপন করেছে। সীমিত সংখ্যক গল্প বাছাই করে প্রথম আলো প্রতিদিনের সকালে পাঠকদের বর্তমান ঘটনাবলীর একটি কেন্দ্রীভূত দৃশ্য প্রদান করতে চায়।"
+  ],
+  "image_prompt": "sunrise over a desk with newspapers, a laptop, coffee mug, no faces, neutral colors",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/sqhzs4tyuz",
+  "source_title": "সকালেই পড়ুন আলোচিত ৫ খবর",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/sqhzs4tyuz",
+    "title": "সকালেই পড়ুন আলোচিত ৫ খবর"
+   }
+  ],
+  "published": "2026-11-28T03:28:18+00:00",
+  "added": "2026-11-28T03:38:26.481649+00:00",
+  "hidden": false
+ },
+ {
+  "id": "4809ec9e9775",
+  "headline": "Lemon orchards in six Mymensingh villages generate daily sales of at least 2.5 million taka",
+  "summary": "Agriculture officials estimate the current season could yield about 10 billion taka in lemon sales from Fulbari Upazila alone.",
+  "body": [
+   "Six villages in Mymensingh district host extensive lemon orchards, with daily sales reaching at least 2.5 million taka, Prothom Alo reported.",
+   "The agriculture department projects that the current season could produce roughly 10 billion taka in lemon sales from Fulbari Upazila alone."
+  ],
+  "headline_bn": "ময়মনসিংহের ছয়টি গ্রামে লেবুর বাগান, দৈনিক বিক্রি কমপক্ষে ২৫ লাখ টাকা",
+  "summary_bn": "কৃষি বিভাগের মতে, বর্তমান মৌসুমে শুধুমাত্র ফুলবাড়িয়া উপজেলায় প্রায় ১০০ কোটি টাকার লেবু বিক্রির সম্ভাবনা রয়েছে।",
+  "body_bn": [
+   "ময়মনসিংহের ছয়টি গ্রামে মাঠের পর মাঠ লেবুর বাগান রয়েছে এবং দৈনিক বিক্রি অন্তত ২৫ লাখ টাকা হয়েছে, প্রথাম অলোর রিপোর্ট অনুসারে।",
+   "কৃষি বিভাগ জানিয়েছে যে চলতি মৌসুমে শুধুমাত্র ফুলবাড়িয়া উপজেলা থেকে প্রায় ১০০ কোটি টাকার লেবু বিক্রির সম্ভাবনা রয়েছে।"
+  ],
+  "image_prompt": "Illustration of expansive lemon orchards in a rural Bangladeshi landscape with crates of lemons and market stalls, no faces",
+  "category": "Business",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/district/ybrb2mz7u5",
+  "source_title": "ময়মনসিংহে ছয় গ্রামে মাঠের পর মাঠ লেবুর বাগান, প্রতিদিন বিক্রি অন্তত ২৫ লাখ টাকা",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/district/ybrb2mz7u5",
+    "title": "ময়মনসিংহে ছয় গ্রামে মাঠের পর মাঠ লেবুর বাগান, প্রতিদিন বিক্রি অন্তত ২৫ লাখ টাকা"
+   }
+  ],
+  "published": "2026-11-28T03:13:01+00:00",
+  "added": "2026-11-28T03:38:34.149408+00:00",
+  "hidden": false
+ },
+ {
+  "id": "1de2748fdb3c",
+  "headline": "US East Coast begins power restoration after Thanksgiving storm",
+  "summary": "Hundreds of thousands of customers regain electricity as heavy wind, rain and snow subside following the Thanksgiving storm, reports Al Jazeera English.",
+  "body": [
+   "According to Al Jazeera English, a Thanksgiving‑time storm swept the U.S. East Coast with heavy wind, rain and snow, causing widespread power outages. Power crews are now working to restore electricity to hundreds of thousands of affected customers as conditions improve.",
+   "Restoration efforts are progressing slowly but steadily, with utilities reporting incremental gains in service as they address damage caused by the severe weather."
+  ],
+  "headline_bn": "থ্যাঙ্কসগিভিং ঝড়ের পর যুক্তরাষ্ট্রের পূর্ব উপকূলে বিদ্যুৎ পুনরুদ্ধার",
+  "summary_bn": "আল জাজিরা ইংলিশের মতে, তীব্র বাতাস, বৃষ্টি ও তুষার পর শত শত হাজার গ্রাহকের বিদ্যুৎ ধীরে ধীরে ফিরে আসছে।",
+  "body_bn": [
+   "আল জাজিরা ইংলিশের রিপোর্টে জানানো হয়েছে যে, থ্যাঙ্কসগিভিং ছুটির সময় যুক্তরাষ্ট্রের পূর্ব উপকূলে তীব্র বাতাস, বৃষ্টি এবং তুষারসহ এক সিরিজের ঝড়ে ব্যাপক বিদ্যুৎ বিচ্ছিন্নতা ঘটেছিল।",
+   "বৈদ্যুতিক সংস্থাগুলি এখন ধীরে ধীরে শত শত হাজার গ্রাহকের জন্য বিদ্যুৎ পুনরুদ্ধার করছে, যদিও পুনরুদ্ধার প্রক্রিয়া এখনও চলমান।"
+  ],
+  "image_prompt": "stormy East Coast scene with dark clouds, wind‑blown trees, snow, and crews repairing power lines",
+  "category": "World",
+  "source": "Al Jazeera English",
+  "source_url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+  "source_title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+  "sources": [
+   {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+    "title": "Parts of US clean up after Thanksgiving storm lashes East Coast"
+   }
+  ],
+  "published": "2026-11-28T03:00:00+00:00",
+  "added": "2026-11-28T03:38:41.568255+00:00",
+  "hidden": false
+ },
+ {
+  "id": "216fbd54a6b3",
+  "headline": "Home Minister says perpetrators of police station and hospital arson identified",
+  "summary": "The Home Minister announced that those who set fire to police stations and hospitals have been identified, according to Prothom Alo.",
+  "body": [
+   "The Home Minister announced that individuals responsible for setting fire to police stations and hospitals have been identified. The statement was reported by Prothom Alo.",
+   "No further details were provided about the investigation or the suspects."
+  ],
+  "headline_bn": "স্বরাষ্ট্র মন্ত্রী বলেন থানা ও হাসপাতাল আগুনে জ্বালানো অপরাধীদের চিহ্নিত করা হয়েছে",
+  "summary_bn": "প্রথম আলোতে প্রকাশিত প্রতিবেদনে স্বরাষ্ট্র মন্ত্রী জানান থানা ও হাসপাতাল দাহের দায়ী ব্যক্তিরা সনাক্ত হয়েছে।",
+  "body_bn": [
+   "স্বরাষ্ট্র মন্ত্রী জানিয়েছেন যে থানা ও হাসপাতাল জ্বালানোর দায়ী ব্যক্তিরা চিহ্নিত করা হয়েছে। এই তথ্য প্রথম আলোতে প্রকাশিত হয়েছে।",
+   "অধিক কোনো বিবরণ তদন্ত বা সন্দেহভাজনদের সম্পর্কে প্রদান করা হয়নি।"
+  ],
+  "image_prompt": "Illustration of a police station and a hospital on fire with investigators highlighting identified suspects, no faces or logos",
+  "category": "Politics",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/video/bangladesh/fjyrvtukff",
+  "source_title": "যারা থানা জ্বালিয়েছে, হাসপাতাল জ্বালিয়েছে, তাদের চিহ্নিত করা হয়েছে: স্বরাষ্ট্রমন্ত্রী",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/video/bangladesh/fjyrvtukff",
+    "title": "যারা থানা জ্বালিয়েছে, হাসপাতাল জ্বালিয়েছে, তাদের চিহ্নিত করা হয়েছে: স্বরাষ্ট্রমন্ত্রী"
+   }
+  ],
+  "published": "2026-11-28T03:00:00+00:00",
+  "added": "2026-11-28T03:38:49.106243+00:00",
+  "hidden": false
+ },
+ {
+  "id": "a7c185142d3b",
+  "headline": "Chashi Nazrul’s ‘Shuva’ explores a speech‑impaired girl beyond a simple tale",
+  "summary": "Prothom Alo notes the director’s close observation and practice to portray speech‑impaired characters authentically, stressing real‑life exposure over literary reading.",
+  "body": [
+   "Prothom Alo reports that director Chashi Nazrul’s film “Shuva” centers on a speech‑impaired girl and that the director has closely observed such characters in real life. The outlet notes that Nazrul’s preparation involved practical exercises to understand the nuances of the role, arguing that literary study alone does not always capture a character’s depth. According to the report, directors like Nazrul place greater emphasis on detailed observation and avoid superficial performances, ensuring that the portrayal reflects authentic experience rather than merely theatrical interpretation."
+  ],
+  "headline_bn": "চাষী নজরুলের ‘সুভা’: বধির মেয়ের গল্পের পেছনের গভীরতা",
+  "summary_bn": "প্রথম আলো জানায়, পরিচালক বাস্তব পর্যবেক্ষণ ও অনুশীলনের মাধ্যমে বধির চরিত্রকে সত্যিকারেরভাবে উপস্থাপন করছেন।",
+  "body_bn": [
+   "প্রথম আলোতে উল্লেখ করা হয়েছে যে চাষী নজরুলের ‘সুভা’ ছবিতে বধির মেয়ের চরিত্রকে কেন্দ্র করে নির্মাতা বাস্তব জীবনের পর্যবেক্ষণ করেছেন। প্রতিবেদনে বলা হয়েছে, চরিত্রের সূক্ষ্মতা বুঝতে নজরুল অনুশীলনের মাধ্যমে প্রস্তুতি নিয়েছেন এবং কেবল সাহিত্য পাঠে চরিত্রের সম্পূর্ণতা ধরা যায় না। একইভাবে, নজরুলের মতো পরিচালকরা বিশদে জোর দিয়ে পৃষ্ঠস্থ অভিনয় এড়িয়ে চলেন, যাতে চরিত্রের উপস্থাপনায় প্রকৃত অভিজ্ঞতা প্রতিফলিত হয়।"
+  ],
+  "image_prompt": "illustration of a film director reviewing notes about a speech‑impaired character on a movie set, with script pages and a quiet studio backdrop, no faces",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.bondhushava.com/writings/iqm1msbxiz",
+  "source_title": "চাষী নজরুলের ‘সুভা’ কি শুধু এক বোবা মেয়ের গল্প, নাকি আরও কিছু",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.bondhushava.com/writings/iqm1msbxiz",
+    "title": "চাষী নজরুলের ‘সুভা’ কি শুধু এক বোবা মেয়ের গল্প, নাকি আরও কিছু"
+   }
+  ],
+  "published": "2026-11-28T03:00:00+00:00",
+  "added": "2026-11-28T03:38:56.210937+00:00",
+  "hidden": false
+ },
+ {
+  "id": "475c206b4e4a",
+  "headline": "Victory Book Fair Showcases Liberation War Memories Until Dec 6",
+  "summary": "The Victory Book Fair, backed by HSBC Bank, runs through December 6, featuring works on the Liberation War.",
+  "body": [
+   "The Victory Book Fair, organized with the support of HSBC Bank, will remain open until December 6. The event is being held as part of a cultural programme that highlights literary works.",
+   "According to Prothom Alo, the fair includes publications that preserve memories of the Liberation War, offering readers insight into that historic period."
+  ],
+  "headline_bn": "বিজয় বইমেলা, মুক্তিযুদ্ধের স্মৃতি প্রদর্শন, ৬ ডিসেম্বর পর্যন্ত চলবে",
+  "summary_bn": "এইচএসবিসি ব্যাংকের সমর্থনে অনুষ্ঠিত বিজয় বইমেলা ৬ ডিসেম্বর পর্যন্ত চালু, যেখানে মুক্তিযুদ্ধের স্মৃতি উপস্থাপিত হবে।",
+  "body_bn": [
+   "এইচএসবিসি ব্যাংকের সহায়তায় অনুষ্ঠিত বিজয় বইমেলা আগামী ৬ ডিসেম্বর পর্যন্ত চলবে।",
+   "বইমেলায় মুক্তিযুদ্ধের স্মৃতি সংবলিত প্রকাশনা প্রদর্শিত হবে, প্রথম আলো জানিয়েছে।"
+  ],
+  "image_prompt": "illustration of a book fair with stalls, books and a Victory Book Fair banner, no faces or logos",
+  "category": "Culture",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/bangladesh/vqday88q0f",
+  "source_title": "বিজয়ের বইমেলায় মুক্তিযুদ্ধের স্মৃতি",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/bangladesh/vqday88q0f",
+    "title": "বিজয়ের বইমেলায় মুক্তিযুদ্ধের স্মৃতি"
+   }
+  ],
+  "published": "2026-11-28T02:54:12+00:00",
+  "added": "2026-11-28T03:39:03.973512+00:00",
+  "hidden": false
+ },
+ {
+  "id": "6c3a1226dd29",
+  "headline": "Two Oil Tankers Explode After Mine Hits in Hormuz, IRGC Says",
+  "summary": "IRGC reports that two oil tankers were hit by mines in the Hormuz Strait, causing explosions and fire, and warns that US aircraft cannot ensure ship safety.",
+  "body": [
+   "IRGC said two oil-carrying tankers suffered explosions and fire after striking mines in the Hormuz Strait. The vessels were hit by mines, leading to immediate ignition.",
+   "The Iranian Revolutionary Guard Corps warned that the waterway contains numerous mines and that even assistance from United States military aircraft would not be able to protect ships navigating the route."
+  ],
+  "headline_bn": "হরমুজে মাইনের আঘাতে তেলবাহী দুটি ট্যাংকারে বিস্ফোরণ ও অগ্নিকাণ্ড, আইআরজিসি জানায়",
+  "summary_bn": "আইআরজিসি জানায়, হরমুজ প্রণালিতে দুইটি তেলবাহী জাহাজ মাইনের আঘাতে বিস্ফোরিত হয়ে আগুনে জ্বলে উঠেছে এবং মার্কিন বিমানও সুরক্ষা দিতে পারবে না।",
+  "body_bn": [
+   "আইআরজিসি জানিয়েছে, হরমুজ প্রণালিতে দুইটি তেলবাহী ট্যাংকারে মাইনের আঘাতে বিস্ফোরণ ঘটেছে এবং তাৎক্ষণিকভাবে অগ্নিকাণ্ডে পরিণত হয়েছে।",
+   "ইরানীয় বিপ্লবী গার্ড কর্পস সতর্ক করেছে যে এই জলে প্রচুর মাইন রয়েছে এবং যুক্তরাষ্ট্রের সামরিক বিমান সহায়তা সত্ত্বেও জাহাজগুলোর সুরক্ষা নিশ্চিত করা সম্ভব নয়।"
+  ],
+  "image_prompt": "Two oil tankers exploding in a narrow strait, smoke and fire above water, underwater mines visible, no people, flags, or logos",
+  "category": "World",
+  "source": "Prothom Alo",
+  "source_url": "https://www.prothomalo.com/world/middle-east/6vdfxavz8m",
+  "source_title": "হরমুজে মাইনের আঘাতে তেলবাহী দুটি ট্যাংকারে বিস্ফোরণ ও আগুন: আইআরজিসি",
+  "sources": [
+   {
+    "name": "Prothom Alo",
+    "url": "https://www.prothomalo.com/world/middle-east/6vdfxavz8m",
+    "title": "হরমুজে মাইনের আঘাতে তেলবাহী দুটি ট্যাংকারে বিস্ফোরণ ও আগুন: আইআরজিসি"
+   }
+  ],
+  "published": "2026-11-28T02:42:25+00:00",
+  "added": "2026-11-28T03:39:12.091030+00:00",
+  "hidden": false
+ },
+ {
+  "id": "2b61ce5e11cd",
+  "headline": "Taiwan opens polls for closely watched local elections",
+  "summary": "Polls start as candidates focus on transport and childcare, while Beijing comments.",
+  "body": [
+   "Polls have opened for Taiwan's local elections, a contest that draws close attention from observers abroad. According to DW, campaigners have stayed away from the topic of China and are instead emphasizing everyday concerns such as transport and childcare.",
+   "Beijing, however, has repeatedly weighed in on the vote, reflecting the broader geopolitical interest that surrounds the island's electoral calendar.",
+   "Beijing's comments have been noted by observers, highlighting the sensitivity of cross‑strait relations even as local candidates steer clear of the subject."
+  ],
+  "headline_bn": "তাইওয়ানে স্থানীয় নির্বাচনের ভোটদান শুরু",
+  "summary_bn": "প্রার্থীরা পরিবহন ও শৈশবসেবার ওপর জোর দিচ্ছেন, তবে বেইজিং মন্তব্য করছে।",
+  "body_bn": [
+   "তাইওয়ানের স্থানীয় নির্বাচনের জন্য ভোটদান শুরু হয়েছে, যা আন্তর্জাতিক পর্যবেক্ষকদের কাছ থেকে ঘনিষ্ঠ দৃষ্টি আকর্ষণ করছে। DW অনুযায়ী, প্রচারকরা চীনের বিষয় এড়িয়ে গিয়ে পরিবহন ও শৈশবসেবার মতো দৈনন্দিন বিষয়গুলোর ওপর জোর দিচ্ছেন।",
+   "তবু বেইজিং বারবার মন্তব্য করে ভোটের প্রতি তার আগ্রহ প্রকাশ করেছে, যা দ্বীপের রাজনৈতিক পরিবেশে বৃহত্তর ভূ-রাজনৈতিক গুরুত্বের ইঙ্গিত দেয়।",
+   "বেইজিংয়ের এই মন্তব্যগুলি পর্যবেক্ষকদের নজরে এসেছে, যা ক্রস-স্ট্রেট সম্পর্কের সংবেদনশীলতা তুলে ধরে, যদিও স্থানীয় প্রার্থীরা বিষয়টি এড়িয়ে চলছেন।"
+  ],
+  "image_prompt": "Illustration of ballot boxes and voting booths in a Taiwanese city setting, without people, flags, logos or text",
+  "category": "Politics",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/polls-open-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
+  "source_title": "Polls open in Taiwan's closely watched local elections",
+  "sources": [
+   {
+    "name": "DW",
+    "url": "https://www.dw.com/en/polls-open-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
+    "title": "Polls open in Taiwan's closely watched local elections"
+   }
+  ],
+  "published": "2026-11-28T02:37:00+00:00",
+  "added": "2026-11-28T03:39:21.357744+00:00",
+  "hidden": false
+ },
+ {
   "id": "d2c8e8a9de3d",
   "headline": "Families in northern Yemen struggle to afford food despite market availability",
   "summary": "Flour and oil reach Hodeidah and Sanaa markets, but high prices and limited aid keep many families hungry.",
@@ -18328,266 +18566,5 @@
   "published": "2026-11-06T19:42:46+00:00",
   "added": "2026-11-06T22:30:20.519120+00:00",
   "hidden": false
- },
- {
-  "id": "7b0bd33452a3",
-  "headline": "John Bolton says US midterms signal start of decline for Trump's grip on GOP",
-  "summary": "In a France 24 interview, former adviser John Bolton called the recent midterm outcomes the beginning of the end for Donald Trump’s dominance of the Republican Party.",
-  "body": [
-   "John Bolton, former national security adviser to former President Donald Trump, told France 24 that the recent U.S. midterm elections represent “the beginning of the end” for Trump’s stranglehold on the Republican Party. The comment came after Democrats regained control of both the House of Representatives and the Senate earlier this week.",
-   "The Democratic victories mark the Republicans’ worst performance since the 1974 elections that followed the Watergate scandal, highlighting a significant shift in congressional power and raising questions about the future influence of Trump within the GOP."
-  ],
-  "headline_bn": "জন বোল্টন বললেন, মিডটার্ম ফলাফল ট্রাম্পের রিপাবলিকান পার্টির প্রভাবের শেষের সূচনা",
-  "summary_bn": "ফ্রান্স ২৪-এ সাক্ষাৎকারে, প্রাক্তন নিরাপত্তা উপদেষ্টা জন বোল্টন মিডটার্ম ফলাফলকে ট্রাম্পের পার্টি নিয়ন্ত্রণের শেষের সূচনা বলে উল্লেখ করেছেন।",
-  "body_bn": [
-   "ডোনাল্ড ট্রাম্পের প্রাক্তন জাতীয় নিরাপত্তা উপদেষ্টা জন বোল্টন ফ্রান্স ২৪-কে জানিয়ে বলেন, সাম্প্রতিক মার্কিন মিডটার্ম নির্বাচনগুলো ‘ট্রাম্পের রিপাবলিকান পার্টির ওপর দখলের শেষের সূচনা’ নির্দেশ করে। এই মন্তব্যের পরই ডেমোক্র্যাটরা এই সপ্তাহের শুরুর দিকে হাউস ও সেনেট উভয়ই নিয়ন্ত্রণে ফিরে এসেছে।",
-   "ডেমোক্র্যাটদের এই জয় রিপাবলিকানদের ১৯৭৪ সালের ওয়াটারগেট স্ক্যান্ডালের পরের সবচেয়ে খারাপ পারফরম্যান্সের সূচক, যা কংগ্রেসের ক্ষমতার উল্লেখযোগ্য পরিবর্তন নির্দেশ করে এবং রিপাবলিকান পার্টিতে ট্রাম্পের ভবিষ্যৎ প্রভাব সম্পর্কে প্রশ্ন উত্থাপন করে।"
-  ],
-  "image_prompt": "illustration of US Capitol with voting ballots and a split party chart, no faces or logos",
-  "category": "Politics",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261106-us-midterms-mark-the-beginning-of-the-end-for-trump-john-bolton-says",
-  "source_title": "US midterms mark 'the beginning of the end' for Trump, John Bolton says",
-  "sources": [
-   {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261106-us-midterms-mark-the-beginning-of-the-end-for-trump-john-bolton-says",
-    "title": "US midterms mark 'the beginning of the end' for Trump, John Bolton says"
-   }
-  ],
-  "published": "2026-11-06T17:26:53+00:00",
-  "added": "2026-11-06T17:36:48.005240+00:00",
-  "hidden": false
- },
- {
-  "id": "94b4a6a570d2",
-  "headline": "Tesla to halt Cybertruck production next year, DW reports",
-  "summary": "Tesla will begin winding down the electric pickup’s output as its bulky design limits regulatory approval, DW says.",
-  "body": [
-   "Tesla announced it will start winding down production of its Cybertruck in the coming year, according to DW. The model, promoted as an electric pickup for the future, has struggled to meet regulatory standards outside permissive markets due to its bulk and unconventional shape.",
-   "The move signals Tesla’s acknowledgment that the Cybertruck, described by DW as a flop, will be consigned to the past. Production will be scaled back as the company redirects resources toward models that meet broader regulatory criteria."
-  ],
-  "headline_bn": "টেসলা আগামী বছর সাইবারট্রাক উৎপাদন বন্ধ করবে, DW রিপোর্ট",
-  "summary_bn": "DW অনুসারে, সাইবারট্রাকের বিশাল নকশা ও সীমিত নিয়ন্ত্রক অনুমোদনের কারণে টেসলা উৎপাদন ধীরে ধীরে বন্ধ করবে।",
-  "body_bn": [
-   "DW জানিয়েছে, টেসলা আগামী বছর তার সাইবারট্রাকের উৎপাদন ধীরে ধীরে বন্ধ করবে। ভবিষ্যতের বৈদ্যুতিক পিকআপ হিসেবে প্রচারিত এই মডেলটি তার বিশাল গঠন ও অস্বাভাবিক আকৃতির কারণে কেবল কিছু অনুমোদনশীল বাজারে নিয়ন্ত্রক মানদণ্ড পূরণ করতে পেরেছে।",
-   "DW মডেলটিকে 'ফ্লপ' বলে উল্লেখ করেছে এবং টেসলা এটিকে অতীতের দিকে ধাবিত করতে চাইছে। কোম্পানি এখন এমন অন্যান্য মডেলের দিকে মনোযোগ দিচ্ছে, যেগুলি বিস্তৃত নিয়ন্ত্রক মানদণ্ড পূরণ করে।"
-  ],
-  "image_prompt": "illustration of an electric pickup truck with futuristic design parked in a regulatory testing facility, no people or logos",
-  "category": "Technology",
-  "source": "DW",
-  "source_url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf",
-  "source_title": "Tesla to 'wind down' production of flop Cybertruck",
-  "sources": [
-   {
-    "name": "DW",
-    "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf",
-    "title": "Tesla to 'wind down' production of flop Cybertruck"
-   }
-  ],
-  "published": "2026-11-06T17:10:00+00:00",
-  "added": "2026-11-06T17:36:56.244008+00:00",
-  "hidden": false
- },
- {
-  "id": "8e0734d6f296",
-  "headline": "Maktab Teacher Arrested Over Alleged Attempted Rape of Child",
-  "summary": "Police detained the teacher after the child's mother filed a case, and a court ordered his imprisonment.",
-  "body": [
-   "According to Prothom Alo, a teacher from a local maktab was taken into custody on Friday afternoon following a criminal complaint filed by the child's mother. The complaint alleges that the teacher attempted to rape the child. Police acted on the allegation and arrested the suspect later that day. After the arrest, judicial proceedings resulted in the court directing that the teacher be placed in jail. The case highlights concerns over child safety and the swift response of law‑enforcement agencies to such accusations."
-  ],
-  "headline_bn": "মক্তব শিক্ষকের ওপর শিশুকে ধর্ষণচেষ্টার অভিযোগে গ্রেপ্তার",
-  "summary_bn": "শিশুর মায়ের মামলার পর পুলিশ তাকে গ্রেপ্তার করে, আদালত তাকে কারাগারে পাঠায়।",
-  "body_bn": [
-   "প্রথম আলো অনুযায়ী, একটি মক্তবের শিক্ষককে শুক্রবার দুপুরে শিশুর মায়ের দাখিল করা অপরাধমূলক অভিযোগের ভিত্তিতে গ্রেপ্তার করা হয়েছে। অভিযোগে বলা হয়েছে শিক্ষক শিশুকে ধর্ষণ করার চেষ্টা করেছেন। পুলিশ দ্রুত পদক্ষেপ নিয়ে সন্দেহভাজনকে আটক করেছে। গ্রেপ্তারের পর আদালত তার জেল শাস্তি নিশ্চিত করেছে। এই ঘটনা শিশুর সুরক্ষার গুরুত্ব এবং এমন অভিযোগে আইন প্রয়োগের দ্রুততা তুলে ধরে।"
-  ],
-  "image_prompt": "police handcuffs beside a courtroom door, empty hallway, neutral lighting",
-  "category": "World",
-  "source": "Prothom Alo",
-  "source_url": "https://www.prothomalo.com/bangladesh/district/64wq7sj7oy",
-  "source_title": "শিশুকে ধর্ষণচেষ্টার অভিযোগে মামলা, মক্তব শিক্ষক গ্রেপ্তার",
-  "sources": [
-   {
-    "name": "Prothom Alo",
-    "url": "https://www.prothomalo.com/bangladesh/district/64wq7sj7oy",
-    "title": "শিশুকে ধর্ষণচেষ্টার অভিযোগে মামলা, মক্তব শিক্ষক গ্রেপ্তার"
-   }
-  ],
-  "published": "2026-11-06T17:09:27+00:00",
-  "added": "2026-11-06T17:37:03.679652+00:00",
-  "hidden": false
- },
- {
-  "id": "adb6b5b18c98",
-  "headline": "US Prosecutor Who Led Trump-Backed Election Probe Resigns from Justice Department",
-  "summary": "Jason Reding Quinones has resigned from the Justice Department after heading the Trump-backed election investigation, as the administration prepares for Democrat-led probes.",
-  "body": [
-   "Jason Reding Quinones has left his position at the Justice Department, ending his tenure as the prosecutor who oversaw the election probe backed by former President Donald Trump, according to Al Jazeera English.",
-   "His resignation comes as the current administration prepares for investigations led by Democratic officials, signalling a shift in the department's focus."
-  ],
-  "headline_bn": "ট্রাম্প-সমর্থিত নির্বাচন তদন্তের প্রধান ইউএস প্রসিকিউটর জাস্টিস ডিপার্টমেন্ট থেকে পদত্যাগ",
-  "summary_bn": "জেসন রেডিং কুইনোস জাস্টিস ডিপার্টমেন্ট ছেড়ে গেছেন, ট্রাম্প-সমর্থিত নির্বাচন তদন্তের নেতৃত্বের পর, যখন প্রশাসন ডেমোক্র্যাট-নেতৃত্বাধীন তদন্তের প্রস্তুতি নিচ্ছে।",
-  "body_bn": [
-   "জেসন রেডিং কুইনোস জাস্টিস ডিপার্টমেন্ট থেকে পদত্যাগ করেছেন, যা ট্রাম্প-সমর্থিত নির্বাচন তদন্তের প্রধান প্রসিকিউটর হিসেবে তার দায়িত্বের সমাপ্তি নির্দেশ করে, আল জাজিরা ইংরেজি রিপোর্ট করেছে।",
-   "তার পদত্যাগের সময় প্রশাসন ডেমোক্র্যাট-নেতৃত্বাধীন তদন্তের জন্য প্রস্তুতি নিচ্ছে, যা বিভাগের ফোকাসে পরিবর্তন নির্দেশ করে।"
-  ],
-  "image_prompt": "illustration of a Justice Department building with a vacant prosecutor's office, paperwork on a desk, and a symbolic gavel, no people",
-  "category": "Politics",
-  "source": "Al Jazeera English",
-  "source_url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
-  "source_title": "US prosecutor who led Trump-backed election probe exits Justice Department",
-  "sources": [
-   {
-    "name": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
-    "title": "US prosecutor who led Trump-backed election probe exits Justice Department"
-   }
-  ],
-  "published": "2026-11-06T17:02:19+00:00",
-  "added": "2026-11-06T17:37:12.154262+00:00",
-  "hidden": false
- },
- {
-  "id": "60fa5510a8eb",
-  "headline": "Bomb threats cause widespread flight disruptions across Europe",
-  "summary": "Dozens of flights were delayed or rerouted after mid‑air bomb warnings prompted fighter escorts, France 24 reports.",
-  "body": [
-   "This week, dozens of flights across Europe experienced delays and cancellations after bomb threats were transmitted to several airports, according to France 24. The alerts prompted authorities to ground or reroute aircraft, disrupting normal operations at multiple hubs.",
-   "In response to threats received while planes were airborne, fighter jets were deployed to escort many civilian aircraft to safety. The mid‑flight warnings led to heightened security measures and the presence of military aircraft alongside commercial flights, further affecting the schedule of European air travel."
-  ],
-  "headline_bn": "বোমা হুমকি ইউরোপে ফ্লাইটের ব্যাপক বিঘ্ন ঘটিয়েছে",
-  "summary_bn": "ফ্রান্স ২৪ অনুযায়ী, মধ্য‑উড়ানে বোমা সতর্কতা ও ফাইটার জেটের তত্ত্বাবধানের ফলে ডজন ডজন ফ্লাইটে বিলম্ব ও রুট পরিবর্তন হয়েছে।",
-  "body_bn": [
-   "ফ্রান্স ২৪ অনুসারে, এই সপ্তাহে ইউরোপের বিভিন্ন বিমানবন্দরে বোমা হুমকি পাঠানো হওয়ায় দশকেরও বেশি ফ্লাইটে বিলম্ব ও বাতিলের ঘটনা ঘটেছে। সতর্কতা অনুযায়ী কর্তৃপক্ষ বহু বিমানকে গ্রাউন্ড বা রুট পরিবর্তন করতে বাধ্য করেছে, ফলে বেশ কয়েকটি প্রধান হাবের স্বাভাবিক কার্যক্রম ব্যাহত হয়েছে।",
-   "মাঝে মাঝে উড়ন্ত অবস্থায় হুমকি পাওয়া বিমানগুলোকে রক্ষা করতে যুদ্ধবিমানগুলোকে মোতায়েন করা হয়েছে। এই মধ্য-উড়ান সতর্কতা নিরাপত্তা ব্যবস্থা বাড়িয়ে তুলেছে এবং সামরিক বিমানকে বাণিজ্যিক ফ্লাইটের সঙ্গে উপস্থিত করেছে, যা ইউরোপীয় বিমান চলাচলে অতিরিক্ত প্রভাব ফেলেছে।"
-  ],
-  "image_prompt": "European airport scene with commercial aircraft and fighter jets on standby, empty runway, bomb threat alert symbols, no people or logos",
-  "category": "World",
-  "source": "France 24",
-  "source_url": "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights",
-  "source_title": "Europe: What we know about the hoax bomb threats disrupting flights",
-  "sources": [
-   {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights",
-    "title": "Europe: What we know about the hoax bomb threats disrupting flights"
-   }
-  ],
-  "published": "2026-11-06T16:59:02+00:00",
-  "added": "2026-11-06T17:37:19.782443+00:00",
-  "hidden": false
- },
- {
-  "id": "a1760aa7ee75",
-  "headline": "Bomb threats disrupt European flights and target broadcasters on Nov 6",
-  "summary": "Officials say a wave of bomb threats forced flight diversions across Europe on Friday, with two media outlets also receiving threats.",
-  "body": [
-   "On Friday, November 6, officials in several European countries reported a new wave of bomb threats aimed at multiple flights. The threats came after a series of hoaxes earlier in the week that had already forced several aircraft to be diverted. Authorities responded by grounding or rerouting affected services as a precaution.",
-   "Two broadcasters also received security threats, suggesting the intimidation campaign may be extending beyond aviation. Both France 24 and NPR World noted the developments, highlighting growing concerns for public safety and media operations across the continent."
-  ],
-  "headline_bn": "বোমা হুমকি ইউরোপীয় ফ্লাইটে ব্যাঘাত, সম্প্রচারকেও লক্ষ্য করেছে",
-  "summary_bn": "অফিসারদের মতে, শুক্রবার বোমা হুমকির ধারায় ইউরোপ জুড়ে ফ্লাইটগুলো ডাইভার্ট করা হয়েছে, দুইটি মিডিয়া সংস্থাকেও হুমকি জানানো হয়েছে।",
-  "body_bn": [
-   "শুক্রবার, ৬ নভেম্বর, ইউরোপের বিভিন্ন দেশে কর্মকর্তারা একাধিক ফ্লাইটকে লক্ষ্য করে নতুন বোমা হুমকির তথ্য জানিয়েছেন। এই হুমকি পূর্বের সপ্তাহে ঘটিত ধারাবাহিক ভুয়া হুমকির পর আসে, যা ইতিমধ্যে বেশ কয়েকটি বিমানকে বিকল্প গন্তব্যে পাঠাতে বাধ্য করেছে। কর্তৃপক্ষ সতর্কতা হিসেবে প্রভাবিত সেবা গুলোকে স্থগিত বা পুনর্নির্দেশ করেছে।",
-   "দুটি সম্প্রচার সংস্থাকেও নিরাপত্তা হুমকি পৌঁছেছে, যা ইঙ্গিত করে যে এই ভয় দেখানোর প্রচেষ্টা বিমান চলাচলের বাইরে বিস্তৃত হতে পারে। ফ্রান্স ২৪ এবং এনপিআর ওয়ার্ল্ড উভয়ই এই ঘটনাকে তুলে ধরে, মহাদেশ জুড়ে জননিরাপত্তা ও মিডিয়া কার্যক্রমের ওপর বাড়তে থাকা উদ্বেগের দিকে ইঙ্গিত করেছে।"
-  ],
-  "image_prompt": "A stylized European airport scene with grounded planes, a warning sign and a bomb threat notice, no faces or logos",
-  "category": "World",
-  "source": "France 24, NPR World",
-  "source_url": "https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats",
-  "source_title": "'Chaos within aviation industry' as European air traffic hit by bomb threats",
-  "sources": [
-   {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats",
-    "title": "'Chaos within aviation industry' as European air traffic hit by bomb threats"
-   },
-   {
-    "name": "NPR World",
-    "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
-    "title": "European air traffic is targeted by new threats after a week of hoaxes"
-   }
-  ],
-  "published": "2026-11-06T16:33:20+00:00",
-  "added": "2026-11-06T17:36:30.178546+00:00",
-  "hidden": false
- },
- {
-  "id": "807ba7ef83ae",
-  "headline": "Pope Leo XIV Begins Latin America Tour in Secular Uruguay",
-  "summary": "The pope starts a three‑country visit to Uruguay, Argentina and Peru three weeks after lung cancer surgery.",
-  "body": [
-   "Pope Leo XIV launched his Latin American itinerary on Friday, November 6, arriving in Uruguay, the region’s least Catholic and most secular nation, according to France 24.",
-   "The three‑nation tour will continue with visits to Argentina and Peru. The trip comes just three weeks after the pontiff underwent lung cancer surgery that had raised doubts about his ability to travel, NPR reports.",
-   "Observers note that the pope’s presence in Uruguay, a country where religious affiliation is low, underscores the Vatican’s effort to engage with increasingly secular societies in the region."
-  ],
-  "headline_bn": "পোপ লিও১৪ উরুগুয়েতে ল্যাটিন আমেরিকা সফর শুরু",
-  "summary_bn": "পোপ তিন সপ্তাহের ক্যান্সার সার্জারির পর উরুগুয়ে, আর্জেন্টিনা ও পেরুতে তিন দেশের সফর শুরু করছেন।",
-  "body_bn": [
-   "পোপ লিও১৪ শুক্রবার, ৬ নভেম্বর উরুগুয়ে পৌঁছে ল্যাটিন আমেরিকায় তার সফর শুরু করেছেন; ফ্রান্স ২৪ অনুযায়ী, উরুগুয়ে অঞ্চলের সবচেয়ে কম ক্যাথলিক এবং সর্বাধিক ধর্মনিরপেক্ষ দেশ।",
-   "এই তিন দেশের সফরে পরবর্তী গন্তব্য হবে আর্জেন্টিনা এবং পেরু। ন্যাশনাল পাবলিক রেডিও (NPR) জানায়, ক্যান্সার লাং ক্যান্সার সার্জারির মাত্র তিন সপ্তাহ পরেই পোপের ভ্রমণ নিয়ে সন্দেহ উত্থাপিত হয়েছিল।",
-   "বিশ্লেষকরা উল্লেখ করেন, ধর্মীয় সংযুক্তি কম থাকা উরুগুয়ে-তে পোপের উপস্থিতি অঞ্চলীয়ভাবে ধর্মনিরপেক্ষ সমাজের সঙ্গে ভ্যাটিকানের সংযোগ বাড়ানোর লক্ষ্যের ইঙ্গিত দেয়।"
-  ],
-  "image_prompt": "Illustration of a papal silhouette traveling across a map of South America, highlighting Uruguay, Argentina and Peru",
-  "category": "World",
-  "source": "France 24, NPR World",
-  "source_url": "https://www.france24.com/en/video/20261106-pope-leo-embarks-on-latin-america-trip-with-a-first-stop-in-uruguay",
-  "source_title": "Pope Leo embarks on Latin America trip with a first stop in Uruguay",
-  "sources": [
-   {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/video/20261106-pope-leo-embarks-on-latin-america-trip-with-a-first-stop-in-uruguay",
-    "title": "Pope Leo embarks on Latin America trip with a first stop in Uruguay"
-   },
-   {
-    "name": "NPR World",
-    "url": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
-    "title": "After cancer surgery, Pope Leo embarks on Latin America trip"
-   }
-  ],
-  "published": "2026-11-06T14:58:24+00:00",
-  "added": "2026-11-06T17:36:39.217947+00:00",
-  "hidden": false
- },
- {
-  "id": "e2edaef4ed43",
-  "headline": "Kenyan Doomsday Cult Leader Sentenced to 200 Years for Mass Starvation Murders",
-  "summary": "A Kenyan court sentenced cult leader Paul Mackenzie to 200 years for the starvation deaths of 190 children and an adult.",
-  "body": [
-   "A Kenyan court has handed cult leader Paul Mackenzie a 200‑year prison term for the murders of 190 children and one adult, according to NPR World. The convictions stem from his directive that followers starve themselves to death as part of an apocalyptic religious cult.",
-   "Al Jazeera English and DW reported that Mackenzie and his accomplices were found guilty of orchestrating the mass starvation, a case that underscores the lethal potential of extremist religious movements in Kenya. The lengthy sentence reflects the court's intent to deter similar cult‑driven violence."
-  ],
-  "headline_bn": "কেনিয়ার ডুমসডে কুল্টের নেতা ২০০ বছর কারাদণ্ডে দণ্ডিত",
-  "summary_bn": "কেনিয়ার আদালত পল ম্যাকেঞ্জিকে ২০০ বছর সাজা দিয়েছে, যেখানে ১৯০ শিশু ও একজন প্রাপ্তবয়স্কের ক্ষুধামৃত্যু ঘটিয়েছেন।",
-  "body_bn": [
-   "কেনিয়ার আদালত পল ম্যাকেঞ্জি নামের কুল্টের নেতাকে ২০০ বছরের কারাদণ্ড দিয়েছে, যেখানে ১৯০ শিশু ও এক প্রাপ্তবয়স্কের হত্যার অভিযোগে দোষী সাব্যস্ত করা হয়েছে, NPR World অনুযায়ী। তিনি অনুসারীদেরকে শেষ সময়ের ধর্মীয় বিশ্বাসের অংশ হিসেবে নিজে নিজে ক্ষুধার্ত হয়ে মারা যেতে বলেছিলেন।",
-   "Al Jazeera English এবং DW জানিয়েছে যে ম্যাকেঞ্জি ও তার সহকর্মীরা সমষ্টিগত ক্ষুধামৃত্যু ঘটানোর জন্য দায়ী এবং এই মামলা কেনিয়ার ধর্মীয় চরমপন্থার বিপদ উন্মোচিত করেছে। আদালত দীর্ঘমেয়াদী সাজা দিয়ে এমন কুল্ট-নির্ভর সহিংসতা রোধের ইচ্ছা প্রকাশ করেছে।"
-  ],
-  "image_prompt": "illustration of a courtroom with a gavel and empty chairs, symbolizing a cult leader's sentencing, no faces or logos",
-  "category": "World",
-  "source": "NPR World, Al Jazeera English, DW",
-  "source_url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-  "source_title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-  "sources": [
-   {
-    "name": "NPR World",
-    "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-    "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison"
-   },
-   {
-    "name": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/news/2026/11/6/kenyan-court-sentences-starvation-cult-leader-to-200-years?traffic_source=rss",
-    "title": "Kenyan court sentences starvation cult leader to 200 years"
-   },
-   {
-    "name": "DW",
-    "url": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-all-1573-rdf",
-    "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years"
-   }
-  ],
-  "published": "2026-11-06T14:53:46+00:00",
-  "added": "2026-11-06T17:36:21.350434+00:00",
-  "hidden": false,
-  "image": "data/img/e2edaef4ed43.jpg"
  }
 ]
